@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Monitor Colombia: Conflicto, DDHH y DIH</title>
+<meta name="description" content="Noticias diarias filtradas sobre conflicto armado, derechos humanos y DIH en los principales diarios de Colombia." />
+<meta name="theme-color" content="#2a78d6" />
+<link rel="manifest" href="manifest.json" />
+<link rel="icon" href="icons/icon-192.png" />
+<link rel="apple-touch-icon" href="icons/icon-192.png" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div class="brand-text">
+          <h1>Monitor Colombia</h1>
+          <p class="subtitle">Conflicto armado · DDHH · DIH</p>
+        </div>
+      </div>
+      <button id="refresh-btn" class="icon-btn" aria-label="Actualizar noticias" title="Actualizar">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+      </button>
+    </div>
+
+    <div class="search-row">
+      <input id="search" type="search" placeholder="Buscar por palabra clave, lugar o grupo…" aria-label="Buscar noticias" />
+    </div>
+
+    <div class="filters" role="tablist" aria-label="Filtrar por tema">
+      <button class="chip active" data-topic="Todos" role="tab" aria-selected="true">Todos</button>
+      <button class="chip" data-topic="Conflicto armado" role="tab" aria-selected="false">Conflicto armado</button>
+      <button class="chip" data-topic="DDHH" role="tab" aria-selected="false">DDHH</button>
+      <button class="chip" data-topic="DIH" role="tab" aria-selected="false">DIH</button>
+    </div>
+
+    <div class="source-row">
+      <select id="source-select" aria-label="Filtrar por diario">
+        <option value="Todos">Todos los diarios</option>
+      </select>
+      <span id="status-line" class="status-line">Cargando…</span>
+    </div>
+  </header>
+
+  <main id="content">
+    <div id="empty-state" class="empty-state hidden">
+      <p>No hay noticias que coincidan con el filtro actual.</p>
+    </div>
+    <ul id="news-list" class="news-list" aria-live="polite"></ul>
+  </main>
+
+  <footer class="footer">
+    <p>Fuentes: El Tiempo, El Espectador, Semana, El Colombiano, El País, La Opinión y Vanguardia. Clasificación automática por palabras clave — verifica siempre la noticia original.</p>
+  </footer>
+
+  <div id="offline-banner" class="offline-banner hidden">Sin conexión — mostrando la última versión guardada.</div>
+
+  <script src="app.js"></script>
+</body>
+</html>
