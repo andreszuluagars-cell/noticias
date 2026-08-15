@@ -1,47 +1,31 @@
 {
-  "generado_en": "2026-08-14T17:39:13.868395+00:00",
-  "total_revisadas": 19,
-  "total_relevantes": 19,
-  "nota": "Datos de ejemplo con titulares reales verificados manualmente. El scraper automático (scraper.py) reemplaza este archivo cada día vía GitHub Actions.",
+  "generado_en": "2026-08-15T11:01:22.392534+00:00",
+  "total_revisadas": 92,
+  "total_relevantes": 26,
   "noticias": [
     {
-      "id": "6171559729dc",
-      "titulo": "Cayó alias 'Chuzo', señalado de desatar una guerra entre grupos armados en el Nordeste de Antioquia",
+      "id": "09c0505e02de",
+      "titulo": "Golpe al Eln en el Catatumbo: dos muertos y 1,5 toneladas de explosivos incautadas en operación militar",
       "resumen": "",
-      "url": "https://www.elcolombiano.com/antioquia/captura-alias-chuzo-guerra-grupos-armados-nordeste-antioquia-DH39943257",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-14T17:39:13.868395+00:00",
+      "url": "https://laopinion.co/judicial/golpe-al-eln-en-el-catatumbo-dos-muertos-y-15-toneladas-de-explosivos-incautadas-en",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-15T11:01:21.864747+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "eln"
       ]
     },
     {
-      "id": "d990dc46748c",
-      "titulo": "Doble golpe contra explosivos de ilegales: se entrega un explosivista y hallan 14 artefactos que podían haber sido sembrados",
+      "id": "41f0f6cb0c32",
+      "titulo": "InsÃ³lito: en BriceÃ±o se habrÃ­an unido reductos de las disidencias con sus antiguos enemigos del Clan del Golfo",
       "resumen": "",
-      "url": "https://www.elcolombiano.com/antioquia/explosivista-se-entrega-hallan-14-artefactos-explosivos-ilegales-LA39933769",
+      "url": "https://elcolombiano.com/antioquia/posible-alianza-disidencias-clan-golfo-briceno-antioquia-HB39836551",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-14T16:39:13.868395+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "de4261610fbb",
-      "titulo": "Ejército y Clan del Golfo se enfrentan en zona rural de El Bagre, Antioquia",
-      "resumen": "",
-      "url": "https://www.elcolombiano.com/antioquia/ejercito-clan-del-golfo-combates-zona-rural-el-bagre-antioquia-KA39930318",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-14T15:39:13.868395+00:00",
+      "fecha": "2026-08-15T11:01:21.111747+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -50,13 +34,43 @@
       ]
     },
     {
-      "id": "007350758a6d",
-      "titulo": "Abatido alias 'Max Max', cerebro de los atentados con explosivos de las disidencias de 'Mordisco'",
+      "id": "699ca2f13cec",
+      "titulo": "Colombia autoriza operaciones militares conjuntas con EE. UU. en su territorio contra los grupos armados y el narcotrÃ¡fico",
       "resumen": "",
-      "url": "https://www.elcolombiano.com/colombia/dieron-baja-explosivista-disidencias-ivan-mordisco-ED39902420",
+      "url": "https://elcolombiano.com/colombia/colombia-autoriza-operaciones-militares-conjuntas-estados-unidos-narcotrafico-LL39892955",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-14T14:39:13.868395+00:00",
+      "fecha": "2026-08-15T11:01:21.111651+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "5220dacab84e",
+      "titulo": "Dos soldados resultaron heridos tras ataque del ELN contra base militar en Norte de Santander",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/dos-soldados-resultaron-heridos-tras-ataque-del-eln-contra-base-militar-en-norte-de-santander-CD39902176",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111617+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "fe6b4e514685",
+      "titulo": "Abatido alias âMax Maxâ, cerebro de los atentados con explosivos de las disidencias de âMordiscoâ",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/dieron-baja-explosivista-disidencias-ivan-mordisco-ED39902420",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111577+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -65,43 +79,133 @@
       ]
     },
     {
-      "id": "eb87acd917a3",
-      "titulo": "Petro retira de mesa de diálogo a voceros de disidencias de 'Calarcá': no ve voluntad",
+      "id": "7d01447b3736",
+      "titulo": "EjÃ©rcito y Clan del Golfo se enfrentan en zona rural de El Bagre, Antioquia",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/presidente-gustavo-petro-retira-de-mesa-dialogo-a-voceros-de-disidencias-de-alias-calarca-porque-no-ve-voluntad-y-se-presume-que-algunos-fallecieron-noticias-hoy/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "fecha": "2026-08-14T13:39:13.868395+00:00",
+      "url": "https://elcolombiano.com/antioquia/ejercito-clan-del-golfo-combates-zona-rural-el-bagre-antioquia-KA39930318",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111539+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "clan del golfo"
       ]
     },
     {
-      "id": "7993d935425d",
-      "titulo": "Consejo de Estado suspende provisionalmente nombramiento de Mancuso como gestor de paz",
+      "id": "3b913b7a7194",
+      "titulo": "Doble golpe contra explosivos de ilegales: se entrega un explosivista y hallan 14 artefactos que podÃ­an haber sido sembrados",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/consejo-de-estado-suspende-provisionalmente-nombramiento-de-mancuso-como-gestor-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "fecha": "2026-08-14T12:39:13.868395+00:00",
+      "url": "https://elcolombiano.com/antioquia/explosivista-se-entrega-hallan-14-artefactos-explosivos-ilegales-LA39933769",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111497+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "gestor de paz"
+        "explosivos"
       ]
     },
     {
-      "id": "03f1c42aba7b",
+      "id": "3cf99b1ac965",
+      "titulo": "Â¿QuÃ© donar y quÃ© no en medio de la emergencia por el terremoto en Colombia? Esto dice la Cruz Roja",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/que-donar-y-que-no-terremoto-en-colombia-esto-dice-la-cruz-roja-HH39942713",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111459+00:00",
+      "temas": [
+        "DIH"
+      ],
+      "palabras_clave": [
+        "cruz roja"
+      ]
+    },
+    {
+      "id": "bee7ec591490",
+      "titulo": "CayÃ³ alias âChuzoâ, seÃ±alado de desatar una guerra entre grupos armados en el Nordeste de Antioquia",
+      "resumen": "",
+      "url": "https://elcolombiano.com/antioquia/captura-alias-chuzo-guerra-grupos-armados-nordeste-antioquia-DH39943257",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111420+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "846210397f67",
+      "titulo": "Ataque con drones explosivos deja un militar muerto y cuatro heridos en Norte de Santander",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-militar-muerto-cuatro-heridos-norte-de-santander-GG39959924",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111380+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "2dc1d6fe2da7",
+      "titulo": "Condenan a 21 aÃ±os de prisiÃ³n a Harold BarragÃ¡n, implicado en planear atentado contra Miguel Uribe Turbay",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/harold-barragan-condenado-atentado-miguel-uribe-colombia-LF39962999",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-15T11:01:21.111324+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "1c919f872e1d",
+      "titulo": "“Ayúdennos a salir”: niños permanecen refugiados por combates en Cajibío, Cauca; habitantes aseguran que apoyo militar no sería suficiente",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/ayudennos-a-salir-ninos-permanecen-refugiados-por-combates-en-cajibio-cauca-habitantes-aseguran-que-apoyo-militar-no-seria-suficiente/202658/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-15T11:01:20.734618+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "2d3cef9e35ab",
+      "titulo": "Acuerdo bajo la mesa: SEMANA revela explosivos audios de un pacto entre el Gobierno Petro y peligrosos criminales que incluye información clasificada a cambio de bienes de la SAE",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/acuerdo-bajo-la-mesa-semana-revela-explosivos-audios-de-un-pacto-entre-el-gobierno-petro-y-peligrosos-criminales-que-incluye-informacion-clasificada-a-cambio-de-bienes-de-la-sae/202628/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-15T11:01:20.734589+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "137a7ba143a9",
       "titulo": "Defensoría reporta 74 casos de reclutamiento de menores durante el primer periodo de 2026",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/defensoria-reporta-74-casos-de-reclutamiento-de-menores-durante-el-primer-periodo-de-2026/",
+      "url": "https://elespectador.com/judicial/defensoria-reporta-74-casos-de-reclutamiento-de-menores-durante-el-primer-periodo-de-2026/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-14T11:39:13.868395+00:00",
+      "fecha": "2026-08-15T11:01:20.432579+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -111,43 +215,28 @@
       ]
     },
     {
-      "id": "141ec37baffa",
-      "titulo": "Disidencias de Mordisco estarían usando colegios, viviendas y escudos humanos para sembrar el terror en Cauca: Ejército",
+      "id": "3019fb6d49e8",
+      "titulo": "Consejo de Estado suspende provisionalmente nombramiento de Mancuso como gestor de paz",
       "resumen": "",
-      "url": "https://www.semana.com/nacion/articulo/disidencias-de-mordisco-estarian-usando-colegios-viviendas-y-escudos-humanos-para-sembrar-el-terror-en-cauca-ejercito/202608/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-14T10:39:13.868395+00:00",
+      "url": "https://elespectador.com/judicial/consejo-de-estado-suspende-provisionalmente-nombramiento-de-mancuso-como-gestor-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "fecha": "2026-08-15T11:01:20.432570+00:00",
       "temas": [
-        "Conflicto armado",
-        "DIH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias",
-        "escudos humanos"
+        "gestor de paz"
       ]
     },
     {
-      "id": "e9702c598dee",
-      "titulo": "Asesinaron al dragoneante del Inpec Wilber Martínez cerca de la cárcel de Itagüí; hay dos capturados",
+      "id": "244bcdd887db",
+      "titulo": "Petro retira de mesa de diálogo a voceros de disidencias de “Calarcá”: no ve voluntad",
       "resumen": "",
-      "url": "https://www.elpais.com.co/judicial/asesinaron-al-dragoneante-del-inpec-wilber-martinez-cerca-de-la-carcel-de-itagui-hay-dos-capturados-1343.html",
-      "fuente": "El País",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T09:39:13.868395+00:00",
-      "temas": [
-        "General"
-      ],
-      "palabras_clave": []
-    },
-    {
-      "id": "fd1015fb4037",
-      "titulo": "Golpe a las redes de apoyo a las disidencias en Pasto: capturados presuntos autores de ataque a subestación Jamundino",
-      "resumen": "",
-      "url": "https://www.elpais.com.co/judicial/golpe-a-las-redes-de-apoyo-a-las-disidencias-en-pasto-capturados-presuntos-autores-de-ataque-a-subestacion-jamundino-1338.html",
-      "fuente": "El País",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T08:39:13.868395+00:00",
+      "url": "https://elespectador.com/politica/presidente-gustavo-petro-retira-de-mesa-dialogo-a-voceros-de-disidencias-de-alias-calarca-porque-no-ve-voluntad-y-se-presume-que-algunos-fallecieron-noticias-hoy/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "fecha": "2026-08-15T11:01:20.432559+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -156,13 +245,58 @@
       ]
     },
     {
-      "id": "4f5f6154d11d",
-      "titulo": "Muere alias Max Max, señalado explosivista de las disidencias de las Farc, tras varios días de combates en Ortega, Cajibío",
-      "resumen": "",
-      "url": "https://www.elpais.com.co/judicial/muere-alias-max-max-senalado-explosivista-de-las-disidencias-de-las-farc-tras-varios-dias-de-combates-en-ortega-cajibio-1206.html",
-      "fuente": "El País",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T07:39:13.868395+00:00",
+      "id": "171cc11006c7",
+      "titulo": "Ejército refuerza Cajibío, Cauca, tras ataques con drones: alias Jairo Ramírez está en la mira",
+      "resumen": "El comandante del Ejército, general Royer Gómez, reveló que las disidencias de 'Mordisco' están utilizando 'enjambres de drones' en la región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/enjambres-de-drones-12-militares-heridos-y-civiles-evacuados-la-ofensiva-que-sacude-a-cajibio-cauca-3578450",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-14T17:53:44+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "089d0d914b56",
+      "titulo": "La emotiva llamada de un comerciante rescatado y su madre tras 11 meses de secuestro: 'No lo puedo creer'",
+      "resumen": "El contacto ocurrió luego de una operación del Ejército contra las disidencias de las Farc en Puerto Siare, donde hubo tres capturas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-la-emotiva-llamada-que-recibio-la-madre-de-empresario-rescatado-tras-11-meses-de-secuestro-en-mapiripan-meta-ya-estamos-sanos-y-salvos-3578374",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-14T17:03:16+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "d3eab35d268a",
+      "titulo": "Nuevo ataque con drones contra tropas en El Carmen, Catatumbo, deja un suboficial asesinado y cuatro soldados heridos",
+      "resumen": "Los militares adelantaban operaciones en Norte de Santander cuando fueron atacados con aeronaves no tripuladas acondicionadas con explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nuevo-ataque-con-drones-contra-tropas-en-el-carmen-catatumbo-deja-un-suboficial-asesinado-y-cuatro-soldados-heridos-3578397",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-14T14:20:46+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "4d71a5a2bec0",
+      "titulo": "Cajibío, bajo fuego: seis días de combates, ataques con drones y una población en medio de la confrontación; van 12 militares y tres civiles heridos",
+      "resumen": "Desde el domingo 9 de agosto, tropas del Ejército mantienen operaciones contra las disidencias de ‘Iván Mordisco’ en zona rural de ese municipio.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cajibio-bajo-fuego-seis-dias-de-combates-ataques-con-drones-y-una-poblacion-en-medio-de-la-confrontacion-3578352",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-14T13:39:00+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,73 +305,13 @@
       ]
     },
     {
-      "id": "870b38378254",
-      "titulo": "Ataque con explosivos contra el Ejército deja dos militares muertos y 19 heridos en Algeciras, Huila",
-      "resumen": "",
-      "url": "https://www.elpais.com.co/judicial/ataque-con-explosivos-contra-el-ejercito-deja-dos-militares-muertos-y-19-heridos-en-algeciras-huila-1202.html",
-      "fuente": "El País",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T06:39:13.868395+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "a96bd5791719",
-      "titulo": "Capturan en Pamplona a Clavijo, señalado de manejar explosivos, armas y drogas",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/capturan-en-pamplona-clavijo-senalado-de-manejar-explosivos-armas-y-drogas",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T05:39:13.868395+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "f56d0b1921d5",
-      "titulo": "Tragedia familiar en Carora: un muerto y un herido tras ataque armado contra jóvenes",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/tragedia-familiar-en-carora-un-muerto-y-un-herido-tras-ataque-armado-contra-jovenes-en",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T04:39:13.868395+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
-    {
-      "id": "9e54c8ff76f5",
-      "titulo": "Ataque con drones en El Carmen, Norte de Santander deja un militar muerto",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-carmen-norte-de-santander-deja-un-militar-muerto",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T03:39:13.868395+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "militar muerto"
-      ]
-    },
-    {
-      "id": "988c778727d4",
-      "titulo": "Frustran presunto atentado con dron contra estación de Policía en El Zulia",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/frustran-presunto-atentado-con-dron-contra-estacion-de-policia-en-el-zulia",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T02:39:13.868395+00:00",
+      "id": "d6c81791383e",
+      "titulo": "Capturan en Pamplona a señalado de planear atentados contra la Fuerza Pública: tenía armas y explosivos",
+      "resumen": "El hombre fue ubicado durante una operación conjunta del Ejército y la Policía en el barrio Brisas de Pamplonita.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-pamplona-a-senalado-de-planear-atentados-contra-la-fuerza-publica-tenia-armas-y-explosivos-3578280",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-13T23:16:32+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -246,48 +320,78 @@
       ]
     },
     {
-      "id": "f379517997be",
-      "titulo": "34 líderes sociales han sido asesinados en 2026: la alerta de la Defensoría del Pueblo",
-      "resumen": "",
-      "url": "https://www.elespectador.com/judicial/34-lideres-sociales-han-sido-asesinados-en-2026-la-alerta-de-la-defensoria-del-pueblo/",
-      "fuente": "El Espectador",
-      "seccion": "Judicial",
-      "fecha": "2026-08-14T01:39:13.868395+00:00",
+      "id": "0ed924c8734a",
+      "titulo": "El balance negativo de la 'paz total': las fallas que llevaron al fracaso de la principal apuesta del gobierno Petro, según la FIP",
+      "resumen": "Deficiencias en diseño institucional y jurídico, sumadas a decisiones en negociaciones, favorecieron el fortalecimiento de varios grupos armados.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/el-balance-negativo-de-la-paz-total-las-fallas-que-llevaron-al-fracaso-de-la-principal-apuesta-del-gobierno-petro-segun-la-fip-3576182",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "fecha": "2026-08-05T11:05:00+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "lideres sociales"
+        "grupos armados"
       ]
     },
     {
-      "id": "65e4194f3012",
-      "titulo": "Más de 460 líderes sociales y firmantes de paz han sido asesinados en Colombia durante gobierno de Gustavo Petro desde 2024: Indepaz",
-      "resumen": "",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/mas-de-460-lideres-sociales-y-firmantes-de-paz-han-sido-asesinados-en-colombia-durante-gobierno-de-gustavo-petro-desde-2024-indepaz-3576841",
+      "id": "dd9a940f586f",
+      "titulo": "Ultimátum de De La Espriella a cabecillas: ¿En qué estado se encuentran las mesas de diálogos con ‘Calarcá’, el Eln y el 'clan del Golfo'?",
+      "resumen": "Hay una mesa suspendida desde enero de 2025 y dos que no concretaron el tránsito a las zonas de ubicación temporal.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/ultimatum-de-de-la-espriella-a-cabecillas-en-que-estado-se-encuentran-las-mesas-de-dialogos-con-calarca-el-eln-y-el-clan-del-golfo-3575065",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Paz y derechos humanos",
-      "fecha": "2026-08-14T00:39:13.868395+00:00",
+      "seccion": "Política / Proceso de paz",
+      "fecha": "2026-07-30T22:04:43+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "lideres sociales"
+        "clan del golfo"
       ]
     },
     {
-      "id": "f30394eea7f9",
-      "titulo": "Cada dos días asesinan a un líder social en Colombia en 2026; Antioquia encabeza los casos",
-      "resumen": "",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cada-dos-dias-asesinan-a-un-lider-social-en-colombia-en-2026-antioquia-encabeza-los-casos-3540507",
+      "id": "f97a88e1265e",
+      "titulo": "Lo que hay detrás del respaldo de las curules de paz al presidente electo Abelardo De La Espriella",
+      "resumen": "11 de los 16 representantes de los territorios más golpeados por el conflicto armado anunciaron su apoyo al abogado.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/lo-que-hay-detras-del-respaldo-de-las-curules-de-paz-al-presidente-electo-abelardo-de-la-espriella-3573380",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Paz y derechos humanos",
-      "fecha": "2026-08-13T23:39:13.868395+00:00",
+      "seccion": "Política / Proceso de paz",
+      "fecha": "2026-07-23T21:16:15+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "lider social"
+        "conflicto armado"
+      ]
+    },
+    {
+      "id": "e4f9cd0b5555",
+      "titulo": "'Confiamos en que el nuevo gobierno dará continuidad a lo pactado': Miroslav Jenča sobre el Acuerdo de Paz",
+      "resumen": "Ante el nuevo gobierno, la ONU pide dar continuidad al Acuerdo de Paz de 2016 y advierte que los vacíos estatales facilitan la violencia rural.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/confiamos-en-que-el-nuevo-gobierno-dara-continuidad-a-lo-pactado-miroslav-jenca-sobre-el-acuerdo-de-paz-3572369",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "fecha": "2026-07-20T04:03:31+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "a44c28b4c839",
+      "titulo": "Rodrigo Londoño certifica su regreso a Colombia ante la JEP y apaga el ruido tras su viaje a España",
+      "resumen": "Su salida del paìs había causado polémica y hasta llevó al presidente electo a decir que buscaría llevarlo a la cárcel.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/rodrigo-londono-certifica-su-regreso-a-colombia-ante-la-jep-y-apaga-el-ruido-ante-su-viaje-a-espana-3571084",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "fecha": "2026-07-14T16:16:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
       ]
     }
   ]
