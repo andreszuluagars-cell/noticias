@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-08-15T11:01:22.392534+00:00",
+  "generado_en": "2026-08-16T11:02:07.889069+00:00",
   "total_revisadas": 92,
-  "total_relevantes": 26,
+  "total_relevantes": 27,
   "noticias": [
     {
       "id": "09c0505e02de",
@@ -10,7 +10,22 @@
       "url": "https://laopinion.co/judicial/golpe-al-eln-en-el-catatumbo-dos-muertos-y-15-toneladas-de-explosivos-incautadas-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-15T11:01:21.864747+00:00",
+      "fecha": "2026-08-16T11:02:07.298005+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "b69bbd031e78",
+      "titulo": "Hombre armado se robó 100 cilindros de gas en Teorama: investigan posible vínculo con el Eln",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/hombre-armado-se-robo-100-cilindros-de-gas-en-teorama-investigan-posible-vinculo-con-el",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-16T11:02:07.297977+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -25,7 +40,7 @@
       "url": "https://elcolombiano.com/antioquia/posible-alianza-disidencias-clan-golfo-briceno-antioquia-HB39836551",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111747+00:00",
+      "fecha": "2026-08-16T11:02:06.824355+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -40,7 +55,7 @@
       "url": "https://elcolombiano.com/colombia/colombia-autoriza-operaciones-militares-conjuntas-estados-unidos-narcotrafico-LL39892955",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111651+00:00",
+      "fecha": "2026-08-16T11:02:06.824283+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +70,7 @@
       "url": "https://elcolombiano.com/colombia/dos-soldados-resultaron-heridos-tras-ataque-del-eln-contra-base-militar-en-norte-de-santander-CD39902176",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111617+00:00",
+      "fecha": "2026-08-16T11:02:06.824261+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,7 +85,7 @@
       "url": "https://elcolombiano.com/colombia/dieron-baja-explosivista-disidencias-ivan-mordisco-ED39902420",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111577+00:00",
+      "fecha": "2026-08-16T11:02:06.824235+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -85,7 +100,7 @@
       "url": "https://elcolombiano.com/antioquia/ejercito-clan-del-golfo-combates-zona-rural-el-bagre-antioquia-KA39930318",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111539+00:00",
+      "fecha": "2026-08-16T11:02:06.824205+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,7 +115,7 @@
       "url": "https://elcolombiano.com/antioquia/explosivista-se-entrega-hallan-14-artefactos-explosivos-ilegales-LA39933769",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111497+00:00",
+      "fecha": "2026-08-16T11:02:06.824178+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -115,7 +130,7 @@
       "url": "https://elcolombiano.com/colombia/que-donar-y-que-no-terremoto-en-colombia-esto-dice-la-cruz-roja-HH39942713",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111459+00:00",
+      "fecha": "2026-08-16T11:02:06.824153+00:00",
       "temas": [
         "DIH"
       ],
@@ -130,7 +145,7 @@
       "url": "https://elcolombiano.com/antioquia/captura-alias-chuzo-guerra-grupos-armados-nordeste-antioquia-DH39943257",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111420+00:00",
+      "fecha": "2026-08-16T11:02:06.824127+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -145,7 +160,7 @@
       "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-militar-muerto-cuatro-heridos-norte-de-santander-GG39959924",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111380+00:00",
+      "fecha": "2026-08-16T11:02:06.824096+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -160,7 +175,7 @@
       "url": "https://elcolombiano.com/colombia/harold-barragan-condenado-atentado-miguel-uribe-colombia-LF39962999",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-15T11:01:21.111324+00:00",
+      "fecha": "2026-08-16T11:02:06.824049+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -169,49 +184,33 @@
       ]
     },
     {
-      "id": "1c919f872e1d",
-      "titulo": "“Ayúdennos a salir”: niños permanecen refugiados por combates en Cajibío, Cauca; habitantes aseguran que apoyo militar no sería suficiente",
+      "id": "bde4762d6cc6",
+      "titulo": "Condenan a más de 20 años de prisión a alias Risas, tercer cabecilla del frente Ismael Ruiz de las disidencias de las Farc",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ayudennos-a-salir-ninos-permanecen-refugiados-por-combates-en-cajibio-cauca-habitantes-aseguran-que-apoyo-militar-no-seria-suficiente/202658/",
+      "url": "https://semana.com/nacion/articulo/condenan-a-mas-de-20-anos-de-prision-a-alias-risas-tercer-cabecilla-del-frente-ismael-ruiz-de-las-disidencias-de-las-farc/202657/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-15T11:01:20.734618+00:00",
+      "fecha": "2026-08-16T11:02:06.367288+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "disidencias"
       ]
     },
     {
-      "id": "2d3cef9e35ab",
-      "titulo": "Acuerdo bajo la mesa: SEMANA revela explosivos audios de un pacto entre el Gobierno Petro y peligrosos criminales que incluye información clasificada a cambio de bienes de la SAE",
+      "id": "667bf6cb1319",
+      "titulo": "Ataque con drones explosivos contra el Ejército en Norte de Santander deja varios soldados heridos",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/acuerdo-bajo-la-mesa-semana-revela-explosivos-audios-de-un-pacto-entre-el-gobierno-petro-y-peligrosos-criminales-que-incluye-informacion-clasificada-a-cambio-de-bienes-de-la-sae/202628/",
+      "url": "https://semana.com/nacion/articulo/ataque-con-drones-explosivos-contra-el-ejercito-en-norte-de-santander-deja-varios-soldados-heridos/202621/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-15T11:01:20.734589+00:00",
+      "fecha": "2026-08-16T11:02:06.367174+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "explosivos"
-      ]
-    },
-    {
-      "id": "137a7ba143a9",
-      "titulo": "Defensoría reporta 74 casos de reclutamiento de menores durante el primer periodo de 2026",
-      "resumen": "",
-      "url": "https://elespectador.com/judicial/defensoria-reporta-74-casos-de-reclutamiento-de-menores-durante-el-primer-periodo-de-2026/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "fecha": "2026-08-15T11:01:20.432579+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "reclutamiento de menores"
       ]
     },
     {
@@ -221,7 +220,7 @@
       "url": "https://elespectador.com/judicial/consejo-de-estado-suspende-provisionalmente-nombramiento-de-mancuso-como-gestor-de-paz/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-15T11:01:20.432570+00:00",
+      "fecha": "2026-08-16T11:02:05.908245+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -236,12 +235,87 @@
       "url": "https://elespectador.com/politica/presidente-gustavo-petro-retira-de-mesa-dialogo-a-voceros-de-disidencias-de-alias-calarca-porque-no-ve-voluntad-y-se-presume-que-algunos-fallecieron-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-15T11:01:20.432559+00:00",
+      "fecha": "2026-08-16T11:02:05.908238+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
+      ]
+    },
+    {
+      "id": "1d6aaed0f614",
+      "titulo": "“Estamos dispuestos a cumplir con las sanciones que determinó la JEP”: firmantes de paz",
+      "resumen": "",
+      "url": "https://elespectador.com/politica/firmantes-de-paz-aseguraron-que-estan-dispuestos-a-cumplir-con-las-sanciones-determinadas-por-la-jep-noticias-hoy/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "fecha": "2026-08-16T11:02:05.908175+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "e310335ab579",
+      "titulo": "El Ejército Nacional confirmó la muerte de un soldado tras ataque con drones en Ábrego, Norte de Santander; otros cinco militares resultaron heridos",
+      "resumen": "Los uniformados desarrollaban tareas de seguridad en un eje vial del municipio durante la noche del sábado 15 de agosto.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-ejercito-nacional-confirmo-la-muerte-de-un-soldado-tras-ataque-con-drones-en-abrego-norte-de-santander-otros-cinco-militares-resultaron-heridos-3578720",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-16T08:47:12+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque con drones"
+      ]
+    },
+    {
+      "id": "c0eef1015e94",
+      "titulo": "Fiscalía aplaza indagatoria al expresidente Álvaro Uribe por masacres de El Aro y La Granja en Antioquia",
+      "resumen": "La diligencia judicial sobre las masacres y otros casos ocurridos en los noventa fue aplazada para el 4 de septiembre.",
+      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-reprograma-indagatoria-al-expresidente-alvaro-uribe-por-masacres-de-el-aro-y-la-granja-en-antioquia-3578711",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "fecha": "2026-08-16T03:26:33+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
+      ]
+    },
+    {
+      "id": "814da4a93284",
+      "titulo": "Ataque contra el Ejército con drones cargados con explosivos en Norte de Santander: reportan varios soldados heridos",
+      "resumen": "Atribuyen el ataque al Eln y despliegan dispositivo de seguridad en la zona para prevenir nuevas acciones terroristas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-contra-el-ejercito-con-drones-cargados-con-explosivos-en-norte-de-santander-reportan-varios-soldados-heridos-3578713",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-16T03:17:51+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "be266af20bd7",
+      "titulo": "Ejército abatió a alias Momo y capturó a otros dos presuntos integrantes del 'Clan del Golfo'",
+      "resumen": "En un procedimiento paralelo, la Armada incautó 2,3 toneladas de cocaína en Tumaco y capturó a tres personas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-abatio-a-alias-momo-y-capturo-a-otros-dos-presuntos-integrantes-del-clan-del-golfo-3578640",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-15T21:39:43+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -257,66 +331,6 @@
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "089d0d914b56",
-      "titulo": "La emotiva llamada de un comerciante rescatado y su madre tras 11 meses de secuestro: 'No lo puedo creer'",
-      "resumen": "El contacto ocurrió luego de una operación del Ejército contra las disidencias de las Farc en Puerto Siare, donde hubo tres capturas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-la-emotiva-llamada-que-recibio-la-madre-de-empresario-rescatado-tras-11-meses-de-secuestro-en-mapiripan-meta-ya-estamos-sanos-y-salvos-3578374",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-14T17:03:16+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d3eab35d268a",
-      "titulo": "Nuevo ataque con drones contra tropas en El Carmen, Catatumbo, deja un suboficial asesinado y cuatro soldados heridos",
-      "resumen": "Los militares adelantaban operaciones en Norte de Santander cuando fueron atacados con aeronaves no tripuladas acondicionadas con explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nuevo-ataque-con-drones-contra-tropas-en-el-carmen-catatumbo-deja-un-suboficial-asesinado-y-cuatro-soldados-heridos-3578397",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-14T14:20:46+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "4d71a5a2bec0",
-      "titulo": "Cajibío, bajo fuego: seis días de combates, ataques con drones y una población en medio de la confrontación; van 12 militares y tres civiles heridos",
-      "resumen": "Desde el domingo 9 de agosto, tropas del Ejército mantienen operaciones contra las disidencias de ‘Iván Mordisco’ en zona rural de ese municipio.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cajibio-bajo-fuego-seis-dias-de-combates-ataques-con-drones-y-una-poblacion-en-medio-de-la-confrontacion-3578352",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-14T13:39:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "d6c81791383e",
-      "titulo": "Capturan en Pamplona a señalado de planear atentados contra la Fuerza Pública: tenía armas y explosivos",
-      "resumen": "El hombre fue ubicado durante una operación conjunta del Ejército y la Policía en el barrio Brisas de Pamplonita.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-pamplona-a-senalado-de-planear-atentados-contra-la-fuerza-publica-tenia-armas-y-explosivos-3578280",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-13T23:16:32+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
       ]
     },
     {
