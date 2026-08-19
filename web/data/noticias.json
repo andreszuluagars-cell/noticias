@@ -1,23 +1,8 @@
 {
-  "generado_en": "2026-08-18T11:45:24.920657+00:00",
+  "generado_en": "2026-08-19T11:44:54.019285+00:00",
   "total_revisadas": 92,
-  "total_relevantes": 32,
+  "total_relevantes": 28,
   "noticias": [
-    {
-      "id": "b69bbd031e78",
-      "titulo": "Hombre armado se robó 100 cilindros de gas en Teorama: investigan posible vínculo con el Eln",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/hombre-armado-se-robo-100-cilindros-de-gas-en-teorama-investigan-posible-vinculo-con-el",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-18T11:45:24.443437+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
     {
       "id": "0d2e70655c1d",
       "titulo": "Ataque con drones en el Catatumbo deja dos soldados heridos y daños en base militar",
@@ -25,7 +10,7 @@
       "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-catatumbo-deja-dos-soldados-heridos-y-danos-en-base-militar",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-18T11:45:24.443395+00:00",
+      "fecha": "2026-08-19T11:44:53.715318+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -40,7 +25,7 @@
       "url": "https://laopinion.co/judicial/frustran-presunto-atentado-con-dron-contra-estacion-de-policia-en-el-zulia",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-18T11:45:24.443376+00:00",
+      "fecha": "2026-08-19T11:44:53.715296+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +40,7 @@
       "url": "https://laopinion.co/judicial/tragedia-familiar-en-carora-un-muerto-y-un-herido-tras-ataque-armado-contra-jovenes-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-18T11:45:24.443366+00:00",
+      "fecha": "2026-08-19T11:44:53.715287+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,7 +55,7 @@
       "url": "https://laopinion.co/judicial/capturan-en-pamplona-clavijo-senalado-de-manejar-explosivos-armas-y-drogas",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-18T11:45:24.443356+00:00",
+      "fecha": "2026-08-19T11:44:53.715275+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -85,12 +70,27 @@
       "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-carmen-norte-de-santander-deja-un-militar-muerto",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-18T11:45:24.443323+00:00",
+      "fecha": "2026-08-19T11:44:53.715251+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "militar muerto"
+      ]
+    },
+    {
+      "id": "03227407e04b",
+      "titulo": "¿Por qué lo quieren matar? 'Supermán' Olaya rompe el silencio tras el ataque armado en su contra en Cúcuta",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/por-que-lo-quieren-matar-superman-olaya-rompe-el-silencio-tras-el-ataque-armado-en-su",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-19T11:44:53.715212+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque armado"
       ]
     },
     {
@@ -100,7 +100,7 @@
       "url": "https://elcolombiano.com/colombia/dos-soldados-resultaron-heridos-tras-ataque-del-eln-contra-base-militar-en-norte-de-santander-CD39902176",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632399+00:00",
+      "fecha": "2026-08-19T11:44:52.738684+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -115,7 +115,7 @@
       "url": "https://elcolombiano.com/colombia/dieron-baja-explosivista-disidencias-ivan-mordisco-ED39902420",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632370+00:00",
+      "fecha": "2026-08-19T11:44:52.738652+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -130,7 +130,7 @@
       "url": "https://elcolombiano.com/antioquia/ejercito-clan-del-golfo-combates-zona-rural-el-bagre-antioquia-KA39930318",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632341+00:00",
+      "fecha": "2026-08-19T11:44:52.738621+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -145,7 +145,7 @@
       "url": "https://elcolombiano.com/antioquia/explosivista-se-entrega-hallan-14-artefactos-explosivos-ilegales-LA39933769",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632313+00:00",
+      "fecha": "2026-08-19T11:44:52.738587+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -160,7 +160,7 @@
       "url": "https://elcolombiano.com/colombia/que-donar-y-que-no-terremoto-en-colombia-esto-dice-la-cruz-roja-HH39942713",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632284+00:00",
+      "fecha": "2026-08-19T11:44:52.738553+00:00",
       "temas": [
         "DIH"
       ],
@@ -175,7 +175,7 @@
       "url": "https://elcolombiano.com/antioquia/captura-alias-chuzo-guerra-grupos-armados-nordeste-antioquia-DH39943257",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632250+00:00",
+      "fecha": "2026-08-19T11:44:52.738519+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -190,7 +190,7 @@
       "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-militar-muerto-cuatro-heridos-norte-de-santander-GG39959924",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632221+00:00",
+      "fecha": "2026-08-19T11:44:52.738485+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -205,7 +205,7 @@
       "url": "https://elcolombiano.com/colombia/harold-barragan-condenado-atentado-miguel-uribe-colombia-LF39962999",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632192+00:00",
+      "fecha": "2026-08-19T11:44:52.738447+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -220,7 +220,7 @@
       "url": "https://elcolombiano.com/antioquia/desaparecen-tres-hombres-puerto-triunfo-antioquia-secuestro-DE40007455",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-18T11:45:23.632057+00:00",
+      "fecha": "2026-08-19T11:44:52.738257+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -229,78 +229,18 @@
       ]
     },
     {
-      "id": "ae9239a0310e",
-      "titulo": "Abelardo De La Espriella confirmó nuevas capturas: miembros del Frente Oliver Sinisterra y del GAO-r fueron detenidos",
+      "id": "5c092d82c25d",
+      "titulo": "China dona más de 77 toneladas de ayuda humanitaria a Colombia tras terremoto: cargamento será enviado al Valle del Cauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-confirmo-nuevas-capturas-miembros-del-frente-oliver-sinisterra-y-del-gao-r-fueron-detenidos/202621/",
+      "url": "https://semana.com/nacion/articulo/china-dona-mas-de-77-toneladas-de-ayuda-humanitaria-a-colombia-tras-terremoto-cargamento-sera-enviado-al-valle-del-cauca/202620/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-18T11:45:23.163944+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "gao"
-      ]
-    },
-    {
-      "id": "ddf500bfae36",
-      "titulo": "MinTransporte reaccionó ante multas impuestas a conductores que llevaban ayuda humanitaria y tomó decisión: “Inexplicable”",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/mintransporte-reacciono-ante-multas-impuestas-a-conductores-que-llevaban-ayuda-humanitaria-y-tomo-decision-inexplicable/202640/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-18T11:45:23.163848+00:00",
+      "fecha": "2026-08-19T11:44:52.295788+00:00",
       "temas": [
         "DIH"
       ],
       "palabras_clave": [
         "ayuda humanitaria"
-      ]
-    },
-    {
-      "id": "97fc69a65e25",
-      "titulo": "De La Espriella rechazó el secuestro de tres policías en Norte de Santander y dio orden a la Fuerza Pública: “Condeno”",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-rechazo-el-secuestro-de-tres-policias-en-norte-de-santander-y-dio-orden-a-la-fuerza-publica-condeno/202628/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-18T11:45:23.163754+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "3019fb6d49e8",
-      "titulo": "Consejo de Estado suspende provisionalmente nombramiento de Mancuso como gestor de paz",
-      "resumen": "",
-      "url": "https://elespectador.com/judicial/consejo-de-estado-suspende-provisionalmente-nombramiento-de-mancuso-como-gestor-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "fecha": "2026-08-18T11:45:22.967789+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "gestor de paz"
-      ]
-    },
-    {
-      "id": "244bcdd887db",
-      "titulo": "Petro retira de mesa de diálogo a voceros de disidencias de “Calarcá”: no ve voluntad",
-      "resumen": "",
-      "url": "https://elespectador.com/politica/presidente-gustavo-petro-retira-de-mesa-dialogo-a-voceros-de-disidencias-de-alias-calarca-porque-no-ve-voluntad-y-se-presume-que-algunos-fallecieron-noticias-hoy/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "fecha": "2026-08-18T11:45:22.967780+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
@@ -310,7 +250,7 @@
       "url": "https://elespectador.com/politica/firmantes-de-paz-aseguraron-que-estan-dispuestos-a-cumplir-con-las-sanciones-determinadas-por-la-jep-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-18T11:45:22.967708+00:00",
+      "fecha": "2026-08-19T11:44:52.041844+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -319,13 +259,58 @@
       ]
     },
     {
+      "id": "546a655d59c1",
+      "titulo": "Waika, la perra de la Cruz Roja que a sus siete años ayudó en el rescate de víctimas del terremoto en Pereira",
+      "resumen": "Magda Zuluaga es la socorrista que acompaña a toda hora a la pastor ganadera australiana. Fueron en una misión especial a ayudar en la búsqueda.",
+      "url": "https://www.eltiempo.com/justicia/servicios/waika-la-perra-de-la-cruz-roja-que-a-sus-siete-anos-ayudo-en-el-rescate-de-victimas-del-terremoto-en-pereira-3579202",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "fecha": "2026-08-18T22:18:41+00:00",
+      "temas": [
+        "DIH"
+      ],
+      "palabras_clave": [
+        "cruz roja"
+      ]
+    },
+    {
+      "id": "9889c6cbe7a9",
+      "titulo": "Capturan a alias Claudia, señalada de manejar hasta $15.000 millones al mes a las disidencias de 'Iván Mordisco'",
+      "resumen": "Policía la ubica como cabecilla financiera del Bloque Manuel Marulanda Vélez. Es investigada por administrar recursos provenientes del narcotráfico.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-alias-claudia-senalada-de-manejar-hasta-15-000-millones-al-mes-a-las-disidencias-de-ivan-mordisco-3579085",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-18T15:34:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "43aabbf20720",
+      "titulo": "Confinamientos, desplazamientos y ataques con drones: la crisis de orden público que golpea a Cauca y el Catatumbo",
+      "resumen": "Más de 600 personas permanecen confinadas en Cajibío; mientras en el Catatumbo se reportan militares muertos, heridos y el secuestro de tres policías.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/confinamientos-desplazamientos-y-ataques-con-drones-la-crisis-de-orden-publico-que-golpea-a-cauca-y-el-catatumbo-3579040",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-18T13:41:22+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "confinamiento"
+      ]
+    },
+    {
       "id": "c88691d8ddcf",
-      "titulo": "Una semana después, esto se sabe del primer bombardeo del gobierno de De La Espriella, ¿hubo heridos civiles?",
+      "titulo": "Una semana después, esto se sabe del primer bombardeo del gobierno de De La Espriella: no es cierto que hubo heridos civiles",
       "resumen": "La Defensoría le pidió a la Fiscalía esclarecer los hechos. Los civiles fueron heridos por granada y no por explosivos utilizados en operaciones beta.",
       "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/una-semana-despues-esto-se-sabe-del-primer-bombardeo-del-gobierno-de-de-la-espriella-hubo-heridos-civiles-3578970",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-18T11:06:54+00:00",
+      "fecha": "2026-08-18T13:12:00+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -361,51 +346,6 @@
       ],
       "palabras_clave": [
         "grupos armados"
-      ]
-    },
-    {
-      "id": "a018a5344775",
-      "titulo": "Capturan a cuatro presuntos integrantes de la estructura 'Carlos Patiño', de las disidencias de 'Mordisco', en El Tambo, Cauca",
-      "resumen": "Durante la operación se incautaron armas, municiones, prendas militares, cuatro celulares y seis placas de vehículos reportados como robados.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-cuatro-presuntos-integrantes-de-la-estructura-carlos-patino-de-las-disidencias-de-mordisco-en-el-tambo-cauca-3578887",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-17T16:36:34+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "54eda34f6ef9",
-      "titulo": "Cayó alias Chample, uno de los más buscados de Bolívar y señalado integrante del ‘clan del Golfo’",
-      "resumen": "Jesús De Ávila González fue capturado en Magangué durante una operación del Gaula Militar, Armada y Policía. Tenía una orden de captura vigente.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-chample-uno-de-los-mas-buscados-de-bolivar-y-senalado-integrante-del-clan-del-golfo-3578797",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-16T21:42:05+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e310335ab579",
-      "titulo": "El Ejército Nacional confirmó la muerte de un soldado tras ataque con drones en Ábrego, Norte de Santander; otros cinco militares resultaron heridos",
-      "resumen": "Los uniformados desarrollaban tareas de seguridad en un eje vial del municipio durante la noche del sábado 15 de agosto.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-ejercito-nacional-confirmo-la-muerte-de-un-soldado-tras-ataque-con-drones-en-abrego-norte-de-santander-otros-cinco-militares-resultaron-heridos-3578720",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-16T08:47:12+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque con drones"
       ]
     },
     {
