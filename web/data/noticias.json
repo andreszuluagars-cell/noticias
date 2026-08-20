@@ -1,38 +1,8 @@
 {
-  "generado_en": "2026-08-19T11:44:54.019285+00:00",
+  "generado_en": "2026-08-20T11:48:32.918265+00:00",
   "total_revisadas": 92,
   "total_relevantes": 28,
   "noticias": [
-    {
-      "id": "0d2e70655c1d",
-      "titulo": "Ataque con drones en el Catatumbo deja dos soldados heridos y daños en base militar",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-catatumbo-deja-dos-soldados-heridos-y-danos-en-base-militar",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-19T11:44:53.715318+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque con drones"
-      ]
-    },
-    {
-      "id": "988c778727d4",
-      "titulo": "Frustran presunto atentado con dron contra estación de Policía en El Zulia",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/frustran-presunto-atentado-con-dron-contra-estacion-de-policia-en-el-zulia",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-19T11:44:53.715296+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
     {
       "id": "f56d0b1921d5",
       "titulo": "Tragedia familiar en Carora: un muerto y un herido tras ataque armado contra jóvenes en Cúcuta",
@@ -40,7 +10,7 @@
       "url": "https://laopinion.co/judicial/tragedia-familiar-en-carora-un-muerto-y-un-herido-tras-ataque-armado-contra-jovenes-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-19T11:44:53.715287+00:00",
+      "fecha": "2026-08-20T11:48:32.598249+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +25,7 @@
       "url": "https://laopinion.co/judicial/capturan-en-pamplona-clavijo-senalado-de-manejar-explosivos-armas-y-drogas",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-19T11:44:53.715275+00:00",
+      "fecha": "2026-08-20T11:48:32.598241+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,7 +40,7 @@
       "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-carmen-norte-de-santander-deja-un-militar-muerto",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-19T11:44:53.715251+00:00",
+      "fecha": "2026-08-20T11:48:32.598225+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -85,12 +55,57 @@
       "url": "https://laopinion.co/judicial/por-que-lo-quieren-matar-superman-olaya-rompe-el-silencio-tras-el-ataque-armado-en-su",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-19T11:44:53.715212+00:00",
+      "fecha": "2026-08-20T11:48:32.598199+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "ataque armado"
+      ]
+    },
+    {
+      "id": "4dcc18477761",
+      "titulo": "Ataque con drones del Eln en Ábrego dejó un soldado muerto y cinco heridos: así reaccionó De la Espriella",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/ataque-con-drones-del-eln-en-abrego-dejo-un-soldado-muerto-y-cinco-heridos-asi-reacciono",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-20T11:48:32.598159+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "34b2173beb4f",
+      "titulo": "¿Ataque directo o un mensaje? Tres habitantes de calle resultaron heridos tras atentado en el Canal Bogotá de Cúcuta",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/ataque-directo-o-un-mensaje-tres-habitantes-de-calle-resultaron-heridos-tras-atentado-en",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-20T11:48:32.598147+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "096fa85f6c38",
+      "titulo": "Los estragos del atentado explosivo contra el Ejército en Ábrego",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/los-estragos-del-atentado-explosivo-contra-el-ejercito-en-abrego",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-20T11:48:32.598120+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
       ]
     },
     {
@@ -100,7 +115,7 @@
       "url": "https://elcolombiano.com/colombia/dos-soldados-resultaron-heridos-tras-ataque-del-eln-contra-base-militar-en-norte-de-santander-CD39902176",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738684+00:00",
+      "fecha": "2026-08-20T11:48:32.078638+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -115,7 +130,7 @@
       "url": "https://elcolombiano.com/colombia/dieron-baja-explosivista-disidencias-ivan-mordisco-ED39902420",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738652+00:00",
+      "fecha": "2026-08-20T11:48:32.078611+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -130,7 +145,7 @@
       "url": "https://elcolombiano.com/antioquia/ejercito-clan-del-golfo-combates-zona-rural-el-bagre-antioquia-KA39930318",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738621+00:00",
+      "fecha": "2026-08-20T11:48:32.078586+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -145,7 +160,7 @@
       "url": "https://elcolombiano.com/antioquia/explosivista-se-entrega-hallan-14-artefactos-explosivos-ilegales-LA39933769",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738587+00:00",
+      "fecha": "2026-08-20T11:48:32.078558+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -160,7 +175,7 @@
       "url": "https://elcolombiano.com/colombia/que-donar-y-que-no-terremoto-en-colombia-esto-dice-la-cruz-roja-HH39942713",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738553+00:00",
+      "fecha": "2026-08-20T11:48:32.078530+00:00",
       "temas": [
         "DIH"
       ],
@@ -175,7 +190,7 @@
       "url": "https://elcolombiano.com/antioquia/captura-alias-chuzo-guerra-grupos-armados-nordeste-antioquia-DH39943257",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738519+00:00",
+      "fecha": "2026-08-20T11:48:32.078499+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -190,7 +205,7 @@
       "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-militar-muerto-cuatro-heridos-norte-de-santander-GG39959924",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738485+00:00",
+      "fecha": "2026-08-20T11:48:32.078468+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -205,7 +220,7 @@
       "url": "https://elcolombiano.com/colombia/harold-barragan-condenado-atentado-miguel-uribe-colombia-LF39962999",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738447+00:00",
+      "fecha": "2026-08-20T11:48:32.078437+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -220,7 +235,7 @@
       "url": "https://elcolombiano.com/antioquia/desaparecen-tres-hombres-puerto-triunfo-antioquia-secuestro-DE40007455",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-19T11:44:52.738257+00:00",
+      "fecha": "2026-08-20T11:48:32.078270+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -229,18 +244,18 @@
       ]
     },
     {
-      "id": "5c092d82c25d",
-      "titulo": "China dona más de 77 toneladas de ayuda humanitaria a Colombia tras terremoto: cargamento será enviado al Valle del Cauca",
+      "id": "a2b6b573d95b",
+      "titulo": "Policía confirma que son nueve los uniformados heridos en atentado a estación de Norosí, en Bolívar: gobernador Yamil Arana hizo llamado urgente",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/china-dona-mas-de-77-toneladas-de-ayuda-humanitaria-a-colombia-tras-terremoto-cargamento-sera-enviado-al-valle-del-cauca/202620/",
+      "url": "https://semana.com/nacion/cartagena/articulo/siete-uniformados-heridos-en-atentado-a-estacion-de-policia-de-norosi-bolivar-gobernador-yamil-arana-hizo-llamado-urgente/202621/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-19T11:44:52.295788+00:00",
+      "fecha": "2026-08-20T11:48:31.820943+00:00",
       "temas": [
-        "DIH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "ayuda humanitaria"
+        "atentado"
       ]
     },
     {
@@ -250,7 +265,7 @@
       "url": "https://elespectador.com/politica/firmantes-de-paz-aseguraron-que-estan-dispuestos-a-cumplir-con-las-sanciones-determinadas-por-la-jep-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-19T11:44:52.041844+00:00",
+      "fecha": "2026-08-20T11:48:31.664116+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -259,58 +274,43 @@
       ]
     },
     {
-      "id": "546a655d59c1",
-      "titulo": "Waika, la perra de la Cruz Roja que a sus siete años ayudó en el rescate de víctimas del terremoto en Pereira",
-      "resumen": "Magda Zuluaga es la socorrista que acompaña a toda hora a la pastor ganadera australiana. Fueron en una misión especial a ayudar en la búsqueda.",
-      "url": "https://www.eltiempo.com/justicia/servicios/waika-la-perra-de-la-cruz-roja-que-a-sus-siete-anos-ayudo-en-el-rescate-de-victimas-del-terremoto-en-pereira-3579202",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "fecha": "2026-08-18T22:18:41+00:00",
-      "temas": [
-        "DIH"
-      ],
-      "palabras_clave": [
-        "cruz roja"
-      ]
-    },
-    {
-      "id": "9889c6cbe7a9",
-      "titulo": "Capturan a alias Claudia, señalada de manejar hasta $15.000 millones al mes a las disidencias de 'Iván Mordisco'",
-      "resumen": "Policía la ubica como cabecilla financiera del Bloque Manuel Marulanda Vélez. Es investigada por administrar recursos provenientes del narcotráfico.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-alias-claudia-senalada-de-manejar-hasta-15-000-millones-al-mes-a-las-disidencias-de-ivan-mordisco-3579085",
+      "id": "14b917624e56",
+      "titulo": "Procuraduría pide reforzar seguridad tras atentado contra torre eléctrica en Planadas",
+      "resumen": "El Ministerio Público busca conocer qué medidas han sido implementadas para proteger los activos estratégicos del sistema eléctrico.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/procuraduria-pide-reforzar-seguridad-tras-atentado-contra-torre-electrica-en-planadas-3579588",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-18T15:34:41+00:00",
+      "fecha": "2026-08-20T11:15:10+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "atentado"
       ]
     },
     {
-      "id": "43aabbf20720",
-      "titulo": "Confinamientos, desplazamientos y ataques con drones: la crisis de orden público que golpea a Cauca y el Catatumbo",
-      "resumen": "Más de 600 personas permanecen confinadas en Cajibío; mientras en el Catatumbo se reportan militares muertos, heridos y el secuestro de tres policías.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/confinamientos-desplazamientos-y-ataques-con-drones-la-crisis-de-orden-publico-que-golpea-a-cauca-y-el-catatumbo-3579040",
+      "id": "512987a7fd08",
+      "titulo": "Ataque con drones y fusiles contra estación de Policía en Norosí, Bolívar, deja siete uniformados heridos",
+      "resumen": "Tras la acción, que dejó siete uniformados heridos, fueron desplegados comandos Jungla para asegurar el municipio.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-y-fusiles-contra-estacion-de-policia-en-norosi-bolivar-deja-siete-uniformados-heridos-3579518",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-18T13:41:22+00:00",
+      "fecha": "2026-08-19T23:08:14+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "confinamiento"
+        "ataque con drones"
       ]
     },
     {
-      "id": "c88691d8ddcf",
-      "titulo": "Una semana después, esto se sabe del primer bombardeo del gobierno de De La Espriella: no es cierto que hubo heridos civiles",
-      "resumen": "La Defensoría le pidió a la Fiscalía esclarecer los hechos. Los civiles fueron heridos por granada y no por explosivos utilizados en operaciones beta.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/una-semana-despues-esto-se-sabe-del-primer-bombardeo-del-gobierno-de-de-la-espriella-hubo-heridos-civiles-3578970",
+      "id": "feb361474960",
+      "titulo": "Capturan a un coronel del Ejército en el Cantón Norte de Bogotá: es investigado por narcotráfico y terrorismo",
+      "resumen": "El oficial también es señalado de cohecho propio y delitos relacionados con armas, municiones de uso restringido y explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-un-coronel-del-ejercito-en-el-canton-norte-de-bogota-es-investigado-por-narcotrafico-y-terrorismo-3579454",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-18T13:12:00+00:00",
+      "fecha": "2026-08-19T22:17:10+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -319,13 +319,13 @@
       ]
     },
     {
-      "id": "52129816c7ee",
-      "titulo": "Incautan dos excavadoras del Eln que serán usadas en la reconstrucción del Chocó tras el terremoto",
-      "resumen": "La maquinaria estaba avaluada en cerca de 900 millones de pesos. Esto dijo el presidente de la Espriella.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-dos-excavadoras-del-eln-que-seran-usadas-en-la-reconstruccion-del-choco-tras-el-terremoto-3578949",
+      "id": "ab42ce5a4bc7",
+      "titulo": "Estados Unidos pone al Eln entre sus objetivos y plantea operaciones conjuntas con Colombia",
+      "resumen": "Secretario de Guerra, Pete Hegseth, confirmó que Washington contempla acciones contra grupos designados como terroristas junto a gobiernos aliados.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estados-unidos-pone-al-eln-entre-sus-objetivos-y-plantea-operaciones-conjuntas-con-colombia-3579422",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-18T00:09:25+00:00",
+      "fecha": "2026-08-19T17:26:31+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -334,18 +334,18 @@
       ]
     },
     {
-      "id": "e1e3b15e36ca",
-      "titulo": "Gobierno atribuye a una retaliación de grupos armados el secuestro de tres policías en el Catatumbo",
-      "resumen": "Se desplegó un operativo para localizar a los uniformados cuando se movilizaban entre Ocaña y Cúcuta. Presidente De La Espriella se pronunció.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-atribuye-a-una-retaliacion-de-grupos-armados-el-secuestro-de-tres-policias-en-el-catatumbo-3578947",
+      "id": "54820da80fff",
+      "titulo": "Doble golpe en Caquetá: incautan cuatro toneladas de marihuana y desmantelan fábrica de explosivos de las disidencias de 'Calarcá'",
+      "resumen": "Dos operaciones del Ejército y la Policía afectaron a las estructuras 'Rodrigo Cadete' y 'Raúl Reyes'.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/doble-golpe-en-caqueta-incautan-cuatro-toneladas-de-marihuana-y-desmantelan-fabrica-de-explosivos-de-las-disidencias-de-calarca-3579378",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-17T23:55:34+00:00",
+      "fecha": "2026-08-19T15:46:34+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "disidencias"
       ]
     },
     {
