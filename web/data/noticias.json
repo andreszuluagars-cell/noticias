@@ -1,38 +1,8 @@
 {
-  "generado_en": "2026-08-20T11:48:32.918265+00:00",
-  "total_revisadas": 92,
-  "total_relevantes": 28,
+  "generado_en": "2026-08-21T11:47:24.109381+00:00",
+  "total_revisadas": 91,
+  "total_relevantes": 23,
   "noticias": [
-    {
-      "id": "f56d0b1921d5",
-      "titulo": "Tragedia familiar en Carora: un muerto y un herido tras ataque armado contra jóvenes en Cúcuta",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/tragedia-familiar-en-carora-un-muerto-y-un-herido-tras-ataque-armado-contra-jovenes-en",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598249+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
-    {
-      "id": "a96bd5791719",
-      "titulo": "Capturan en Pamplona a Clavijo, señalado de manejar explosivos, armas y drogas",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/capturan-en-pamplona-clavijo-senalado-de-manejar-explosivos-armas-y-drogas",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598241+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
     {
       "id": "9e54c8ff76f5",
       "titulo": "Ataque con drones en El Carmen, Norte de Santander deja un militar muerto",
@@ -40,7 +10,7 @@
       "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-carmen-norte-de-santander-deja-un-militar-muerto",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598225+00:00",
+      "fecha": "2026-08-21T11:47:23.657259+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +25,7 @@
       "url": "https://laopinion.co/judicial/por-que-lo-quieren-matar-superman-olaya-rompe-el-silencio-tras-el-ataque-armado-en-su",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598199+00:00",
+      "fecha": "2026-08-21T11:47:23.657207+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,7 +40,7 @@
       "url": "https://laopinion.co/judicial/ataque-con-drones-del-eln-en-abrego-dejo-un-soldado-muerto-y-cinco-heridos-asi-reacciono",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598159+00:00",
+      "fecha": "2026-08-21T11:47:23.657170+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -85,7 +55,7 @@
       "url": "https://laopinion.co/judicial/ataque-directo-o-un-mensaje-tres-habitantes-de-calle-resultaron-heridos-tras-atentado-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598147+00:00",
+      "fecha": "2026-08-21T11:47:23.657157+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,7 +70,7 @@
       "url": "https://laopinion.co/judicial/los-estragos-del-atentado-explosivo-contra-el-ejercito-en-abrego",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-20T11:48:32.598120+00:00",
+      "fecha": "2026-08-21T11:47:23.657143+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -109,28 +79,28 @@
       ]
     },
     {
-      "id": "5220dacab84e",
-      "titulo": "Dos soldados resultaron heridos tras ataque del ELN contra base militar en Norte de Santander",
+      "id": "daf838df6e64",
+      "titulo": "Dos hermanos venezolanos, caídos en una masacre que estaría vinculada al microtráfico en Cúcuta",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/dos-soldados-resultaron-heridos-tras-ataque-del-eln-contra-base-militar-en-norte-de-santander-CD39902176",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078638+00:00",
+      "url": "https://laopinion.co/judicial/dos-hermanos-venezolanos-caidos-en-una-masacre-que-estaria-vinculada-al-microtrafico-en",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-21T11:47:23.657129+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "masacre"
       ]
     },
     {
-      "id": "fe6b4e514685",
-      "titulo": "Abatido alias âMax Maxâ, cerebro de los atentados con explosivos de las disidencias de âMordiscoâ",
+      "id": "0314e89dc3ed",
+      "titulo": "âSe le acabÃ³ el reinado a las Farc de CalarcÃ¡â: alias La Mona, explosivista de las disidencias y expareja de Primo Gay, se entregÃ³ en BriceÃ±o",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/dieron-baja-explosivista-disidencias-ivan-mordisco-ED39902420",
+      "url": "https://elcolombiano.com/antioquia/captura-la-mona-explosivista-disidencias-primo-gay-briceno-antioquia-KB40053119",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078611+00:00",
+      "fecha": "2026-08-21T11:47:22.668046+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,103 +109,28 @@
       ]
     },
     {
-      "id": "7d01447b3736",
-      "titulo": "EjÃ©rcito y Clan del Golfo se enfrentan en zona rural de El Bagre, Antioquia",
+      "id": "e6f7cae2d92b",
+      "titulo": "Capturaron a alias Claudia, la principal cabecilla financiera de las disidencias de IvÃ¡n Mordisco",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/ejercito-clan-del-golfo-combates-zona-rural-el-bagre-antioquia-KA39930318",
+      "url": "https://elcolombiano.com/colombia/capturan-alias-claudia-principal-cabecilla-financiera-disidencias-ivan-mordisco-KC40062558",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078586+00:00",
+      "fecha": "2026-08-21T11:47:22.668007+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "disidencias"
       ]
     },
     {
-      "id": "3b913b7a7194",
-      "titulo": "Doble golpe contra explosivos de ilegales: se entrega un explosivista y hallan 14 artefactos que podÃ­an haber sido sembrados",
+      "id": "87ecc1c04732",
+      "titulo": "PolicÃ­a confirma el secuestro de seis policÃ­as en Norte de Santander, Cauca y NariÃ±o",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/explosivista-se-entrega-hallan-14-artefactos-explosivos-ilegales-LA39933769",
+      "url": "https://elcolombiano.com/colombia/secuestro-de-seis-policias-norte-de-santander-cauca-y-narino-DC40067774",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078558+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "3cf99b1ac965",
-      "titulo": "Â¿QuÃ© donar y quÃ© no en medio de la emergencia por el terremoto en Colombia? Esto dice la Cruz Roja",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/que-donar-y-que-no-terremoto-en-colombia-esto-dice-la-cruz-roja-HH39942713",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078530+00:00",
-      "temas": [
-        "DIH"
-      ],
-      "palabras_clave": [
-        "cruz roja"
-      ]
-    },
-    {
-      "id": "bee7ec591490",
-      "titulo": "CayÃ³ alias âChuzoâ, seÃ±alado de desatar una guerra entre grupos armados en el Nordeste de Antioquia",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/captura-alias-chuzo-guerra-grupos-armados-nordeste-antioquia-DH39943257",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078499+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "846210397f67",
-      "titulo": "Ataque con drones explosivos deja un militar muerto y cuatro heridos en Norte de Santander",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-militar-muerto-cuatro-heridos-norte-de-santander-GG39959924",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078468+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "2dc1d6fe2da7",
-      "titulo": "Condenan a 21 aÃ±os de prisiÃ³n a Harold BarragÃ¡n, implicado en planear atentado contra Miguel Uribe Turbay",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/harold-barragan-condenado-atentado-miguel-uribe-colombia-LF39962999",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078437+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "5395f6b0f629",
-      "titulo": "Buscan a tres hombres que llevan varios dÃ­as desaparecidos en Puerto Triunfo, Antioquia: investigan posible secuestro",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/desaparecen-tres-hombres-puerto-triunfo-antioquia-secuestro-DE40007455",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-20T11:48:32.078270+00:00",
+      "fecha": "2026-08-21T11:47:22.667964+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -244,18 +139,78 @@
       ]
     },
     {
-      "id": "a2b6b573d95b",
-      "titulo": "Policía confirma que son nueve los uniformados heridos en atentado a estación de Norosí, en Bolívar: gobernador Yamil Arana hizo llamado urgente",
+      "id": "16923ff940a8",
+      "titulo": "Hallan cilindro que serÃ­a un artefacto explosivo en la vÃ­a de Ituango, Antioquia: EjÃ©rcito verifica la zona con drones",
       "resumen": "",
-      "url": "https://semana.com/nacion/cartagena/articulo/siete-uniformados-heridos-en-atentado-a-estacion-de-policia-de-norosi-bolivar-gobernador-yamil-arana-hizo-llamado-urgente/202621/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-20T11:48:31.820943+00:00",
+      "url": "https://elcolombiano.com/antioquia/cilindro-explosivo-ituango-via-bombillo-ejercito-drones-HH40122630",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-21T11:47:22.667880+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "artefacto explosivo"
+      ]
+    },
+    {
+      "id": "5f26a6f27beb",
+      "titulo": "Capturan en el CantÃ³n Norte al coronel Carlos Didier PÃ©rez por presuntos nexos con el ELN y la Segunda Marquetalia",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/capturan-bogota-coronel-carlos-didier-perez-amorocho-eln-segunda-marquetalia-OG40131593",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-21T11:47:22.667783+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "228b2b6df942",
+      "titulo": "Defensor regional de OcaÃ±a renunciÃ³ en medio de investigaciÃ³n por presunta filtraciÃ³n de informaciÃ³n al ELN",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/defensor-ocana-renuncia-tras-investigacion-filtracion-informacion-eln-DG40134362",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-21T11:47:22.667561+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "9c87b55ccc6e",
+      "titulo": "Polémica resolución de la Fiscalía eliminaría despachos que investigan al Clan del Golfo y la Oficina de Envigado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/polemica-resolucion-de-la-fiscalia-eliminaria-despachos-que-investigan-al-clan-del-golfo-y-la-oficina-de-envigado/202651/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-21T11:47:22.160043+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "136f6aa38ebb",
+      "titulo": "Masacre en Barranquilla: tres personas fueron asesinadas; dos de ellas eran menores de edad",
+      "resumen": "",
+      "url": "https://semana.com/nacion/barranquilla/articulo/masacre-en-barranquilla-tres-personas-fueron-asesinadas-dos-de-ellas-eran-menores-de-edad/202642/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-21T11:47:22.159980+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
       ]
     },
     {
@@ -265,7 +220,7 @@
       "url": "https://elespectador.com/politica/firmantes-de-paz-aseguraron-que-estan-dispuestos-a-cumplir-con-las-sanciones-determinadas-por-la-jep-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-20T11:48:31.664116+00:00",
+      "fecha": "2026-08-21T11:47:21.707274+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -274,13 +229,13 @@
       ]
     },
     {
-      "id": "14b917624e56",
-      "titulo": "Procuraduría pide reforzar seguridad tras atentado contra torre eléctrica en Planadas",
-      "resumen": "El Ministerio Público busca conocer qué medidas han sido implementadas para proteger los activos estratégicos del sistema eléctrico.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/procuraduria-pide-reforzar-seguridad-tras-atentado-contra-torre-electrica-en-planadas-3579588",
+      "id": "90ec134f0349",
+      "titulo": "Capturan en Panamá al tercer cabecilla de ‘La Inmaculada’, señalado de ordenar extorsiones y atentados en Tuluá",
+      "resumen": "Alias Carlos era buscado mediante circular azul de Interpol y, según las autoridades, habría ordenado extorsiones por cerca de mil millones de pesos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-panama-al-tercer-cabecilla-de-la-inmaculada-senalado-de-ordenar-extorsiones-y-atentados-en-tulua-3579900",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-20T11:15:10+00:00",
+      "fecha": "2026-08-21T11:05:00+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -289,63 +244,33 @@
       ]
     },
     {
-      "id": "512987a7fd08",
-      "titulo": "Ataque con drones y fusiles contra estación de Policía en Norosí, Bolívar, deja siete uniformados heridos",
-      "resumen": "Tras la acción, que dejó siete uniformados heridos, fueron desplegados comandos Jungla para asegurar el municipio.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-y-fusiles-contra-estacion-de-policia-en-norosi-bolivar-deja-siete-uniformados-heridos-3579518",
+      "id": "b6a0aa640738",
+      "titulo": "Atención: Myriam Carolina Martínez es la nueva directora de la Unidad de Restitución de Tierras",
+      "resumen": "Myriam Carolina Martínez Cárdenas fue directora de la Agencia Nacional de Tierras durante la era de Iván Duque.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/atencion-myriam-carolina-martinez-es-la-nueva-directora-de-la-unidad-de-restitucion-de-tierras-3579817",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-19T23:08:14+00:00",
+      "seccion": "Justicia",
+      "fecha": "2026-08-20T22:35:06+00:00",
       "temas": [
-        "Conflicto armado"
+        "DDHH"
       ],
       "palabras_clave": [
-        "ataque con drones"
+        "restitucion de tierras"
       ]
     },
     {
-      "id": "feb361474960",
-      "titulo": "Capturan a un coronel del Ejército en el Cantón Norte de Bogotá: es investigado por narcotráfico y terrorismo",
-      "resumen": "El oficial también es señalado de cohecho propio y delitos relacionados con armas, municiones de uso restringido y explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-un-coronel-del-ejercito-en-el-canton-norte-de-bogota-es-investigado-por-narcotrafico-y-terrorismo-3579454",
+      "id": "40c3abd5c797",
+      "titulo": "Ataque con fusiles y drones en Norosí, Bolívar, genera miedo entre estudiantes de preescolar: 300 niños en pánico y clases suspendidas",
+      "resumen": "El gremio de docentes hizo un llamado al Gobierno nacional y a la Defensoría del Pueblo.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-fusiles-y-drones-en-norosi-bolivar-genera-miedo-entre-estudiantes-de-preescolar-300-ninos-en-panico-y-clases-suspendidas-3579615",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-19T22:17:10+00:00",
+      "fecha": "2026-08-20T14:43:45+00:00",
       "temas": [
-        "Conflicto armado"
+        "DDHH"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "ab42ce5a4bc7",
-      "titulo": "Estados Unidos pone al Eln entre sus objetivos y plantea operaciones conjuntas con Colombia",
-      "resumen": "Secretario de Guerra, Pete Hegseth, confirmó que Washington contempla acciones contra grupos designados como terroristas junto a gobiernos aliados.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estados-unidos-pone-al-eln-entre-sus-objetivos-y-plantea-operaciones-conjuntas-con-colombia-3579422",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-19T17:26:31+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "54820da80fff",
-      "titulo": "Doble golpe en Caquetá: incautan cuatro toneladas de marihuana y desmantelan fábrica de explosivos de las disidencias de 'Calarcá'",
-      "resumen": "Dos operaciones del Ejército y la Policía afectaron a las estructuras 'Rodrigo Cadete' y 'Raúl Reyes'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/doble-golpe-en-caqueta-incautan-cuatro-toneladas-de-marihuana-y-desmantelan-fabrica-de-explosivos-de-las-disidencias-de-calarca-3579378",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-19T15:46:34+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
+        "defensoria del pueblo"
       ]
     },
     {
