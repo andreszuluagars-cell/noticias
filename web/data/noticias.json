@@ -1,38 +1,8 @@
 {
-  "generado_en": "2026-08-21T11:47:24.109381+00:00",
-  "total_revisadas": 91,
-  "total_relevantes": 23,
+  "generado_en": "2026-08-22T11:02:05.795536+00:00",
+  "total_revisadas": 92,
+  "total_relevantes": 20,
   "noticias": [
-    {
-      "id": "9e54c8ff76f5",
-      "titulo": "Ataque con drones en El Carmen, Norte de Santander deja un militar muerto",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-con-drones-en-el-carmen-norte-de-santander-deja-un-militar-muerto",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-21T11:47:23.657259+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "militar muerto"
-      ]
-    },
-    {
-      "id": "03227407e04b",
-      "titulo": "¿Por qué lo quieren matar? 'Supermán' Olaya rompe el silencio tras el ataque armado en su contra en Cúcuta",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/por-que-lo-quieren-matar-superman-olaya-rompe-el-silencio-tras-el-ataque-armado-en-su",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-21T11:47:23.657207+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
     {
       "id": "4dcc18477761",
       "titulo": "Ataque con drones del Eln en Ábrego dejó un soldado muerto y cinco heridos: así reaccionó De la Espriella",
@@ -40,7 +10,7 @@
       "url": "https://laopinion.co/judicial/ataque-con-drones-del-eln-en-abrego-dejo-un-soldado-muerto-y-cinco-heridos-asi-reacciono",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-21T11:47:23.657170+00:00",
+      "fecha": "2026-08-22T11:02:05.419392+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +25,7 @@
       "url": "https://laopinion.co/judicial/ataque-directo-o-un-mensaje-tres-habitantes-de-calle-resultaron-heridos-tras-atentado-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-21T11:47:23.657157+00:00",
+      "fecha": "2026-08-22T11:02:05.419367+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,7 +40,7 @@
       "url": "https://laopinion.co/judicial/los-estragos-del-atentado-explosivo-contra-el-ejercito-en-abrego",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-21T11:47:23.657143+00:00",
+      "fecha": "2026-08-22T11:02:05.419355+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -85,12 +55,27 @@
       "url": "https://laopinion.co/judicial/dos-hermanos-venezolanos-caidos-en-una-masacre-que-estaria-vinculada-al-microtrafico-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-21T11:47:23.657129+00:00",
+      "fecha": "2026-08-22T11:02:05.419342+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "masacre"
+      ]
+    },
+    {
+      "id": "ace4176093d9",
+      "titulo": "Eln sería el responsable del secuestro de tres policías en Norte de Santander",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/eln-seria-el-responsable-del-secuestro-de-tres-policias-en-norte-de-santander",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "fecha": "2026-08-22T11:02:05.419272+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -100,7 +85,7 @@
       "url": "https://elcolombiano.com/antioquia/captura-la-mona-explosivista-disidencias-primo-gay-briceno-antioquia-KB40053119",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-21T11:47:22.668046+00:00",
+      "fecha": "2026-08-22T11:02:04.752766+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -115,7 +100,7 @@
       "url": "https://elcolombiano.com/colombia/capturan-alias-claudia-principal-cabecilla-financiera-disidencias-ivan-mordisco-KC40062558",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-21T11:47:22.668007+00:00",
+      "fecha": "2026-08-22T11:02:04.752723+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -130,7 +115,7 @@
       "url": "https://elcolombiano.com/colombia/secuestro-de-seis-policias-norte-de-santander-cauca-y-narino-DC40067774",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-21T11:47:22.667964+00:00",
+      "fecha": "2026-08-22T11:02:04.752670+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -145,7 +130,7 @@
       "url": "https://elcolombiano.com/antioquia/cilindro-explosivo-ituango-via-bombillo-ejercito-drones-HH40122630",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-21T11:47:22.667880+00:00",
+      "fecha": "2026-08-22T11:02:04.752574+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -160,7 +145,7 @@
       "url": "https://elcolombiano.com/colombia/capturan-bogota-coronel-carlos-didier-perez-amorocho-eln-segunda-marquetalia-OG40131593",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-21T11:47:22.667783+00:00",
+      "fecha": "2026-08-22T11:02:04.752484+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -175,42 +160,12 @@
       "url": "https://elcolombiano.com/colombia/defensor-ocana-renuncia-tras-investigacion-filtracion-informacion-eln-DG40134362",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-21T11:47:22.667561+00:00",
+      "fecha": "2026-08-22T11:02:04.752266+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "9c87b55ccc6e",
-      "titulo": "Polémica resolución de la Fiscalía eliminaría despachos que investigan al Clan del Golfo y la Oficina de Envigado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/polemica-resolucion-de-la-fiscalia-eliminaria-despachos-que-investigan-al-clan-del-golfo-y-la-oficina-de-envigado/202651/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-21T11:47:22.160043+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "136f6aa38ebb",
-      "titulo": "Masacre en Barranquilla: tres personas fueron asesinadas; dos de ellas eran menores de edad",
-      "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/masacre-en-barranquilla-tres-personas-fueron-asesinadas-dos-de-ellas-eran-menores-de-edad/202642/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-21T11:47:22.159980+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
       ]
     },
     {
@@ -220,12 +175,42 @@
       "url": "https://elespectador.com/politica/firmantes-de-paz-aseguraron-que-estan-dispuestos-a-cumplir-con-las-sanciones-determinadas-por-la-jep-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-21T11:47:21.707274+00:00",
+      "fecha": "2026-08-22T11:02:04.107533+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "jep"
+      ]
+    },
+    {
+      "id": "e27580390d24",
+      "titulo": "Antiguo secretariado de las Farc exige claridad sobre el acuerdo al gobierno De la Espriella",
+      "resumen": "",
+      "url": "https://elespectador.com/politica/antiguo-secretariado-de-las-farc-exige-claridad-sobre-acuerdo-de-paz-al-gobierno-de-abelardo-de-la-espriella-noticias-hoy/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "fecha": "2026-08-22T11:02:04.107441+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "339bb51e8c84",
+      "titulo": "Seis armas y más de 1.400 cartuchos: lo que entregaron dos integrantes de un grupo armado en Tumaco",
+      "resumen": "Los dos jóvenes se sometieron a la justicia en el corregimiento de Llorente, en medio de operaciones de la Fuerza de Tarea Hércules en Nariño.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/seis-armas-y-mas-de-1-400-cartuchos-lo-que-entregaron-dos-integrantes-de-un-grupo-armado-en-tumaco-3580104",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-21T20:40:27+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupo armado"
       ]
     },
     {
@@ -241,36 +226,6 @@
       ],
       "palabras_clave": [
         "atentado"
-      ]
-    },
-    {
-      "id": "b6a0aa640738",
-      "titulo": "Atención: Myriam Carolina Martínez es la nueva directora de la Unidad de Restitución de Tierras",
-      "resumen": "Myriam Carolina Martínez Cárdenas fue directora de la Agencia Nacional de Tierras durante la era de Iván Duque.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/atencion-myriam-carolina-martinez-es-la-nueva-directora-de-la-unidad-de-restitucion-de-tierras-3579817",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "fecha": "2026-08-20T22:35:06+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "restitucion de tierras"
-      ]
-    },
-    {
-      "id": "40c3abd5c797",
-      "titulo": "Ataque con fusiles y drones en Norosí, Bolívar, genera miedo entre estudiantes de preescolar: 300 niños en pánico y clases suspendidas",
-      "resumen": "El gremio de docentes hizo un llamado al Gobierno nacional y a la Defensoría del Pueblo.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-fusiles-y-drones-en-norosi-bolivar-genera-miedo-entre-estudiantes-de-preescolar-300-ninos-en-panico-y-clases-suspendidas-3579615",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-20T14:43:45+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo"
       ]
     },
     {
