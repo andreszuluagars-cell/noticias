@@ -1,38 +1,8 @@
 {
-  "generado_en": "2026-08-22T11:02:05.795536+00:00",
+  "generado_en": "2026-08-23T11:03:03.080240+00:00",
   "total_revisadas": 92,
-  "total_relevantes": 20,
+  "total_relevantes": 19,
   "noticias": [
-    {
-      "id": "4dcc18477761",
-      "titulo": "Ataque con drones del Eln en Ábrego dejó un soldado muerto y cinco heridos: así reaccionó De la Espriella",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-con-drones-del-eln-en-abrego-dejo-un-soldado-muerto-y-cinco-heridos-asi-reacciono",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-22T11:02:05.419392+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "34b2173beb4f",
-      "titulo": "¿Ataque directo o un mensaje? Tres habitantes de calle resultaron heridos tras atentado en el Canal Bogotá de Cúcuta",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-directo-o-un-mensaje-tres-habitantes-de-calle-resultaron-heridos-tras-atentado-en",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-22T11:02:05.419367+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
     {
       "id": "096fa85f6c38",
       "titulo": "Los estragos del atentado explosivo contra el Ejército en Ábrego",
@@ -40,7 +10,7 @@
       "url": "https://laopinion.co/judicial/los-estragos-del-atentado-explosivo-contra-el-ejercito-en-abrego",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-22T11:02:05.419355+00:00",
+      "fecha": "2026-08-23T11:03:02.632331+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +25,7 @@
       "url": "https://laopinion.co/judicial/dos-hermanos-venezolanos-caidos-en-una-masacre-que-estaria-vinculada-al-microtrafico-en",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-22T11:02:05.419342+00:00",
+      "fecha": "2026-08-23T11:03:02.632323+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,72 +40,12 @@
       "url": "https://laopinion.co/judicial/eln-seria-el-responsable-del-secuestro-de-tres-policias-en-norte-de-santander",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-22T11:02:05.419272+00:00",
+      "fecha": "2026-08-23T11:03:02.632286+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "0314e89dc3ed",
-      "titulo": "âSe le acabÃ³ el reinado a las Farc de CalarcÃ¡â: alias La Mona, explosivista de las disidencias y expareja de Primo Gay, se entregÃ³ en BriceÃ±o",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/captura-la-mona-explosivista-disidencias-primo-gay-briceno-antioquia-KB40053119",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-22T11:02:04.752766+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "e6f7cae2d92b",
-      "titulo": "Capturaron a alias Claudia, la principal cabecilla financiera de las disidencias de IvÃ¡n Mordisco",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/capturan-alias-claudia-principal-cabecilla-financiera-disidencias-ivan-mordisco-KC40062558",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-22T11:02:04.752723+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "87ecc1c04732",
-      "titulo": "PolicÃ­a confirma el secuestro de seis policÃ­as en Norte de Santander, Cauca y NariÃ±o",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/secuestro-de-seis-policias-norte-de-santander-cauca-y-narino-DC40067774",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-22T11:02:04.752670+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "16923ff940a8",
-      "titulo": "Hallan cilindro que serÃ­a un artefacto explosivo en la vÃ­a de Ituango, Antioquia: EjÃ©rcito verifica la zona con drones",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/cilindro-explosivo-ituango-via-bombillo-ejercito-drones-HH40122630",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "fecha": "2026-08-22T11:02:04.752574+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "artefacto explosivo"
       ]
     },
     {
@@ -145,7 +55,7 @@
       "url": "https://elcolombiano.com/colombia/capturan-bogota-coronel-carlos-didier-perez-amorocho-eln-segunda-marquetalia-OG40131593",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-22T11:02:04.752484+00:00",
+      "fecha": "2026-08-23T11:03:02.049863+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -160,7 +70,7 @@
       "url": "https://elcolombiano.com/colombia/defensor-ocana-renuncia-tras-investigacion-filtracion-informacion-eln-DG40134362",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-22T11:02:04.752266+00:00",
+      "fecha": "2026-08-23T11:03:02.049772+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -169,18 +79,78 @@
       ]
     },
     {
-      "id": "1d6aaed0f614",
-      "titulo": "“Estamos dispuestos a cumplir con las sanciones que determinó la JEP”: firmantes de paz",
+      "id": "b0126913288c",
+      "titulo": "Jorge Lemus, exdirector de la DNI, confirmÃ³ que ofrecieron bienes de la SAE y pagos a guerrilleros",
       "resumen": "",
-      "url": "https://elespectador.com/politica/firmantes-de-paz-aseguraron-que-estan-dispuestos-a-cumplir-con-las-sanciones-determinadas-por-la-jep-noticias-hoy/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "fecha": "2026-08-22T11:02:04.107533+00:00",
+      "url": "https://elcolombiano.com/colombia/jorge-lemus-confirma-ofrecimientos-bienes-sae-pagos-guerrilleros-NG40135778",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-23T11:03:02.049748+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "guerrillero"
+      ]
+    },
+    {
+      "id": "578c57036e52",
+      "titulo": "Así eran los pagos al coronel del Ejército capturado por nexos con disidencias de las Farc y el ELN",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/asi-eran-los-pagos-al-coronel-del-ejercito-capturado-por-nexos-con-disidencias-de-las-farc-y-el-eln/202623/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-23T11:03:01.707994+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "8b2a050f83b2",
+      "titulo": "Directora del ICBF anunció que Deisy Dorelly Guanaro, víctima de reclutamiento de las Farc, la acompañará en la entidad",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/directora-del-icbf-anuncio-que-deisy-dorelly-guanaro-victima-de-reclutamiento-de-las-farc-la-acompanara-en-la-entidad/202644/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-23T11:03:01.707910+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "8174882a2415",
+      "titulo": "Así fueron los combates del Ejército contra el Clan del Golfo en Antioquia. Dos sujetos murieron",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/asi-fueron-los-combates-del-ejercito-contra-el-clan-del-golfo-en-antioquia-dos-sujetos-murieron/202645/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-23T11:03:01.707901+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "df97fdd2418e",
+      "titulo": "Farc, mineros ilegales, narcoterroristas y la primera línea podrían estar tras los incendios forestales en el Tolima",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/farc-mineros-ilegales-narcoterroristas-y-la-primera-linea-podrian-estar-tras-los-incendios-forestales-en-el-tolima/202613/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "fecha": "2026-08-23T11:03:01.707841+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
       ]
     },
     {
@@ -190,12 +160,27 @@
       "url": "https://elespectador.com/politica/antiguo-secretariado-de-las-farc-exige-claridad-sobre-acuerdo-de-paz-al-gobierno-de-abelardo-de-la-espriella-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-22T11:02:04.107441+00:00",
+      "fecha": "2026-08-23T11:03:01.314211+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "farc"
+      ]
+    },
+    {
+      "id": "00649744479a",
+      "titulo": "Combates contra el ‘clan del Golfo’ dejan dos muertos y dos capturados en Salgar, Antioquia",
+      "resumen": "La operación se desarrolló en la vereda Gulunga, donde también fueron incautadas dos subametralladoras, una pistola, proveedores y munición.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/combates-contra-el-clan-del-golfo-dejan-dos-muertos-y-dos-capturados-en-salgar-antioquia-3580236",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-22T13:48:56+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
       ]
     },
     {
