@@ -1,38 +1,8 @@
 {
-  "generado_en": "2026-08-23T11:03:03.080240+00:00",
-  "total_revisadas": 92,
-  "total_relevantes": 19,
+  "generado_en": "2026-08-24T11:49:19.282773+00:00",
+  "total_revisadas": 93,
+  "total_relevantes": 22,
   "noticias": [
-    {
-      "id": "096fa85f6c38",
-      "titulo": "Los estragos del atentado explosivo contra el Ejército en Ábrego",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/los-estragos-del-atentado-explosivo-contra-el-ejercito-en-abrego",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-23T11:03:02.632331+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "daf838df6e64",
-      "titulo": "Dos hermanos venezolanos, caídos en una masacre que estaría vinculada al microtráfico en Cúcuta",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/dos-hermanos-venezolanos-caidos-en-una-masacre-que-estaria-vinculada-al-microtrafico-en",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "fecha": "2026-08-23T11:03:02.632323+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
     {
       "id": "ace4176093d9",
       "titulo": "Eln sería el responsable del secuestro de tres policías en Norte de Santander",
@@ -40,7 +10,7 @@
       "url": "https://laopinion.co/judicial/eln-seria-el-responsable-del-secuestro-de-tres-policias-en-norte-de-santander",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-23T11:03:02.632286+00:00",
+      "fecha": "2026-08-24T11:49:18.798474+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -55,7 +25,7 @@
       "url": "https://elcolombiano.com/colombia/capturan-bogota-coronel-carlos-didier-perez-amorocho-eln-segunda-marquetalia-OG40131593",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-23T11:03:02.049863+00:00",
+      "fecha": "2026-08-24T11:49:18.000942+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,7 +40,7 @@
       "url": "https://elcolombiano.com/colombia/defensor-ocana-renuncia-tras-investigacion-filtracion-informacion-eln-DG40134362",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-23T11:03:02.049772+00:00",
+      "fecha": "2026-08-24T11:49:18.000756+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -85,7 +55,7 @@
       "url": "https://elcolombiano.com/colombia/jorge-lemus-confirma-ofrecimientos-bienes-sae-pagos-guerrilleros-NG40135778",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-23T11:03:02.049748+00:00",
+      "fecha": "2026-08-24T11:49:18.000708+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -94,63 +64,48 @@
       ]
     },
     {
-      "id": "578c57036e52",
-      "titulo": "Así eran los pagos al coronel del Ejército capturado por nexos con disidencias de las Farc y el ELN",
+      "id": "a03c0195c318",
+      "titulo": "José Manuel Restrepo despide a los 83 rescatistas de Israel y recibe nueva ayuda humanitaria: “Lo que hicieron será inolvidable”",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-eran-los-pagos-al-coronel-del-ejercito-capturado-por-nexos-con-disidencias-de-las-farc-y-el-eln/202623/",
+      "url": "https://semana.com/nacion/articulo/jose-manuel-restrepo-despide-a-los-83-rescatistas-de-israel-y-recibe-nueva-ayuda-humanitaria-lo-que-hicieron-sera-inolvidable/202629/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-23T11:03:01.707994+00:00",
+      "fecha": "2026-08-24T11:49:17.614891+00:00",
       "temas": [
-        "Conflicto armado"
+        "DIH"
       ],
       "palabras_clave": [
-        "disidencias"
+        "ayuda humanitaria"
       ]
     },
     {
-      "id": "8b2a050f83b2",
-      "titulo": "Directora del ICBF anunció que Deisy Dorelly Guanaro, víctima de reclutamiento de las Farc, la acompañará en la entidad",
+      "id": "8988fb109926",
+      "titulo": "Reportan secuestro de una mujer por hombres armados en Cajibío, Cauca: fue sacada de su lugar de trabajo",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/directora-del-icbf-anuncio-que-deisy-dorelly-guanaro-victima-de-reclutamiento-de-las-farc-la-acompanara-en-la-entidad/202644/",
+      "url": "https://semana.com/nacion/articulo/reportan-secuestro-de-una-mujer-por-hombres-armados-en-cajibio-cauca-fue-sacada-de-su-lugar-de-trabajo/202659/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-23T11:03:01.707910+00:00",
+      "fecha": "2026-08-24T11:49:17.614831+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "secuestro"
       ]
     },
     {
-      "id": "8174882a2415",
-      "titulo": "Así fueron los combates del Ejército contra el Clan del Golfo en Antioquia. Dos sujetos murieron",
+      "id": "9db6353337b8",
+      "titulo": "La preocupante radiografía que recibe el Gobierno de Abelardo De La Espriella sobre violencia y derechos humanos en Colombia: esto dice la Defensoría",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-fueron-los-combates-del-ejercito-contra-el-clan-del-golfo-en-antioquia-dos-sujetos-murieron/202645/",
+      "url": "https://semana.com/nacion/articulo/la-preocupante-radiografia-que-recibe-el-gobierno-de-abelardo-de-la-espriella-sobre-violencia-y-derechos-humanos-en-colombia-esto-dice-la-defensoria/202639/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-23T11:03:01.707901+00:00",
+      "fecha": "2026-08-24T11:49:17.614816+00:00",
       "temas": [
-        "Conflicto armado"
+        "DDHH"
       ],
       "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "df97fdd2418e",
-      "titulo": "Farc, mineros ilegales, narcoterroristas y la primera línea podrían estar tras los incendios forestales en el Tolima",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/farc-mineros-ilegales-narcoterroristas-y-la-primera-linea-podrian-estar-tras-los-incendios-forestales-en-el-tolima/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "fecha": "2026-08-23T11:03:01.707841+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
+        "derechos humanos"
       ]
     },
     {
@@ -160,12 +115,120 @@
       "url": "https://elespectador.com/politica/antiguo-secretariado-de-las-farc-exige-claridad-sobre-acuerdo-de-paz-al-gobierno-de-abelardo-de-la-espriella-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-23T11:03:01.314211+00:00",
+      "fecha": "2026-08-24T11:49:17.159415+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "farc"
+      ]
+    },
+    {
+      "id": "a729c2e10bcc",
+      "titulo": "Reclutamiento de menores: el doble fracaso del Estado, Facebook y TikTok",
+      "resumen": "",
+      "url": "https://elespectador.com/judicial/reclutamiento-de-menores-el-doble-fracaso-del-estado-facebook-y-tiktok/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "fecha": "2026-08-24T11:49:17.159341+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "c4a3b1abbb28",
+      "titulo": "Informe de la Defensoría retrata el país que recibe el gobierno de De La Espriella en materia de paz y derechos humanos",
+      "resumen": "La entidad hizo una radiografía de la violencia por cuenta de grupos ilegales y vulneración de derechos. El reporte será clave para el nuevo Congreso.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/informe-de-la-defensoria-retrata-el-pais-que-recibe-el-gobierno-de-de-la-espriella-en-materia-de-paz-y-derechos-humanos-3580455",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-24T11:01:00+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "701be5223b03",
+      "titulo": "'Es un fenómeno con un subregistro muy alto': investigadores de Human Rights Watch sobre el reclutamiento de menores",
+      "resumen": "En el informe 'Pensé que nunca volvería a ver a mi mamá', la organización evidencia el crecimiento de este problema en los últimos años.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/es-un-fenomeno-con-un-subregistro-muy-alto-investigadores-de-human-rights-watch-sobre-el-reclutamiento-de-menores-3580474",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "fecha": "2026-08-24T05:01:00+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "485679aa2008",
+      "titulo": "Human Rights Watch alerta sobre aumento del reclutamiento de menores en Colombia a través de redes sociales",
+      "resumen": "Informe de la organización evidencia el crecimiento de este problema, en parte por el anzuelo que grupos ilegales encontraron en internet.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/human-rights-watch-alerta-sobre-aumento-del-reclutamiento-de-menores-en-colombia-a-traves-de-redes-sociales-3580468",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "fecha": "2026-08-24T05:01:00+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "7744d1af4670",
+      "titulo": "Agencias internacionales de inteligencia alertan sobre planes de desestabilización en Colombia: denuncian seis regiones en riesgo",
+      "resumen": "El reporte habla de posibles ataques a la infraestructura, bloqueos y campañas de desinformación para alterar el orden público en varias regiones.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/agencias-internacionales-de-inteligencia-alertan-sobre-planes-de-desestabilizacion-en-colombia-denuncian-seis-regiones-en-riesgo-3580490",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "fecha": "2026-08-24T02:52:26+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "orden publico"
+      ]
+    },
+    {
+      "id": "661506be40c8",
+      "titulo": "Operación militar en Barbacoas, Nariño, frena producción ilegal de oro y golpea finanzas de los grupos armados",
+      "resumen": "La Fuerza de Tarea Hércules del Ejército intervino tres unidades mineras con las que producían de manera ilegal 3.600 gramos de oro mensuales.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-militar-en-barbacoas-narino-frena-produccion-ilegal-de-oro-y-golpea-finanzas-de-los-grupos-armados-3580428",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-23T20:27:54+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "49644a555bc3",
+      "titulo": "Capturan en Cáceres, Antioquia, a alias El Mello, señalado de asumir el control criminal del ‘clan del Golfo’",
+      "resumen": "Lo vinculan con la coordinación de homicidios, extorsiones y el manejo de rentas ilícitas en varios sectores del Bajo Cauca.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-caceres-antioquia-a-alias-el-mello-senalado-de-asumir-el-control-criminal-del-clan-del-golfo-3580420",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-23T19:28:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -196,21 +259,6 @@
       ],
       "palabras_clave": [
         "grupo armado"
-      ]
-    },
-    {
-      "id": "90ec134f0349",
-      "titulo": "Capturan en Panamá al tercer cabecilla de ‘La Inmaculada’, señalado de ordenar extorsiones y atentados en Tuluá",
-      "resumen": "Alias Carlos era buscado mediante circular azul de Interpol y, según las autoridades, habría ordenado extorsiones por cerca de mil millones de pesos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-panama-al-tercer-cabecilla-de-la-inmaculada-senalado-de-ordenar-extorsiones-y-atentados-en-tulua-3579900",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-21T11:05:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
       ]
     },
     {
