@@ -1,6 +1,6 @@
 {
-  "generado_en": "2026-08-26T11:55:50.334669+00:00",
-  "total_revisadas": 93,
+  "generado_en": "2026-08-27T23:44:12.633040+00:00",
+  "total_revisadas": 94,
   "total_relevantes": 18,
   "noticias": [
     {
@@ -10,7 +10,7 @@
       "url": "https://laopinion.co/judicial/triple-ataque-simultaneo-con-drones-explosivos-sacude-norte-de-santander",
       "fuente": "La Opinión",
       "seccion": "Judicial",
-      "fecha": "2026-08-26T11:55:49.805304+00:00",
+      "fecha": "2026-08-27T23:44:12.322044+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -19,13 +19,13 @@
       ]
     },
     {
-      "id": "12df11e8bf66",
-      "titulo": "Disidencias estÃ¡n en 372 municipios y criminales tienen mÃ¡s poder criminal, segÃºn informe de la DefensorÃ­a",
+      "id": "b57da3ae4d74",
+      "titulo": "Disidencias atacan El Tambo, Cauca, con 20 explosivos lanzados desde drones, ¿cómo planea el Gobierno repeler los ataques?",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/disidencias-de-las-farc-estan-presentes-en-372-municipios-dice-la-defensoria-AH40215656",
+      "url": "https://elcolombiano.com/colombia/disidencias-ataque-drones-explosivos-el-tambo-cauca-HG40312005",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-26T11:55:49.323029+00:00",
+      "fecha": "2026-08-27T23:44:11.862553+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -34,65 +34,80 @@
       ]
     },
     {
-      "id": "1a33671f8843",
-      "titulo": "Reclutamiento de menores llegÃ³ a mÃ¡ximos histÃ³ricos en el gobierno Petro, segÃºn alerta Human Rights Watch",
+      "id": "1f0677899a87",
+      "titulo": "Van 90 líderes sociales asesinados y 77 masacres este año, alerta Defensoría del Pueblo",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/reclutamiento-menores-colombia-maximos-historicos-informe-human-rights-watch-CE40224556",
+      "url": "https://elcolombiano.com/colombia/cifras-lideres-sociales-asesinados-masacres-colombia-defensoria-del-pueblo-KF40321128",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-26T11:55:49.322911+00:00",
+      "fecha": "2026-08-27T23:44:11.862520+00:00",
       "temas": [
         "Conflicto armado",
-        "DIH"
+        "DDHH"
       ],
       "palabras_clave": [
-        "gao",
-        "reclutamiento de menores"
+        "lideres sociales",
+        "masacre"
       ]
     },
     {
-      "id": "1fca49d67ba9",
-      "titulo": "Guerra del Clan del Golfo y las disidencias hizo desplazar a 200 familias de cuatro veredas de Ituango, Antioquia",
+      "id": "af3aff5cd1d4",
+      "titulo": "Comisión de Acusación pide asumir investigación contra Uribe por masacres en Antioquia",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/ituango-antioquia-desplazamiento-familias-clan-golfo-disidencias-BF40238292",
+      "url": "https://elcolombiano.com/colombia/politica/comision-acusacion-investigacion-alvaro-uribe-masacres-el-aro-la-granja-antioquia-IF40328415",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-26T11:55:49.322841+00:00",
+      "fecha": "2026-08-27T23:44:11.862486+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "masacre"
       ]
     },
     {
-      "id": "725bd7505311",
-      "titulo": "De la Espriella anuncia que todos los grupos armados serÃ¡n tratados como terroristas: âAquÃ­ se acabÃ³ esa divisiÃ³nâ",
+      "id": "e5c1985c7848",
+      "titulo": "De la Espriella firmó cinco órdenes de extradición, entre ellos ‘Araña’ de los Comandos de Frontera y ‘Mocho Olmedo’ de las disidencias",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/de-la-espriella-anuncia-todos-grupos-armados-seran-tratados-como-terroristas-BC40244353",
+      "url": "https://elcolombiano.com/colombia/de-la-espriella-firmo-ordenes-extradicion-alias-arana-jefe-comandos-frontera-ID40341876",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
-      "fecha": "2026-08-26T11:55:49.322741+00:00",
+      "fecha": "2026-08-27T23:44:11.862369+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "disidencias"
       ]
     },
     {
-      "id": "cbf1674f8c74",
-      "titulo": "Las pruebas contra los tres militares imputados por venderle información al clan del Golfo",
+      "id": "d537aad1dfff",
+      "titulo": "¿Si no fue el Eln, quién puso grafitis de esa organización y quemó un bus en la vía La Unión-Nariño, en Antioquia?",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/las-pruebas-contra-los-tres-militares-imputados-por-venderle-informacion-al-clan-del-golfo/202614/",
+      "url": "https://elcolombiano.com/antioquia/quema-bus-grafitis-eln-farc-disidencias-conflicto-armado-oriente-antioqueno-AD40346314",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "fecha": "2026-08-27T23:44:11.862265+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "5e111f5dbb6b",
+      "titulo": "FF. MM. verifican si murió alias Giovanni Hernández en bombardeo contra disidencias de Calarcá en Guaviare",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/ffmm-verifican-si-murio-alias-giovanni-hernandez-en-bombardeo-contra-disidencias-de-calarca-en-guaviare/202613/",
       "fuente": "Semana",
       "seccion": "Nación",
-      "fecha": "2026-08-26T11:55:48.879984+00:00",
+      "fecha": "2026-08-27T23:44:11.726556+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "disidencias"
       ]
     },
     {
@@ -102,7 +117,7 @@
       "url": "https://elespectador.com/politica/antiguo-secretariado-de-las-farc-exige-claridad-sobre-acuerdo-de-paz-al-gobierno-de-abelardo-de-la-espriella-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-26T11:55:48.448571+00:00",
+      "fecha": "2026-08-27T23:44:11.327980+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -117,7 +132,7 @@
       "url": "https://elespectador.com/judicial/reclutamiento-de-menores-el-doble-fracaso-del-estado-facebook-y-tiktok/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
-      "fecha": "2026-08-26T11:55:48.448506+00:00",
+      "fecha": "2026-08-27T23:44:11.327949+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -127,43 +142,43 @@
       ]
     },
     {
-      "id": "92cbca3e1349",
-      "titulo": "CIDH le cierra la puerta a un condenado por abuso sexual contra su hija de solo 5 años: este es el expediente",
-      "resumen": "La Comisión Interamericana rechazó la petición de un hombre condenado por abusar de su hija y cuyo caso no fue estudiado por la Corte Suprema.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cidh-le-cierra-la-puerta-a-un-condenado-por-abuso-sexual-contra-su-hija-de-solo-5-anos-este-es-el-expediente-3581003",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "fecha": "2026-08-26T02:01:00+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "cidh"
-      ]
-    },
-    {
-      "id": "bca67f5363d7",
-      "titulo": "Primicia: Expediente de restitución de tierras busca devolverle más de 16.000 hectáreas al Pueblo Arhuaco en el Magdalena",
-      "resumen": "Por primera vez en 15 años de la Ley de Víctimas, la justicia colombiana estudia devolver miles de hectáreas ancestrales a 150 familias arhuacas.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/primicia-expediente-de-restitucion-de-tierras-busca-devolverle-mas-de-16-000-hectareas-al-pueblo-arhuaco-en-el-magdalena-3580983",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "fecha": "2026-08-25T20:30:47+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "restitucion de tierras"
-      ]
-    },
-    {
-      "id": "661506be40c8",
-      "titulo": "Operación militar en Barbacoas, Nariño, frena producción ilegal de oro y golpea finanzas de los grupos armados",
-      "resumen": "La Fuerza de Tarea Hércules del Ejército intervino tres unidades mineras con las que producían de manera ilegal de 3.600 gramos de oro mensuales.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-militar-en-barbacoas-narino-frena-produccion-ilegal-de-oro-y-golpea-finanzas-de-los-grupos-armados-3580428",
+      "id": "e52c0081e866",
+      "titulo": "Los detalles del segundo bombardeo del Gobierno De La Espriella: combates entre ‘Calarcá’ e ‘Iván Mordisco’ abrieron paso a la operación en Guaviare",
+      "resumen": "Fuentes le dijeron a EL TIEMPO que el Gobierno se trazó ejecutar 15 bombardeos antes de cumplir sus primeros 100 días. ¿Quién cayó en la operación?",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-detalles-del-segundo-bombardeo-del-gobierno-de-la-espriella-combates-calarca-e-ivan-mordisco-abrieron-paso-a-la-operacion-en-guaviare-3581539",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-25T20:10:00+00:00",
+      "fecha": "2026-08-27T22:27:38+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "9ab962d68a45",
+      "titulo": "Cae en Vichada alias Yin: llevaba más de 6.000 cartuchos que serían entregados al Eln",
+      "resumen": "La Sijín y el Ejército capturaron al señalado traficante de armas del frente ‘José Daniel Pérez Carrero’. Tenía en su poder 15 armas de fuego",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-en-vichada-alias-yin-llevaba-mas-de-6-000-cartuchos-que-serian-entregados-al-eln-3581522",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-27T16:32:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "0cafd05ea30a",
+      "titulo": "‘Operación Perseo’: la estrategia que cambió el mapa del conflicto en el Micay, Cauca, pero que no logró romper el poder de los grupos armados",
+      "resumen": "Informe de la FIP dice que la ofensiva obligó a la 'Carlos Patiño' a replegarse en zonas estratégicas como El Plateado. Estos son los detalles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-perseo-la-estrategia-que-cambio-el-mapa-del-conflicto-en-el-micay-cauca-pero-que-no-logro-romper-el-poder-de-los-grupos-armados-3581474",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "fecha": "2026-08-27T14:57:01+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -172,33 +187,18 @@
       ]
     },
     {
-      "id": "2ba10534af05",
-      "titulo": "Cae alias Cortico, señalado cabecilla de las disidencias de ‘Iván Mordisco’ en Nariño",
-      "resumen": "La operación del Ejército se llevó a cabo en el municipio de Santa Bárbara de Iscuandé.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-alias-cortico-senalado-cabecilla-de-las-disidencias-de-ivan-mordisco-en-narino-3580844",
+      "id": "3edffc881036",
+      "titulo": "Atención: Fuerza Pública lanza la segunda operación de bombardeo del gobierno de De La Espriella; fue contra las disidencias de ‘Calarcá’",
+      "resumen": "La operación se llevó a cabo en Guaviare y dejó ocho presuntos integrantes del grupo muertos. Se usaron aviones Kfir y Súper Tucanos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-fuerza-publica-lanza-la-segunda-operacion-de-bombardeo-del-gobierno-de-de-la-espriella-fue-contra-las-disidencias-de-calarca-3581452",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-25T14:18:32+00:00",
+      "fecha": "2026-08-27T14:13:48+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "a48e20d476de",
-      "titulo": "Atentado en Cauca, desplazamientos en Ituango, explosión en Bogotá y otros hechos de orden público en el arranque de la semana",
-      "resumen": "El balance de orden público de los últimos días reporta hechos violentos en Cauca, Norte de Santander, Antioquia y Bogotá.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atentado-en-cauca-desplazamientos-en-ituango-explosion-en-bogota-y-otros-hechos-de-orden-publico-en-el-arranque-de-la-semana-3580806",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "fecha": "2026-08-25T12:50:13+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
       ]
     },
     {
