@@ -125,6 +125,10 @@ def obtener_html(fuente: dict) -> list:
     except Exception as e:
         print(f"[ERROR] HTML {fuente['name']} ({fuente['url']}): {e}")
         return noticias
+    # Todos los diarios de sources.py publican en UTF-8. Si el sitio no
+    # declara el charset en el header HTTP, "requests" adivina mal y las
+    # tildes/ñ quedan corruptas ("Ã©" en vez de "é"). Forzamos UTF-8.
+    resp.encoding = "utf-8"
 
     soup = BeautifulSoup(resp.text, "html.parser")
     debe_contener = fuente.get("link_must_contain", "")
