@@ -16,6 +16,7 @@ from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 from scraper import clasificar_tema, normalizar, generar_id
+from keywords import TOPIC_KEYWORDS, TOPIC_KEYWORDS_INTERNACIONAL
 
 OUTPUT_PATH = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
@@ -84,6 +85,14 @@ MUESTRA = [
     dict(fuente="El Tiempo", seccion="Justicia / Paz y derechos humanos",
          titulo="Cada dos días asesinan a un líder social en Colombia en 2026; Antioquia encabeza los casos",
          url="https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cada-dos-dias-asesinan-a-un-lider-social-en-colombia-en-2026-antioquia-encabeza-los-casos-3540507"),
+
+    # --- Internacional (mercenarismo colombiano / DICA) ---
+    dict(fuente="Infobae", seccion="Mundo (Argentina)", region="internacional",
+         titulo="Mercenario colombiano fue detenido en Ucrania por miembros del ejército ruso tras combates: el video es viral",
+         url="https://www.infobae.com/colombia/2026/05/08/mercenario-colombiano-fue-detenido-en-ucrania-por-miembros-del-ejercito-ruso-tras-combates-el-video-es-viral/"),
+    dict(fuente="Infobae", seccion="Mundo (Argentina)", region="internacional",
+         titulo="La ONU alertó por aumento de mercenarios colombianos y auge de trata de connacionales en el exterior",
+         url="https://www.infobae.com/colombia/2026/03/28/la-onu-alerto-por-aumento-de-mercenarios-colombianos-y-auge-de-trata-de-connacionales-en-el-exterior/"),
 ]
 
 
@@ -92,7 +101,9 @@ def main():
     noticias = []
     for i, item in enumerate(MUESTRA):
         texto = normalizar(f"{item['titulo']}")
-        temas, encontradas = clasificar_tema(texto)
+        region = item.get("region", "nacional")
+        topic_keywords = TOPIC_KEYWORDS_INTERNACIONAL if region == "internacional" else TOPIC_KEYWORDS
+        temas, encontradas = clasificar_tema(texto, topic_keywords)
         noticias.append({
             "id": generar_id(item["url"]),
             "titulo": item["titulo"],
@@ -100,6 +111,7 @@ def main():
             "url": item["url"],
             "fuente": item["fuente"],
             "seccion": item["seccion"],
+            "region": region,
             "fecha": (ahora - timedelta(hours=i)).isoformat(),
             "temas": temas if temas else ["General"],
             "palabras_clave": sorted(set(encontradas)),

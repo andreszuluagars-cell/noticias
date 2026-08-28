@@ -87,4 +87,56 @@ SOURCES = [
         "section": "Colombia",
         "link_must_contain": "vanguardia.com",
     },
+
+    # =======================================================================
+    # FUENTES INTERNACIONALES (region: "internacional")
+    #
+    # Los 5 diarios en español de mayor alcance fuera de Colombia que se
+    # pudieron verificar como accesibles (El País, Clarín y ABC bloquean el
+    # acceso automatizado). Estas fuentes NO se filtran con las palabras
+    # clave de conflicto/DDHH/DIH colombianas (darían demasiado ruido con
+    # noticias de otros países) — se filtran solo con las listas
+    # MERCENARISMO y DICA de keywords.py, para rastrear específicamente
+    # mercenarismo colombiano y Derecho Internacional de los Conflictos
+    # Armados. Ver scraper.py.
+    # =======================================================================
+
+    {
+        "name": "Infobae",
+        "type": "rss",
+        "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
+        "section": "Mundo (Argentina)",
+        "region": "internacional",
+    },
+    {
+        "name": "El Mundo",
+        "type": "rss",
+        "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+        "section": "Internacional (España)",
+        "region": "internacional",
+    },
+    {
+        "name": "El Universal",
+        "type": "html",
+        "url": "https://www.eluniversal.com.mx/mundo",
+        "section": "Mundo (México)",
+        "link_must_contain": "eluniversal.com.mx",
+        "region": "internacional",
+    },
+    {
+        "name": "La Nación",
+        "type": "html",
+        "url": "https://www.lanacion.com.ar/el-mundo/",
+        "section": "El Mundo (Argentina)",
+        "link_must_contain": "lanacion.com.ar",
+        "region": "internacional",
+    },
+    {
+        "name": "El Comercio",
+        "type": "html",
+        "url": "https://elcomercio.pe/mundo/",
+        "section": "Mundo (Perú)",
+        "link_must_contain": "elcomercio.pe",
+        "region": "internacional",
+    },
 ]

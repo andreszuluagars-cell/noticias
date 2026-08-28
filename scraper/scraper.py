@@ -28,7 +28,7 @@ import requests
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, os.path.dirname(__file__))
-from keywords import TOPIC_KEYWORDS, ALL_KEYWORDS
+from keywords import TOPIC_KEYWORDS, TOPIC_KEYWORDS_INTERNACIONAL, ALL_KEYWORDS
 from sources import SOURCES
 
 HEADERS = {
@@ -59,12 +59,22 @@ def normalizar(texto: str) -> str:
     return texto
 
 
-def clasificar_tema(texto_normalizado: str):
-    """Devuelve la lista de temas (Conflicto armado / DDHH / DIH) que
-    coinciden con el texto, y la lista de palabras clave encontradas."""
+def clasificar_tema(texto_normalizado: str, topic_keywords: dict = None):
+    """Devuelve la lista de temas que coinciden con el texto, y la lista
+    de palabras clave encontradas.
+
+    Por defecto clasifica contra TOPIC_KEYWORDS (Conflicto armado / DDHH /
+    DIH — fuentes colombianas). Para fuentes internacionales se le pasa
+    TOPIC_KEYWORDS_INTERNACIONAL en su lugar (ver filtrar_y_clasificar),
+    así una fuente de otro país nunca se marca como relevante solo por
+    mencionar palabras genéricas de conflicto que no tienen que ver con
+    Colombia.
+    """
+    if topic_keywords is None:
+        topic_keywords = TOPIC_KEYWORDS
     temas = []
     encontradas = []
-    for tema, palabras in TOPIC_KEYWORDS.items():
+    for tema, palabras in topic_keywords.items():
         for palabra in palabras:
             if normalizar(palabra) in texto_normalizado:
                 temas.append(tema)
@@ -111,6 +121,7 @@ def obtener_rss(fuente: dict) -> list:
                 "url": link,
                 "fuente": fuente["name"],
                 "seccion": fuente.get("section", ""),
+                "region": fuente.get("region", "nacional"),
                 "fecha": parsear_fecha_rss(entry),
             }
         )
@@ -125,9 +136,11 @@ def obtener_html(fuente: dict) -> list:
     except Exception as e:
         print(f"[ERROR] HTML {fuente['name']} ({fuente['url']}): {e}")
         return noticias
+
     # Todos los diarios de sources.py publican en UTF-8. Si el sitio no
-    # declara el charset en el header HTTP, "requests" adivina mal y las
-    # tildes/ñ quedan corruptas ("Ã©" en vez de "é"). Forzamos UTF-8.
+    # declara el charset en el header HTTP, "requests" adivina mal
+    # (asume Latin-1 por defecto) y las tildes/ñ quedan corruptas
+    # ("Ã©" en vez de "é"). Forzamos UTF-8 explícitamente para evitarlo.
     resp.encoding = "utf-8"
 
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -162,6 +175,7 @@ def obtener_html(fuente: dict) -> list:
                 "url": href,
                 "fuente": fuente["name"],
                 "seccion": fuente.get("section", ""),
+                "region": fuente.get("region", "nacional"),
                 "fecha": datetime.now(timezone.utc).isoformat(),
             }
         )
@@ -190,7 +204,15 @@ def filtrar_y_clasificar(noticias: list) -> list:
 
     for n in noticias:
         texto_normalizado = normalizar(f"{n['titulo']} {n['resumen']}")
-        temas, encontradas = clasificar_tema(texto_normalizado)
+        es_internacional = n.get("region") == "internacional"
+
+        # Las fuentes internacionales se clasifican SOLO contra la lista
+        # de mercenarismo/DICA — no contra las palabras de conflicto
+        # colombiano, que en un diario de otro país producirían muchísimo
+        # ruido (guerras, ejércitos y atentados de medio mundo que no
+        # tienen relación con Colombia).
+        topic_keywords = TOPIC_KEYWORDS_INTERNACIONAL if es_internacional else TOPIC_KEYWORDS
+        temas, encontradas = clasificar_tema(texto_normalizado, topic_keywords)
         relevante = bool(temas)
 
         if SOLO_RELEVANTES and not relevante:
@@ -209,6 +231,7 @@ def filtrar_y_clasificar(noticias: list) -> list:
                 "url": n["url"],
                 "fuente": n["fuente"],
                 "seccion": n["seccion"],
+                "region": n.get("region", "nacional"),
                 "fecha": n["fecha"],
                 "temas": temas if temas else ["General"],
                 "palabras_clave": sorted(set(encontradas)),
