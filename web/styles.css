@@ -25,6 +25,8 @@
   --topic-dih-bg:       rgba(34,163,122,0.14);
   --topic-general:      #728a7e;
   --topic-general-bg:   rgba(114,138,126,0.14);
+  --topic-internacional:    #8b5cf6;
+  --topic-internacional-bg: rgba(139,92,246,0.14);
 
   --mono: "IBM Plex Mono", "Share Tech Mono", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -360,6 +362,11 @@ main {
 .tag-ddhh      { color: var(--topic-ddhh);      background: var(--topic-ddhh-bg); }
 .tag-dih       { color: var(--topic-dih);       background: var(--topic-dih-bg); }
 .tag-general   { color: var(--topic-general);   background: var(--topic-general-bg); }
+.tag-internacional {
+  color: var(--topic-internacional);
+  background: var(--topic-internacional-bg);
+  border-style: dashed; /* distinción extra además del color, por si dos colores se confunden */
+}
 
 .empty-state {
   text-align: center;

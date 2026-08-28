@@ -26,6 +26,7 @@
     "Conflicto armado": "tag-conflicto",
     "DDHH": "tag-ddhh",
     "DIH": "tag-dih",
+    "Internacional": "tag-internacional",
     "General": "tag-general",
   };
 
@@ -33,6 +34,7 @@
     "Conflicto armado": "var(--topic-conflicto)",
     "DDHH": "var(--topic-ddhh)",
     "DIH": "var(--topic-dih)",
+    "Internacional": "var(--topic-internacional)",
     "General": "var(--topic-general)",
   };
 
