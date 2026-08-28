@@ -1,17 +1,33 @@
 {
-  "generado_en": "2026-08-28T03:31:38.507790+00:00",
-  "total_revisadas": 252,
-  "total_relevantes": 22,
+  "generado_en": "2026-08-28T21:49:21.017702+00:00",
+  "total_revisadas": 251,
+  "total_relevantes": 23,
   "noticias": [
     {
-      "id": "29fe845863d7",
-      "titulo": "Detienen a líderes de la Alianza de Sindicatos durante cateos en la ciudad de Oaxaca",
+      "id": "9e5ffc9a85d5",
+      "titulo": "Trump se adjudica el estrecho de Ormuz como “nuevo” territorio de Estados Unidos",
       "resumen": "",
-      "url": "https://oaxaca.eluniversal.com.mx/sociedad/detienen-a-integrantes-de-la-cupula-de-la-alianza-de-sindicatos-durante-cateos-en-la-ciudad-de-oaxaca/",
-      "fuente": "El Universal",
-      "seccion": "Mundo (México)",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/donald-trump-se-adjudica-el-estrecho-de-ormuz-como-nuevo-territorio-de-estados-unidos-iran-israel-centcom-karoline-leavitt-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-08-28T03:31:37.496024+00:00",
+      "fecha": "2026-08-28T21:49:20.992684+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "dica"
+      ]
+    },
+    {
+      "id": "472351f9d14b",
+      "titulo": "Estimaciones iniciales indican que 93.000 personas fueron afectadas por la riada en Nepal",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/asia/inundaciones-en-nepal-estimaciones-iniciales-indican-que-93000-personas-fueron-afectadas-por-la-riada-en-nepal-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-08-28T21:49:20.992600+00:00",
       "temas": [
         "Internacional"
       ],
@@ -27,28 +43,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:35.520196+00:00",
+      "fecha": "2026-08-28T21:49:19.096038+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "explosivos"
-      ]
-    },
-    {
-      "id": "e5c1985c7848",
-      "titulo": "De la Espriella firmó cinco órdenes de extradición, entre ellos ‘Araña’ de los Comandos de Frontera y ‘Mocho Olmedo’ de las disidencias",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/de-la-espriella-firmo-ordenes-extradicion-alias-arana-jefe-comandos-frontera-ID40341876",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-08-28T03:31:34.714413+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:34.714352+00:00",
+      "fecha": "2026-08-28T21:49:18.520319+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:34.714227+00:00",
+      "fecha": "2026-08-28T21:49:18.520182+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:34.714196+00:00",
+      "fecha": "2026-08-28T21:49:18.520151+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,35 +100,51 @@
       ]
     },
     {
-      "id": "380f0245f4b7",
-      "titulo": "Fiscalía no entregará a la Comisión de Acusación expediente contra Uribe por masacres de El Aro y La Granja. Resolverá la Corte Constitucional",
+      "id": "c575fa5cb52d",
+      "titulo": "Presidente De La Espriella anuncia millonaria recompensa por dos peligrosos criminales de las disidencias de Mordisco en Tolima",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/corte-resolvera-el-conflicto-que-se-armo-en-las-investigaciones-contra-alvaro-uribe-por-masacres-de-el-aro-y-la-granja/202659/",
+      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncia-millonaria-recompensa-por-dos-peligrosos-criminales-de-las-disidencias-de-mordisco-en-tolima/202640/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:31.187745+00:00",
+      "fecha": "2026-08-28T21:49:18.263462+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "masacre"
+        "disidencias"
       ]
     },
     {
-      "id": "e27580390d24",
-      "titulo": "Antiguo secretariado de las Farc exige claridad sobre el acuerdo al gobierno De la Espriella",
+      "id": "41c4e126c54e",
+      "titulo": "Grave situación de orden público en Cesar: presidente De La Espriella dio instrucciones al Ejército y a la Policía; esto dijo",
       "resumen": "",
-      "url": "https://elespectador.com/politica/antiguo-secretariado-de-las-farc-exige-claridad-sobre-acuerdo-de-paz-al-gobierno-de-abelardo-de-la-espriella-noticias-hoy/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/valledupar/articulo/grave-orden-publico-en-cesar-presidente-de-la-espriella-le-impartio-ordenes-al-ejercito-y-la-policia-esto-dijo/202642/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:30.975229+00:00",
+      "fecha": "2026-08-28T21:49:18.263419+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "orden publico"
+      ]
+    },
+    {
+      "id": "7afd249699a0",
+      "titulo": "Liberan a joven secuestrada por las disidencias mientras trabajaba en una estación de servicio en Cauca",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/liberan-a-joven-secuestrada-por-las-disidencias-cuando-trabajaba-en-una-estacion-de-servicio-en-cauca/202637/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-28T21:49:18.263256+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -139,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-28T03:31:30.975197+00:00",
+      "fecha": "2026-08-28T21:49:17.890224+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -149,19 +165,67 @@
       ]
     },
     {
-      "id": "843c002738ac",
-      "titulo": "Honduras se suma a una alianza regional para llevar la atención médica más cerca de las comunidades",
-      "resumen": "El convenio firmado con la OPS, el BID y el Banco Mundial apunta a sumar asistencia técnica, inversión e innovación para ampliar servicios desde las comunidades y evitar que padecimientos deriven en atención hospitalaria compleja.",
-      "url": "https://www.infobae.com/honduras/2026/08/27/honduras-se-suma-a-una-alianza-regional-para-llevar-la-atencion-medica-mas-cerca-de-las-comunidades/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-08-28T03:09:52+00:00",
+      "id": "6d12bc198a07",
+      "titulo": "Esto se sabe del secuestro de soldado colombo-francés que habrían cometido disidencias",
+      "resumen": "",
+      "url": "https://elespectador.com/judicial/esto-se-sabe-del-secuestro-de-soldado-colombo-frances-que-habrian-cometido-disidencias-de-las-farc-en-narino/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-08-28T21:49:17.890162+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "dica"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "e503108dfa7d",
+      "titulo": "El presupuesto de la JEP aumentaría un 10% para 2026, en medio del cambio de gobierno",
+      "resumen": "El Congreso debatirá el presupuesto que el Gobierno de De la Espriella radicó para 2027 por $634,9 billones. Estos son los detalles.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/el-presupuesto-de-la-jep-aumentaria-un-10-para-2026-en-medio-del-cambio-de-gobierno-3581857",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-08-28T17:37:11+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "a7ae40e1c45f",
+      "titulo": "Tres militares heridos y un perro antiexplosivos muerto dejó ataque con drones del Eln en zona rural de Sipí, Chocó",
+      "resumen": "Uniformados adelantaban una operación en una zona donde el Eln y el ‘clan del Golfo’ mantienen disputa por una ruta del narcotráfico y minería ilegal.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tres-militares-heridos-y-un-canino-muerto-dejo-ataque-con-drones-del-eln-en-zona-rural-de-sipi-choco-3581863",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-28T17:28:50+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "dfa39cf68877",
+      "titulo": "Canciones y emojis: el nuevo gancho del reclutamiento infantil que deja en riesgo a más de 61 mil menores tras el terremoto en Colombia",
+      "resumen": "Unidad de Investigación y Acusación de la JEP advierte cómo los grupos armados están llegando a niños, niñas y adolescentes en TikTok y Facebook.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/canciones-y-emojis-el-nuevo-gancho-del-reclutamiento-infantil-que-deja-en-riesgo-a-mas-de-61-mil-menores-tras-el-terremoto-en-colombia-3581794",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-08-28T15:26:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
       ]
     },
     {
@@ -178,22 +242,6 @@
       ],
       "palabras_clave": [
         "combates"
-      ]
-    },
-    {
-      "id": "8d6d426a1a27",
-      "titulo": "Fiscalía no enviará a la Comisión de Acusaciones el expediente contra Álvaro Uribe por las masacres de El Aro y La Granja",
-      "resumen": "El ente acusador indicó que será la Corte Constitucional la que estudie el conflicto de competencias que se generó.",
-      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-no-enviara-a-la-comision-de-acusaciones-el-expediente-contra-alvaro-uribe-por-las-masacres-de-el-aro-y-la-granja-3581683",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-08-28T00:50:33+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
       ]
     },
     {
@@ -226,38 +274,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "0cafd05ea30a",
-      "titulo": "‘Operación Perseo’: la estrategia que cambió el mapa del conflicto en el Micay, Cauca, pero que no logró romper el poder de los grupos armados",
-      "resumen": "Informe de la FIP dice que la ofensiva obligó a la 'Carlos Patiño' a replegarse en zonas estratégicas como El Plateado. Estos son los detalles.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-perseo-la-estrategia-que-cambio-el-mapa-del-conflicto-en-el-micay-cauca-pero-que-no-logro-romper-el-poder-de-los-grupos-armados-3581474",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-08-27T14:57:01+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "3edffc881036",
-      "titulo": "Atención: Fuerza Pública lanza la segunda operación de bombardeo del gobierno de De La Espriella; fue contra las disidencias de ‘Calarcá’",
-      "resumen": "La operación se llevó a cabo en Guaviare y dejó ocho presuntos integrantes del grupo muertos. Se usaron aviones Kfir y Súper Tucanos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-fuerza-publica-lanza-la-segunda-operacion-de-bombardeo-del-gobierno-de-de-la-espriella-fue-contra-las-disidencias-de-calarca-3581452",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-08-27T14:13:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
