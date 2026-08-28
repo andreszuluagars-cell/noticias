@@ -1,12 +1,12 @@
 {
-  "name": "Monitor Colombia: Conflicto, DDHH y DIH",
-  "short_name": "Monitor CO",
-  "description": "Noticias diarias filtradas sobre conflicto armado, derechos humanos y DIH en los principales diarios de Colombia.",
+  "name": "Monitor Colombia — OSINT: Conflicto, DDHH y DIH",
+  "short_name": "Monitor OSINT",
+  "description": "Seguimiento OSINT de fuente abierta: conflicto armado, derechos humanos y DIH en los principales diarios de Colombia.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f9f9f7",
-  "theme_color": "#2a78d6",
+  "background_color": "#0a0d0e",
+  "theme_color": "#0a0d0e",
   "orientation": "portrait",
   "lang": "es-CO",
   "icons": [

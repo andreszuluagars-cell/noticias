@@ -29,23 +29,44 @@
     "General": "tag-general",
   };
 
+  const TOPIC_VAR = {
+    "Conflicto armado": "var(--topic-conflicto)",
+    "DDHH": "var(--topic-ddhh)",
+    "DIH": "var(--topic-dih)",
+    "General": "var(--topic-general)",
+  };
+
   function tiempoRelativo(fechaISO) {
     const fecha = new Date(fechaISO);
     const ahora = new Date();
     const diffMs = ahora - fecha;
     const diffMin = Math.round(diffMs / 60000);
-    if (diffMin < 1) return "justo ahora";
-    if (diffMin < 60) return `hace ${diffMin} min`;
+    if (diffMin < 1) return "AHORA";
+    if (diffMin < 60) return `HACE ${diffMin} MIN`;
     const diffH = Math.round(diffMin / 60);
-    if (diffH < 24) return `hace ${diffH} h`;
+    if (diffH < 24) return `HACE ${diffH} H`;
     const diffD = Math.round(diffH / 24);
-    if (diffD === 1) return "hace 1 día";
-    return `hace ${diffD} días`;
+    if (diffD === 1) return "HACE 1 D";
+    return `HACE ${diffD} D`;
+  }
+
+  function iniciarReloj() {
+    const clockEl = document.getElementById("clock");
+    if (!clockEl) return;
+    const tick = () => {
+      const ahora = new Date();
+      const hh = String(ahora.getHours()).padStart(2, "0");
+      const mm = String(ahora.getMinutes()).padStart(2, "0");
+      const ss = String(ahora.getSeconds()).padStart(2, "0");
+      clockEl.textContent = `${hh}:${mm}:${ss}`;
+    };
+    tick();
+    setInterval(tick, 1000);
   }
 
   function poblarSelectFuentes(noticias) {
     const fuentes = Array.from(new Set(noticias.map((n) => n.fuente))).sort();
-    els.sourceSelect.innerHTML = '<option value="Todos">Todos los diarios</option>';
+    els.sourceSelect.innerHTML = '<option value="Todos">TODAS LAS FUENTES</option>';
     fuentes.forEach((f) => {
       const opt = document.createElement("option");
       opt.value = f;
@@ -87,10 +108,13 @@
       a.href = n.url;
       a.target = "_blank";
       a.rel = "noopener noreferrer";
+      const temaPrincipal = (n.temas || ["General"])[0];
+      a.style.setProperty("--card-accent", TOPIC_VAR[temaPrincipal] || "var(--topic-general)");
 
       const meta = document.createElement("div");
       meta.className = "card-meta";
-      meta.innerHTML = `<span class="source-name">${escapeHtml(n.fuente)}</span><span class="dot">•</span><span class="time-ago">${tiempoRelativo(n.fecha)}</span>`;
+      const reportId = "REG-" + (n.id || "000000").toUpperCase();
+      meta.innerHTML = `<span class="report-id">${escapeHtml(reportId)}</span><span class="dot">·</span><span class="source-name">${escapeHtml(n.fuente)}</span><span class="time-ago">${tiempoRelativo(n.fecha)}</span>`;
 
       const titulo = document.createElement("p");
       titulo.className = "card-title";
@@ -101,7 +125,7 @@
       (n.temas || ["General"]).forEach((t) => {
         const span = document.createElement("span");
         span.className = "tag " + (TAG_CLASS[t] || "tag-general");
-        span.textContent = t;
+        span.textContent = "[ " + t.toUpperCase() + " ]";
         tags.appendChild(span);
       });
 
@@ -114,8 +138,8 @@
     els.list.appendChild(frag);
 
     els.status.textContent = state.generadoEn
-      ? `${resultado.length} noticias · actualizado ${tiempoRelativo(state.generadoEn)}`
-      : `${resultado.length} noticias`;
+      ? `${resultado.length} REGISTROS · SYNC ${tiempoRelativo(state.generadoEn)}`
+      : `${resultado.length} REGISTROS`;
   }
 
   function escapeHtml(str) {
@@ -147,7 +171,7 @@
     els.refreshBtn.classList.remove("spinning");
 
     if (!datos) {
-      els.status.textContent = "No se pudo cargar. Mostrando datos guardados si existen.";
+      els.status.textContent = "ERROR DE ENLACE — SIN DATOS NUEVOS";
       els.offlineBanner.classList.remove("hidden");
       render();
       return;
@@ -198,5 +222,6 @@
     });
   }
 
+  iniciarReloj();
   cargarDatos();
 })();
