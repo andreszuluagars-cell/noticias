@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-08-29T05:45:59.495668+00:00",
-  "total_revisadas": 250,
-  "total_relevantes": 15,
+  "generado_en": "2026-08-28T21:49:21.017702+00:00",
+  "total_revisadas": 251,
+  "total_relevantes": 19,
   "noticias": [
     {
       "id": "37d881fb5442",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:55.578883+00:00",
+      "fecha": "2026-08-28T21:49:19.096038+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:54.652560+00:00",
+      "fecha": "2026-08-28T21:49:18.520319+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:54.652421+00:00",
+      "fecha": "2026-08-28T21:49:18.520182+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,12 +59,28 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:54.652384+00:00",
+      "fecha": "2026-08-28T21:49:18.520151+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "gestor de paz"
+      ]
+    },
+    {
+      "id": "c575fa5cb52d",
+      "titulo": "Presidente De La Espriella anuncia millonaria recompensa por dos peligrosos criminales de las disidencias de Mordisco en Tolima",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncia-millonaria-recompensa-por-dos-peligrosos-criminales-de-las-disidencias-de-mordisco-en-tolima/202640/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-28T21:49:18.263462+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -75,7 +91,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:54.159693+00:00",
+      "fecha": "2026-08-28T21:49:18.263419+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,30 +107,12 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:54.159519+00:00",
+      "fecha": "2026-08-28T21:49:18.263256+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "2069dc5d0f54",
-      "titulo": "Defensoría del Pueblo reveló la cruda realidad que vive el Chocó tras el terremoto y los enfrentamientos del conflicto armado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-revelo-la-cruda-realidad-que-vive-el-choco-tras-el-terremoto-y-los-enfrentamientos-del-conflicto-armado/202633/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-29T05:45:54.159411+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "conflicto armado",
-        "defensoria del pueblo"
       ]
     },
     {
@@ -125,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:53.488652+00:00",
+      "fecha": "2026-08-28T21:49:17.890224+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -142,12 +140,28 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T05:45:53.488615+00:00",
+      "fecha": "2026-08-28T21:49:17.890162+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
+      ]
+    },
+    {
+      "id": "e503108dfa7d",
+      "titulo": "El presupuesto de la JEP aumentaría un 10% para 2026, en medio del cambio de gobierno",
+      "resumen": "El Congreso debatirá el presupuesto que el Gobierno de De la Espriella radicó para 2027 por $634,9 billones. Estos son los detalles.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/el-presupuesto-de-la-jep-aumentaria-un-10-para-2026-en-medio-del-cambio-de-gobierno-3581857",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-08-28T17:37:11+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
       ]
     },
     {
@@ -164,6 +178,54 @@
       ],
       "palabras_clave": [
         "clan del golfo"
+      ]
+    },
+    {
+      "id": "dfa39cf68877",
+      "titulo": "Canciones y emojis: el nuevo gancho del reclutamiento infantil que deja en riesgo a más de 61 mil menores tras el terremoto en Colombia",
+      "resumen": "Unidad de Investigación y Acusación de la JEP advierte cómo los grupos armados están llegando a niños, niñas y adolescentes en TikTok y Facebook.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/canciones-y-emojis-el-nuevo-gancho-del-reclutamiento-infantil-que-deja-en-riesgo-a-mas-de-61-mil-menores-tras-el-terremoto-en-colombia-3581794",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-08-28T15:26:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "e52c0081e866",
+      "titulo": "Los detalles del segundo bombardeo del Gobierno De La Espriella: combates entre ‘Calarcá’ e ‘Iván Mordisco’ abrieron paso a la operación en Guaviare",
+      "resumen": "Fuentes le dijeron a EL TIEMPO que el Gobierno se trazó ejecutar 15 bombardeos antes de cumplir sus primeros 100 días. ¿Quién cayó en la operación?",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-detalles-del-segundo-bombardeo-del-gobierno-de-la-espriella-combates-calarca-e-ivan-mordisco-abrieron-paso-a-la-operacion-en-guaviare-3581539",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-28T01:43:09+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "9ab962d68a45",
+      "titulo": "Cae en Vichada alias Yin: llevaba más de 6.000 cartuchos que serían entregados al Eln",
+      "resumen": "La Sijín y el Ejército capturaron al señalado traficante de armas del frente ‘José Daniel Pérez Carrero’. Tenía en su poder 15 armas de fuego",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-en-vichada-alias-yin-llevaba-mas-de-6-000-cartuchos-que-serian-entregados-al-eln-3581522",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-27T16:32:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
