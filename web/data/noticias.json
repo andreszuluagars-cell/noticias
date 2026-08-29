@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-08-29T10:35:17.942323+00:00",
-  "total_revisadas": 249,
-  "total_relevantes": 14,
+  "generado_en": "2026-08-29T15:38:07.474631+00:00",
+  "total_revisadas": 250,
+  "total_relevantes": 13,
   "noticias": [
     {
       "id": "37d881fb5442",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:14.875363+00:00",
+      "fecha": "2026-08-29T15:38:03.643384+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:14.214862+00:00",
+      "fecha": "2026-08-29T15:38:02.751454+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:14.214722+00:00",
+      "fecha": "2026-08-29T15:38:02.751245+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,28 +59,12 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:14.214686+00:00",
+      "fecha": "2026-08-29T15:38:02.751194+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "gestor de paz"
-      ]
-    },
-    {
-      "id": "7afd249699a0",
-      "titulo": "Liberan a joven secuestrada por las disidencias mientras trabajaba en una estación de servicio en Cauca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/liberan-a-joven-secuestrada-por-las-disidencias-cuando-trabajaba-en-una-estacion-de-servicio-en-cauca/202637/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-29T10:35:13.838047+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
@@ -91,7 +75,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:13.837941+00:00",
+      "fecha": "2026-08-29T15:38:02.257713+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
@@ -109,7 +93,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:13.442808+00:00",
+      "fecha": "2026-08-29T15:38:01.703968+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -126,7 +110,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T10:35:13.442770+00:00",
+      "fecha": "2026-08-29T15:38:01.703934+00:00",
       "temas": [
         "Conflicto armado"
       ],
