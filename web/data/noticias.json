@@ -1,6 +1,6 @@
 {
-  "generado_en": "2026-08-29T17:51:04.940678+00:00",
-  "total_revisadas": 250,
+  "generado_en": "2026-08-29T18:48:12.901046+00:00",
+  "total_revisadas": 249,
   "total_relevantes": 15,
   "noticias": [
     {
@@ -11,7 +11,7 @@
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-08-29T17:51:04.778510+00:00",
+      "fecha": "2026-08-29T18:48:12.788046+00:00",
       "temas": [
         "Internacional"
       ],
@@ -27,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:02.513318+00:00",
+      "fecha": "2026-08-29T18:48:09.871090+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:02.201910+00:00",
+      "fecha": "2026-08-29T18:48:09.139660+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:02.201764+00:00",
+      "fecha": "2026-08-29T18:48:09.139570+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:02.201720+00:00",
+      "fecha": "2026-08-29T18:48:09.139547+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,12 +91,28 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:02.097676+00:00",
+      "fecha": "2026-08-29T18:48:08.897338+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
+      ]
+    },
+    {
+      "id": "bd85d5f78dec",
+      "titulo": "Clan del Golfo secuestra a cuatro personas en Anorí, Antioquia: entre ellas se encuentra el presidente de la JAC",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/clan-del-golfo-secuestra-a-cuatro-personas-en-anori-antioquia-entre-ellas-se-encuentra-el-presidente-de-la-jac/202626/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-29T18:48:08.897310+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -107,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:01.644269+00:00",
+      "fecha": "2026-08-29T18:48:08.454724+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,28 +139,12 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T17:51:01.644229+00:00",
+      "fecha": "2026-08-29T18:48:08.454695+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "609f51ce7742",
-      "titulo": "Nicaragua: Ocho organizaciones denuncian desaparición forzada de Thelma Montenegro y piden apoyo internacional",
-      "resumen": "La abogada nicaragüense permanece en paradero desconocido desde el 25 de agosto tras una segunda retención policial en menos de una semana, según un pronunciamiento firmado por ocho entidades internacionales",
-      "url": "https://www.infobae.com/nicaragua/2026/08/29/nicaragua-ocho-organizaciones-denuncian-desaparicion-forzada-de-thelma-montenegro-y-piden-apoyo-internacional/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-08-29T17:36:16+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "desaparicion forzada"
       ]
     },
     {
