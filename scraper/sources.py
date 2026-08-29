@@ -93,14 +93,11 @@ SOURCES = [
     #
     # Los 5 diarios en español de mayor alcance fuera de Colombia que se
     # pudieron verificar como accesibles (El País, Clarín y ABC bloquean el
-    # acceso automatizado). Estas fuentes NO se filtran con las palabras
-    # clave de conflicto/DDHH/DIH colombianas (darían demasiado ruido con
-    # noticias de otros países) — se filtran solo con las listas
-    # MERCENARISMO, DICA y DEBATES_NORMAS_DIH_DDHH de keywords.py, para
-    # rastrear específicamente mercenarismo (con énfasis en ciudadanos
-    # colombianos), Derecho Internacional de los Conflictos Armados, y
-    # debates/instituciones actuales sobre normas de DIH y DDHH. Ver
-    # scraper.py.
+    # acceso automatizado). Estas fuentes NO se filtran con las listas
+    # colombianas de arriba — se filtran con la lista INTERNACIONAL de
+    # keywords.py, que cubre 5 temas: conflictos armados (en cualquier
+    # país), derechos humanos, DIH, mercenarios (con énfasis en
+    # ciudadanos colombianos) y la guerra en Ucrania. Ver scraper.py.
     # =======================================================================
 
     {

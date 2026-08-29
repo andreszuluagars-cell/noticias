@@ -49,16 +49,60 @@ DIH = [
 
 # --- Categoría "Internacional" -------------------------------------------
 # Se usa SOLO para las fuentes internacionales de sources.py (region:
-# "internacional"). A diferencia de los diarios colombianos, esas fuentes
-# cubren todo tipo de noticias del mundo, así que en vez de filtrarlas con
-# las listas de arriba (darían muchísimo ruido: "combates", "guerra",
-# etc. de conflictos que no tienen nada que ver con Colombia), se filtran
-# ÚNICAMENTE con estas tres listas especializadas: mercenarismo (con
-# énfasis en ciudadanos colombianos, pero sin limitarse a ellos), DICA
-# (terminología técnica del Derecho Internacional de los Conflictos
-# Armados) y debates/instituciones actuales sobre normas de DIH y DDHH.
+# "internacional"). Ajustado el 29-ago-2026 a pedido explícito: ahora el
+# criterio son estos 5 temas (más amplio que antes a propósito, ya que
+# el criterio anterior —solo mercenarismo y terminología técnica de
+# DICA— resultó demasiado angosto y algunos días no arrojaba ninguna
+# noticia internacional):
+#   1) Conflictos armados (en cualquier país, no solo Colombia)
+#   2) Derechos Humanos
+#   3) DIH (Derecho Internacional Humanitario)
+#   4) Mercenarios (con énfasis en ciudadanos colombianos)
+#   5) Guerra en Ucrania
+# Todas se etiquetan bajo el mismo tema "Internacional" (no hay chips de
+# filtro separados por sub-tema en la app); "palabras_clave" en cada
+# noticia deja ver cuál de los 5 temas fue el que hizo match.
 
-MERCENARISMO = [
+CONFLICTOS_ARMADOS_INTL = [
+    "conflicto armado", "conflictos armados", "enfrentamiento armado",
+    "enfrentamientos armados", "grupo armado", "grupos armados",
+    "combates", "ofensiva militar", "ataque armado", "ataque militar",
+    "zona de conflicto", "zona de guerra", "conflicto belico",
+    "cese al fuego", "alto el fuego", "tregua humanitaria",
+    "estallido de violencia", "toque de queda",
+]
+
+DERECHOS_HUMANOS_INTL = [
+    "derechos humanos", "ddhh", "violaciones a los derechos humanos",
+    "violacion de derechos humanos", "crisis humanitaria",
+    "defensor de derechos humanos", "defensora de derechos humanos",
+    "onu derechos humanos", "consejo de derechos humanos",
+    "consejo de derechos humanos de la onu",
+    "alto comisionado de la onu para los derechos humanos",
+    "acnudh", "relator especial de la onu", "relatora especial de la onu",
+    "examen periodico universal",
+    "declaracion universal de derechos humanos",
+    "corte interamericana de derechos humanos", "cidh",
+    "desaparicion forzada", "tortura", "ejecucion extrajudicial",
+    "ejecuciones extrajudiciales", "genocidio", "limpieza etnica",
+]
+
+DIH_INTL = [
+    "derecho internacional humanitario", "dih",
+    "derecho internacional de los conflictos armados", "dica",
+    "crimen de guerra", "crimenes de guerra", "poblacion civil",
+    "ayuda humanitaria", "corredor humanitario", "bloqueo humanitario",
+    "emergencia humanitaria", "escudos humanos", "nino soldado",
+    "ninos soldado", "convenios de ginebra", "protocolos adicionales",
+    "cruz roja", "comite internacional de la cruz roja",
+    "corte penal internacional", "tribunal penal internacional",
+    "estatuto de roma", "corte internacional de justicia",
+    "jus in bello", "principio de distincion", "principio de proporcionalidad",
+    "conduccion de hostilidades", "combatientes ilegales",
+    "estatuto de combatiente", "derecho de la guerra", "ley de la guerra",
+]
+
+MERCENARIOS = [
     # Términos genéricos (mercenarismo en cualquier país, no solo Colombia)
     "mercenario", "mercenarios", "mercenarismo",
     "trafico de mercenarios", "utilizacion de mercenarios",
@@ -79,45 +123,22 @@ MERCENARISMO = [
     "wagner colombianos", "colombianos wagner", "mercenarismo colombiano",
 ]
 
-DICA = [
-    "derecho internacional de los conflictos armados", "dica",
-    "jus in bello", "conduccion de hostilidades",
-    "corte penal internacional", "tribunal penal internacional",
-    "estatuto de roma", "conflicto armado no internacional",
-    "conflicto armado internacional", "principio de proporcionalidad",
-    "combatientes ilegales", "estatuto de combatiente",
-    "derecho de la guerra", "ley de la guerra", "crimenes de guerra",
-    "convenios de ginebra", "protocolos adicionales",
+GUERRA_UCRANIA = [
+    "guerra en ucrania", "guerra de ucrania", "conflicto en ucrania",
+    "invasion a ucrania", "invasion rusa a ucrania",
+    "guerra ruso-ucraniana", "guerra rusia-ucrania",
+    "frente ucraniano", "tropas ucranianas", "tropas rusas en ucrania",
+    "ejercito ucraniano", "ejercito ruso en ucrania",
+    "bombardeos rusos en ucrania", "ataques rusos en ucrania",
+    "contraofensiva ucraniana", "avance ruso en ucrania",
+    "negociaciones de paz en ucrania", "alto el fuego en ucrania",
+    "drones rusos en ucrania", "ataques con drones en ucrania",
 ]
 
-# Debates y evolución actual de las normas de DIH y DDHH a nivel
-# internacional: instituciones, tratados, reformas y discusiones sobre
-# las reglas mismas — no cobertura genérica de violaciones puntuales en
-# cualquier conflicto del mundo (eso seguiría dando demasiado ruido).
-DEBATES_NORMAS_DIH_DDHH = [
-    "derecho internacional humanitario", "dih",
-    "reforma del derecho internacional humanitario",
-    "debate sobre derecho internacional humanitario",
-    "crisis del derecho internacional humanitario",
-    "aplicacion del derecho internacional humanitario",
-    "violaciones al derecho internacional humanitario",
-    "corte internacional de justicia",
-    "consejo de derechos humanos de la onu",
-    "consejo de derechos humanos de las naciones unidas",
-    "alto comisionado de la onu para los derechos humanos",
-    "alto comisionado de las naciones unidas para los derechos humanos",
-    "acnudh", "oficina de la onu para los derechos humanos",
-    "relator especial de la onu", "relatora especial de la onu",
-    "examen periodico universal",
-    "declaracion universal de derechos humanos",
-    "tratado de derechos humanos", "convencion de derechos humanos",
-    "sistema interamericano de derechos humanos",
-    "corte interamericana de derechos humanos", "cidh",
-    "genocidio", "limpieza etnica",
-    "debate sobre derechos humanos", "reforma de derechos humanos",
-]
-
-INTERNACIONAL = MERCENARISMO + DICA + DEBATES_NORMAS_DIH_DDHH
+INTERNACIONAL = (
+    CONFLICTOS_ARMADOS_INTL + DERECHOS_HUMANOS_INTL + DIH_INTL
+    + MERCENARIOS + GUERRA_UCRANIA
+)
 
 # Diccionario usado por el scraper para clasificar cada noticia por tema.
 # "Internacional" solo se evalúa para fuentes con region="internacional"
