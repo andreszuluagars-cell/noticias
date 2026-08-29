@@ -16,6 +16,8 @@ CONFLICTO_ARMADO = [
     "estructura armada", "gaor", "gao", "ataque armado", "atentado",
     "artefacto explosivo", "explosivos", "mina antipersona",
   "minas antipersonal", "reclutamiento forzado", "reclutamiento de menores",
+    "reclutamiento", "redes de reclutamiento",
+    "redes de reclutamiento transnacional",
     "desplazamiento forzado", "confinamiento", "secuestro", "masacre",
     "cese al fuego", "acuerdo de paz", "proceso de paz", "mesa de dialogo",
     "mesa de paz", "zona veredal", "jep", "jurisdiccion especial para la paz",
@@ -70,6 +72,8 @@ CONFLICTOS_ARMADOS_INTL = [
     "zona de conflicto", "zona de guerra", "conflicto belico",
     "cese al fuego", "alto el fuego", "tregua humanitaria",
     "estallido de violencia", "toque de queda",
+    "reclutamiento", "redes de reclutamiento",
+    "redes de reclutamiento transnacional",
 ]
 
 DERECHOS_HUMANOS_INTL = [
