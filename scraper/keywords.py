@@ -13,7 +13,7 @@ CONFLICTO_ARMADO = [
     "clan del golfo", "disidencias", "disidencias de las farc", "farc",
     "eln", "ejercito de liberacion nacional", "grupo armado", "grupos armados",
     "guerrilla", "guerrillero", "paramilitar", "paramilitares",
-    "estructura armada", "gaoR", "gao", "ataque armado", "atentado",
+    "estructura armada", "gaor", "gao", "ataque armado", "atentado",
     "artefacto explosivo", "explosivos", "mina antipersona",
   "minas antipersonal", "reclutamiento forzado", "reclutamiento de menores",
     "desplazamiento forzado", "confinamiento", "secuestro", "masacre",

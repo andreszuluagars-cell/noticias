@@ -59,6 +59,20 @@ def normalizar(texto: str) -> str:
     return texto
 
 
+def _patron_palabra(palabra: str) -> re.Pattern:
+    """Compila un patrón de coincidencia de PALABRA COMPLETA (con \\b) para
+    una keyword ya normalizada.
+
+    Antes se usaba una simple comprobación de substring ("palabra in
+    texto"), pero eso produce falsos positivos con keywords cortas: por
+    ejemplo "dica" hace match dentro de palabras españolas normales como
+    "adjuDICAr", "inDICAn" o "deDICAn", sin ninguna relación con el DICA
+    (Derecho Internacional de los Conflictos Armados). Con \\b solo hace
+    match cuando la keyword aparece como palabra (o frase) completa.
+    """
+    return re.compile(r"\b" + re.escape(palabra) + r"\b")
+
+
 def clasificar_tema(texto_normalizado: str, topic_keywords: dict = None):
     """Devuelve la lista de temas que coinciden con el texto, y la lista
     de palabras clave encontradas.
@@ -76,7 +90,7 @@ def clasificar_tema(texto_normalizado: str, topic_keywords: dict = None):
     encontradas = []
     for tema, palabras in topic_keywords.items():
         for palabra in palabras:
-            if normalizar(palabra) in texto_normalizado:
+            if _patron_palabra(normalizar(palabra)).search(texto_normalizado):
                 temas.append(tema)
                 encontradas.append(palabra)
                 break
@@ -85,7 +99,7 @@ def clasificar_tema(texto_normalizado: str, topic_keywords: dict = None):
 
 def es_relevante(titulo: str, resumen: str = "") -> bool:
     texto = normalizar(f"{titulo} {resumen}")
-    return any(normalizar(p) in texto for p in ALL_KEYWORDS)
+    return any(_patron_palabra(normalizar(p)).search(texto) for p in ALL_KEYWORDS)
 
 
 def generar_id(url: str) -> str:
@@ -100,6 +114,18 @@ def parsear_fecha_rss(entry) -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def limpiar_resumen(resumen_html: str) -> str:
+    """Quita etiquetas HTML, enlaces "Leer" y píxeles de tracking que
+    algunos feeds RSS meten dentro de <summary> (p. ej. El Mundo,
+    Infobae). Si no se limpia, ese HTML crudo (URLs, atributos) se cuela
+    en el texto que usa el clasificador de palabras clave y mete ruido.
+    """
+    if not resumen_html:
+        return ""
+    texto = BeautifulSoup(resumen_html, "html.parser").get_text(" ", strip=True)
+    return texto
+
+
 def obtener_rss(fuente: dict) -> list:
     noticias = []
     try:
@@ -110,7 +136,7 @@ def obtener_rss(fuente: dict) -> list:
 
     for entry in feed.entries[:MAX_POR_FUENTE]:
         titulo = entry.get("title", "").strip()
-        resumen = entry.get("summary", "").strip()
+        resumen = limpiar_resumen(entry.get("summary", "").strip())
         link = entry.get("link", "").strip()
         if not titulo or not link:
             continue
