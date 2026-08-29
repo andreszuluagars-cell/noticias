@@ -96,9 +96,11 @@ SOURCES = [
     # acceso automatizado). Estas fuentes NO se filtran con las palabras
     # clave de conflicto/DDHH/DIH colombianas (darían demasiado ruido con
     # noticias de otros países) — se filtran solo con las listas
-    # MERCENARISMO y DICA de keywords.py, para rastrear específicamente
-    # mercenarismo colombiano y Derecho Internacional de los Conflictos
-    # Armados. Ver scraper.py.
+    # MERCENARISMO, DICA y DEBATES_NORMAS_DIH_DDHH de keywords.py, para
+    # rastrear específicamente mercenarismo (con énfasis en ciudadanos
+    # colombianos), Derecho Internacional de los Conflictos Armados, y
+    # debates/instituciones actuales sobre normas de DIH y DDHH. Ver
+    # scraper.py.
     # =======================================================================
 
     {

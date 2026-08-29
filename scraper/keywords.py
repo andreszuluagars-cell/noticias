@@ -53,9 +53,20 @@ DIH = [
 # cubren todo tipo de noticias del mundo, así que en vez de filtrarlas con
 # las listas de arriba (darían muchísimo ruido: "combates", "guerra",
 # etc. de conflictos que no tienen nada que ver con Colombia), se filtran
-# ÚNICAMENTE con estas dos listas especializadas.
+# ÚNICAMENTE con estas tres listas especializadas: mercenarismo (con
+# énfasis en ciudadanos colombianos, pero sin limitarse a ellos), DICA
+# (terminología técnica del Derecho Internacional de los Conflictos
+# Armados) y debates/instituciones actuales sobre normas de DIH y DDHH.
 
 MERCENARISMO = [
+    # Términos genéricos (mercenarismo en cualquier país, no solo Colombia)
+    "mercenario", "mercenarios", "mercenarismo",
+    "trafico de mercenarios", "utilizacion de mercenarios",
+    "grupo de trabajo sobre mercenarios", "empresas militares privadas",
+    "compañias militares privadas", "companias militares privadas",
+    "compañia militar privada", "compania militar privada",
+    "grupo wagner", "mercenarios de wagner",
+    # Énfasis específico en ciudadanos colombianos
     "mercenario colombiano", "mercenarios colombianos",
     "excombatientes colombianos", "exmilitares colombianos",
     "exmilitar colombiano", "veteranos colombianos",
@@ -65,11 +76,7 @@ MERCENARISMO = [
     "colombianos en la guerra de ucrania", "colombianos en ucrania",
     "colombianos en rusia", "colombianos en sudan", "colombianos en yemen",
     "colombianos en medio oriente", "colombianos en emiratos",
-    "trafico de mercenarios", "utilizacion de mercenarios",
-    "grupo de trabajo sobre mercenarios", "empresas militares privadas",
-    "compañias militares privadas", "companias militares privadas",
-    "wagner colombianos", "colombianos wagner",
-    "mercenarismo colombiano", "mercenarismo",
+    "wagner colombianos", "colombianos wagner", "mercenarismo colombiano",
 ]
 
 DICA = [
@@ -83,7 +90,34 @@ DICA = [
     "convenios de ginebra", "protocolos adicionales",
 ]
 
-INTERNACIONAL = MERCENARISMO + DICA
+# Debates y evolución actual de las normas de DIH y DDHH a nivel
+# internacional: instituciones, tratados, reformas y discusiones sobre
+# las reglas mismas — no cobertura genérica de violaciones puntuales en
+# cualquier conflicto del mundo (eso seguiría dando demasiado ruido).
+DEBATES_NORMAS_DIH_DDHH = [
+    "derecho internacional humanitario", "dih",
+    "reforma del derecho internacional humanitario",
+    "debate sobre derecho internacional humanitario",
+    "crisis del derecho internacional humanitario",
+    "aplicacion del derecho internacional humanitario",
+    "violaciones al derecho internacional humanitario",
+    "corte internacional de justicia",
+    "consejo de derechos humanos de la onu",
+    "consejo de derechos humanos de las naciones unidas",
+    "alto comisionado de la onu para los derechos humanos",
+    "alto comisionado de las naciones unidas para los derechos humanos",
+    "acnudh", "oficina de la onu para los derechos humanos",
+    "relator especial de la onu", "relatora especial de la onu",
+    "examen periodico universal",
+    "declaracion universal de derechos humanos",
+    "tratado de derechos humanos", "convencion de derechos humanos",
+    "sistema interamericano de derechos humanos",
+    "corte interamericana de derechos humanos", "cidh",
+    "genocidio", "limpieza etnica",
+    "debate sobre derechos humanos", "reforma de derechos humanos",
+]
+
+INTERNACIONAL = MERCENARISMO + DICA + DEBATES_NORMAS_DIH_DDHH
 
 # Diccionario usado por el scraper para clasificar cada noticia por tema.
 # "Internacional" solo se evalúa para fuentes con region="internacional"
