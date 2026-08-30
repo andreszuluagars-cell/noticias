@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-08-29T18:48:12.901046+00:00",
+  "generado_en": "2026-08-30T10:35:38.540607+00:00",
   "total_revisadas": 249,
-  "total_relevantes": 15,
+  "total_relevantes": 17,
   "noticias": [
     {
       "id": "2ec325ee84ea",
@@ -11,28 +11,12 @@
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-08-29T18:48:12.788046+00:00",
+      "fecha": "2026-08-30T10:35:38.376341+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
         "guerra en ucrania"
-      ]
-    },
-    {
-      "id": "37d881fb5442",
-      "titulo": "Triple ataque simultáneo con drones explosivos sacude Norte de Santander",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/triple-ataque-simultaneo-con-drones-explosivos-sacude-norte-de-santander",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-08-29T18:48:09.871090+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
       ]
     },
     {
@@ -43,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:09.139660+00:00",
+      "fecha": "2026-08-30T10:35:35.387516+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:09.139570+00:00",
+      "fecha": "2026-08-30T10:35:35.387379+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:09.139547+00:00",
+      "fecha": "2026-08-30T10:35:35.387345+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +75,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:08.897338+00:00",
+      "fecha": "2026-08-30T10:35:35.108367+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +91,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:08.897310+00:00",
+      "fecha": "2026-08-30T10:35:35.108330+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,19 +100,35 @@
       ]
     },
     {
-      "id": "6d12bc198a07",
-      "titulo": "Esto se sabe del secuestro de soldado colombo-francés que habrían cometido disidencias",
+      "id": "ca8a592ea1c8",
+      "titulo": "Dos conductores de bus en Medellín fueron sorprendidos con componentes para tussi y equipos que activan explosivos",
       "resumen": "",
-      "url": "https://elespectador.com/judicial/esto-se-sabe-del-secuestro-de-soldado-colombo-frances-que-habrian-cometido-disidencias-de-las-farc-en-narino/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/dos-conductores-de-bus-en-medellin-fueron-sorprendidos-con-componentes-para-tussi-y-equipos-que-activan-explosivos/202633/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:08.454724+00:00",
+      "fecha": "2026-08-30T10:35:35.108257+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "explosivos"
+      ]
+    },
+    {
+      "id": "a5b42bbcbebd",
+      "titulo": "Operación Diamante deja 111 capturados por extorsión y secuestro en 15 acciones simultáneas en el país",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/operacion-diamante-deja-111-capturados-por-extorsion-y-secuestro-en-15-acciones-simultaneas-en-el-pais/202639/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-30T10:35:35.108234+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
       ]
     },
     {
@@ -139,12 +139,44 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-29T18:48:08.454695+00:00",
+      "fecha": "2026-08-30T10:35:34.779610+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
+      ]
+    },
+    {
+      "id": "93267333162e",
+      "titulo": "Violencia sexual y torturas: el terror paramilitar que revela la condena al “Negro Jiménez”",
+      "resumen": "",
+      "url": "https://elespectador.com/judicial/violencia-sexual-y-torturas-el-terror-paramilitar-que-revela-la-condena-al-negro-jimenez/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-08-30T10:35:34.779549+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitar"
+      ]
+    },
+    {
+      "id": "b1ae1836ca66",
+      "titulo": "La llamada de Cara, la australiana dada por desaparecida que escapa a pie del caos entre Tíbet y Nepal",
+      "resumen": "Entre el lodo y los miles de desaparecidos por las riadas en el Himalaya, los rescatistas hallan a los primeros supervivientes mientras la crisis humanitaria se agrava y las morgues colapsan Leer",
+      "url": "https://www.elmundo.es/internacional/2026/08/28/6a91b135e9cf4a55098b4571.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-08-28T20:42:26+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "crisis humanitaria"
       ]
     },
     {
