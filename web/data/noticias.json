@@ -1,33 +1,17 @@
 {
-  "generado_en": "2026-08-30T10:35:38.540607+00:00",
-  "total_revisadas": 249,
-  "total_relevantes": 17,
+  "generado_en": "2026-08-31T10:35:19.254352+00:00",
+  "total_revisadas": 250,
+  "total_relevantes": 22,
   "noticias": [
     {
-      "id": "2ec325ee84ea",
-      "titulo": "Guerra en Ucrania: Al menos 37 muertos en un ataque ruso a un depósito cerca de Kiev",
+      "id": "9fb6ce93f3be",
+      "titulo": "El historial de Griffo en Norte de Santander, el presunto integrante del Eln que se habría intentado infiltrar en el Ejército",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-kiev-al-menos-37-muertos-en-un-ataque-ruso-a-un-deposito-cerca-de-la-capital-volodymyr-zelensky-vladimir-putin-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-08-30T10:35:38.376341+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra en ucrania"
-      ]
-    },
-    {
-      "id": "d537aad1dfff",
-      "titulo": "¿Si no fue el Eln, quién puso grafitis de esa organización y quemó un bus en la vía La Unión-Nariño, en Antioquia?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/quema-bus-grafitis-eln-farc-disidencias-conflicto-armado-oriente-antioqueno-AD40346314",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/el-historial-de-griffo-en-norte-de-santander-el-presunto-integrante-del-eln-que-se-habria",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.387516+00:00",
+      "fecha": "2026-08-31T10:35:16.188667+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,78 +20,46 @@
       ]
     },
     {
-      "id": "c3fdbafab94d",
-      "titulo": "Un muerto dejó combates en el Oriente antiqueño: estaría relacionado con bus quemado en la vía La Unión-Sonsón",
+      "id": "25e0a1b00613",
+      "titulo": "¿Intento de robo o sicariato? Las hipótesis del ataque armado contra Brandon en Cúcuta",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/combates-la-union-antioquia-dejan-muerto-el-mesa-antioquia-OB40367845",
+      "url": "https://laopinion.co/judicial/intento-de-robo-o-sicariato-las-hipotesis-del-ataque-armado-contra-brandon-en-cucuta",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:16.188622+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque armado"
+      ]
+    },
+    {
+      "id": "bff74a18ceee",
+      "titulo": "De la Espriella cierra mesas de diálogo de la “Paz Total” con ‘Calarcá’ y otros dos grupos armados",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/de-la-espriella-cierra-mesas-dialogo-paz-total-calarca-grupos-armados-DC40429947",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.387379+00:00",
+      "fecha": "2026-08-31T10:35:15.366310+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "grupos armados"
       ]
     },
     {
-      "id": "14a00367e1e9",
-      "titulo": "Cayó alias Urías Perdomo, mano derecha de Calarcá y gestor de paz en gobierno Petro",
+      "id": "526d5a09680b",
+      "titulo": "Soldados neutralizaron a disparos un dron cargado con explosivos en Puerto Saldaña, Tolima: investigan su origen",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-urias-perdomo-mano-derecha-calarca-muerto-guaviare-BA40376061",
+      "url": "https://elcolombiano.com/colombia/soldados-derriban-disparos-dron-cargado-explosivos-puerto-saldana-tolima-investigan-origen-ID40433685",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.387345+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "gestor de paz"
-      ]
-    },
-    {
-      "id": "22c2bffe026d",
-      "titulo": "Golpe al ELN en Cesar: autoridades capturaron cuatro integrantes del frente Camilo Torres",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-al-eln-en-cesar-autoridades-capturaron-cuatro-integrantes-del-frente-camilo-torres/202642/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.108367+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "bd85d5f78dec",
-      "titulo": "Clan del Golfo secuestra a cuatro personas en Anorí, Antioquia: entre ellas se encuentra el presidente de la JAC",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/clan-del-golfo-secuestra-a-cuatro-personas-en-anori-antioquia-entre-ellas-se-encuentra-el-presidente-de-la-jac/202626/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.108330+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "ca8a592ea1c8",
-      "titulo": "Dos conductores de bus en Medellín fueron sorprendidos con componentes para tussi y equipos que activan explosivos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/dos-conductores-de-bus-en-medellin-fueron-sorprendidos-con-componentes-para-tussi-y-equipos-que-activan-explosivos/202633/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.108257+00:00",
+      "fecha": "2026-08-31T10:35:15.366286+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,19 +68,117 @@
       ]
     },
     {
-      "id": "a5b42bbcbebd",
-      "titulo": "Operación Diamante deja 111 capturados por extorsión y secuestro en 15 acciones simultáneas en el país",
+      "id": "636b53f8d660",
+      "titulo": "Clan del Golfo secuestró a tres jóvenes y a líder social en Anorí, Antioquia; uno ya fue liberado",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/operacion-diamante-deja-111-capturados-por-extorsion-y-secuestro-en-15-acciones-simultaneas-en-el-pais/202639/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/antioquia/clan-del-golfo-secuestro-a-tres-jovenes-y-a-lider-social-en-anori-antioquia-uno-ya-fue-liberado-AE40443074",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-30T10:35:35.108234+00:00",
+      "fecha": "2026-08-31T10:35:15.366205+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "clan del golfo",
+        "lider social"
+      ]
+    },
+    {
+      "id": "f449fdba8cbb",
+      "titulo": "Exclusivo | Fiscalía supo que grupo de escoltas de Miguel Uribe podían ser cómplices 46 días después del atentado",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/miguel-uribe-turbay-escoltas-unp-complicidad-fiscalia-46-dias-atentado-LD40433668",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:15.366179+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "secuestro"
+        "atentado"
+      ]
+    },
+    {
+      "id": "9965e19ca9de",
+      "titulo": "Con drones explosivos, atacaron camión y estación de Policía en Tolima",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/con-drones-explosivos-atacaron-camion-y-estacion-de-policia-en-tolima-OF40454129",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:15.366136+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "7acdbbd905a6",
+      "titulo": "Golpe a las disidencias de alias Iván Mordisco: fue dado de baja cabecilla responsable de múltiples ataques a la Fuerza Pública",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/golpe-a-las-disidencias-de-alias-ivan-mordisco-fue-dado-de-baja-cabecilla-responsable-de-multiples-ataques-a-la-fuerza-publica/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:14.973497+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "be99b08ebc14",
+      "titulo": "Liberan a presidente de Junta de Acción Comunal secuestrado en Anorí: De La Espriella lanza advertencia al Clan del Golfo",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/liberan-a-presidente-de-junta-de-accion-comunal-secuestrado-en-anori-de-la-espriella-lanza-advertencia-al-clan-del-golfo/202601/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:14.973431+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "7749ba0ae089",
+      "titulo": "Caso Miguel Uribe Turbay: Fiscalía conoció 46 días después que grupo de escoltas podría estar involucrado en el atentado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/caso-miguel-uribe-turbay-fiscalia-conocio-46-dias-despues-que-grupo-de-escoltas-podria-estar-involucrado-en-el-atentado/202645/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:14.973348+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "d3a65fa1355b",
+      "titulo": "Disidencias de las Farc confirman que tienen en su poder a militar colombiano del Ejército francés: lanzó fuerte advertencia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/disidencias-de-las-farc-confirman-que-tienen-en-su-poder-a-militar-colombiano-del-ejercito-frances-lanzo-fuerte-advertencia/202602/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-08-31T10:35:14.973266+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -139,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-30T10:35:34.779610+00:00",
+      "fecha": "2026-08-31T10:35:14.421968+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-30T10:35:34.779549+00:00",
+      "fecha": "2026-08-31T10:35:14.421940+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -164,35 +214,67 @@
       ]
     },
     {
-      "id": "b1ae1836ca66",
-      "titulo": "La llamada de Cara, la australiana dada por desaparecida que escapa a pie del caos entre Tíbet y Nepal",
-      "resumen": "Entre el lodo y los miles de desaparecidos por las riadas en el Himalaya, los rescatistas hallan a los primeros supervivientes mientras la crisis humanitaria se agrava y las morgues colapsan Leer",
-      "url": "https://www.elmundo.es/internacional/2026/08/28/6a91b135e9cf4a55098b4571.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-08-28T20:42:26+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "crisis humanitaria"
-      ]
-    },
-    {
-      "id": "a7ae40e1c45f",
-      "titulo": "Tres militares heridos y un perro antiexplosivos muerto dejó ataque con drones del Eln en zona rural de Sipí, Chocó",
-      "resumen": "Uniformados adelantaban una operación en una zona donde el Eln y el ‘clan del Golfo’ mantienen disputa por una ruta del narcotráfico y minería ilegal.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tres-militares-heridos-y-un-canino-muerto-dejo-ataque-con-drones-del-eln-en-zona-rural-de-sipi-choco-3581863",
+      "id": "7d4406443d01",
+      "titulo": "Ministerio de Defensa se pronunció por la muerte de tres menores de edad tras bombardeo contra grupo armado en El Retorno, Guaviare",
+      "resumen": "La entidad anunció una estrategia con la Fiscalía y otras autoridades para proteger a niños y adolescentes y sancionar a quienes los recluten.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ministerio-de-defensa-se-pronuncio-por-la-muerte-de-tres-menores-de-edad-tras-bombardeo-contra-grupo-armado-en-el-retorno-guaviare-3582290",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-08-28T17:28:50+00:00",
+      "fecha": "2026-08-31T07:31:19+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "grupo armado"
+      ]
+    },
+    {
+      "id": "4cd3aca9474d",
+      "titulo": "Capturan en Cali a dos hermanos señalados de liderar una red de narcotráfico con nexos con las disidencias de ‘Mordisco’",
+      "resumen": "Habrían construido una cadena criminal para coordinar la fabricación y distribución de cocaína con destino a Estados Unidos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-cali-a-dos-hermanos-senalados-de-liderar-una-red-de-narcotrafico-con-nexos-con-las-disidencias-de-mordisco-3582246",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-30T23:24:50+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "336af193c1fb",
+      "titulo": "A 30 años de la toma de Las Delicias, piden atención urgente para los soldados que sobrevivieron al ataque",
+      "resumen": "La Jurisdicción Especial para la Paz (JEP) ya estudia esta solicitud.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/a-30-anos-de-la-toma-de-las-delicias-piden-atencion-urgente-para-los-soldados-que-sobrevivieron-al-ataque-3582213",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-08-30T17:32:30+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "8909a7422d38",
+      "titulo": "Presidente Abelardo De La Espriella anunció 'golpe contundente' a las disidencias de 'Iván Mordisco' en el Valle del Cauca",
+      "resumen": "Según el mandatario, alias 'Felipe' o 'Arcadio' fue dado de baja y estaría relacionado con acciones violentas en el departamento.",
+      "url": "https://www.eltiempo.com/justicia/delitos/presidente-abelardo-de-la-espriella-informo-del-golpe-contundente-a-las-disidencias-de-ivan-mordisco-en-el-valle-del-cauca-3582203",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-08-30T15:56:32+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
