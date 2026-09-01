@@ -1,8 +1,40 @@
 {
-  "generado_en": "2026-08-31T10:35:19.254352+00:00",
-  "total_revisadas": 250,
-  "total_relevantes": 22,
+  "generado_en": "2026-09-01T10:41:17.859720+00:00",
+  "total_revisadas": 251,
+  "total_relevantes": 28,
   "noticias": [
+    {
+      "id": "62c9a29fb933",
+      "titulo": "“Geopolítica de la dispersión: por qué Sudamérica debilita el frente ucraniano”, por Irma Montes Patiño",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/actualidad/geopolitica-de-la-dispersion-por-que-sudamerica-debilita-el-frente-ucraniano-por-irma-montes-patino-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-09-01T10:41:17.692784+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "frente ucraniano"
+      ]
+    },
+    {
+      "id": "d38b8152bafc",
+      "titulo": "Guerra en Ucrania: Cuatro muertos en ataque ruso contra Kiev y sus alrededores",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-cuatro-muertos-en-ataque-ruso-contra-kiev-y-sus-alrededores-borispil-volodymyr-zelensky-vladimir-putin-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-09-01T10:41:17.692635+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
+      ]
+    },
     {
       "id": "9fb6ce93f3be",
       "titulo": "El historial de Griffo en Norte de Santander, el presunto integrante del Eln que se habría intentado infiltrar en el Ejército",
@@ -11,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:16.188667+00:00",
+      "fecha": "2026-09-01T10:41:14.256469+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,12 +59,28 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:16.188622+00:00",
+      "fecha": "2026-09-01T10:41:14.256436+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "ataque armado"
+      ]
+    },
+    {
+      "id": "8c1c9113e3db",
+      "titulo": "Atacan con explosivos a la estación de Policía de Los Patios",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/atacan-con-explosivos-la-estacion-de-policia-de-los-patios",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-01T10:41:14.256324+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
       ]
     },
     {
@@ -43,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:15.366310+00:00",
+      "fecha": "2026-09-01T10:41:13.440891+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:15.366286+00:00",
+      "fecha": "2026-09-01T10:41:13.440858+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +123,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:15.366205+00:00",
+      "fecha": "2026-09-01T10:41:13.440754+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
@@ -93,7 +141,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:15.366179+00:00",
+      "fecha": "2026-09-01T10:41:13.440721+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -109,7 +157,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:15.366136+00:00",
+      "fecha": "2026-09-01T10:41:13.440686+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -118,83 +166,51 @@
       ]
     },
     {
-      "id": "7acdbbd905a6",
-      "titulo": "Golpe a las disidencias de alias Iván Mordisco: fue dado de baja cabecilla responsable de múltiples ataques a la Fuerza Pública",
+      "id": "f1e40bb47f03",
+      "titulo": "Exjefe paramilitar Salvatore Mancuso será entrevistado en proceso contra Álvaro Uribe por masacres en Ituango",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-a-las-disidencias-de-alias-ivan-mordisco-fue-dado-de-baja-cabecilla-responsable-de-multiples-ataques-a-la-fuerza-publica/202632/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/salvatore-mancuso-entrevista-fiscalia-expediente-contra-alvaro-uribe-masacres-el-aro-la-granja-PG40460843",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:14.973497+00:00",
+      "fecha": "2026-09-01T10:41:13.440649+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "paramilitar"
       ]
     },
     {
-      "id": "be99b08ebc14",
-      "titulo": "Liberan a presidente de Junta de Acción Comunal secuestrado en Anorí: De La Espriella lanza advertencia al Clan del Golfo",
+      "id": "ac95c974d3ac",
+      "titulo": "“De La Espriella eliminó esa vagabundería”: Salud Hernández-Mora habla de alias Silvana Guerrero y la nueva ofensiva contra el ELN",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/liberan-a-presidente-de-junta-de-accion-comunal-secuestrado-en-anori-de-la-espriella-lanza-advertencia-al-clan-del-golfo/202601/",
+      "url": "https://semana.com/nacion/articulo/de-la-espriella-elimino-esa-vagabunderia-salud-hernandez-mora-habla-de-alias-silvana-guerrero-y-la-nueva-ofensiva-contra-el-eln/202622/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:14.973431+00:00",
+      "fecha": "2026-09-01T10:41:12.994601+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "c327b0432fc9",
+      "titulo": "Cayó alias Perjuicio, señalado jefe de sicarios del Clan del Golfo en el suroeste antioqueño",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/cayo-alias-perjuicio-senalado-jefe-de-sicarios-del-clan-del-golfo-en-el-suroeste-antioqueno/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-01T10:41:12.994514+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "7749ba0ae089",
-      "titulo": "Caso Miguel Uribe Turbay: Fiscalía conoció 46 días después que grupo de escoltas podría estar involucrado en el atentado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/caso-miguel-uribe-turbay-fiscalia-conocio-46-dias-despues-que-grupo-de-escoltas-podria-estar-involucrado-en-el-atentado/202645/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-31T10:35:14.973348+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "d3a65fa1355b",
-      "titulo": "Disidencias de las Farc confirman que tienen en su poder a militar colombiano del Ejército francés: lanzó fuerte advertencia",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/disidencias-de-las-farc-confirman-que-tienen-en-su-poder-a-militar-colombiano-del-ejercito-frances-lanzo-fuerte-advertencia/202602/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-08-31T10:35:14.973266+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "88d8c6c5d7d6",
-      "titulo": "Gobierno canceló diálogos con disidencias de “Calarcá” y otros dos grupos: esta es la orden",
-      "resumen": "",
-      "url": "https://elespectador.com/politica/gobierno-de-la-espriella-cancelo-mesas-de-dialogo-con-disidencias-de-calarca-y-otros-dos-grupos-esta-es-la-orden/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-08-31T10:35:14.421968+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
@@ -205,12 +221,140 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-08-31T10:35:14.421940+00:00",
+      "fecha": "2026-09-01T10:41:12.472340+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "paramilitar"
+      ]
+    },
+    {
+      "id": "2f6d06769bd2",
+      "titulo": "Gobierno usa la diplomacia y el acuerdo de paz para darle forma a su política de seguridad",
+      "resumen": "",
+      "url": "https://elespectador.com/politica/gobierno-usa-la-diplomacia-y-el-acuerdo-de-paz-para-darle-forma-a-su-politica-de-seguridad/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-01T10:41:12.472283+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "f1ab45ccc0d8",
+      "titulo": "Así es la pelea del Eln y la ‘Segunda Marquetalia’ por el oro ilegal de Guainía",
+      "resumen": "Entre 2025 y 2026, las autoridades registraron 13 capturas relacionadas con tráfico de metales preciosos y lavado de activos. Esto se sabe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-es-la-pelea-del-eln-y-la-segunda-marquetalia-por-el-oro-ilegal-de-guainia-3582337",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-01T02:49:53+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "80038572a047",
+      "titulo": "Esta es la razón por la cual un cuerpo sigue sin identificar tras bombardeo contra grupo armado en El Retorno, Guaviare: Medicina Legal dio detalles",
+      "resumen": "Se trata del segundo operativo aéreo del gobierno de Abelardo De La Espriella desde que asumió el poder.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esta-es-la-razon-por-la-cual-un-cuerpo-sigue-sin-identificar-tras-bombardeo-contra-grupo-armado-en-el-retorno-guaviare-medicina-legal-dio-detalles-3582525",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-31T23:59:18+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupo armado"
+      ]
+    },
+    {
+      "id": "25d2630b8924",
+      "titulo": "En 24 días de Gobierno, estas son las contundentes cifras que reporta la Fuerza Pública de afectaciones contra estructuras armadas",
+      "resumen": "Se reportaron 702 capturas; además, se registran incautaciones de armas, explosivos y municiones, así como operaciones contra la minería ilegal.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/en-24-dias-de-gobierno-estas-son-las-contundentes-cifras-que-reporta-la-fuerza-publica-de-afectaciones-contra-estructuras-armadas-3582428",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-31T22:21:51+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "eed1aae3ef27",
+      "titulo": "El reto del Gobierno de Abelardo De La Espriella para lanzar 12 operaciones de bombardeo antes de cumplir los 100 días",
+      "resumen": "En lo que va del nuevo Gobierno han sido lanzadas tres operaciones aéreas contra el Eln y las disidencias de las Farc. La meta es de 15 operaciones.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-reto-del-gobierno-de-abelardo-de-la-espriella-para-lanzar-12-operaciones-de-bombardeo-antes-de-cumplir-los-100-dias-3582395",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-31T16:20:19+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "c287a66bcd8f",
+      "titulo": "Un menor de edad murió en el primer bombardeo del gobierno de De La Espriella contra el Eln en Catatumbo",
+      "resumen": "En total fueron ocho personas las que cayeron en el ataque aéreo ordenado a inicios de agosto. En la operación en el Guaviare murieron tres menores.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/un-menor-de-edad-murio-en-el-primer-bombardeo-del-gobierno-de-de-la-espriella-contra-el-eln-en-catatumbo-3582392",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-31T16:06:37+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "3f3f7b0e33d9",
+      "titulo": "Disidencias de las Farc confirmaron el secuestro en Nariño del soldado colombo-francés José Melo Charry de la Legión Extranjera: 'Está vivo'",
+      "resumen": "El Ejército colombiano sospecha que Melo permanece junto a algunos agentes que han sido secuestrados en una montaña.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/disidencias-de-las-farc-confirmaron-el-secuestro-del-soldado-colombiano-jose-melo-charry-de-la-legion-francesa-esta-vivo-3582299",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-31T15:11:54+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "4d62abad764c",
+      "titulo": "Así fue la operación de bombardeo contra las disidencias en Guaviare: aeronaves atacaron estructuras enfrentadas de ‘Mordisco’ y ‘Calarcá’",
+      "resumen": "Fuentes señalaron que el resultado anunciado hace parte del despliegue aéreo ejecutado contra estructuras que sostenían una confrontación armada.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-la-operacion-de-bombardeo-contra-las-disidencias-en-guaviare-aeronaves-atacaron-estructuras-enfrentadas-de-mordisco-y-calarca-3582360",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-08-31T14:37:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -238,38 +382,6 @@
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
       "fecha": "2026-08-30T23:24:50+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "336af193c1fb",
-      "titulo": "A 30 años de la toma de Las Delicias, piden atención urgente para los soldados que sobrevivieron al ataque",
-      "resumen": "La Jurisdicción Especial para la Paz (JEP) ya estudia esta solicitud.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/a-30-anos-de-la-toma-de-las-delicias-piden-atencion-urgente-para-los-soldados-que-sobrevivieron-al-ataque-3582213",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-08-30T17:32:30+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "8909a7422d38",
-      "titulo": "Presidente Abelardo De La Espriella anunció 'golpe contundente' a las disidencias de 'Iván Mordisco' en el Valle del Cauca",
-      "resumen": "Según el mandatario, alias 'Felipe' o 'Arcadio' fue dado de baja y estaría relacionado con acciones violentas en el departamento.",
-      "url": "https://www.eltiempo.com/justicia/delitos/presidente-abelardo-de-la-espriella-informo-del-golpe-contundente-a-las-disidencias-de-ivan-mordisco-en-el-valle-del-cauca-3582203",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-08-30T15:56:32+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -339,22 +451,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "a44c28b4c839",
-      "titulo": "Rodrigo Londoño certifica su regreso a Colombia ante la JEP y apaga el ruido tras su viaje a España",
-      "resumen": "Su salida del paìs había causado polémica y hasta llevó al presidente electo a decir que buscaría llevarlo a la cárcel.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/rodrigo-londono-certifica-su-regreso-a-colombia-ante-la-jep-y-apaga-el-ruido-ante-su-viaje-a-espana-3571084",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-07-14T16:16:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
       ]
     }
   ]
