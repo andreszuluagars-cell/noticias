@@ -1,86 +1,22 @@
 {
-  "generado_en": "2026-09-02T10:39:40.785588+00:00",
+  "generado_en": "2026-09-03T10:39:30.866846+00:00",
   "total_revisadas": 249,
-  "total_relevantes": 25,
+  "total_relevantes": 24,
   "noticias": [
     {
-      "id": "25e0a1b00613",
-      "titulo": "¿Intento de robo o sicariato? Las hipótesis del ataque armado contra Brandon en Cúcuta",
+      "id": "dae01d24bab7",
+      "titulo": "Atentado con carro bomba contra estación de Policía en Los Patios dejó un muerto y 11 heridos",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/intento-de-robo-o-sicariato-las-hipotesis-del-ataque-armado-contra-brandon-en-cucuta",
+      "url": "https://laopinion.co/judicial/atentado-con-carro-bomba-contra-estacion-de-policia-en-los-patios-dejo-un-muerto-y-11",
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-02T10:39:38.009777+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
-    {
-      "id": "08122b4a2509",
-      "titulo": "Carro bomba frente a estación de Policía en Los Patios habría sido ejecutado por el ELN",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-atentado-carro-bomba-contra-policias-los-patios-DB40508812",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-02T10:39:37.426710+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "66445f8efc91",
-      "titulo": "Tras atentado a estación policial de Los Patios, ya son 7 sedes de Fuerza Pública atacadas en el nuevo gobierno",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/terrorismo-ataques-bases-militares-estaciones-policia-gobierno-abelardo-espriella-IB40509067",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-02T10:39:37.426680+00:00",
+      "fecha": "2026-09-03T10:39:27.767862+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "atentado"
-      ]
-    },
-    {
-      "id": "af3f1453afaa",
-      "titulo": "Operativo contra el Clan del Golfo en Andes deja muerto a presunto jefe de sicarios",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/operativo-alias-perjuicio-jefe-sicarios-clan-golfo-andes-antioquia-CD40524897",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-02T10:39:37.426651+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "9bcb08cb3c1f",
-      "titulo": "Estos son los cabecillas del ELN por los que ofrecen millonarias recompensas tras atentado en Norte de Santander",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-estos-son-los-cabecillas-de-ese-grupo-armado-tras-atentado-con-carro-bomba-GC40532747",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-02T10:39:37.426588+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
       ]
     },
     {
@@ -91,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-02T10:39:37.426473+00:00",
+      "fecha": "2026-09-03T10:39:27.289944+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,51 +36,83 @@
       ]
     },
     {
-      "id": "92055883f98d",
-      "titulo": "En España fue detenido alias Pirry, señalado de ordenar la masacre de siete personas en Rionegro, Antioquia",
+      "id": "3deadee1dc71",
+      "titulo": "Así planeaba el ELN un segundo atentado en Norte de Santander: Ejército frustró ataque con carro bomba",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/en-espana-fue-detenido-alias-pirry-senalado-de-ordenar-la-masacre-de-siete-personas-en-rionegro-antioquia/202602/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/abelardo-de-la-espriella-atentado-terrorista-cucuta-carro-bomba-GE40559825",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-02T10:39:34.147882+00:00",
+      "fecha": "2026-09-03T10:39:27.289845+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "masacre"
+        "eln"
       ]
     },
     {
-      "id": "26b96ab37c09",
-      "titulo": "Terremoto, vendaval y ahora desplazamiento por combates y ataques con drones entre ELN y Clan del Golfo: los males de Sipí, Chocó",
+      "id": "36c3db979059",
+      "titulo": "Secuestro en Anorí terminó en tragedia: cuatro fueron liberados, tres aparecieron muertos y una joven sigue desaparecida",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/terremoto-vendaval-y-ahora-desplazamiento-por-combates-y-ataques-con-drones-entre-eln-y-clan-del-golfo-los-males-de-sipi-choco/202656/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/antioquia/secuestro-anori-cuatro-liberados-tres-muertos-joven-desaparecida-que-paso-CH40561131",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-02T10:39:34.147627+00:00",
+      "fecha": "2026-09-03T10:39:27.289814+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "secuestro"
       ]
     },
     {
-      "id": "93267333162e",
-      "titulo": "Violencia sexual y torturas: el terror paramilitar que revela la condena al “Negro Jiménez”",
+      "id": "b68be239016f",
+      "titulo": "Alarma por ola de violencia: Colombia suma 204 atentados con explosivos en 2026",
       "resumen": "",
-      "url": "https://elespectador.com/judicial/violencia-sexual-y-torturas-el-terror-paramilitar-que-revela-la-condena-al-negro-jimenez/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://elcolombiano.com/colombia/colombia-cifra-atentados-explosivos-2026-ola-violencia-EH40565735",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-02T10:39:33.900432+00:00",
+      "fecha": "2026-09-03T10:39:27.289780+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "paramilitar"
+        "explosivos"
+      ]
+    },
+    {
+      "id": "26a44e66696c",
+      "titulo": "La Fiscalía logró una medida de aseguramiento en contra de alias Calarcá, cabecilla de las disidencias de las Farc",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-fiscalia-logro-una-medida-de-aseguramiento-en-contra-de-alias-calarca-cabecilla-de-las-disidencias-de-las-farc/202625/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-03T10:39:26.995922+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "666bd3fd5c00",
+      "titulo": "Kiko Gómez rechazó señalamientos que lo vinculan con un atentado a un procurador y amenazas a magistrados",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/kiko-gomez-rechazo-senalamientos-que-lo-vinculan-con-un-atentado-a-un-procurador-y-amenazas-a-magistrados/202634/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-03T10:39:26.995766+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
       ]
     },
     {
@@ -155,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-02T10:39:33.900402+00:00",
+      "fecha": "2026-09-03T10:39:26.575325+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -164,30 +132,82 @@
       ]
     },
     {
-      "id": "dae110e71fc9",
-      "titulo": "El país completa 204 atentados con explosivos en 2026: el carro bomba de Los Patios, Cúcuta, endurece ofensiva contra el Eln",
-      "resumen": "Inteligencia revisa las redes urbanas y los movimientos fronterizos de la guerrilla. Se lanzó millonaria recompensa por jefes 'elenos'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-pais-completa-204-atentados-con-explosivos-en-2026-el-carro-bomba-de-los-patios-cucuta-endurece-ofensiva-contra-el-eln-3582818",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "id": "c6a634f2ba67",
+      "titulo": "“La negociación no es debilidad”: Santos en el marco de los 10 años del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://elespectador.com/politica/la-negociacion-no-es-debilidad-juan-manuel-santos-en-el-marco-de-los-10-anos-del-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-02T03:20:00+00:00",
+      "fecha": "2026-09-03T10:39:26.575256+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "acuerdo de paz"
       ]
     },
     {
-      "id": "bd90f1da44d0",
-      "titulo": "Fiscalía reactiva orden de captura contra alias Calarcá y otros cabecillas de las disidencias",
-      "resumen": "Alexander Díaz es uno de los principales responsables de las oleadas terroristas que atraviesa el país.",
-      "url": "https://www.eltiempo.com/justicia/delitos/atencion-fiscalia-reactiva-orden-de-captura-contra-alias-calarca-y-otros-cabecillas-de-las-disidencias-3582757",
+      "id": "2a3201dc1512",
+      "titulo": "Colombia será investigada internacionalmente por un ‘falso positivo’ reclutado y abandonado en Samaná, Caldas: CIDH abre expediente",
+      "resumen": "La CIDH admitió el caso de Bianey Peña Manco, campesino de Samaná ejecutado en 2006 y presentado como guerrillero muerto en combate.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/colombia-sera-investigada-internacionalmente-por-un-falso-positivo-reclutado-y-abandonado-en-samana-caldas-cidh-abre-expediente-3582883",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-01T22:59:11+00:00",
+      "fecha": "2026-09-03T02:01:00+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "cidh",
+        "guerrillero"
+      ]
+    },
+    {
+      "id": "9abdf6f26abc",
+      "titulo": "Corte niega impedimento y juicio contra Piedad Zuccardi por presuntos nexos con paramilitares entra en recta final",
+      "resumen": "El expediente regresó a la Corte Suprema en 2025, luego de que la JEP rechazara su sometimiento por falta de aportes significativos a la verdad.",
+      "url": "https://www.eltiempo.com/justicia/cortes/corte-niega-impedimento-y-juicio-contra-piedad-zuccardi-por-presuntos-nexos-con-paramilitares-entra-en-recta-final-3583095",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-02T21:57:07+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitares"
+      ]
+    },
+    {
+      "id": "2e55d1377a40",
+      "titulo": "A ‘Calarcá’ le cierran el cerco judicial: ordenan cárcel por homicidios de firmantes de paz, tortura, desaparición y reclutamiento de una menor",
+      "resumen": "Según la Fiscalía, habría impartido órdenes para ejecutar diferentes acciones criminales en Meta, Guaviare, Caquetá y Huila.",
+      "url": "https://www.eltiempo.com/justicia/delitos/a-calarca-le-cierran-el-cerco-judicial-ordenan-carcel-por-homicidios-de-firmantes-de-paz-tortura-desaparicion-y-reclutamiento-de-una-menor-3583092",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-02T21:56:50+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "reclutamiento",
+        "tortura"
+      ]
+    },
+    {
+      "id": "e0ba303097c9",
+      "titulo": "¿Por qué la operación de bombardeo contra ‘Iván Mordisco’ en Guaviare supone el mayor golpe contra un grupo armado en 11 años?",
+      "resumen": "El presidente informó que 23 integrantes de las disidencias murieron en Miraflores. Otros seis fueron capturados y un menor fue recuperado.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/por-que-la-operacion-de-bombardeo-contra-ivan-mordisco-en-guaviare-supone-el-mayor-golpe-contra-un-grupo-armado-en-11-anos-3582986",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-02T21:33:15+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -196,19 +216,19 @@
       ]
     },
     {
-      "id": "934cc1ebbdb0",
-      "titulo": "Gobierno va tras cabecillas del Eln después del carro bomba que estalló en estación de Policía en Cúcuta",
-      "resumen": "'Iiremos tras quienes generan violencia', dijo el comandate de las Fuerzas Militares en la reunión de seguridad.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-va-tras-cabecillas-del-eln-despues-del-carro-bomba-que-ataco-estacion-de-policia-en-cucuta-3582802",
+      "id": "f8efe408a7ba",
+      "titulo": "Dos capturas en Pereira ponen la lupa sobre las conexiones del ‘clan del Golfo’, ‘la Cordillera’ y el PCC de Brasil",
+      "resumen": "Dos operaciones del Bloque de Búsqueda en la capital de Risaralda permitieron ubicar a dos hombres requeridos por la justicia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-capturas-en-pereira-ponen-la-lupa-sobre-las-conexiones-del-clan-del-golfo-la-cordillera-y-el-pcc-de-brasil-3583062",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-01T22:45:27+00:00",
+      "fecha": "2026-09-02T20:41:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "clan del golfo"
       ]
     },
     {
@@ -219,7 +239,7 @@
       "fuente": "El Mundo",
       "seccion": "Internacional (España)",
       "region": "internacional",
-      "fecha": "2026-09-01T20:43:52+00:00",
+      "fecha": "2026-09-02T18:36:07+00:00",
       "temas": [
         "Internacional"
       ],
@@ -228,35 +248,69 @@
       ]
     },
     {
-      "id": "0bb5e41499ea",
-      "titulo": "Alias David y ‘Nay’, las cabezas del terrorismo del Eln que aparecen en la mira tras atentado contra la Policía en Los Patios, Cúcuta",
-      "resumen": "Las autoridades ofrecieron 800 y 150 millones, respectivamente, por información para su captura.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-david-y-nay-los-cabecillas-del-eln-que-aparecen-en-la-mira-tras-atentado-contra-la-policia-en-los-patios-cucuta-3582727",
+      "id": "360660642559",
+      "titulo": "Siete señalados integrantes del ‘Tren de Aragua’ fueron capturados en operación simultánea en tres regiones del país",
+      "resumen": "El expediente que dio origen al operativo reúne investigaciones, secuestro extorsivo, homicidio, tortura. Hubo participación de la Dea.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/siete-senalados-integrantes-del-tren-de-aragua-fueron-capturados-en-operacion-simultanea-en-tres-regiones-del-pais-3583000",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-01T19:17:45+00:00",
+      "fecha": "2026-09-02T17:15:03+00:00",
       "temas": [
-        "Conflicto armado"
+        "Conflicto armado",
+        "DDHH"
       ],
       "palabras_clave": [
-        "eln"
+        "secuestro",
+        "tortura"
       ]
     },
     {
-      "id": "f176c1de4131",
-      "titulo": "La pista sobre el carro bomba que estalló en Cúcuta: tenía cinco días estacionado en la zona; ¿de dónde llegó?",
-      "resumen": "Señalan a alias el Rolo, articulador del Frente de Guerra Urbano del Eln, quien recibe órdenes directas de 'Silvana Guerrero'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-pista-sobre-el-carro-bomba-que-estallo-en-cucuta-tenia-5-dias-estacionado-en-la-zona-de-donde-llego-3582638",
+      "id": "c9870092544e",
+      "titulo": "El ‘Iceberg criminal’ y la radiografía del sector Defensa que identifica las amenazas a la seguridad",
+      "resumen": "Narcotráfico, minería ilegal, contrabando, corrupción, secuestro, extorsión y lavado de activos conforman la base del diagnóstico.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-radiografia-con-la-que-el-sector-defensa-identifica-las-amenazas-a-la-seguridad-es-denominada-como-un-iceberg-criminal-3582926",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-01T17:44:03+00:00",
+      "fecha": "2026-09-02T14:26:46+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "secuestro"
+      ]
+    },
+    {
+      "id": "3758a86cacb8",
+      "titulo": "La central de comunicaciones y el arsenal incautados al ‘clan del Golfo’ durante una operación en Zaragoza, Antioquia",
+      "resumen": "Las autoridades incautaron, además, ocho fusiles, 1.330 cartuchos, 1.200 detonadores y nueve granadas improvisadas para ser lanzadas desde drones.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-central-de-comunicaciones-y-el-arsenal-incautados-al-clan-del-golfo-durante-una-operacion-en-zaragoza-antioquia-3582919",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-02T13:58:49+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "bd116f80e53a",
+      "titulo": "Ataque con dron en Pailitas vuelve a poner bajo presión la seguridad en Cesar tras anuncio de plan antidrones",
+      "resumen": "El hecho ocurrió durante la madrugada de este miércoles en la subestación de Policía del corregimiento de El Burro. Esto se sabe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-dron-en-pailitas-vuelve-a-poner-bajo-presion-la-seguridad-en-cesar-tras-anuncio-de-plan-antidrones-3582909",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-02T13:32:58+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque con dron"
       ]
     },
     {
@@ -273,70 +327,6 @@
       ],
       "palabras_clave": [
         "enfrentamiento armado"
-      ]
-    },
-    {
-      "id": "0f73fe7f2c99",
-      "titulo": "Alias Tigre, el hombre de ‘Iván Mordisco’ señalado del asesinato de cuatro menores que cayó en el tercer bombardeo del Gobierno De La Espriella",
-      "resumen": "Es señalado de ser el principal cabecilla de la estructura ‘Carolina Ramírez’ del grupo armado.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-tigre-el-hombre-de-ivan-mordisco-senalado-del-asesinato-de-cuatro-menores-que-cayo-en-el-tercer-bombardeo-del-gobierno-de-la-espriella-3582690",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-01T16:56:13+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
-      ]
-    },
-    {
-      "id": "3d7b22e6cf04",
-      "titulo": "El rastro de un presunto sicario enviado desde Urabá al Meta: homicidio, persecución y una pista sobre la disputa criminal en la región",
-      "resumen": "Investigadores determinaron que habría sido movilizado a la zona por el propio ‘Chiquito Malo’, cabecilla del ‘clan del Golfo’.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-rastro-de-un-presunto-sicario-enviado-desde-uraba-al-meta-homicidio-persecucion-y-una-pista-sobre-la-disputa-criminal-en-la-region-3582664",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-01T15:45:37+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "8be292614d27",
-      "titulo": "Mejorar la inteligencia y acelerar la judicialización, las recomendaciones de expertos tras el atentado en Cúcuta",
-      "resumen": "El ataque terrorista cometido por el Eln dejó 11 personas heridas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mejorar-la-inteligencia-y-acelerar-la-judicializacion-las-recomendaciones-de-expertos-tras-el-atentado-en-cucuta-3582654",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-01T15:40:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "a2ce5387fdde",
-      "titulo": "Los cuatro grupos armados que delinquen y disputan el control de Cúcuta y su área metropolitana, según la Defensoría",
-      "resumen": "También halló un incumplimiento en 33 de 39 recomendaciones sobre riesgo armado en Cúcuta.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-cuatro-grupos-armados-que-delinquen-y-disputan-el-control-de-cucuta-y-su-area-metropolitana-segun-la-defensoria-3582616",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-01T13:56:23+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
       ]
     },
     {
