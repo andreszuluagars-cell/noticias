@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-09-04T10:39:52.982910+00:00",
-  "total_revisadas": 246,
-  "total_relevantes": 15,
+  "generado_en": "2026-09-05T10:36:36.829644+00:00",
+  "total_revisadas": 245,
+  "total_relevantes": 12,
   "noticias": [
     {
       "id": "dae01d24bab7",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-04T10:39:50.125835+00:00",
+      "fecha": "2026-09-05T10:36:33.695851+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "id": "28c651e63281",
-      "titulo": "De la Espriella lidera consejo de seguridad desde Cúcuta tras atentado: “Aquí nadie se acobarda”",
+      "id": "4039f5f8a625",
+      "titulo": "Alias David y Nike lo volvieron a hacer, desde el carro de un muerto habrían atentado contra la estación de Policía de Los Patios",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/abelardo-de-la-espriella-lidera-consejo-de-seguridad-tras-atentado-en-cucuta-PE40553837",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/alias-david-y-nike-lo-volvieron-hacer-desde-el-carro-de-un-muerto-habrian-atentado-contra",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-04T10:39:49.489173+00:00",
+      "fecha": "2026-09-05T10:36:33.695781+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,62 +36,14 @@
       ]
     },
     {
-      "id": "3deadee1dc71",
-      "titulo": "Así planeaba el ELN un segundo atentado en Norte de Santander: Ejército frustró ataque con carro bomba",
+      "id": "0eab794ab995",
+      "titulo": "Dos militares muertos, cinco heridos y una aeronave de la FAC impactada por esquirlas deja el atentado a un batallón en Ocaña",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/abelardo-de-la-espriella-atentado-terrorista-cucuta-carro-bomba-GE40559825",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-04T10:39:49.489092+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "36c3db979059",
-      "titulo": "Secuestro en Anorí terminó en tragedia: cuatro fueron liberados, tres aparecieron muertos y una joven sigue desaparecida",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/secuestro-anori-cuatro-liberados-tres-muertos-joven-desaparecida-que-paso-CH40561131",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-04T10:39:49.489068+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "b68be239016f",
-      "titulo": "Alarma por ola de violencia: Colombia suma 204 atentados con explosivos en 2026",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/colombia-cifra-atentados-explosivos-2026-ola-violencia-EH40565735",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-04T10:39:49.489043+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "508d476eb415",
-      "titulo": "Inpec trasladó a Kiko Gómez tras las investigaciones por atentado a la Procuraduría: ¿a dónde lo enviaron?",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/inpec-traslado-a-kiko-gomez-tras-las-investigaciones-por-un-atentado-a-la-procuraduria-para-donde-lo-enviaron/202635/",
+      "url": "https://semana.com/nacion/cucuta/articulo/dos-militares-muertos-cinco-heridos-y-una-aeronave-de-la-fac-impactada-por-esquirlas-deja-el-atentado-a-un-batallon-en-ocana/202653/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-04T10:39:49.135294+00:00",
+      "fecha": "2026-09-05T10:36:32.560028+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +59,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-04T10:39:48.740154+00:00",
+      "fecha": "2026-09-05T10:36:32.124467+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,7 +75,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-04T10:39:48.740098+00:00",
+      "fecha": "2026-09-05T10:36:32.124419+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,30 +84,14 @@
       ]
     },
     {
-      "id": "3cb20e48f8f7",
-      "titulo": "Esto es lo que se sabe del paradero de ‘Bendito Menor’, cabecilla de 'los Pachenca': 'Quiere estar fuera del radar de la Fuerza Pública'",
-      "resumen": "En la Costa Caribe comenzó a circular información de su muerte. Grupo armado lo desmiente.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esto-es-lo-que-se-sabe-del-paradero-de-bendito-menor-cabecilla-de-los-pachenca-quiere-estar-fuera-del-radar-de-la-fuerza-publica-3583415",
+      "id": "7b2c53eee7a3",
+      "titulo": "Estas son las identidades de los dos uniformados muertos tras ataque del Eln a cantón militar en Ocaña, Norte de Santander: Ejército se pronunció",
+      "resumen": "El ataque con drones cargados de explosivos contra el cantón militar Trapiche dejó dos víctimas mortales y 5 uniformados heridos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estas-son-las-identidades-de-los-dos-uniformados-muertos-tras-ataque-del-eln-a-canton-militar-en-ocana-norte-de-santander-ejercito-se-pronuncio-3583795",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-03T22:46:54+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
-      ]
-    },
-    {
-      "id": "8b7c9979025c",
-      "titulo": "El depósito con 250 kilos de explosivos que el Eln ocultaba en zona rural de Santander",
-      "resumen": "Explosivo pertenecería al Frente de Guerra Nororiental. El FBI, Gaula Militar y Dijín participaron en la operación.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-deposito-con-250-kilos-de-explosivos-que-el-eln-ocultaba-en-zona-rural-de-santander-3583228",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-03T14:00:51+00:00",
+      "fecha": "2026-09-05T09:11:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -164,19 +100,83 @@
       ]
     },
     {
-      "id": "090096fd50ae",
-      "titulo": "La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca",
-      "resumen": "Pyongyang encadena tres años de fuerte crecimiento, ha ganado miles de millones con la guerra de Ucrania, ampliado su arsenal nuclear y vuelve a contar simultáneamente con el respaldo de Putin y Xi Jinping. Ahora, Donald Trump quiere recuperar la diplomacia personal con el líder norcoreano, pero esta vez es Kim quien tiene menos necesidad de negociar Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-02T18:36:07+00:00",
+      "id": "73a220c1a136",
+      "titulo": "$125.174 millones sin acuerdos finales ni desmantelamiento: el costo de los diálogos de la ‘paz total’ que ahora desmonta el gobierno De La Espriella",
+      "resumen": "EL TIEMPO revela recursos ejecutados en negociaciones con grupos armados y bandas urbanas. Transporte aéreo y medidas de protección lideraron gastos.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/125-174-millones-sin-acuerdos-finales-ni-desmantelamiento-el-costo-de-los-dialogos-de-la-paz-total-que-ahora-desmonta-el-gobierno-de-la-espriella-3583741",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-09-05T05:15:58+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "guerra de ucrania"
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "8d1587810bf4",
+      "titulo": "El rastro que llevó hasta ‘Firulais’, el francotirador del Eln señalado de asesinar a tres policías y de planear un atentado contra De La Espriella",
+      "resumen": "Dairo Ferizzola Rojas fue capturado en Ocaña cuando, según inteligencia policial, pretendía abandonar la región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-rastro-que-llevo-hasta-firulais-el-francotirador-del-eln-senalado-de-asesinar-a-tres-policias-y-de-planear-un-atentado-contra-de-la-espriella-3583776",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-05T02:45:31+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "66f1c06e2567",
+      "titulo": "¿Qué pasará con la recompensa de 1.000 millones de pesos por 'Bendito Menor'? Una fuente humana habría ayudado a ubicarlo en Riohacha, La Guajira",
+      "resumen": "El señalado líder tenía cinco órdenes de captura vigentes y una circular roja de Interpol por delitos como homicidio, secuestro y extorsión.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/que-pasara-con-la-recompensa-de-1-000-millones-de-pesos-por-bendito-menor-una-fuente-humana-habria-permitido-ubicarlo-en-riohacha-la-guajira-3583702",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-04T22:39:06+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "eb329fac2f77",
+      "titulo": "Presidente De La Espriella anunció la captura en Norte de Santander de 'Firulais', francotirador del Eln señalado de planear un atentado en su contra",
+      "resumen": "El criminal es integrante del Frente Camilo Torres Restrepo de este grupo armado ilegal. Aquí los detalles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-abelardo-de-la-espriella-anuncio-la-captura-en-santander-de-firulais-francotirador-del-eln-senalado-de-planear-un-atentado-en-su-contra-3583707",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-04T22:27:50+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "8154464ed7ee",
+      "titulo": "‘Calarcá priorizó la guerra con Mordisco a cualquier posibilidad de paz; tropezamos con nuestras propias ilusiones’: Camilo González Posso",
+      "resumen": "En diálogo con EL TIEMPO, el presidente de Indepaz y exnegociador con las disidencias de las Farc habló sobre los fallos de la 'paz total'.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/calarca-priorizo-la-guerra-con-mordisco-a-cualquier-posibilidad-de-paz-tropezamos-con-nuestras-propias-ilusiones-camilo-gonzalez-posso-3583506",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-09-04T12:42:18+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -193,54 +193,6 @@
       ],
       "palabras_clave": [
         "grupos armados"
-      ]
-    },
-    {
-      "id": "dd9a940f586f",
-      "titulo": "Ultimátum de De La Espriella a cabecillas: ¿En qué estado se encuentran las mesas de diálogos con ‘Calarcá’, el Eln y el 'clan del Golfo'?",
-      "resumen": "Hay una mesa suspendida desde enero de 2025 y dos que no concretaron el tránsito a las zonas de ubicación temporal.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/ultimatum-de-de-la-espriella-a-cabecillas-en-que-estado-se-encuentran-las-mesas-de-dialogos-con-calarca-el-eln-y-el-clan-del-golfo-3575065",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-07-30T22:04:43+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "f97a88e1265e",
-      "titulo": "Lo que hay detrás del respaldo de las curules de paz al presidente electo Abelardo De La Espriella",
-      "resumen": "11 de los 16 representantes de los territorios más golpeados por el conflicto armado anunciaron su apoyo al abogado.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/lo-que-hay-detras-del-respaldo-de-las-curules-de-paz-al-presidente-electo-abelardo-de-la-espriella-3573380",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-07-23T21:16:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "conflicto armado"
-      ]
-    },
-    {
-      "id": "e4f9cd0b5555",
-      "titulo": "'Confiamos en que el nuevo gobierno dará continuidad a lo pactado': Miroslav Jenča sobre el Acuerdo de Paz",
-      "resumen": "Ante el nuevo gobierno, la ONU pide dar continuidad al Acuerdo de Paz de 2016 y advierte que los vacíos estatales facilitan la violencia rural.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/confiamos-en-que-el-nuevo-gobierno-dara-continuidad-a-lo-pactado-miroslav-jenca-sobre-el-acuerdo-de-paz-3572369",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-07-20T04:03:31+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     }
   ]
