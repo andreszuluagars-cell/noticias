@@ -1,22 +1,22 @@
 {
-  "generado_en": "2026-09-06T10:38:27.347867+00:00",
-  "total_revisadas": 249,
-  "total_relevantes": 21,
+  "generado_en": "2026-09-07T10:39:57.518615+00:00",
+  "total_revisadas": 248,
+  "total_relevantes": 22,
   "noticias": [
     {
-      "id": "235e98e24d5e",
-      "titulo": "Vladímir Putin recibe la propuesta de Donald Trump para poner fin a la guerra en Ucrania",
+      "id": "e8ee28c5d70a",
+      "titulo": "Más de 140 muertos en combates entre rebeldes hutíes y ejército de Yemen",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/vladimir-putin-recibe-la-propuesta-de-donald-trump-para-poner-fin-a-la-guerra-en-ucrania-ultimas-noticia/",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/mas-de-140-muertos-en-combates-entre-rebeldes-huties-y-ejercito-de-yemen-arabia-saudita-iran-ultimas-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-09-06T10:38:27.184254+00:00",
+      "fecha": "2026-09-07T10:39:57.360038+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "guerra en ucrania"
+        "combates"
       ]
     },
     {
@@ -27,7 +27,23 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:23.976468+00:00",
+      "fecha": "2026-09-07T10:39:55.216449+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "1192f499113c",
+      "titulo": "Falleció Javier Gómez, subdirector de Comfanorte, tras atentado en Cúcuta",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/fallecio-javier-gomez-subdirector-de-comfanorte-tras-atentado-en-cucuta",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-07T10:39:55.216353+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:23.166874+00:00",
+      "fecha": "2026-09-07T10:39:54.817827+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,67 +68,51 @@
       ]
     },
     {
-      "id": "0eab794ab995",
-      "titulo": "Dos militares muertos, cinco heridos y una aeronave de la FAC impactada por esquirlas deja el atentado a un batallón en Ocaña",
+      "id": "925aee4a9a4b",
+      "titulo": "Golpe a las disidencias de las Farc: siete muertos y cinco capturados en operación militar en Nariño",
       "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/dos-militares-muertos-cinco-heridos-y-una-aeronave-de-la-fac-impactada-por-esquirlas-deja-el-atentado-a-un-batallon-en-ocana/202653/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/operacion-militar-narino-7-disidentes-farc-muertos-5-capturados-AC40713175",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:20.024410+00:00",
+      "fecha": "2026-09-07T10:39:54.817723+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "disidencias"
       ]
     },
     {
-      "id": "b999f791b8cd",
-      "titulo": "Revelan las identidades de los dos militares asesinados tras ataque atribuido al ELN en Ocaña: esto se sabe",
+      "id": "18ede55eb876",
+      "titulo": "Fuerzas Militares registran nuevo golpe contra las disidencias de las Farc tras operativo en El Peñol, Nariño",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/revelan-las-identidades-de-los-dos-militares-asesinados-tras-ataque-atribuido-al-eln-en-ocana-esto-se-sabe/202618/",
+      "url": "https://semana.com/nacion/articulo/fuerzas-militares-registran-nuevo-golpe-contra-las-disidencias-de-las-farc-tras-operativo-en-el-penol-narino/202644/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:20.024296+00:00",
+      "fecha": "2026-09-07T10:39:54.530192+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
-      "id": "5220fbff2f91",
-      "titulo": "Ejército confirmó la muerte de un tercer militar tras ataque del ELN en Ocaña, Norte de Santander",
+      "id": "fc1e5d28c8d7",
+      "titulo": "José Olger Melo, miembro de la Legión Francesa que estaba secuestrado en Nariño, escapó de las disidencias de las Farc",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-confirmo-la-muerte-de-un-tercer-militar-tras-ataque-del-eln-en-ocana-norte-de-santander/202653/",
+      "url": "https://semana.com/nacion/articulo/jose-olger-melo-miembro-de-la-legion-francesa-que-estaba-secuestrado-en-narino-escapo-de-las-disidencias-de-las-farc/202635/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:20.024286+00:00",
+      "fecha": "2026-09-07T10:39:54.529940+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "98314da2bde9",
-      "titulo": "Gobierno anuncia nueva estrategia para el Catatumbo tras ataque del ELN que dejó tres militares muertos en Ocaña",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/gobierno-anuncia-nueva-estrategia-para-el-catatumbo-tras-ataque-del-eln-que-dejo-tres-militares-muertos-en-ocana/202620/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-06T10:38:20.024255+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:19.626812+00:00",
+      "fecha": "2026-09-07T10:39:54.128748+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-06T10:38:19.626760+00:00",
+      "fecha": "2026-09-07T10:39:54.128701+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,14 +148,62 @@
       ]
     },
     {
-      "id": "bf1c8e27170f",
-      "titulo": "Ataques con drones: la ‘muerte que cae del cielo’ y que amenaza a más de 14 departamentos",
-      "resumen": "Las disidencias de ‘Iván Mordisco’ concentran la mayoría de los casos. Usan ataques tipo ‘enjambre’ para superar los sistemas de defensa.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataques-con-drones-la-muerte-que-cae-del-cielo-y-que-amenaza-a-mas-de-14-departamentos-3583880",
+      "id": "875b21beadb2",
+      "titulo": "Juan Alejandro era un bebé de un año: fue asesinado tras quedar en medio de un ataque armado en Culiacán, Sinaloa",
+      "resumen": "El caso se suma a una lista de menores asesinados en Sinaloa desde septiembre de 2024, cuando inició la guerra entre Los Chapitos y La Mayiza",
+      "url": "https://www.infobae.com/mexico/2026/09/07/juan-alejandro-era-un-bebe-de-un-ano-fue-asesinado-tras-quedar-en-medio-de-un-ataque-armado-en-culiacan-sinaloa/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-07T10:34:12+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ataque armado"
+      ]
+    },
+    {
+      "id": "8736d8af576b",
+      "titulo": "Rodrigo Lara respondió críticas de la defensora del Pueblo Iris Marín por exposición de cadáveres en el Guaviare: “No corresponde equiparar al Estado con bandas narcoterroristas”",
+      "resumen": "El ministro defendió la labor de la Fuerza Pública frente a los grupos armados, pidió a la Defensoría acompañar al Gobierno en la protección de las víctimas y reiteró que continuará haciendo cumplir la ley",
+      "url": "https://www.infobae.com/colombia/2026/09/07/rodrigo-lara-responde-a-iris-marin-por-exposicion-de-cuerpos-en-guaviare-no-corresponde-equiparar-al-estado-con-bandas-narcoterroristas/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-07T10:28:26+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "266b4e1122b8",
+      "titulo": "Salvatore Mancuso: la historia detrás de la permanencia del exjefe paramilitar en Montería",
+      "resumen": "El 'expara', que fue deportado por EE. UU. en 2024, declaró la semana pasada en el caso contra Álvaro Uribe por las masacres de El Aro y La Granja.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/salvatore-mancuso-la-historia-detras-de-la-permanencia-del-exjefe-paramilitar-en-monteria-3584039",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-07T03:46:57+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitar"
+      ]
+    },
+    {
+      "id": "619fb8f44c79",
+      "titulo": "Miembro de la Legión Francesa que estaba secuestrado en Nariño escapó de las disidencias de 'Iván Mordisco'",
+      "resumen": "El hombre se había fugado hace cuatro días y llegó por sus propios medios a una estación de Policía. Su secuestro se dio el pasado 5 de agosto.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-miembro-de-la-legion-francesa-que-estaba-secuestrado-en-narino-escapo-de-las-disidencias-de-ivan-mordisco-3584053",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-06T02:20:20+00:00",
+      "fecha": "2026-09-07T02:10:11+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -164,50 +212,62 @@
       ]
     },
     {
-      "id": "e88249c901a5",
-      "titulo": "El drama de los niños y las niñas usados como escudos humanos por los ilegales",
-      "resumen": "La Defensoría ha conocido 1.173 casos de reclutamiento de menores desde 2024. Entidad advierte que existe un subregistro, pide reforzar la prevención.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/el-drama-de-los-ninos-y-las-ninas-usados-como-escudos-humanos-por-los-ilegales-3583876",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-06T02:19:53+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "escudos humanos",
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "eb2845304f21",
-      "titulo": "Bombardeos: el debate por la presencia de menores reclutados en campamentos de los grupos armados",
-      "resumen": "Los criminales utilizan a menores como ‘escudos humanos’ contra operaciones del Estado. Juez ordenó medida cautelar regional.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/bombardeos-el-debate-por-la-presencia-de-menores-reclutados-en-campamentos-de-los-grupos-armados-3583875",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-06T02:19:21+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "escudos humanos",
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "9c3f4178f96f",
-      "titulo": "El terrorismo y drones del Eln y las disidencias, el reto en Norte de Santander",
-      "resumen": "Los atentados son respuesta a operaciones renovadas de la Fuerza Pública. En el Catatumbo, 700 niños no han regresado a clases por amenaza de minas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-terrorismo-y-drones-del-eln-y-las-disidencias-el-reto-en-norte-de-santander-3583870",
+      "id": "0757566bf1a8",
+      "titulo": "Presidente Abelardo De La Espriella advierte a quienes despidieron con disparos a alias Bendito Menor: 'Terminarán como él'",
+      "resumen": "La declaración ocurre tras las demostraciones de fuerza de estructuras delictivas registradas durante las honras fúnebres del jefe paramilitar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-abelardo-de-la-espriella-advierte-a-quienes-despidieron-con-disparos-a-alias-bendito-menor-terminaran-como-el-3584006",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-06T02:18:46+00:00",
+      "fecha": "2026-09-07T02:01:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitar"
+      ]
+    },
+    {
+      "id": "42f7b52f90d0",
+      "titulo": "Así cayó alias Alejo, señalado cabecilla de ‘Comandos de Frontera’ que controlaba un corredor de cocaína entre Colombia y Ecuador",
+      "resumen": "El hombre era buscado con circular roja de Interpol por un secuestro extorsivo ocurrido en Ecuador en 2019, cuya víctima continúa desaparecida.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-cayo-alias-alejo-senalado-cabecilla-de-comandos-de-frontera-que-controlaba-un-corredor-de-cocaina-entre-colombia-y-ecuador-3584013",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-06T21:15:44+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "87d5df9789c1",
+      "titulo": "Director de la Policía llegó a Norosí, sur de Bolívar, tras el ataque con drones que dejó 15 uniformados heridos",
+      "resumen": "El general Barrera recorrió la estación atacada el pasado 19 de agosto y reconoció las condiciones de infraestructura en las que están los policías.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/director-de-la-policia-llego-a-norosi-sur-de-bolivar-tras-el-ataque-con-drones-que-dejo-15-uniformados-heridos-3583989",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-06T17:22:43+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque con drones"
+      ]
+    },
+    {
+      "id": "d0546bff1fb4",
+      "titulo": "Armas de seis países en poder de ‘Iván Mordisco’ y la pista que siguen tras la captura de ‘Canaguaro’ en Meta",
+      "resumen": "Cuatro ametralladoras y 27 fusiles hacen parte del arsenal recuperado tras uno de los recientes bombardeos. ¿Cómo llegaron a las disidencias?",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/armas-de-seis-paises-en-poder-de-ivan-mordisco-y-la-pista-que-siguen-tras-la-captura-de-canaguaro-en-meta-3583971",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-06T16:14:04+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -216,62 +276,14 @@
       ]
     },
     {
-      "id": "6e92a99a1e7b",
-      "titulo": "Las tres medidas que tomó el Mindefensa tras el ataque con drones que dejó tres militares muertos en Ocaña",
-      "resumen": "Se ordenó reorganizar la campaña militar y policial ‘Esparta’ y reforzar el bloqueo de los corredores utilizados por los grupos armados.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-tres-medidas-que-tomo-el-mindefensa-tras-el-ataque-con-drones-que-dejo-tres-militares-muertos-en-ocana-3583883",
+      "id": "697e1aacc0bd",
+      "titulo": "Estos son los 14 objetivos de alto valor que están en el radar de la Fuerza Pública",
+      "resumen": "Dentro del listado de las autoridades están 'Iván Mordisco', ‘Calarcá’, ‘Jhon Mechas’, ‘Chiquito Malo’ y varios integrantes del alto mando del Eln.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estos-son-los-14-objetivos-de-alto-valor-que-estan-en-el-radar-de-la-fuerza-publica-3583874",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-05T21:37:43+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "f2e65617357b",
-      "titulo": "‘No basta con condenar el terrorismo’: el llamado del general Erik Rodríguez tras ataque que mató a tres militares",
-      "resumen": "El comandante de las FF. MM. reaccionó al ataque del Eln en Ocaña y advirtió que la muerte de uniformados no puede convertirse en parte del paisaje.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/no-basta-con-condenar-el-terrorismo-el-llamado-del-general-erik-rodriguez-tras-ataque-que-mato-a-tres-militares-3583865",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-05T21:29:55+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "3bc8392523f7",
-      "titulo": "‘No podemos permitir que la violencia se tome los territorios’: procurador Eljach tras asesinato de tres militares en Ocaña",
-      "resumen": "El jefe del Ministerio Público condenó los ataques atribuidos al Eln y pidió acelerar las labores de inteligencia para recuperar el orden público.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/no-podemos-permitir-que-la-violencia-se-tome-los-territorios-procurador-eljach-tras-asesinato-de-tres-militares-en-ocana-3583855",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-05T18:40:08+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "c06ad5a84451",
-      "titulo": "Tras ataque terrorista a cantón militar en Norte de Santander, Gobierno anuncia diseño de 'nueva estrategia de seguridad' para la región",
-      "resumen": "La ofensiva del Eln, que dejó tres militares asesinados, incluyó afectaciones a un helicóptero de la FAC.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tras-ataque-terrorista-a-canton-militar-en-norte-de-santander-gobierno-anuncia-diseno-de-nueva-estrategia-de-seguridad-para-la-region-3583834",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-05T16:46:46+00:00",
+      "fecha": "2026-09-06T14:33:45+00:00",
       "temas": [
         "Conflicto armado"
       ],
