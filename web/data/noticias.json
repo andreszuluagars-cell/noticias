@@ -1,38 +1,22 @@
 {
-  "generado_en": "2026-09-07T10:39:57.518615+00:00",
-  "total_revisadas": 248,
-  "total_relevantes": 22,
+  "generado_en": "2026-09-08T10:40:52.407105+00:00",
+  "total_revisadas": 247,
+  "total_relevantes": 21,
   "noticias": [
     {
-      "id": "e8ee28c5d70a",
-      "titulo": "Más de 140 muertos en combates entre rebeldes hutíes y ejército de Yemen",
+      "id": "aef33543c061",
+      "titulo": "Guerra en Ucrania.El Kremlin dijo que “no descarta” una reanudación de las negociaciones entre Moscú, Kiev y Washington",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/oriente-medio/mas-de-140-muertos-en-combates-entre-rebeldes-huties-y-ejercito-de-yemen-arabia-saudita-iran-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
+      "url": "https://lanacion.com.ar/el-mundo/el-kremlin-dijo-que-no-descarta-una-reanudacion-de-las-negociaciones-entre-moscu-kiev-y-washington-nid07092026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-09-07T10:39:57.360038+00:00",
+      "fecha": "2026-09-08T10:40:51.880772+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "4039f5f8a625",
-      "titulo": "Alias David y Nike lo volvieron a hacer, desde el carro de un muerto habrían atentado contra la estación de Policía de Los Patios",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/alias-david-y-nike-lo-volvieron-hacer-desde-el-carro-de-un-muerto-habrian-atentado-contra",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-07T10:39:55.216449+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
+        "guerra en ucrania"
       ]
     },
     {
@@ -43,12 +27,44 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-07T10:39:55.216353+00:00",
+      "fecha": "2026-09-08T10:40:49.826174+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "atentado"
+      ]
+    },
+    {
+      "id": "ee3798fabf94",
+      "titulo": "Alias Firulais, señalado de planear atentado contra De la Espriella, fue capturado en Ocaña",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/alias-firulais-senalado-de-planear-atentado-contra-de-la-espriella-fue-capturado-en-ocana",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-08T10:40:49.826114+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "582f98932ce8",
+      "titulo": "Ataque con drones explosivos al Batallón de Ocaña deja tres militares muertos",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/ataque-con-drones-explosivos-al-batallon-de-ocana-deja-tres-militares-muertos",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-08T10:40:49.826081+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
       ]
     },
     {
@@ -59,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-07T10:39:54.817827+00:00",
+      "fecha": "2026-09-08T10:40:49.389618+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-07T10:39:54.817723+00:00",
+      "fecha": "2026-09-08T10:40:49.389481+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,51 +100,67 @@
       ]
     },
     {
-      "id": "18ede55eb876",
-      "titulo": "Fuerzas Militares registran nuevo golpe contra las disidencias de las Farc tras operativo en El Peñol, Nariño",
+      "id": "e4e998eaefdc",
+      "titulo": "“Estábamos en planes de casarnos”: dramático testimonio de la pareja de uno de los tres militares asesinados en atentado a batallón de Ocaña",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/fuerzas-militares-registran-nuevo-golpe-contra-las-disidencias-de-las-farc-tras-operativo-en-el-penol-narino/202644/",
+      "url": "https://semana.com/nacion/cucuta/articulo/estabamos-en-planes-de-casarnos-dramatico-testimonio-de-la-pareja-de-uno-de-los-tres-militares-asesinados-en-atentado-a-batallon-de-ocana/202608/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-07T10:39:54.530192+00:00",
+      "fecha": "2026-09-08T10:40:49.192662+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "atentado"
       ]
     },
     {
-      "id": "fc1e5d28c8d7",
-      "titulo": "José Olger Melo, miembro de la Legión Francesa que estaba secuestrado en Nariño, escapó de las disidencias de las Farc",
+      "id": "92803d96f391",
+      "titulo": "Olmedo López presentó denuncias ante la CIDH por “las interferencias” del expresidente Gustavo Petro",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/jose-olger-melo-miembro-de-la-legion-francesa-que-estaba-secuestrado-en-narino-escapo-de-las-disidencias-de-las-farc/202635/",
+      "url": "https://semana.com/nacion/articulo/olmedo-lopez-presento-denuncias-ante-la-cidh-por-las-interferencias-del-expresidente-gustavo-petro/202626/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-07T10:39:54.529940+00:00",
+      "fecha": "2026-09-08T10:40:49.192648+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "cidh"
+      ]
+    },
+    {
+      "id": "b21634c35ed2",
+      "titulo": "Drones cargados con explosivos tienen en jaque a la Fuerza Pública: así evolucionó la nueva arma letal de los grupos armados",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/drones-cargados-con-explosivos-tienen-en-jaque-a-la-fuerza-publica-asi-evoluciono-la-nueva-arma-letal-de-los-grupos-armados/202651/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-08T10:40:49.192572+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "ce49a6e8ad8e",
+      "titulo": "Disidencias de Calarcá declaran “objetivo militar” a tres alcaldes de Antioquia y anuncian guerra contra el Estado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/disidencias-de-calarca-declaran-objetivo-militar-a-tres-alcaldes-de-antioquia-y-anuncian-guerra-contra-el-estado/202655/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-08T10:40:49.192338+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "2f6d06769bd2",
-      "titulo": "Gobierno usa la diplomacia y el acuerdo de paz para darle forma a su política de seguridad",
-      "resumen": "",
-      "url": "https://elespectador.com/politica/gobierno-usa-la-diplomacia-y-el-acuerdo-de-paz-para-darle-forma-a-su-politica-de-seguridad/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-09-07T10:39:54.128748+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     },
     {
@@ -139,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-07T10:39:54.128701+00:00",
+      "fecha": "2026-09-08T10:40:48.955635+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,62 +180,30 @@
       ]
     },
     {
-      "id": "875b21beadb2",
-      "titulo": "Juan Alejandro era un bebé de un año: fue asesinado tras quedar en medio de un ataque armado en Culiacán, Sinaloa",
-      "resumen": "El caso se suma a una lista de menores asesinados en Sinaloa desde septiembre de 2024, cuando inició la guerra entre Los Chapitos y La Mayiza",
-      "url": "https://www.infobae.com/mexico/2026/09/07/juan-alejandro-era-un-bebe-de-un-ano-fue-asesinado-tras-quedar-en-medio-de-un-ataque-armado-en-culiacan-sinaloa/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-09-07T10:34:12+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
-    {
-      "id": "8736d8af576b",
-      "titulo": "Rodrigo Lara respondió críticas de la defensora del Pueblo Iris Marín por exposición de cadáveres en el Guaviare: “No corresponde equiparar al Estado con bandas narcoterroristas”",
-      "resumen": "El ministro defendió la labor de la Fuerza Pública frente a los grupos armados, pidió a la Defensoría acompañar al Gobierno en la protección de las víctimas y reiteró que continuará haciendo cumplir la ley",
-      "url": "https://www.infobae.com/colombia/2026/09/07/rodrigo-lara-responde-a-iris-marin-por-exposicion-de-cuerpos-en-guaviare-no-corresponde-equiparar-al-estado-con-bandas-narcoterroristas/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-09-07T10:28:26+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "266b4e1122b8",
-      "titulo": "Salvatore Mancuso: la historia detrás de la permanencia del exjefe paramilitar en Montería",
-      "resumen": "El 'expara', que fue deportado por EE. UU. en 2024, declaró la semana pasada en el caso contra Álvaro Uribe por las masacres de El Aro y La Granja.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/salvatore-mancuso-la-historia-detras-de-la-permanencia-del-exjefe-paramilitar-en-monteria-3584039",
+      "id": "2f4fdf0255fa",
+      "titulo": "Fiscalía reactiva las órdenes de captura contra alias HH y otros cabecillas del frente Comuneros del Sur",
+      "resumen": "La fiscal Luz A. Camargo firmó una resolución para retomar sus búsquedas, tras el desmonte de la mesa de paz que ordenó el presidente De La Espriella.",
+      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-reactiva-las-ordenes-de-captura-contra-alias-hh-y-otros-cabecillas-del-frente-comuneros-del-sur-3584329",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-07T03:46:57+00:00",
+      "fecha": "2026-09-08T00:43:31+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "paramilitar"
+        "mesa de paz"
       ]
     },
     {
-      "id": "619fb8f44c79",
-      "titulo": "Miembro de la Legión Francesa que estaba secuestrado en Nariño escapó de las disidencias de 'Iván Mordisco'",
-      "resumen": "El hombre se había fugado hace cuatro días y llegó por sus propios medios a una estación de Policía. Su secuestro se dio el pasado 5 de agosto.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-miembro-de-la-legion-francesa-que-estaba-secuestrado-en-narino-escapo-de-las-disidencias-de-ivan-mordisco-3584053",
+      "id": "b10996f3845f",
+      "titulo": "Denuncian presunto plan de 'Iván Mordisco' que buscaría reclutar menores de edad para entrenarlos en el uso de drones contra la Fuerza Pública",
+      "resumen": "Un documento conocido en exclusiva por RCN revelaría el plan de las disidencias de las Farc.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/denuncian-presunto-plan-de-ivan-mordisco-que-buscaria-reclutar-menores-de-edad-para-entrenarlos-en-el-uso-de-drones-contra-la-fuerza-publica-3584231",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-07T02:10:11+00:00",
+      "fecha": "2026-09-07T20:28:56+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -212,62 +212,46 @@
       ]
     },
     {
-      "id": "0757566bf1a8",
-      "titulo": "Presidente Abelardo De La Espriella advierte a quienes despidieron con disparos a alias Bendito Menor: 'Terminarán como él'",
-      "resumen": "La declaración ocurre tras las demostraciones de fuerza de estructuras delictivas registradas durante las honras fúnebres del jefe paramilitar.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-abelardo-de-la-espriella-advierte-a-quienes-despidieron-con-disparos-a-alias-bendito-menor-terminaran-como-el-3584006",
+      "id": "e5cec24af688",
+      "titulo": "¿Quién reemplazará a ‘Bendito Menor’ dentro de ‘los Pachencas’? La disputa que se abre dentro del grupo armado por el control de La Guajira",
+      "resumen": "Dos nombres aparecen entre las posibilidades para asumir parte de ese espacio. Sucesión también involucra el control de criminalidad en la región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/quien-reemplazara-a-bendito-menor-dentro-de-los-pachencas-la-disputa-que-se-abre-dentro-del-grupo-armado-por-el-control-de-la-guajira-3584235",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-07T02:01:00+00:00",
+      "fecha": "2026-09-07T19:37:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "paramilitar"
+        "grupo armado"
       ]
     },
     {
-      "id": "42f7b52f90d0",
-      "titulo": "Así cayó alias Alejo, señalado cabecilla de ‘Comandos de Frontera’ que controlaba un corredor de cocaína entre Colombia y Ecuador",
-      "resumen": "El hombre era buscado con circular roja de Interpol por un secuestro extorsivo ocurrido en Ecuador en 2019, cuya víctima continúa desaparecida.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-cayo-alias-alejo-senalado-cabecilla-de-comandos-de-frontera-que-controlaba-un-corredor-de-cocaina-entre-colombia-y-ecuador-3584013",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-06T21:15:44+00:00",
+      "id": "ee24bf6a7ba6",
+      "titulo": "El 94% de los cubanos vive en extrema pobreza y el 80% pasa hambre, según el Observatorio Cubano de Derechos Humanos",
+      "resumen": "Un demoledor estudio del Observatorio Cubano de Derechos Humanos constata el colapso de la isla, marcado por apagones crónicos, escasez crítica de medicinas y un rechazo casi total a las autoridades, con solo entre el 3% y el 7% de la población leal al Gobierno Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/07/6a9ecb4221efa0c1598b4589.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-07T14:34:11+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "secuestro"
+        "derechos humanos"
       ]
     },
     {
-      "id": "87d5df9789c1",
-      "titulo": "Director de la Policía llegó a Norosí, sur de Bolívar, tras el ataque con drones que dejó 15 uniformados heridos",
-      "resumen": "El general Barrera recorrió la estación atacada el pasado 19 de agosto y reconoció las condiciones de infraestructura en las que están los policías.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/director-de-la-policia-llego-a-norosi-sur-de-bolivar-tras-el-ataque-con-drones-que-dejo-15-uniformados-heridos-3583989",
+      "id": "85ff6d5ff079",
+      "titulo": "Droga enterrada, caletas y una flota de 20 lanchas: las pistas del corredor de las disidencias de ‘Mordisco’ desde el Cauca hasta Brasil",
+      "resumen": "Las autoridades siguen la pista a cuatro hombres señalados de participar en una red que mueve marihuana y cocaína hasta el vecino país.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/droga-enterrada-caletas-y-una-flota-de-20-lanchas-las-pistas-del-corredor-de-las-disidencias-de-mordisco-desde-el-cauca-hasta-brasil-3584106",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-06T17:22:43+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque con drones"
-      ]
-    },
-    {
-      "id": "d0546bff1fb4",
-      "titulo": "Armas de seis países en poder de ‘Iván Mordisco’ y la pista que siguen tras la captura de ‘Canaguaro’ en Meta",
-      "resumen": "Cuatro ametralladoras y 27 fusiles hacen parte del arsenal recuperado tras uno de los recientes bombardeos. ¿Cómo llegaron a las disidencias?",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/armas-de-seis-paises-en-poder-de-ivan-mordisco-y-la-pista-que-siguen-tras-la-captura-de-canaguaro-en-meta-3583971",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-06T16:14:04+00:00",
+      "fecha": "2026-09-07T12:18:55+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -276,19 +260,19 @@
       ]
     },
     {
-      "id": "697e1aacc0bd",
-      "titulo": "Estos son los 14 objetivos de alto valor que están en el radar de la Fuerza Pública",
-      "resumen": "Dentro del listado de las autoridades están 'Iván Mordisco', ‘Calarcá’, ‘Jhon Mechas’, ‘Chiquito Malo’ y varios integrantes del alto mando del Eln.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estos-son-los-14-objetivos-de-alto-valor-que-estan-en-el-radar-de-la-fuerza-publica-3583874",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-06T14:33:45+00:00",
+      "id": "1e7ac7db7fdd",
+      "titulo": "Una multitud rinde homenaje al criminal de guerra Ratko Mladic en Belgrado",
+      "resumen": "Cientos de personas comenzaron a desfilar este lunes en Belgrado ante el féretro del ex jefe militar serbobosnio Ratko Mladic, condenado por genocidio y crímenes de guerra, en el marco de unas polémicas exequias que han provocado el rechazo de la Unión Europea Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/07/6a9e7c8ffdddffbb328b4582.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-07T08:57:57+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "eln"
+        "genocidio"
       ]
     },
     {
