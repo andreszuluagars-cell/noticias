@@ -1,17 +1,17 @@
 {
-  "generado_en": "2026-09-08T10:40:52.407105+00:00",
-  "total_revisadas": 247,
-  "total_relevantes": 21,
+  "generado_en": "2026-09-09T10:41:14.628441+00:00",
+  "total_revisadas": 262,
+  "total_relevantes": 32,
   "noticias": [
     {
-      "id": "aef33543c061",
-      "titulo": "Guerra en Ucrania.El Kremlin dijo que “no descarta” una reanudación de las negociaciones entre Moscú, Kiev y Washington",
+      "id": "ad8c915db283",
+      "titulo": "Trump pide a Putin el fin de la guerra en Ucrania y espera sellar la paz durante su mandato",
       "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/el-kremlin-dijo-que-no-descarta-una-reanudacion-de-las-negociaciones-entre-moscu-kiev-y-washington-nid07092026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
+      "url": "https://elcomercio.pe/mundo/eeuu/guerra-rusia-ucrania-donald-trump-pide-a-vladimir-putin-el-fin-de-la-guerra-y-espera-sellar-la-paz-durante-su-mandato-estados-unidos-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-09-08T10:40:51.880772+00:00",
+      "fecha": "2026-09-09T10:41:14.460981+00:00",
       "temas": [
         "Internacional"
       ],
@@ -27,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.826174+00:00",
+      "fecha": "2026-09-09T10:41:11.588006+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.826114+00:00",
+      "fecha": "2026-09-09T10:41:11.587947+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +59,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.826081+00:00",
+      "fecha": "2026-09-09T10:41:11.587934+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,110 +68,159 @@
       ]
     },
     {
-      "id": "3bb52d9a8420",
-      "titulo": "Tres militares muertos y cuatro heridos deja ataque con drones en Ocaña, Norte de Santander: esto se sabe",
+      "id": "d4344d1fcbf3",
+      "titulo": "¿Quién es ‘Silvana Guerrero’, la cabecilla del ELN que desafía al Gobierno? Es objetivo prioritario de De la Espriella",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-drones-ocana-norte-de-santander-tres-militares-muertos-FL40697561",
+      "url": "https://elcolombiano.com/colombia/silvana-guerrero-cabecilla-eln-objetivo-prioritario-gobierno-HO40826076",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.389618+00:00",
+      "fecha": "2026-09-09T10:41:10.574305+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "militares muertos"
+        "eln"
       ]
     },
     {
-      "id": "925aee4a9a4b",
-      "titulo": "Golpe a las disidencias de las Farc: siete muertos y cinco capturados en operación militar en Nariño",
+      "id": "73dfd953e613",
+      "titulo": "Atado de manos en un río: así escapó José Melo Charry, el soldado secuestrado por la guerrilla",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/operacion-militar-narino-7-disidentes-farc-muertos-5-capturados-AC40713175",
+      "url": "https://elcolombiano.com/colombia/como-escapo-jose-melo-charry-soldado-frances-secuestrado-guerrilla-MO40828422",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.389481+00:00",
+      "fecha": "2026-09-09T10:41:10.574258+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "guerrilla"
       ]
     },
     {
-      "id": "e4e998eaefdc",
-      "titulo": "“Estábamos en planes de casarnos”: dramático testimonio de la pareja de uno de los tres militares asesinados en atentado a batallón de Ocaña",
+      "id": "bcf23932b898",
+      "titulo": "Sobrino de alias Douglas, uno de los del ‘tarimazo’ del gobierno Petro, fue capturado por secuestro de un influenciador",
       "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/estabamos-en-planes-de-casarnos-dramatico-testimonio-de-la-pareja-de-uno-de-los-tres-militares-asesinados-en-atentado-a-batallon-de-ocana/202608/",
+      "url": "https://semana.com/nacion/medellin/articulo/sobrino-de-alias-douglas-uno-de-los-del-tarimazo-del-gobierno-petro-fue-capturado-por-secuestro-de-un-influenciador/202627/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.192662+00:00",
+      "fecha": "2026-09-09T10:41:10.072299+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "secuestro"
       ]
     },
     {
-      "id": "92803d96f391",
-      "titulo": "Olmedo López presentó denuncias ante la CIDH por “las interferencias” del expresidente Gustavo Petro",
+      "id": "cd7d362b5234",
+      "titulo": "Así fue el megaoperativo de la Policía contra red que le vendía explosivos a grupos terrorista",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/olmedo-lopez-presento-denuncias-ante-la-cidh-por-las-interferencias-del-expresidente-gustavo-petro/202626/",
+      "url": "https://semana.com/nacion/articulo/asi-fue-el-megaoperativo-de-la-policia-contra-red-que-le-vendia-explosivos-a-grupos-terrorista/202642/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.192648+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "cidh"
-      ]
-    },
-    {
-      "id": "b21634c35ed2",
-      "titulo": "Drones cargados con explosivos tienen en jaque a la Fuerza Pública: así evolucionó la nueva arma letal de los grupos armados",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/drones-cargados-con-explosivos-tienen-en-jaque-a-la-fuerza-publica-asi-evoluciono-la-nueva-arma-letal-de-los-grupos-armados/202651/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.192572+00:00",
+      "fecha": "2026-09-09T10:41:10.072288+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "explosivos"
       ]
     },
     {
-      "id": "ce49a6e8ad8e",
-      "titulo": "Disidencias de Calarcá declaran “objetivo militar” a tres alcaldes de Antioquia y anuncian guerra contra el Estado",
+      "id": "4febfff9fd0f",
+      "titulo": "Antiguo secretariado de las Farc exige claridad sobre el acuerdo al gobierno De la Espriella",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/disidencias-de-calarca-declaran-objetivo-militar-a-tres-alcaldes-de-antioquia-y-anuncian-guerra-contra-el-estado/202655/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-08T10:40:49.192338+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "c6a634f2ba67",
-      "titulo": "“La negociación no es debilidad”: Santos en el marco de los 10 años del Acuerdo de Paz",
-      "resumen": "",
-      "url": "https://elespectador.com/politica/la-negociacion-no-es-debilidad-juan-manuel-santos-en-el-marco-de-los-10-anos-del-acuerdo-de-paz/",
+      "url": "https://www.elespectador.com/politica/antiguo-secretariado-de-las-farc-exige-claridad-sobre-acuerdo-de-paz-al-gobierno-de-abelardo-de-la-espriella-noticias-hoy/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-08T10:40:48.955635+00:00",
+      "fecha": "2026-09-09T10:41:09.897656+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "367e9ddae9a2",
+      "titulo": "Reclutamiento de menores: el doble fracaso del Estado, Facebook y TikTok",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/reclutamiento-de-menores-el-doble-fracaso-del-estado-facebook-y-tiktok/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-09T10:41:09.897645+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "0d0c94c7ae9b",
+      "titulo": "Esto se sabe del secuestro de soldado colombo-francés que habrían cometido disidencias",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/esto-se-sabe-del-secuestro-de-soldado-colombo-frances-que-habrian-cometido-disidencias-de-las-farc-en-narino/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-09T10:41:09.897633+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "9b5b90369e80",
+      "titulo": "Gobierno canceló diálogos con disidencias de “Calarcá” y otros dos grupos: esta es la orden",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/gobierno-de-la-espriella-cancelo-mesas-de-dialogo-con-disidencias-de-calarca-y-otros-dos-grupos-esta-es-la-orden/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-09T10:41:09.897619+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "eb477dcdc5a8",
+      "titulo": "Violencia sexual y torturas: el terror paramilitar que revela la condena al “Negro Jiménez”",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/violencia-sexual-y-torturas-el-terror-paramilitar-que-revela-la-condena-al-negro-jimenez/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-09T10:41:09.897587+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitar"
+      ]
+    },
+    {
+      "id": "f11d7526e3c8",
+      "titulo": "Gobierno usa la diplomacia y el acuerdo de paz para darle forma a su política de seguridad",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/gobierno-usa-la-diplomacia-y-el-acuerdo-de-paz-para-darle-forma-a-su-politica-de-seguridad/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-09T10:41:09.897567+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -180,30 +229,126 @@
       ]
     },
     {
-      "id": "2f4fdf0255fa",
-      "titulo": "Fiscalía reactiva las órdenes de captura contra alias HH y otros cabecillas del frente Comuneros del Sur",
-      "resumen": "La fiscal Luz A. Camargo firmó una resolución para retomar sus búsquedas, tras el desmonte de la mesa de paz que ordenó el presidente De La Espriella.",
-      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-reactiva-las-ordenes-de-captura-contra-alias-hh-y-otros-cabecillas-del-frente-comuneros-del-sur-3584329",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "id": "0af05c56cae5",
+      "titulo": "“La negociación no es debilidad”: Santos en el marco de los 10 años del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/la-negociacion-no-es-debilidad-juan-manuel-santos-en-el-marco-de-los-10-anos-del-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-08T00:43:31+00:00",
+      "fecha": "2026-09-09T10:41:09.897540+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "mesa de paz"
+        "acuerdo de paz"
       ]
     },
     {
-      "id": "b10996f3845f",
-      "titulo": "Denuncian presunto plan de 'Iván Mordisco' que buscaría reclutar menores de edad para entrenarlos en el uso de drones contra la Fuerza Pública",
-      "resumen": "Un documento conocido en exclusiva por RCN revelaría el plan de las disidencias de las Farc.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/denuncian-presunto-plan-de-ivan-mordisco-que-buscaria-reclutar-menores-de-edad-para-entrenarlos-en-el-uso-de-drones-contra-la-fuerza-publica-3584231",
+      "id": "dddb29585f61",
+      "titulo": "Al menos 10 millones de personas necesitan ayuda humanitaria en Sudán del Sur, alerta ONU",
+      "resumen": "",
+      "url": "https://www.infobae.com/america/agencias/2026/09/09/al-menos-10-millones-de-personas-necesitan-ayuda-humanitaria-en-sudan-del-sur-alerta-onu/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-09T10:31:20+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ayuda humanitaria"
+      ]
+    },
+    {
+      "id": "c6dfb8307322",
+      "titulo": "Luca Spada, el trabajador de Cruz Roja italiano investigado por la muerte de seis pacientes y sus selfies con ataúdes: \"Es el ángel de la muerte de las ambulancias\"",
+      "resumen": "Según la Fiscalía de Forlì, habría provocado la muerte de los pacientes introduciendo aire en sus venas mientras eran trasladados en ambulancia, provocándoles una embolia Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/09/6aa0fa0de4d4d8a2678b4596.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-09T06:20:58+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "cruz roja"
+      ]
+    },
+    {
+      "id": "07cfc9a8efc8",
+      "titulo": "El combustible que termina en los laboratorios de coca: así funcionaría la red del Eln golpeada entre Cúcuta y Villa del Rosario",
+      "resumen": "Cuatro capturados serían los responsables de una cadena que comenzaba con el apoderamiento de hidrocarburos del Poliducto Pozos Colorados-Galán.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-combustible-que-termina-en-los-laboratorios-de-coca-asi-funcionaria-la-red-del-eln-golpeada-entre-cucuta-y-villa-del-rosario-3584608",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-07T20:28:56+00:00",
+      "fecha": "2026-09-08T23:18:12+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "feb9f4d03db5",
+      "titulo": "La ruta de los explosivos: así delinquía la red que abastecía a grupos armados desde cuatro países",
+      "resumen": "La captura de 'Mauro' y otros 5 hombres dejó al descubierto un circuito que, según la Dijín, conseguía explosivos en Bolivia, Chile, Perú y Ecuador.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-ruta-de-los-explosivos-asi-delinquia-la-red-que-abastecia-a-grupos-armados-desde-cuatro-paises-3584602",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-08T23:01:14+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "821c8e1dc0e7",
+      "titulo": "Los tres poderosos drones que Estados Unidos prepara para enviar a Colombia en medio de la ofensiva contra grupos armados: ¿cuáles son?",
+      "resumen": "EL TIEMPO conoció que, en medio de esa cooperación, avanza el trámite para traer al país las aeronaves no tripuladas destinadas para reconocimiento.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-tres-poderosos-drones-que-estados-unidos-prepara-para-enviar-a-colombia-en-medio-de-la-ofensiva-contra-grupos-armados-cuales-son-3584460",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-08T22:31:18+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "a4ec9b5aa4ef",
+      "titulo": "Nueve meses en el mar a bordo del USS Abraham Lincoln: soledad, fatiga y orgullo",
+      "resumen": "En diversas entrevistas, los marineros afirmaron sentir la tensión de un despliegue prolongado en una zona de guerra, pero también manifestaron su orgullo por haber cumplido la misión Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/09/6aa01c56e85ece2e118b458a.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-08T22:04:20+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "zona de guerra"
+      ]
+    },
+    {
+      "id": "2d5619df99e3",
+      "titulo": "Se enfrentó a su custodio y se lanzó a un río: la historia del colombiano de la Legión Francesa que se escapó de las disidencias de ‘Iván Mordisco’",
+      "resumen": "José Olger Melo Charry permanecía amarrado de cuello, manos y pies y era custodiado por 6 integrantes de la estructura ‘Franco Benavides’. Detalles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/se-enfrento-a-su-custodio-y-se-lanzo-a-un-rio-la-historia-del-colombiano-de-la-legion-francesa-que-se-escapo-de-las-disidencias-de-ivan-mordisco-3584540",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-08T20:12:19+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -212,19 +357,87 @@
       ]
     },
     {
-      "id": "e5cec24af688",
-      "titulo": "¿Quién reemplazará a ‘Bendito Menor’ dentro de ‘los Pachencas’? La disputa que se abre dentro del grupo armado por el control de La Guajira",
-      "resumen": "Dos nombres aparecen entre las posibilidades para asumir parte de ese espacio. Sucesión también involucra el control de criminalidad en la región.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/quien-reemplazara-a-bendito-menor-dentro-de-los-pachencas-la-disputa-que-se-abre-dentro-del-grupo-armado-por-el-control-de-la-guajira-3584235",
+      "id": "c392e1ed70c1",
+      "titulo": "Amenazan de muerte a siete líderes sociales en Montes de María: les dieron 73 horas para abandonar el territorio",
+      "resumen": "Fueron declarados objetivo militar en un mensaje atribuido al Clan del Golfo. Organizaciones defensoras de derechos humanos piden medidas urgentes.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/amenazan-de-muerte-a-siete-lideres-sociales-en-montes-de-maria-les-dieron-73-horas-para-abandonar-el-territorio-3584536",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-08T20:00:09+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "clan del golfo",
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "985fd5153cee",
+      "titulo": "Catorce países, encabezados por Londres, anuncian un embargo comercial contra las colonias judías en Cisjordania",
+      "resumen": "El ministro británico de Exteriores, Ed Miliband, acusa a Israel de \"hacer la vista gorda\" ante la \"limpieza étnica\" de palestinos en el territorio ocupado Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/08/6aa00908fdddff4e1a8b4599.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-08T16:14:05+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "limpieza etnica"
+      ]
+    },
+    {
+      "id": "b124c2d327db",
+      "titulo": "Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia",
+      "resumen": "Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/08/6aa02804e4d4d8eb608b458a.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-08T15:38:06+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra de ucrania"
+      ]
+    },
+    {
+      "id": "239dc03996b6",
+      "titulo": "Fiscalía imputó a ‘Mocho Olmedo’ por homicidio, desplazamiento y reclutamiento de menores durante el conflicto del Catatumbo en 2025",
+      "resumen": "El cabecilla del Frente 33 de las disidencias está detenido en La Picota mientras espera su extradición a Estados Unidos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fiscalia-imputo-a-mocho-olmedo-por-homicidio-desplazamiento-y-reclutamiento-de-menores-durante-el-conflicto-del-catatumbo-en-3584397",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-07T19:37:40+00:00",
+      "fecha": "2026-09-08T12:42:19+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "disidencias",
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "2c918310ff50",
+      "titulo": "Golpe a las finanzas del ‘clan del Golfo’: operación frenó producción de oro por más de $2.000 millones al mes",
+      "resumen": "Fuerza Pública y Fiscalía intervinieron 11 unidades de minería ilegal en Cáceres, Bajo Cauca antioqueño.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-del-clan-del-golfo-operacion-freno-produccion-de-oro-por-mas-de-2-000-millones-al-mes-3584380",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-08T11:41:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupo armado"
+        "clan del golfo"
       ]
     },
     {
@@ -241,38 +454,6 @@
       ],
       "palabras_clave": [
         "derechos humanos"
-      ]
-    },
-    {
-      "id": "85ff6d5ff079",
-      "titulo": "Droga enterrada, caletas y una flota de 20 lanchas: las pistas del corredor de las disidencias de ‘Mordisco’ desde el Cauca hasta Brasil",
-      "resumen": "Las autoridades siguen la pista a cuatro hombres señalados de participar en una red que mueve marihuana y cocaína hasta el vecino país.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/droga-enterrada-caletas-y-una-flota-de-20-lanchas-las-pistas-del-corredor-de-las-disidencias-de-mordisco-desde-el-cauca-hasta-brasil-3584106",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-07T12:18:55+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "1e7ac7db7fdd",
-      "titulo": "Una multitud rinde homenaje al criminal de guerra Ratko Mladic en Belgrado",
-      "resumen": "Cientos de personas comenzaron a desfilar este lunes en Belgrado ante el féretro del ex jefe militar serbobosnio Ratko Mladic, condenado por genocidio y crímenes de guerra, en el marco de unas polémicas exequias que han provocado el rechazo de la Unión Europea Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/07/6a9e7c8ffdddffbb328b4582.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-07T08:57:57+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "genocidio"
       ]
     },
     {
