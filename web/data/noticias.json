@@ -1,38 +1,22 @@
 {
-  "generado_en": "2026-09-09T10:41:14.628441+00:00",
-  "total_revisadas": 262,
+  "generado_en": "2026-09-10T10:41:17.453520+00:00",
+  "total_revisadas": 269,
   "total_relevantes": 32,
   "noticias": [
     {
-      "id": "ad8c915db283",
-      "titulo": "Trump pide a Putin el fin de la guerra en Ucrania y espera sellar la paz durante su mandato",
+      "id": "08600f07eb80",
+      "titulo": "“Limpieza étnica”.La dura acusación de Merz contra AfD y el inesperado roce con Trump tras el avance de la ultraderecha",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/eeuu/guerra-rusia-ucrania-donald-trump-pide-a-vladimir-putin-el-fin-de-la-guerra-y-espera-sellar-la-paz-durante-su-mandato-estados-unidos-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
+      "url": "https://lanacion.com.ar/el-mundo/merz-acusa-a-afd-de-impulsar-una-limpieza-etnica-y-cancela-una-reunion-con-trump-nid09092026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-09-09T10:41:14.460981+00:00",
+      "fecha": "2026-09-10T10:41:16.926607+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "guerra en ucrania"
-      ]
-    },
-    {
-      "id": "1192f499113c",
-      "titulo": "Falleció Javier Gómez, subdirector de Comfanorte, tras atentado en Cúcuta",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/fallecio-javier-gomez-subdirector-de-comfanorte-tras-atentado-en-cucuta",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-09T10:41:11.588006+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
+        "limpieza etnica"
       ]
     },
     {
@@ -43,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:11.587947+00:00",
+      "fecha": "2026-09-10T10:41:15.198521+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,12 +43,44 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:11.587934+00:00",
+      "fecha": "2026-09-10T10:41:15.198510+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "explosivos"
+      ]
+    },
+    {
+      "id": "422b0193ed0b",
+      "titulo": "Padre del representante a la Cámara Ariel Rodríguez fue víctima de un atentado en Cúcuta",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/padre-del-representante-la-camara-ariel-rodriguez-fue-victima-de-un-atentado-en-cucuta",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-10T10:41:15.198447+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "eedd84650b1b",
+      "titulo": "Hasta $100 millones mensuales en extorsiones, desmantelan red de apoyo al terrorismo del Eln en Cúcuta",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/hasta-100-millones-mensuales-en-extorsiones-desmantelan-red-de-apoyo-al-terrorismo-del-eln",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-10T10:41:15.198383+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -75,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:10.574305+00:00",
+      "fecha": "2026-09-10T10:41:14.749098+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:10.574258+00:00",
+      "fecha": "2026-09-10T10:41:14.749044+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,35 +116,83 @@
       ]
     },
     {
-      "id": "bcf23932b898",
-      "titulo": "Sobrino de alias Douglas, uno de los del ‘tarimazo’ del gobierno Petro, fue capturado por secuestro de un influenciador",
+      "id": "abbb639ce878",
+      "titulo": "Autoridades inutilizaron 11 dragas que extraían oro para presunto grupo armado en el Bajo Cauca antioqueño",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/sobrino-de-alias-douglas-uno-de-los-del-tarimazo-del-gobierno-petro-fue-capturado-por-secuestro-de-un-influenciador/202627/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/antioquia/mineria-ilegal-conflicto-clan-del-golfo-bajo-cauca-antioquia-HI40844751",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:10.072299+00:00",
+      "fecha": "2026-09-10T10:41:14.748904+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "secuestro"
+        "grupo armado"
       ]
     },
     {
-      "id": "cd7d362b5234",
-      "titulo": "Así fue el megaoperativo de la Policía contra red que le vendía explosivos a grupos terrorista",
+      "id": "81df0fe647ab",
+      "titulo": "Lo que hay detrás de las amenazas de disidencias a tres alcaldes del Norte de Antioquia",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-fue-el-megaoperativo-de-la-policia-contra-red-que-le-vendia-explosivos-a-grupos-terrorista/202642/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/antioquia/amenazas-alcaldes-norte-antioquia-calarca-frente-36-la-mona-BL40875150",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:10.072288+00:00",
+      "fecha": "2026-09-10T10:41:14.748852+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "ae73da2198ec",
+      "titulo": "Condenaron a alias El Zarco, cabecilla de las disidencias Farc, a más de 20 años por 13 homicidios en Tolima",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/condenan-alias-el-zarco-cabecilla-disidencias-farc-13-homicidios-tolima-GE40880530",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-10T10:41:14.748784+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "54d9d74ba17b",
+      "titulo": "Evacúan a 21 uniformados de El Carmen, Norte de Santander, luego de que el ELN destruyera subestación de Policía; alcalde clama por ayuda",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cucuta/articulo/evacuan-21-uniformados-de-el-carmen-norte-de-santander-luego-de-que-el-eln-destruyera-la-subestacion-de-policia-el-alcalde-clama-ayuda/202647/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-10T10:41:11.612080+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "25f727b79028",
+      "titulo": "Cabecilla del Clan del Golfo era socio del narco uruguayo Sebastián Marset. Fue capturado y será extraditado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/cabecilla-del-clan-del-golfo-era-socio-del-narco-uruguayo-sebastian-marset-fue-capturado-y-sera-extraditado/202620/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-10T10:41:11.612014+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -139,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897656+00:00",
+      "fecha": "2026-09-10T10:41:11.283310+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897645+00:00",
+      "fecha": "2026-09-10T10:41:11.283296+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -172,7 +236,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897633+00:00",
+      "fecha": "2026-09-10T10:41:11.283282+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -188,7 +252,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897619+00:00",
+      "fecha": "2026-09-10T10:41:11.283267+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -204,7 +268,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897587+00:00",
+      "fecha": "2026-09-10T10:41:11.283227+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -220,7 +284,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897567+00:00",
+      "fecha": "2026-09-10T10:41:11.283205+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -236,7 +300,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-09T10:41:09.897540+00:00",
+      "fecha": "2026-09-10T10:41:11.283170+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -245,19 +309,99 @@
       ]
     },
     {
-      "id": "dddb29585f61",
-      "titulo": "Al menos 10 millones de personas necesitan ayuda humanitaria en Sudán del Sur, alerta ONU",
-      "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/09/09/al-menos-10-millones-de-personas-necesitan-ayuda-humanitaria-en-sudan-del-sur-alerta-onu/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
+      "id": "2656fd055a80",
+      "titulo": "Detenido en Rusia un guardia de seguridad de la embajada británica por espiar para Ucrania",
+      "resumen": "El servicio de seguridad ruso señaló que \"el régimen de Kiev tenía previsto utilizar estas informaciones para preparar y perpetrar actos de terrorismo y sabotaje contra el jefe de la misión diplomática y otros diplomáticos, y posteriormente acusar a la parte rusa\". Todo ello con el fin de \"implicar a Reino Unido en un conflicto armado directo con Rusia Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/10/6aa25546e4d4d8e0388b459d.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
       "region": "internacional",
-      "fecha": "2026-09-09T10:31:20+00:00",
+      "fecha": "2026-09-10T07:06:59+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "ayuda humanitaria"
+        "conflicto armado"
+      ]
+    },
+    {
+      "id": "cce4e17fca66",
+      "titulo": "Gobierno da estocada final a la 'paz total': cierra Zona de Ubicación Temporal en Putumayo y alista fin de procesos con el 'clan del Golfo' y el Eln",
+      "resumen": "El Ejecutivo expidió las resoluciones que revocan la designación de los representantes. Hay dudas por futuro de 99 personas que estaban concentradas.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-da-estocada-final-a-la-paz-total-cierra-zona-de-ubicacion-temporal-en-putumayo-y-procesos-con-el-clan-del-golfo-y-el-eln-3584944",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-09-10T01:56:47+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "d7030ac2aeb4",
+      "titulo": "Cayó en Medellín hombre señalado de tener conexiones con el ‘clan del Golfo’, Sebastián Marset y redes en China",
+      "resumen": "El ciudadano colombo-canadiense era requerido por una corte de Nueva Jersey por una investigación relacionada con narcotráfico y lavado de activos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-medellin-hombre-senalado-de-tener-conexiones-con-el-clan-del-golfo-sebastian-marset-y-redes-en-china-3584919",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-09T23:31:26+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "a1e2a329a84f",
+      "titulo": "La ruta secreta de los minerales estratégicos: del Vichada a Bogotá y de allí a Europa y Asia",
+      "resumen": "Informes revelan la extracción de arenas negras y la ruta que atraviesa corredores donde el Eln y la ‘Segunda Marquetalia’ están presentes.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-ruta-secreta-de-los-minerales-estrategicos-del-vichada-a-bogota-y-de-alli-a-europa-y-asia-3584834",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-09T19:40:28+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "682a50277f16",
+      "titulo": "Así fue el seguimiento al vehículo que cayó con cargamento de 4.140 cartuchos que iba para el Eln: operación se dio en el sur del Cesar",
+      "resumen": "Gaula Militar Cundinamarca seguía la pista de información relacionada con los movimientos de diferentes estructuras armadas en la región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-el-seguimiento-al-vehiculo-que-cayo-cargamento-de-4-140-cartuchos-que-iba-para-el-eln-operacion-se-dio-en-le-sur-del-cesar-3584705",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-09T14:45:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "0f2db7e52763",
+      "titulo": "Capturan en Aguachica a presunto integrante del Eln con más de 4.000 municiones",
+      "resumen": "La operación permitió interceptar a un hombre señalado de transportar material de guerra.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-aguachica-a-presunto-integrante-del-eln-con-mas-de-4-000-municiones-3584670",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-09T14:22:43+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -277,54 +421,6 @@
       ]
     },
     {
-      "id": "07cfc9a8efc8",
-      "titulo": "El combustible que termina en los laboratorios de coca: así funcionaría la red del Eln golpeada entre Cúcuta y Villa del Rosario",
-      "resumen": "Cuatro capturados serían los responsables de una cadena que comenzaba con el apoderamiento de hidrocarburos del Poliducto Pozos Colorados-Galán.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-combustible-que-termina-en-los-laboratorios-de-coca-asi-funcionaria-la-red-del-eln-golpeada-entre-cucuta-y-villa-del-rosario-3584608",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-08T23:18:12+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "feb9f4d03db5",
-      "titulo": "La ruta de los explosivos: así delinquía la red que abastecía a grupos armados desde cuatro países",
-      "resumen": "La captura de 'Mauro' y otros 5 hombres dejó al descubierto un circuito que, según la Dijín, conseguía explosivos en Bolivia, Chile, Perú y Ecuador.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-ruta-de-los-explosivos-asi-delinquia-la-red-que-abastecia-a-grupos-armados-desde-cuatro-paises-3584602",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-08T23:01:14+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "821c8e1dc0e7",
-      "titulo": "Los tres poderosos drones que Estados Unidos prepara para enviar a Colombia en medio de la ofensiva contra grupos armados: ¿cuáles son?",
-      "resumen": "EL TIEMPO conoció que, en medio de esa cooperación, avanza el trámite para traer al país las aeronaves no tripuladas destinadas para reconocimiento.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-tres-poderosos-drones-que-estados-unidos-prepara-para-enviar-a-colombia-en-medio-de-la-ofensiva-contra-grupos-armados-cuales-son-3584460",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-08T22:31:18+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
       "id": "a4ec9b5aa4ef",
       "titulo": "Nueve meses en el mar a bordo del USS Abraham Lincoln: soledad, fatiga y orgullo",
       "resumen": "En diversas entrevistas, los marineros afirmaron sentir la tensión de un despliegue prolongado en una zona de guerra, pero también manifestaron su orgullo por haber cumplido la misión Leer",
@@ -341,56 +437,6 @@
       ]
     },
     {
-      "id": "2d5619df99e3",
-      "titulo": "Se enfrentó a su custodio y se lanzó a un río: la historia del colombiano de la Legión Francesa que se escapó de las disidencias de ‘Iván Mordisco’",
-      "resumen": "José Olger Melo Charry permanecía amarrado de cuello, manos y pies y era custodiado por 6 integrantes de la estructura ‘Franco Benavides’. Detalles.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/se-enfrento-a-su-custodio-y-se-lanzo-a-un-rio-la-historia-del-colombiano-de-la-legion-francesa-que-se-escapo-de-las-disidencias-de-ivan-mordisco-3584540",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-08T20:12:19+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "c392e1ed70c1",
-      "titulo": "Amenazan de muerte a siete líderes sociales en Montes de María: les dieron 73 horas para abandonar el territorio",
-      "resumen": "Fueron declarados objetivo militar en un mensaje atribuido al Clan del Golfo. Organizaciones defensoras de derechos humanos piden medidas urgentes.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/amenazan-de-muerte-a-siete-lideres-sociales-en-montes-de-maria-les-dieron-73-horas-para-abandonar-el-territorio-3584536",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-08T20:00:09+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "clan del golfo",
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "985fd5153cee",
-      "titulo": "Catorce países, encabezados por Londres, anuncian un embargo comercial contra las colonias judías en Cisjordania",
-      "resumen": "El ministro británico de Exteriores, Ed Miliband, acusa a Israel de \"hacer la vista gorda\" ante la \"limpieza étnica\" de palestinos en el territorio ocupado Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/08/6aa00908fdddff4e1a8b4599.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-08T16:14:05+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "limpieza etnica"
-      ]
-    },
-    {
       "id": "b124c2d327db",
       "titulo": "Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia",
       "resumen": "Leer",
@@ -404,56 +450,6 @@
       ],
       "palabras_clave": [
         "guerra de ucrania"
-      ]
-    },
-    {
-      "id": "239dc03996b6",
-      "titulo": "Fiscalía imputó a ‘Mocho Olmedo’ por homicidio, desplazamiento y reclutamiento de menores durante el conflicto del Catatumbo en 2025",
-      "resumen": "El cabecilla del Frente 33 de las disidencias está detenido en La Picota mientras espera su extradición a Estados Unidos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fiscalia-imputo-a-mocho-olmedo-por-homicidio-desplazamiento-y-reclutamiento-de-menores-durante-el-conflicto-del-catatumbo-en-3584397",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-08T12:42:19+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "disidencias",
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "2c918310ff50",
-      "titulo": "Golpe a las finanzas del ‘clan del Golfo’: operación frenó producción de oro por más de $2.000 millones al mes",
-      "resumen": "Fuerza Pública y Fiscalía intervinieron 11 unidades de minería ilegal en Cáceres, Bajo Cauca antioqueño.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-del-clan-del-golfo-operacion-freno-produccion-de-oro-por-mas-de-2-000-millones-al-mes-3584380",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-08T11:41:40+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "ee24bf6a7ba6",
-      "titulo": "El 94% de los cubanos vive en extrema pobreza y el 80% pasa hambre, según el Observatorio Cubano de Derechos Humanos",
-      "resumen": "Un demoledor estudio del Observatorio Cubano de Derechos Humanos constata el colapso de la isla, marcado por apagones crónicos, escasez crítica de medicinas y un rechazo casi total a las autoridades, con solo entre el 3% y el 7% de la población leal al Gobierno Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/07/6a9ecb4221efa0c1598b4589.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-07T14:34:11+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
       ]
     },
     {
