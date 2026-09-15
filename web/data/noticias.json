@@ -1,40 +1,8 @@
 {
-  "generado_en": "2026-09-14T10:40:43.465747+00:00",
-  "total_revisadas": 266,
-  "total_relevantes": 32,
+  "generado_en": "2026-09-15T15:10:11.228760+00:00",
+  "total_revisadas": 268,
+  "total_relevantes": 29,
   "noticias": [
-    {
-      "id": "f3730e19c1a4",
-      "titulo": "Hutíes anuncian ataque contra base en Arabia saudita tras nuevos combates contra la fuerzas de Yemen",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/asia/huties-anuncian-ataque-contra-base-en-arabia-saudita-tras-nuevos-combates-contra-la-fuerzas-de-yemen-iran-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-09-14T10:40:43.356699+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "73ba540e402c",
-      "titulo": "Cae presunto integrante del Eln que movería material de guerra hacia el Catatumbo",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/cae-presunto-integrante-del-eln-que-moveria-material-de-guerra-hacia-el-catatumbo",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-14T10:40:40.514252+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
     {
       "id": "15aa34fb51b9",
       "titulo": "Destruyen con explosivos la subestación de Policía de Guamalito, Norte de Santander",
@@ -43,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:40.514175+00:00",
+      "fecha": "2026-09-15T15:10:08.064276+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,67 +20,35 @@
       ]
     },
     {
-      "id": "fbeffeef8c51",
-      "titulo": "Alias Chalá no aceptó cargos por el secuestro y asesinato del periodista Mateo Pérez Rueda",
+      "id": "ffd9ceb59ac1",
+      "titulo": "Ocaña: hombre asesinado en Aguas Claras pertenecería al Eln",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/alias-victor-chala-no-acepto-cargos-secuestro-asesinato-periodista-mateo-perez-rueda-KE40992954",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/ocana-hombre-asesinado-en-aguas-claras-perteneceria-al-eln",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.774100+00:00",
+      "fecha": "2026-09-15T15:10:08.064262+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "secuestro"
+        "eln"
       ]
     },
     {
-      "id": "56ef3d96a748",
-      "titulo": "Nuevo ataque con drones en el Cauca: seis soldados resultaron heridos",
+      "id": "3a0127ee91d5",
+      "titulo": "En operación militar fueron rescatados ocho secuestrados por el Eln en el Catatumbo",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-drones-caldono-cauca-soldados-heridos-OE40996945",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/region/en-operacion-militar-fueron-rescatados-ocho-secuestrados-por-el-eln-en-el-catatumbo",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.774055+00:00",
+      "fecha": "2026-09-15T15:10:08.064229+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "ataque con drones"
-      ]
-    },
-    {
-      "id": "a994df54889b",
-      "titulo": "Ataque terrorista en Huila: tecnología antidron frustró atentado contra tropas del Ejército",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-drones-ejercito-la-plata-huila-AE40999876",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.774034+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "9d882bec397b",
-      "titulo": "Golpe a Calarcá: habría fallecido alias Leito, cabecilla de las disidencias señalado por la muerte de 13 policías en Amalfi",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/fallecimiento-alias-leito-electrico-cabecilla-calarca-muerte-policias-amalfi-HF41004276",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.774012+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
+        "eln"
       ]
     },
     {
@@ -123,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.773990+00:00",
+      "fecha": "2026-09-15T15:10:07.073781+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.773950+00:00",
+      "fecha": "2026-09-15T15:10:07.073732+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,46 +84,14 @@
       ]
     },
     {
-      "id": "2f54728231df",
-      "titulo": "Golpe a las disidencias de Calarcá: habría fallecido alias Leito, señalado por ataque que dejó 13 policías muertos",
+      "id": "93d5ee9a1f37",
+      "titulo": "La Policía regresó a Guamalito, Norte de Santander, luego de que el ELN destruyera la subestación del pueblo",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/golpe-a-las-disidencias-de-calarca-habria-fallecido-alias-leito-senalado-por-ataque-que-dejo-13-policias-muertos/202623/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/policia-regreso-subestacion-guamalito-norte-de-santander-destruccion-eln-NB41043943",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.431604+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d8a0fec956c0",
-      "titulo": "Reactivan órdenes de captura contra tres peligrosos criminales del Clan del Golfo que habían sido beneficiados en el gobierno Petro",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/reactivan-ordenes-de-captura-contra-tres-peligrosos-criminales-del-clan-del-golfo-que-habian-sido-beneficiados-en-el-gobierno-petro/202646/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.431571+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e918f9f975d8",
-      "titulo": "ELN entrega prueba de supervivencia del conductor de ambulancia secuestrado en Catatumbo: esto reveló en video",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/eln-entrega-prueba-de-supervivencia-del-conductor-de-ambulancia-secuestrado-en-catatumbo-esto-revelo-en-video/202611/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.431485+00:00",
+      "fecha": "2026-09-15T15:10:07.073459+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -196,35 +100,69 @@
       ]
     },
     {
-      "id": "0703e521e4d5",
-      "titulo": "Presidente anunció la baja de importante cabecilla del Clan del Golfo y contundente golpe a grupo narcoterrorista",
+      "id": "2136c1e94cd4",
+      "titulo": "Fiscalía acusa a tres hermanos de ‘Iván Mordisco’ por homicidio, secuestro y tortura: enfrentarán juicio",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/presidente-anuncio-la-baja-de-importante-cabecilla-del-clan-del-golfo-y-contundente-golpe-a-grupo-narcoterrorista/202612/",
+      "url": "https://semana.com/nacion/articulo/fiscalia-acusa-a-tres-hermanos-de-ivan-mordisco-por-homicidio-secuestro-y-tortura-enfrentaran-juicio/202611/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.431472+00:00",
+      "fecha": "2026-09-15T15:10:06.665191+00:00",
       "temas": [
-        "Conflicto armado"
+        "Conflicto armado",
+        "DDHH"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "secuestro",
+        "tortura"
       ]
     },
     {
-      "id": "2c29501b0c04",
-      "titulo": "Masacre en Cesar: cuatro personas asesinadas en ataque armado en establecimiento público de La Gloria",
+      "id": "aeede1f34e09",
+      "titulo": "Aterrador video en el que campesino de Tibú, en el Catatumbo, denuncia ataque con drones: “Corra que la soltó, corra que la soltó”",
       "resumen": "",
-      "url": "https://semana.com/nacion/valledupar/articulo/masacre-en-cesar-cuatro-personas-asesinadas-en-ataque-armado-en-establecimiento-publico-de-la-gloria/202616/",
+      "url": "https://semana.com/nacion/cucuta/articulo/aterrador-video-en-el-que-campesino-de-tibu-en-el-catatumbo-denuncia-ataque-con-drones-corra-que-la-solto-corra-que-la-solto/202625/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.431464+00:00",
+      "fecha": "2026-09-15T15:10:06.665127+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "ataque armado"
+        "ataque con drones"
+      ]
+    },
+    {
+      "id": "467e8177097b",
+      "titulo": "Ejército frustra poderoso atentado terrorista de las disidencias de Calarcá en Briceño, Antioquia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/ejercito-frustra-poderoso-atentado-terrorista-de-las-disidencias-de-calarca-en-briceno-antioquia/202644/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-15T15:10:06.665038+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "da2f829d0276",
+      "titulo": "El Comando Sur de Estados Unidos participó en operación para liberar a ocho secuestrados por el ELN en Norte de Santander",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/el-comando-sur-de-estados-unidos-participo-en-operacion-para-liberar-a-ocho-secuestrados-por-el-eln-en-norte-de-santander/202618/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-15T15:10:06.664996+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -235,7 +173,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.056873+00:00",
+      "fecha": "2026-09-15T15:10:06.125060+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.056865+00:00",
+      "fecha": "2026-09-15T15:10:06.125051+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.056852+00:00",
+      "fecha": "2026-09-15T15:10:06.125034+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.056842+00:00",
+      "fecha": "2026-09-15T15:10:06.125024+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.056814+00:00",
+      "fecha": "2026-09-15T15:10:06.124986+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-14T10:40:39.056797+00:00",
+      "fecha": "2026-09-15T15:10:06.124964+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -324,30 +262,14 @@
       ]
     },
     {
-      "id": "718f0a94ecc2",
-      "titulo": "Alias Walter Mendoza pide al presidente Abelardo De La Espriella reactivar diálogos de paz con los disidentes de la Cneb: 'Manifestación de voluntad'",
-      "resumen": "El líder guerrillero planteó designar un delegado del Gobierno y construir una agenda sobre víctimas, comunidades afectadas y reincorporación.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-walter-mendoza-pide-al-presidente-abelardo-de-la-espriella-reactivar-dialogos-de-paz-con-los-disidentes-de-la-cneb-manifestacion-de-voluntad-3585686",
+      "id": "8cfab453b2e6",
+      "titulo": "Regresan las Fuerzas de Tarea Conjuntas: Gobierno activará ‘Urano’ para golpear al Eln y al ‘clan del Golfo’ en el Cesar; estas son las razones",
+      "resumen": "La nueva estructura tendrá como eje de operaciones Aguachica, el sur del departamento.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/regresan-las-fuerzas-de-tarea-conjuntas-gobierno-activara-urano-para-golpear-al-eln-y-al-clan-del-golfo-en-el-cesar-estas-son-las-razones-3586167",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-13T21:44:40+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "guerrillero"
-      ]
-    },
-    {
-      "id": "b37b7a84fa4c",
-      "titulo": "Combate en Caucasia deja un muerto y tres capturados: son señalados como integrantes del ‘clan del Golfo’",
-      "resumen": "En la operación también fueron incautadas cuatro armas largas y una corta, además de material de intendencia y otras dotaciones.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/combate-en-caucasia-deja-un-muerto-y-tres-capturados-son-senalados-como-integrantes-del-clan-del-golfo-3585711",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-13T16:06:41+00:00",
+      "fecha": "2026-09-15T14:52:30+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -356,62 +278,112 @@
       ]
     },
     {
-      "id": "152af6fcb709",
-      "titulo": "Fiscalía reactiva captura de tres exrepresentantes del 'Clan del Golfo' tras fin de diálogos",
-      "resumen": "La medida cobija a Orolzman Osten Blanco, Elkin Casarrubia Posada y Luis Armando Pérez Castañeda, cuyas órdenes habían sido suspendidas.",
-      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-reactiva-captura-de-tres-exrepresentantes-del-clan-del-golfo-tras-fin-de-dialogos-3585693",
+      "id": "5066c2b56004",
+      "titulo": "Fiscalía imputó a alias Araña por 16 asesinatos cometidos por las disidencias Farc: entre las víctimas estaban líderes sociales",
+      "resumen": "Son 16 crímenes que el ente acusador le atribuye al cabecilla de los 'Comandos de Frontera' en el Caquetá.",
+      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-imputo-a-alias-arana-por-16-asesinatos-cometidos-por-las-disidencias-farc-entre-las-victimas-estaban-lideres-sociales-3586168",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-13T14:51:46+00:00",
+      "fecha": "2026-09-15T14:50:29+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "disidencias",
+        "lideres sociales"
+      ]
+    },
+    {
+      "id": "7d15e3960c22",
+      "titulo": "Operación entre el Gaula y la DEA permitió el rescate de ocho secuestrados por el Eln en el Catatumbo",
+      "resumen": "Las labores de inteligencia de la fuerza pública se desarrollaron en zona rural de Convención, Norte de Santander.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-entre-el-gaula-y-la-dea-permitio-el-rescate-de-ocho-secuestrados-por-el-eln-en-el-catatumbo-3586131",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-15T12:57:22+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "eln"
       ]
     },
     {
-      "id": "a26ac1c2d560",
-      "titulo": "Los hutíes anuncian un ataque contra una base saudí tras nuevos combates contra las fuerzas de Yemen",
-      "resumen": "Tuvo como objetivo \"depósitos de armas, así como centros de mando y control\", cerca de la frontera saudita con Yemen, declaró en X el portavoz hutí Yahya Saree Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/13/6aa5eedee9cf4af9708b459b.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-13T00:40:43+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "652959f889b7",
-      "titulo": "Presidente Abelardo De La Espriella reportó golpe al Frente 36 en Antioquia: combate dejó un muerto y un capturado",
-      "resumen": "El mandatario reportó que el Ejército Nacional sostuvo un enfrentamiento en San Andrés de Cuerquia y aseguró que fueron incautadas armas y explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-abelardo-de-la-espriella-reporto-golpe-al-frente-36-en-antioquia-combate-dejo-un-muerto-y-un-capturado-3585652",
+      "id": "dec7c731ae0b",
+      "titulo": "Primicia: JEP llamaría a versión libre a Sandra Ramírez por reclutamiento forzado de menores; esto se sabe",
+      "resumen": "Una ponencia pone a la exsenadora en el centro del macrocaso que investiga el reclutamiento infantil en las antiguas Farc.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/primicia-jep-llamaria-a-version-libre-a-sandra-ramirez-por-reclutamiento-forzado-de-menores-esto-se-sabe-3586115",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-13T00:19:40+00:00",
+      "fecha": "2026-09-15T12:36:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "farc"
       ]
     },
     {
-      "id": "f6dd634da2cb",
-      "titulo": "Capturan a dos presuntos cabecillas de disidencias de las Farc en Sevilla, Valle",
-      "resumen": "Los tres capturados quedaron a disposición de la Fiscalía.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-presuntos-cabecillas-de-disidencias-de-las-farc-en-sevilla-valle-3585596",
+      "id": "06099c94c04f",
+      "titulo": "Las razones detrás del déficit de $84.663 millones que reporta la JEP para el presupuesto de 2027",
+      "resumen": "El presidente de la JEP, magistrado Alejandro Ramelli, fue citado a las 9 a.m. de este martes en el Congreso.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/las-razones-detras-del-deficit-de-84-663-millones-que-reporta-la-jep-para-el-presupuesto-de-3586092",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-15T12:18:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "7bb4644c3cfe",
+      "titulo": "Eln se tomó antigua estación de Policía de Betoyes, Arauca, y terminó de destruir sus instalaciones",
+      "resumen": "Hombres señalados de pertenecer a la guerrilla fueron grabados utilizando maquinaria para destruir lo que quedaba de la estación de Policía.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-se-tomo-antigua-estacion-de-policia-de-betoyes-arauca-y-termino-de-destruir-sus-instalaciones-3586049",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-12T17:25:00+00:00",
+      "fecha": "2026-09-14T23:16:01+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "dde1ac9a5966",
+      "titulo": "Policía regresa a Guamalito, Norte de Santander, con 150 uniformados tras ataques del Eln",
+      "resumen": "Comandos especiales fueron desplegados, mientras avanza la reconstrucción de la infraestructura afectada.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/policia-regresa-a-guamalito-norte-de-santander-con-150-uniformados-tras-ataques-del-eln-3585973",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-14T19:44:37+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "4d5175bc31ca",
+      "titulo": "Cayó en Cauca alias Ramón, uno de los más buscados de Caquetá y señalado de mover droga para las disidencias",
+      "resumen": "Lo ubican al servicio de la estructura ‘Carolina Ramírez’ y lo señalan de participar en la cadena de narcotráfico que tendría conexiones en el país.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-cauca-alias-ramon-uno-de-los-mas-buscados-de-caqueta-y-senalado-de-mover-droga-para-las-disidencias-3585937",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-14T17:08:36+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -420,35 +392,19 @@
       ]
     },
     {
-      "id": "b3b041fea005",
-      "titulo": "Capturan a alias Cantante, señalado de coordinar el narcotráfico internacional del ‘clan del Golfo’",
-      "resumen": "Autoridades lo vinculan con la coordinación de rutas marítimas para sacar droga hacia Centroamérica y EE.UU. Fue ubicado en Acandí, Chocó.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-alias-cantante-senalado-de-coordinar-el-narcotrafico-internacional-del-clan-del-golfo-3585575",
+      "id": "d52745ba72e0",
+      "titulo": "El informe que plantea siete claves al Gobierno de Abelardo De la Espriella para enfrentar a los grupos armados",
+      "resumen": "Tras las primeras acciones contra estructuras criminales, la FIP plantea una hoja de ruta para que los golpes se conviertan en resultados sostenibles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-informe-que-plantea-siete-claves-al-gobierno-de-la-espriella-para-enfrentar-a-los-grupos-armados-3585853",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-12T16:01:16+00:00",
+      "fecha": "2026-09-14T14:21:39+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "1e69522779e7",
-      "titulo": "Tres muertos en ataques rusos en Ucrania mientras Putin advierte a Europa contra el envío de tropas",
-      "resumen": "Los ataques de Moscú han tenido como objetivo la red eléctrica ucraniana de cara al invierno, en una campaña que, según funcionarios, tiene como objetivo desmoralizar a la población civil. Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/12/6aa54f9e21efa0e1668b457d.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-12T14:39:05+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "poblacion civil"
+        "grupos armados"
       ]
     },
     {
