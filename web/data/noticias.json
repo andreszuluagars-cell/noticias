@@ -1,8 +1,56 @@
 {
-  "generado_en": "2026-09-15T15:10:11.228760+00:00",
-  "total_revisadas": 268,
-  "total_relevantes": 29,
+  "generado_en": "2026-09-16T15:07:12.479943+00:00",
+  "total_revisadas": 263,
+  "total_relevantes": 24,
   "noticias": [
+    {
+      "id": "129ac91d866f",
+      "titulo": "Noboa decreta nuevo estado de excepción y oficializa toque de queda nocturno en Ecuador",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/ecuador-daniel-noboa-decreta-nuevo-estado-de-excepcion-y-oficializa-toque-de-queda-nocturno-john-reimberg-el-oro-manabi-guayas-los-rios-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-09-16T15:07:12.316723+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "toque de queda"
+      ]
+    },
+    {
+      "id": "1556d37d967a",
+      "titulo": "Expresidente de Kosovo Hashim Thaçi recibe condena de 25 años de cárcel por crímenes de guerra",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/expresidente-de-kosovo-hashim-thaci-recibe-condena-de-25-anos-de-carcel-por-crimenes-de-guerra-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-09-16T15:07:12.316627+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra"
+      ]
+    },
+    {
+      "id": "e5803904e134",
+      "titulo": "Hamás califica de “nuevo capítulo del genocidio” la tragedia de edificio derrumbado en Gaza",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/hamas-califica-de-nuevo-capitulo-del-genocidio-la-tragedia-de-edificio-derrumbado-en-gaza-israel-franja-de-gaza-benjamin-netanyahu-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-09-16T15:07:12.316532+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "genocidio"
+      ]
+    },
     {
       "id": "15aa34fb51b9",
       "titulo": "Destruyen con explosivos la subestación de Policía de Guamalito, Norte de Santander",
@@ -11,7 +59,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:08.064276+00:00",
+      "fecha": "2026-09-16T15:07:09.691971+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,60 +75,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:08.064262+00:00",
+      "fecha": "2026-09-16T15:07:09.691947+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "3a0127ee91d5",
-      "titulo": "En operación militar fueron rescatados ocho secuestrados por el Eln en el Catatumbo",
-      "resumen": "",
-      "url": "https://laopinion.co/region/en-operacion-militar-fueron-rescatados-ocho-secuestrados-por-el-eln-en-el-catatumbo",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-15T15:10:08.064229+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "fae6d5e8a590",
-      "titulo": "Fiscalía reactivó órdenes de captura contra tres cabecillas del Clan del Golfo tras el fin de los diálogos de paz",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/fiscalia-reactiva-capturas-tres-cabecillas-del-clan-del-golfo-fin-dialogos-de-paz-HF41006405",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-15T15:10:07.073781+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "4d6623939008",
-      "titulo": "“En un mes de gobierno hemos logrado extraer a 30 jóvenes de situaciones de riesgo de reclutamiento”: ICBF",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/en-primer-mes-de-gobierno-30-menores-de-edad-han-sido-desvinculados-de-grupos-armados-ilegales-DE41011424",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-15T15:10:07.073732+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "reclutamiento"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:07.073459+00:00",
+      "fecha": "2026-09-16T15:07:08.924532+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,69 +100,69 @@
       ]
     },
     {
-      "id": "2136c1e94cd4",
-      "titulo": "Fiscalía acusa a tres hermanos de ‘Iván Mordisco’ por homicidio, secuestro y tortura: enfrentarán juicio",
+      "id": "64893e2cf0a6",
+      "titulo": "Así fue el rescate de 8 secuestrados del ELN en Norte de Santander",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/fiscalia-acusa-a-tres-hermanos-de-ivan-mordisco-por-homicidio-secuestro-y-tortura-enfrentaran-juicio/202611/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/rescate-ocho-secuestrados-eln-convencion-norte-santander-gaula-LC41078003",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.665191+00:00",
+      "fecha": "2026-09-16T15:07:08.924501+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "5dd0148feeff",
+      "titulo": "JEP decidirá si llama a versión a exsenadora Sandra Ramírez por reclutamiento de menores en las Farc",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/jep-evalua-citar-sandra-ramirez-caso-reclutamiento-menores-EN41086442",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-16T15:07:08.924430+00:00",
       "temas": [
         "Conflicto armado",
-        "DDHH"
+        "DIH"
       ],
       "palabras_clave": [
-        "secuestro",
-        "tortura"
+        "farc",
+        "reclutamiento de menores"
       ]
     },
     {
-      "id": "aeede1f34e09",
-      "titulo": "Aterrador video en el que campesino de Tibú, en el Catatumbo, denuncia ataque con drones: “Corra que la soltó, corra que la soltó”",
+      "id": "f69dda39a32b",
+      "titulo": "Ejército frena atentado en Briceño, Antioquia: destruyen 130 kilos de explosivos",
       "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/aterrador-video-en-el-que-campesino-de-tibu-en-el-catatumbo-denuncia-ataque-con-drones-corra-que-la-solto-corra-que-la-solto/202625/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/antioquia/ejercito-frena-atentado-en-briceno-antioquia-destruccion-explosivos-AE41107986",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.665127+00:00",
+      "fecha": "2026-09-16T15:07:08.924342+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "ataque con drones"
+        "atentado"
       ]
     },
     {
-      "id": "467e8177097b",
-      "titulo": "Ejército frustra poderoso atentado terrorista de las disidencias de Calarcá en Briceño, Antioquia",
+      "id": "7e4e115324e5",
+      "titulo": "Nueva masacre: tres hombres fueron asesinados en El Espinal, Tolima",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/ejercito-frustra-poderoso-atentado-terrorista-de-las-disidencias-de-calarca-en-briceno-antioquia/202644/",
+      "url": "https://semana.com/nacion/articulo/nueva-masacre-tres-hombres-fueron-asesinados-en-el-espinal-tolima/202650/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.665038+00:00",
+      "fecha": "2026-09-16T15:07:08.601068+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "da2f829d0276",
-      "titulo": "El Comando Sur de Estados Unidos participó en operación para liberar a ocho secuestrados por el ELN en Norte de Santander",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-comando-sur-de-estados-unidos-participo-en-operacion-para-liberar-a-ocho-secuestrados-por-el-eln-en-norte-de-santander/202618/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.664996+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "masacre"
       ]
     },
     {
@@ -173,7 +173,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.125060+00:00",
+      "fecha": "2026-09-16T15:07:08.230737+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -189,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.125051+00:00",
+      "fecha": "2026-09-16T15:07:08.230725+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -205,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.125034+00:00",
+      "fecha": "2026-09-16T15:07:08.230705+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -221,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.125024+00:00",
+      "fecha": "2026-09-16T15:07:08.230690+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.124986+00:00",
+      "fecha": "2026-09-16T15:07:08.230641+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,12 +253,76 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-15T15:10:06.124964+00:00",
+      "fecha": "2026-09-16T15:07:08.230615+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "mesa de paz"
+      ]
+    },
+    {
+      "id": "745c45092cab",
+      "titulo": "El ex líder kosovar Hashim Thaçi, condenado en La Haya a 25 años de cárcel por crímenes de guerra",
+      "resumen": "El panel de jueces internacionales declara que es culpable del asesinato a manos de fuerzas del ELK durante la guerra de 96 opositores políticos y personas a las que consideraban colaboradores de las fuerzas de seguridad serbias Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/16/6aaa3e92fdddff9f6d8b4585.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-16T10:56:31+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra"
+      ]
+    },
+    {
+      "id": "8ef79764d051",
+      "titulo": "Ejército refuerza vigilancia aérea en Betoyes, Arauca, tras incursión de hombres señalados de pertenecer al Eln",
+      "resumen": "Los armados fueron grabados recorriendo el municipio y utilizando maquinaria para terminar de destruir parte de la estación de Policía.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-refuerza-vigilancia-aerea-en-betoyes-arauca-tras-incursion-de-hombres-senalados-de-pertenecer-al-eln-3586337",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-15T23:06:33+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "f04448e3f403",
+      "titulo": "Así cayeron tres presuntos integrantes del 'clan del Golfo' en Chocó: dos estaban prófugos",
+      "resumen": "Alias Paisa Loco, ‘Eulice’ y ‘Chinga’ fueron ubicados en zona rural de Quibdó. Dos de los detenidos se habían escapado de una carceleta.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-cayeron-tres-presuntos-integrantes-del-clan-del-golfo-en-choco-dos-estaban-profugos-3586334",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-15T22:46:58+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "f07023b15169",
+      "titulo": "Combates entre el Ejército y el Eln dejan cinco muertos y un soldado herido en el sur de Bolívar: alias Niche está entre los abatidos",
+      "resumen": "Enfrentamientos se registraron en la vereda Corcovado, zona rural de Morales. Un soldado resultó herido y seis armas largas fueron incautadas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/combates-entre-el-ejercito-y-el-eln-dejan-cinco-muertos-y-un-soldado-herido-en-el-sur-de-bolivar-alias-niche-esta-entre-los-abatidos-3586193",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-15T16:09:08+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
       ]
     },
     {
@@ -275,136 +339,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "5066c2b56004",
-      "titulo": "Fiscalía imputó a alias Araña por 16 asesinatos cometidos por las disidencias Farc: entre las víctimas estaban líderes sociales",
-      "resumen": "Son 16 crímenes que el ente acusador le atribuye al cabecilla de los 'Comandos de Frontera' en el Caquetá.",
-      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-imputo-a-alias-arana-por-16-asesinatos-cometidos-por-las-disidencias-farc-entre-las-victimas-estaban-lideres-sociales-3586168",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-15T14:50:29+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "disidencias",
-        "lideres sociales"
-      ]
-    },
-    {
-      "id": "7d15e3960c22",
-      "titulo": "Operación entre el Gaula y la DEA permitió el rescate de ocho secuestrados por el Eln en el Catatumbo",
-      "resumen": "Las labores de inteligencia de la fuerza pública se desarrollaron en zona rural de Convención, Norte de Santander.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-entre-el-gaula-y-la-dea-permitio-el-rescate-de-ocho-secuestrados-por-el-eln-en-el-catatumbo-3586131",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-15T12:57:22+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "dec7c731ae0b",
-      "titulo": "Primicia: JEP llamaría a versión libre a Sandra Ramírez por reclutamiento forzado de menores; esto se sabe",
-      "resumen": "Una ponencia pone a la exsenadora en el centro del macrocaso que investiga el reclutamiento infantil en las antiguas Farc.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/primicia-jep-llamaria-a-version-libre-a-sandra-ramirez-por-reclutamiento-forzado-de-menores-esto-se-sabe-3586115",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-15T12:36:40+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "06099c94c04f",
-      "titulo": "Las razones detrás del déficit de $84.663 millones que reporta la JEP para el presupuesto de 2027",
-      "resumen": "El presidente de la JEP, magistrado Alejandro Ramelli, fue citado a las 9 a.m. de este martes en el Congreso.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/las-razones-detras-del-deficit-de-84-663-millones-que-reporta-la-jep-para-el-presupuesto-de-3586092",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-15T12:18:41+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "7bb4644c3cfe",
-      "titulo": "Eln se tomó antigua estación de Policía de Betoyes, Arauca, y terminó de destruir sus instalaciones",
-      "resumen": "Hombres señalados de pertenecer a la guerrilla fueron grabados utilizando maquinaria para destruir lo que quedaba de la estación de Policía.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-se-tomo-antigua-estacion-de-policia-de-betoyes-arauca-y-termino-de-destruir-sus-instalaciones-3586049",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-14T23:16:01+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "dde1ac9a5966",
-      "titulo": "Policía regresa a Guamalito, Norte de Santander, con 150 uniformados tras ataques del Eln",
-      "resumen": "Comandos especiales fueron desplegados, mientras avanza la reconstrucción de la infraestructura afectada.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/policia-regresa-a-guamalito-norte-de-santander-con-150-uniformados-tras-ataques-del-eln-3585973",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-14T19:44:37+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "4d5175bc31ca",
-      "titulo": "Cayó en Cauca alias Ramón, uno de los más buscados de Caquetá y señalado de mover droga para las disidencias",
-      "resumen": "Lo ubican al servicio de la estructura ‘Carolina Ramírez’ y lo señalan de participar en la cadena de narcotráfico que tendría conexiones en el país.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-cauca-alias-ramon-uno-de-los-mas-buscados-de-caqueta-y-senalado-de-mover-droga-para-las-disidencias-3585937",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-14T17:08:36+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d52745ba72e0",
-      "titulo": "El informe que plantea siete claves al Gobierno de Abelardo De la Espriella para enfrentar a los grupos armados",
-      "resumen": "Tras las primeras acciones contra estructuras criminales, la FIP plantea una hoja de ruta para que los golpes se conviertan en resultados sostenibles.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-informe-que-plantea-siete-claves-al-gobierno-de-la-espriella-para-enfrentar-a-los-grupos-armados-3585853",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-14T14:21:39+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
       ]
     },
     {
@@ -453,22 +387,6 @@
       ],
       "palabras_clave": [
         "grupos armados"
-      ]
-    },
-    {
-      "id": "8154464ed7ee",
-      "titulo": "‘Calarcá priorizó la guerra con Mordisco a cualquier posibilidad de paz; tropezamos con nuestras propias ilusiones’: Camilo González Posso",
-      "resumen": "En diálogo con EL TIEMPO, el presidente de Indepaz y exnegociador con las disidencias de las Farc habló sobre los fallos de la 'paz total'.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/calarca-priorizo-la-guerra-con-mordisco-a-cualquier-posibilidad-de-paz-tropezamos-con-nuestras-propias-ilusiones-camilo-gonzalez-posso-3583506",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-09-04T12:42:18+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     }
   ]
