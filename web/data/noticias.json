@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-09-18T14:35:22.075550+00:00",
-  "total_revisadas": 268,
-  "total_relevantes": 31,
+  "generado_en": "2026-09-19T13:57:54.779010+00:00",
+  "total_revisadas": 267,
+  "total_relevantes": 29,
   "noticias": [
-    {
-      "id": "ffd9ceb59ac1",
-      "titulo": "Ocaña: hombre asesinado en Aguas Claras pertenecería al Eln",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ocana-hombre-asesinado-en-aguas-claras-perteneceria-al-eln",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:17.041262+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
     {
       "id": "b4a1f422ccb3",
       "titulo": "En el barrio El Callejón de Cúcuta se escondían presuntos integrantes del Eln",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:17.041208+00:00",
+      "fecha": "2026-09-19T13:57:52.270745+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,144 +20,14 @@
       ]
     },
     {
-      "id": "fea8ef8ad150",
-      "titulo": "Mansiones, ganadería y lujos: así era la vida del hombre que habría lavado dinero para el ELN durante décadas",
+      "id": "f0aef5f3db24",
+      "titulo": "Esto dijo De la Espriella sobre quitarle plata a la JEP, ¿qué respondió el tribunal?",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/captura-gildardo-quinchia-giraldo-lavado-dinero-eln-asi-era-vida-de-lujo-OM41187292",
+      "url": "https://elcolombiano.com/colombia/abelardo-de-la-espriella-quitar-plata-jep-alejandro-ramelli-enrique-gomez-FD41241163",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:16.150465+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "1802de03d3aa",
-      "titulo": "“No son moneda de negociación”: De la Espriella rechaza “canje” de policías secuestrados por el ELN",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/policias-secuestrados-eln-dijin-canje-abelardo-de-la-espriella-CH41206884",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:16.150341+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "775bd6a9f403",
-      "titulo": "Ejército destruye más de 130 kilos de explosivos de disidencias de las Farc en Antioquia",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/ejercito-destruye-130-kilos-explosivos-frentes-36-18-farc-antioquia-FG41218940",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:16.150244+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "ea397d5a1c3c",
-      "titulo": "ELN confirma, un mes después, el secuestro de tres policías en la vía Cúcuta-Ocaña y entrega pruebas de supervivencia",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-secuestro-tres-policias-via-cucuta-ocana-BF41220771",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:16.150211+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "93a33902a096",
-      "titulo": "¿Quién es la civil que iba con los 3 policías secuestrados por el ELN hace un mes en Norte de Santander?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/quien-es-la-civil-secuestrada-por-el-eln-hace-un-mes-en-la-via-ocana-cucuta-ME41232842",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:16.150131+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "1ea060319b77",
-      "titulo": "Sandra Ramírez, excongresista del partido de las Farc, citada a versión libre por reclutamiento de menores",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/sandra-ramirez-excongresista-del-partido-de-las-farc-citada-a-version-libre-por-reclutamiento-de-menores/202604/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:15.684820+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "farc",
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "ab27e1d4f64f",
-      "titulo": "Alias More dejó las armas y reveló movimientos internos del Clan del Golfo en Antioquia: habló de alias Primo Gay y del uso de drones",
-      "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/alias-more-dejo-las-armas-y-revelo-movimientos-internos-del-clan-del-golfo-en-antioquia-hablo-de-alias-primo-gay-y-de-drones/202640/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:15.684782+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "bd80ead74e77",
-      "titulo": "Timochenko y los otros seis excomandantes del Secretariado de las Farc fueron citados a responder por violencia sexual contra mujeres reclutadas",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/timochenko-y-los-otros-seis-excomandantes-del-secretariado-de-las-farc-fueron-citados-a-responder-por-violencia-sexual-contra-mujeres-reclutadas/202606/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:15.684741+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "995ed32fbcfe",
-      "titulo": "El presidente de la JEP responde a la propuesta del senador Enrique Gómez. “Es el más grave ataque”",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-presidente-de-la-jep-responde-a-la-propuesta-del-senador-enrique-gomez-es-el-mas-grave-ataque/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-18T14:35:15.684690+00:00",
+      "fecha": "2026-09-19T13:57:51.768097+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -182,19 +36,115 @@
       ]
     },
     {
-      "id": "cb46bd0c1ecc",
-      "titulo": "Tensión en Norte de Santander: ELN reconoce que tiene retenidos a tres integrantes de la Dijín y una mujer",
+      "id": "ea99008b6abd",
+      "titulo": "20 bóvedas son intervenidas en Medellín y Bello para buscar a desaparecidos del conflicto armado",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/tension-en-norte-de-santander-eln-reconoce-que-tiene-retenidos-a-tres-integrantes-de-la-dijin-y-una-mujer/202652/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/medellin/intervienen-bovedas-cementerios-medellin-bello-buscar-desaparecidos-conflicto-armado-EC41252170",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:15.684647+00:00",
+      "fecha": "2026-09-19T13:57:51.767944+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "conflicto armado"
+      ]
+    },
+    {
+      "id": "a4c7d9319c6c",
+      "titulo": "JEP formaliza la sanción contra antiguo secretariado de las Farc por secuestro: esto pagarán “Timochenko”, “Pablo Catatumbo” y otros",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/jep-sancion-secretariado-farc-secuestro-timochenko-pablo-catatumbo-CB41261113",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-19T13:57:51.767798+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "b2fdaffc529e",
+      "titulo": "Denuncian la desaparición de un comunicador y defensor de derechos humanos en Anorí, Antioquia",
+      "resumen": "",
+      "url": "https://elcolombiano.com/antioquia/julian-hincapie-denuncian-desaparicion-comunicador-anori-antioquia-FA41271316",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-19T13:57:51.767745+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "fe4303efdd33",
+      "titulo": "¿Cuáles son las propuestas en el Congreso para cambiar la JEP? Van de recortarle plata a “dar garantías a militares”",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/politica/propuestas-congreso-para-cambiar-jep-recortarle-plata-garantias-militares-PA41270078",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-19T13:57:51.767695+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "5ba9f6340ac9",
+      "titulo": "En operativo de la Policía en Medellín capturan a alias Téllez, enlace entre el Eln y las Farc de alias Calarcá",
+      "resumen": "",
+      "url": "https://elcolombiano.com/medellin/captura-alias-tellez-medellin-enlace-eln-disidencias-farc-calarca-AA41276006",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-19T13:57:51.767640+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "c21ac53ec674",
+      "titulo": "¿Por qué la JEP se tomó 9 años para sancionar a “Timochenko”, “Catatumbo” y otros jefes de las Farc?",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/jep-por-que-tardo-9-anos-sancion-jefes-secretariado-farc-timochenko-sandra-ramirez-CA41276466",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-19T13:57:51.767565+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "21056925754d",
+      "titulo": "Explosivos chats entre Eva Ferrer y Gustavo Petro salpican a Agmeth Escaf y Mario Fernández Alcocer por presunta corrupción y revelan secretos de Verónica Alcocer",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/explosivos-chats-entre-eva-ferrer-y-gustavo-petro-salpican-a-agmeth-escaf-y-mario-fernandez-alcocer-por-presunta-corrupcion-y-revelan-secretos-de-veronica-alcocer/202651/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-19T13:57:51.487677+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
       ]
     },
     {
@@ -205,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:14.980010+00:00",
+      "fecha": "2026-09-19T13:57:51.040927+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -221,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:14.979994+00:00",
+      "fecha": "2026-09-19T13:57:51.040913+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:14.979974+00:00",
+      "fecha": "2026-09-19T13:57:51.040896+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:14.979956+00:00",
+      "fecha": "2026-09-19T13:57:51.040879+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:14.979917+00:00",
+      "fecha": "2026-09-19T13:57:51.040830+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,12 +235,76 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-18T14:35:14.979878+00:00",
+      "fecha": "2026-09-19T13:57:51.040803+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "mesa de paz"
+      ]
+    },
+    {
+      "id": "8252c30cd934",
+      "titulo": "Riad emite la primera alerta aérea desde el reinicio de los combates en Yemen tras escucharse fuertes explosiones",
+      "resumen": "El reino ha sufrido en los últimos días un aumento de los ataques de los hutíes, combatientes proiraníes que controlan gran parte del vecino Yemen Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/19/6aae1ee0e9cf4a96708b45b8.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-19T05:37:46+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "0bb5b11fc255",
+      "titulo": "El rastreo a la posible infiltración de los grupos armados en las universidades: ¿qué se sabe?",
+      "resumen": "Autoridades intentan determinar presencia de ilegales en los campus. El Gobierno anunció un protocolo para intervenir los campus.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-rastreo-a-la-posible-infiltracion-de-los-grupos-armados-en-las-universidades-que-se-sabe-3587235",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-19T03:35:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "559fc726efa4",
+      "titulo": "La información de inteligencia que revela las 65 estructuras del Eln y la ubicación de sus 7.204 integrantes",
+      "resumen": "Fuerza Pública concentra operaciones en Arauca, sur del Cesar y conexiones del Catatumbo con Venezuela. Esta es la actual composición de la guerrilla.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-informacion-de-inteligencia-que-revela-las-65-estructuras-del-eln-y-la-ubicacion-de-sus-7-204-integrantes-3587239",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-19T03:31:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "6aa55048f615",
+      "titulo": "JEP formaliza sanción entre 5 y 8 años al antiguo Secretariado de las Farc por secuestros: inician con la búsqueda de desaparecidos",
+      "resumen": "EL TIEMPO conoció que el primer proyecto de la sentencia se ejecutará será en Pitalito, Huila.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-formaliza-ejecucion-de-la-sancion-al-antiguo-secretariado-de-las-farc-por-secuestros-inician-con-la-busqueda-de-desaparecidos-3587157",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-18T23:30:20+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
       ]
     },
     {
@@ -301,12 +315,28 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-18T13:37:38+00:00",
+      "fecha": "2026-09-18T23:26:10+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
+      ]
+    },
+    {
+      "id": "a45dd3e2b2ae",
+      "titulo": "Presidente de la JEP rechazó propuesta de quitarle 100 mil millones al presupuesto del tribunal: 'Es una estrategia de asfixia económica'",
+      "resumen": "El magistrado Alejandro Ramelli advirtió que la medida, respaldada por el presidente De La Espriella, dejaría desamparadas a miles de víctimas.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/presidente-de-la-jep-rechazo-propuesta-de-quitarle-100-mil-millones-al-presupuesto-del-tribunal-es-una-estrategia-de-asfixia-economica-3587097",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-18T20:02:46+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
       ]
     },
     {
@@ -323,54 +353,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "6b7e50530708",
-      "titulo": "Primicia: JEP citó a Rodrigo Londoño y al último secretariado de las Farc por violencia sexual contra mujeres reclutadas",
-      "resumen": "Violencia sexual y abortos forzados, amenazas de consejo de guerra y fusilamiento, entre las denuncias de 34 víctimas.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/primicia-jep-cito-a-rodrigo-londono-y-al-ultimo-secretariado-de-las-farc-por-violencia-sexual-contra-mujeres-reclutadas-3586974",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-18T11:29:29+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "5cd05d735e64",
-      "titulo": "‘Se busca que las violencias de género contra niñas y mujeres no se repitan’: magistrada Lily Rueda",
-      "resumen": "En diálogo con EL TIEMPO, la magistrada explicó los alcances del llamado al último secretariado de la Farc.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/se-busca-que-las-violencias-de-genero-contra-ninas-y-mujeres-no-se-repitan-magistrada-lily-rueda-3586978",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-18T04:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "92bb9f81030e",
-      "titulo": "Primicia: Sandra Ramírez, expareja de 'Tirofijo', fue citada a declarar en la JEP por reclutamiento forzado de menores",
-      "resumen": "La ex-Farc y exsenadora tendrá que responder sobre su poder en la extinta guerrilla. Víctimas señalan que habría facilitado abusos.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/primicia-sandra-ramirez-expareja-de-tirofijo-fue-citada-a-declarar-en-la-jep-por-reclutamiento-forzado-de-menores-3586975",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-18T04:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
       ]
     },
     {
@@ -435,22 +417,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "745c45092cab",
-      "titulo": "El ex líder kosovar Hashim Thaçi, condenado en La Haya a 25 años de cárcel por crímenes de guerra",
-      "resumen": "El panel de jueces internacionales declara que es culpable del asesinato a manos de fuerzas del ELK durante la guerra de 96 opositores políticos y personas a las que consideraban colaboradores de las fuerzas de seguridad serbias Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/16/6aaa3e92fdddff9f6d8b4585.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-16T10:56:31+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "crimenes de guerra"
       ]
     },
     {
