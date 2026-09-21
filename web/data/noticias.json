@@ -1,38 +1,22 @@
 {
-  "generado_en": "2026-09-20T14:18:21.848899+00:00",
-  "total_revisadas": 266,
+  "generado_en": "2026-09-21T16:32:56.514220+00:00",
+  "total_revisadas": 270,
   "total_relevantes": 27,
   "noticias": [
     {
-      "id": "b4a1f422ccb3",
-      "titulo": "En el barrio El Callejón de Cúcuta se escondían presuntos integrantes del Eln",
+      "id": "84bf7b70ee57",
+      "titulo": "Mónica, menor víctima de reclutamiento en el Catatumbo, fue asesinada; su padre pedía ayuda desde hace cinco meses",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/en-el-barrio-el-callejon-de-cucuta-se-escondian-presuntos-integrantes-del-eln",
+      "url": "https://laopinion.co/judicial/monica-menor-victima-de-reclutamiento-en-el-catatumbo-fue-asesinada-su-padre-pedia-ayuda",
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:18.796906+00:00",
+      "fecha": "2026-09-21T16:32:53.841442+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "f0aef5f3db24",
-      "titulo": "Esto dijo De la Espriella sobre quitarle plata a la JEP, ¿qué respondió el tribunal?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/abelardo-de-la-espriella-quitar-plata-jep-alejandro-ramelli-enrique-gomez-FD41241163",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.884183+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
+        "reclutamiento"
       ]
     },
     {
@@ -43,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.884079+00:00",
+      "fecha": "2026-09-21T16:32:53.420696+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.883966+00:00",
+      "fecha": "2026-09-21T16:32:53.420561+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.883930+00:00",
+      "fecha": "2026-09-21T16:32:53.420502+00:00",
       "temas": [
         "DDHH"
       ],
@@ -91,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.883886+00:00",
+      "fecha": "2026-09-21T16:32:53.420438+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.883842+00:00",
+      "fecha": "2026-09-21T16:32:53.420368+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.883780+00:00",
+      "fecha": "2026-09-21T16:32:53.420292+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,36 +116,51 @@
       ]
     },
     {
-      "id": "c50ea802c809",
-      "titulo": "Directora del ICBF arremetió contra Jennifer Pedraza y exigió pruebas por reclutamiento de menores: “Con la niñez no se hace política”",
+      "id": "a6dfa2a8bb2b",
+      "titulo": "“Si hubiera sido paramilitar, lo habría sido de frente”: Uribe pide definir su situación por masacres en Antioquia",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/directora-del-icbf-arremetio-contra-jennifer-pedraza-y-exigio-pruebas-por-reclutamiento-de-menores-con-la-ninez-no-se-hace-politica/202645/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/alvaro-uribe-investigacion-fiscalia-paramilitarismo-antioquia-FO41297002",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.491771+00:00",
+      "fecha": "2026-09-21T16:32:53.420189+00:00",
       "temas": [
-        "Conflicto armado",
-        "DIH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "reclutamiento de menores"
+        "paramilitar"
       ]
     },
     {
-      "id": "6ad7825de711",
-      "titulo": "Fuerza Aérea recuperó cuatro de los cinco cuerpos de la misión médica que se accidentó en Chocó",
+      "id": "63472203b981",
+      "titulo": "A alias Firu, cabecilla de las disidencias, ya lo mandaron a una cárcel donde no llegaría “ni la señal de la Santa Cruz”",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/fuerza-aerea-recupero-cuatro-de-los-cinco-cuerpos-de-la-mision-medica-que-se-accidento-en-choco/202607/",
+      "url": "https://elcolombiano.com/colombia/traslado-a-alias-firu-cabecilla-de-las-disidencias-carcel-de-giron-santander-donde-no-llegaria-ni-la-senal-de-la-santa-cruz-MG41304877",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-21T16:32:53.420120+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "29a452896355",
+      "titulo": "Ejército propinó duro golpe a disidencias de las Farc: capturan a alias Correa, cabecilla de las milicias de la Jaime Martínez",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/ejercito-propino-duro-golpe-a-disidencias-de-las-farc-capturan-a-alias-correa-cabecilla-de-las-milicias-de-la-jaime-martinez/202644/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.491746+00:00",
+      "fecha": "2026-09-21T16:32:53.273902+00:00",
       "temas": [
-        "DIH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "mision medica"
+        "disidencias"
       ]
     },
     {
@@ -172,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.183363+00:00",
+      "fecha": "2026-09-21T16:32:53.054124+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -188,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.183347+00:00",
+      "fecha": "2026-09-21T16:32:53.054105+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -204,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.183330+00:00",
+      "fecha": "2026-09-21T16:32:53.054088+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -220,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.183313+00:00",
+      "fecha": "2026-09-21T16:32:53.054058+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -236,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.183276+00:00",
+      "fecha": "2026-09-21T16:32:53.054003+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -252,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-20T14:18:17.183198+00:00",
+      "fecha": "2026-09-21T16:32:53.053926+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -261,19 +260,115 @@
       ]
     },
     {
-      "id": "559fc726efa4",
-      "titulo": "La información de inteligencia que revela las 65 estructuras del Eln y la ubicación de sus 7.204 integrantes",
-      "resumen": "Fuerza Pública concentra operaciones en Arauca, sur del Cesar y conexiones del Catatumbo con Venezuela. Esta es la actual composición de la guerrilla.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-informacion-de-inteligencia-que-revela-las-65-estructuras-del-eln-y-la-ubicacion-de-sus-7-204-integrantes-3587239",
+      "id": "268d0d2c9513",
+      "titulo": "Tres soldados muertos y cinco militares heridos dejan dos ataques con explosivos en Meta",
+      "resumen": "Ataques se registraron en la madrugada de este lunes en zonas rurales de La Macarena y Vistahermosa.Ejército señala a las disidencias de 'Calarcá'.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tres-soldados-muertos-y-cinco-militares-heridos-dejan-dos-ataques-con-explosivos-en-meta-3587626",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-19T21:54:57+00:00",
+      "fecha": "2026-09-21T14:45:14+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "3866a37ec929",
+      "titulo": "Cayó en El Plateado, Cauca, alias Correa, presunto cabecilla de milicias urbanas de la ‘Jaime Martínez’ de las disidencias de ‘Mordisco’",
+      "resumen": "Habría intervenido en la planeación de ataques y en la adecuación de vehículos con explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-el-plateado-cauca-alias-correa-presunto-cabecilla-de-milicias-urbanas-de-la-jaime-martinez-de-las-disidencias-de-mordisco-3587618",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-21T14:26:08+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "89955cb7dcd1",
+      "titulo": "'Si la JEP no llama a Sandra Ramírez como máxima responsable, solo legalizan la impunidad': Corporación Rosa Blanca",
+      "resumen": "La organización exige que Sandra Ramírez entregue la verdad y que su llamado ante la JEP no sea solo un trámite para legalizar su versión.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/si-la-jep-no-llama-a-sandra-ramirez-como-maxima-responsable-solo-legalizan-la-impunidad-corporacion-rosa-blanca-3587600",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-21T14:20:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "4f89aab12304",
+      "titulo": "La disputa armada por el Caribe: cuatro organizaciones despliegan 31 estructuras con más de 6.300 integrantes",
+      "resumen": "El ‘clan del Golfo’ tiene el mayor número de miembros; el Eln, ‘los Pachencas’ y estructuras de las disidencias mantienen presencia en la región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-disputa-armada-por-el-caribe-cuatro-organizaciones-despliegan-31-estructuras-con-mas-de-6-300-integrantes-3587608",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-21T14:06:23+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "e9d036ec0bf9",
+      "titulo": "Disidentes encañonaron y secuestraron a una abogada de comparecientes de las Farc ante la JEP en Cauca",
+      "resumen": "La abogada ya había denunciado amenazas y tenía un esquema de seguridad asignado por la UNP.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/disidentes-encanonaron-y-secuestraron-a-una-abogada-de-comparecientes-de-las-farc-ante-la-jep-en-cauca-3587570",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-21T11:22:59+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "68a6d3597e39",
+      "titulo": "Presidente De La Espriella anunció duro golpe a las disidencias de ‘Calarcá’ con la caída de alias Huevo en Antioquia",
+      "resumen": "La operación hecha en Gómez Plata se suma a 27 capturas del fin de semana reportadas por el jefe de Gobierno. ¿Qué otros resultados mostró?",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-de-la-espriella-anuncio-duro-golpe-a-las-disidencias-de-calarca-con-la-caida-de-alias-huevo-en-antioquia-3587509",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-21T03:30:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "0fb7c2209657",
+      "titulo": "Caballos de paso fino y exhibición de armas: las pistas detrás de la caída de alias Huevo, cabecilla de comisión de las disidencias de ‘Calarcá’",
+      "resumen": "EL TIEMPO conoció detalles del seguimiento que permitió ubicar a Stiven Martínez Rodríguez. Murió durante una operación en Gómez Plata, Antioquia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/caballos-de-paso-fino-y-exhibicion-de-armas-las-pistas-detras-de-la-caida-de-alias-huevo-cabecilla-de-comision-de-las-disidencias-de-calarca-3587439",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-20T22:23:02+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -290,102 +385,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "f0df281028d0",
-      "titulo": "Rodrigo Londoño alertó sobre 'ataque' al Acuerdo de Paz por propuesta de recortar presupuesto a la JEP por parte del Gobierno",
-      "resumen": "El excomandante de las Farc rechazó la propuesta que busca trasladar $100.000 millones hacia el Consejo Superior de la Judicatura.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/rodrigo-londono-alerto-sobre-ataque-al-acuerdo-de-paz-por-propuesta-de-recortar-presupuesto-a-la-jep-por-parte-del-gobierno-3587336",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-19T20:46:01+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "b3ea6b2a0ab6",
-      "titulo": "Primicia | Disparo al piso 26 de la Procuraduría lo habría hecho un vecino: ¿pierde fuerza la hipótesis de atentado?",
-      "resumen": "La investigación de la Dijín de la Policía y de la Fiscalía incluye examen de balística y recolección de testimonios en el lugar.",
-      "url": "https://www.eltiempo.com/justicia/delitos/primicia-disparo-al-piso-26-de-la-procuraduria-lo-habria-hecho-un-vecino-pierde-fuerza-hipotesis-de-atentado-3587317",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-19T18:42:25+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "42cf65f79575",
-      "titulo": "Así fue la operación militar que golpeó la expansión de la Estructura 36, de las disidencias de 'Calarcá', en Antioquia",
-      "resumen": "La acción militar se desarrolló en la vereda Vega Botero, en Gómez Plata. Autoridades atribuyen a esta comisión actividades de extorsión y secuestro.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-la-operacion-militar-que-golpeo-la-expansion-de-la-estructura-36-de-las-disidencias-de-calarca-en-antioquia-3587314",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-19T18:09:47+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "8252c30cd934",
-      "titulo": "Riad emite la primera alerta aérea desde el reinicio de los combates en Yemen tras escucharse fuertes explosiones",
-      "resumen": "El reino ha sufrido en los últimos días un aumento de los ataques de los hutíes, combatientes proiraníes que controlan gran parte del vecino Yemen Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/19/6aae1ee0e9cf4a96708b45b8.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-19T05:37:46+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "0bb5b11fc255",
-      "titulo": "El rastreo a la posible infiltración de los grupos armados en las universidades: ¿qué se sabe?",
-      "resumen": "Autoridades intentan determinar presencia de ilegales en los campus. El Gobierno anunció un protocolo para intervenir los campus.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-rastreo-a-la-posible-infiltracion-de-los-grupos-armados-en-las-universidades-que-se-sabe-3587235",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-19T03:35:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "a5c858512579",
-      "titulo": "El nuevo mapa de las disidencias de las Farc: 10.574 integrantes y 14 cabecillas bajo la lupa de la Fuerza Pública",
-      "resumen": "El conteo conocido por EL TIEMPO identifica a los responsables de bloques y comandos regionales que están debajo de los cuatro principales cabecillas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-nuevo-mapa-de-las-disidencias-de-las-farc-10-574-integrantes-y-14-cabecillas-bajo-la-lupa-de-la-fuerza-publica-3587045",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-18T23:26:10+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
