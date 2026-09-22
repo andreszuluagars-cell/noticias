@@ -1,118 +1,38 @@
 {
-  "generado_en": "2026-09-21T16:32:56.514220+00:00",
-  "total_revisadas": 270,
-  "total_relevantes": 27,
+  "generado_en": "2026-09-22T15:06:42.279218+00:00",
+  "total_revisadas": 268,
+  "total_relevantes": 26,
   "noticias": [
     {
-      "id": "84bf7b70ee57",
-      "titulo": "Mónica, menor víctima de reclutamiento en el Catatumbo, fue asesinada; su padre pedía ayuda desde hace cinco meses",
+      "id": "413525456da1",
+      "titulo": "¿Vendían o guardaban balas? Investigan vínculo de pareja capturada con el Eln en Cúcuta",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/monica-menor-victima-de-reclutamiento-en-el-catatumbo-fue-asesinada-su-padre-pedia-ayuda",
+      "url": "https://laopinion.co/judicial/vendian-o-guardaban-balas-investigan-vinculo-de-pareja-capturada-con-el-eln-en-cucuta",
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.841442+00:00",
+      "fecha": "2026-09-22T15:06:38.930702+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "reclutamiento"
+        "eln"
       ]
     },
     {
-      "id": "ea99008b6abd",
-      "titulo": "20 bóvedas son intervenidas en Medellín y Bello para buscar a desaparecidos del conflicto armado",
+      "id": "393c09553cbe",
+      "titulo": "Tragedia para los Pérez en la vía Ocaña-Ábrego, agricultor fallecido y líder juvenil en recuperación tras ataque armado",
       "resumen": "",
-      "url": "https://elcolombiano.com/medellin/intervienen-bovedas-cementerios-medellin-bello-buscar-desaparecidos-conflicto-armado-EC41252170",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/tragedia-para-los-perez-en-la-ocana-abrego-agricultor-fallecido-y-lider-juvenil-en",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420696+00:00",
+      "fecha": "2026-09-22T15:06:38.930691+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "conflicto armado"
-      ]
-    },
-    {
-      "id": "a4c7d9319c6c",
-      "titulo": "JEP formaliza la sanción contra antiguo secretariado de las Farc por secuestro: esto pagarán “Timochenko”, “Pablo Catatumbo” y otros",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-sancion-secretariado-farc-secuestro-timochenko-pablo-catatumbo-CB41261113",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420561+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "b2fdaffc529e",
-      "titulo": "Denuncian la desaparición de un comunicador y defensor de derechos humanos en Anorí, Antioquia",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/julian-hincapie-denuncian-desaparicion-comunicador-anori-antioquia-FA41271316",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420502+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "fe4303efdd33",
-      "titulo": "¿Cuáles son las propuestas en el Congreso para cambiar la JEP? Van de recortarle plata a “dar garantías a militares”",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/politica/propuestas-congreso-para-cambiar-jep-recortarle-plata-garantias-militares-PA41270078",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420438+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "5ba9f6340ac9",
-      "titulo": "En operativo de la Policía en Medellín capturan a alias Téllez, enlace entre el Eln y las Farc de alias Calarcá",
-      "resumen": "",
-      "url": "https://elcolombiano.com/medellin/captura-alias-tellez-medellin-enlace-eln-disidencias-farc-calarca-AA41276006",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420368+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "c21ac53ec674",
-      "titulo": "¿Por qué la JEP se tomó 9 años para sancionar a “Timochenko”, “Catatumbo” y otros jefes de las Farc?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-por-que-tardo-9-anos-sancion-jefes-secretariado-farc-timochenko-sandra-ramirez-CA41276466",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420292+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
+        "ataque armado"
       ]
     },
     {
@@ -123,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420189+00:00",
+      "fecha": "2026-09-22T15:06:38.128135+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.420120+00:00",
+      "fecha": "2026-09-22T15:06:38.128119+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,19 +68,103 @@
       ]
     },
     {
-      "id": "29a452896355",
-      "titulo": "Ejército propinó duro golpe a disidencias de las Farc: capturan a alias Correa, cabecilla de las milicias de la Jaime Martínez",
+      "id": "717e33c10389",
+      "titulo": "Tres soldados fueron asesinados en ataque con explosivos en el Meta; señalan a disidencias de ‘Calarcá’",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/ejercito-propino-duro-golpe-a-disidencias-de-las-farc-capturan-a-alias-correa-cabecilla-de-las-milicias-de-la-jaime-martinez/202644/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/tres-soldados-asesinados-ataque-explosivos-meta-disidencias-calarca-EE41329805",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.273902+00:00",
+      "fecha": "2026-09-22T15:06:38.128079+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
+      ]
+    },
+    {
+      "id": "11781f6ef8bd",
+      "titulo": "Disidencias de las Farc secuestraron, con fusiles y pistolas, a abogada de excombatientes en Cauca; ¿cómo está ella?",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/sandra-monica-herrera-secuestrada-cauca-disidencias-farc-jep-AE41327896",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-22T15:06:38.128063+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "040644e03b1c",
+      "titulo": "JEP imputa crímenes de guerra y lesa humanidad a cinco excomandantes de las Farc, ¿quiénes son?",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/jep-imputa-crimenes-guerra-lesa-humanidad-cinco-excomandantes-farc-quienes-son-EF41332547",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-22T15:06:38.128047+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra",
+        "farc"
+      ]
+    },
+    {
+      "id": "ab021b786f4e",
+      "titulo": "Confirman asesinato de Mónica Beltrán, niña de 13 años que fue raptada por disidencias de las Farc",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/confirman-asesinato-monica-beltran-nina-reclutada-disidencias-LF41339741",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-22T15:06:38.128031+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "4fb7574f215d",
+      "titulo": "Liberaron al conductor de ambulancia secuestrado por el ELN durante una misión médica en el Catatumbo: estuvo 11 días cautivo",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/liberaron-conductor-ambulancia-secuestrado-eln-catatumbo-BD41351198",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-22T15:06:38.128000+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "eln",
+        "mision medica"
+      ]
+    },
+    {
+      "id": "7902524362e8",
+      "titulo": "El Ejército decomisó oro y dinero en efectivo del Clan del Golfo, en Antioquia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/oro-y-dinero-en-efectivo-del-clan-del-golfo-decomiso-el-ejercito-en-antioquia/202602/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-22T15:06:37.765886+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -171,7 +175,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.054124+00:00",
+      "fecha": "2026-09-22T15:06:37.505900+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +191,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.054105+00:00",
+      "fecha": "2026-09-22T15:06:37.505891+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +207,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.054088+00:00",
+      "fecha": "2026-09-22T15:06:37.505883+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +223,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.054058+00:00",
+      "fecha": "2026-09-22T15:06:37.505871+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +239,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.054003+00:00",
+      "fecha": "2026-09-22T15:06:37.505852+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +255,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T16:32:53.053926+00:00",
+      "fecha": "2026-09-22T15:06:37.505826+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -260,78 +264,14 @@
       ]
     },
     {
-      "id": "268d0d2c9513",
-      "titulo": "Tres soldados muertos y cinco militares heridos dejan dos ataques con explosivos en Meta",
-      "resumen": "Ataques se registraron en la madrugada de este lunes en zonas rurales de La Macarena y Vistahermosa.Ejército señala a las disidencias de 'Calarcá'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tres-soldados-muertos-y-cinco-militares-heridos-dejan-dos-ataques-con-explosivos-en-meta-3587626",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "id": "e76441a4e6bd",
+      "titulo": "\"Orientación sexual y de género fue una lápida\": magistrado sobre imputación a exjefes Farc",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/orientacion-sexual-y-de-genero-fue-una-lapida-magistrado-sobre-imputacion-a-exjefes-farc/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-21T14:45:14+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "3866a37ec929",
-      "titulo": "Cayó en El Plateado, Cauca, alias Correa, presunto cabecilla de milicias urbanas de la ‘Jaime Martínez’ de las disidencias de ‘Mordisco’",
-      "resumen": "Habría intervenido en la planeación de ataques y en la adecuación de vehículos con explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-el-plateado-cauca-alias-correa-presunto-cabecilla-de-milicias-urbanas-de-la-jaime-martinez-de-las-disidencias-de-mordisco-3587618",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-21T14:26:08+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "89955cb7dcd1",
-      "titulo": "'Si la JEP no llama a Sandra Ramírez como máxima responsable, solo legalizan la impunidad': Corporación Rosa Blanca",
-      "resumen": "La organización exige que Sandra Ramírez entregue la verdad y que su llamado ante la JEP no sea solo un trámite para legalizar su versión.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/si-la-jep-no-llama-a-sandra-ramirez-como-maxima-responsable-solo-legalizan-la-impunidad-corporacion-rosa-blanca-3587600",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-21T14:20:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "4f89aab12304",
-      "titulo": "La disputa armada por el Caribe: cuatro organizaciones despliegan 31 estructuras con más de 6.300 integrantes",
-      "resumen": "El ‘clan del Golfo’ tiene el mayor número de miembros; el Eln, ‘los Pachencas’ y estructuras de las disidencias mantienen presencia en la región.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-disputa-armada-por-el-caribe-cuatro-organizaciones-despliegan-31-estructuras-con-mas-de-6-300-integrantes-3587608",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-21T14:06:23+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e9d036ec0bf9",
-      "titulo": "Disidentes encañonaron y secuestraron a una abogada de comparecientes de las Farc ante la JEP en Cauca",
-      "resumen": "La abogada ya había denunciado amenazas y tenía un esquema de seguridad asignado por la UNP.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/disidentes-encanonaron-y-secuestraron-a-una-abogada-de-comparecientes-de-las-farc-ante-la-jep-en-cauca-3587570",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-21T11:22:59+00:00",
+      "fecha": "2026-09-22T15:06:37.505801+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -340,51 +280,99 @@
       ]
     },
     {
-      "id": "68a6d3597e39",
-      "titulo": "Presidente De La Espriella anunció duro golpe a las disidencias de ‘Calarcá’ con la caída de alias Huevo en Antioquia",
-      "resumen": "La operación hecha en Gómez Plata se suma a 27 capturas del fin de semana reportadas por el jefe de Gobierno. ¿Qué otros resultados mostró?",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-de-la-espriella-anuncio-duro-golpe-a-las-disidencias-de-calarca-con-la-caida-de-alias-huevo-en-antioquia-3587509",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-21T03:30:00+00:00",
+      "id": "23ba5529cdd8",
+      "titulo": "Trump dice que la guerra de Ucrania terminará \"más rápido\" de lo que se cree",
+      "resumen": "",
+      "url": "https://www.infobae.com/america/agencias/2026/09/22/trump-dice-que-la-guerra-de-ucrania-terminara-mas-rapido-de-lo-que-se-cree/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-22T15:01:03+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "disidencias"
+        "guerra de ucrania"
       ]
     },
     {
-      "id": "0fb7c2209657",
-      "titulo": "Caballos de paso fino y exhibición de armas: las pistas detrás de la caída de alias Huevo, cabecilla de comisión de las disidencias de ‘Calarcá’",
-      "resumen": "EL TIEMPO conoció detalles del seguimiento que permitió ubicar a Stiven Martínez Rodríguez. Murió durante una operación en Gómez Plata, Antioquia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/caballos-de-paso-fino-y-exhibicion-de-armas-las-pistas-detras-de-la-caida-de-alias-huevo-cabecilla-de-comision-de-las-disidencias-de-calarca-3587439",
+      "id": "d6a006ebc19c",
+      "titulo": "Fuerza Pública rescató a un hombre secuestrado por el Eln en Cúcuta, Norte de Santander: así lo anunció el presidente Abelardo De La Espriella",
+      "resumen": "El reporte se conoció durante la noche de este 21 de septiembre. Aquí los detalles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fuerza-publica-rescato-a-un-hombre-secuestrado-por-el-eln-en-cucuta-norte-de-santander-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella-3587856",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-20T22:23:02+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "54f5eb474f46",
-      "titulo": "Capturan a alias Winnie Poo, señalado de participar en ataque contra vehículo del Ejército en Arauquita",
-      "resumen": "El presunto integrante de una red de apoyo del Eln tendría una trayectoria de cerca de diez años.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-alias-winnie-poo-senalado-de-participar-en-ataque-contra-vehiculo-del-ejercito-en-arauquita-3587346",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-19T21:35:12+00:00",
+      "fecha": "2026-09-22T12:11:28+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
+      ]
+    },
+    {
+      "id": "c411732ae648",
+      "titulo": "Siete muertos, tres capturados y armas incautadas: los detalles del operativo en el que cayó alias Cholo, cabecilla de 'los Pachenca'",
+      "resumen": "El hombre señalado de manejar finanzas y rutas del narcotráfico hacia Centroamérica estaba entre los mandos del grupo armado.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/siete-muertos-tres-capturados-y-armas-incautadas-los-detalles-del-operativo-en-el-que-cayo-alias-cholo-sucesor-de-bendito-menor-3587821",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-22T11:12:42+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupo armado"
+      ]
+    },
+    {
+      "id": "6ca12094c320",
+      "titulo": "Cada 8 días un municipio es 'colonizado' por los grupos armados: crudo informe de Pares devela el avance de la criminalidad en el país",
+      "resumen": "Pares devela que, en 2025, los actos terroristas aumentaron en un 227% y que cada día terminaron desplazadas 853 víctimas.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/cada-8-dias-un-municipio-es-colonizado-por-los-grupos-armados-crudo-informe-de-pares-devela-el-avance-de-la-criminalidad-en-el-pais-3587753",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-22T11:07:35+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "c164a2632d54",
+      "titulo": "Golpe al corazón de 'los Pachenca': cayó alias Cholo, segunda cabecilla del grupo armado",
+      "resumen": "En el mismo operativo también murió el hijo de alias Pinocho. Esto se sabe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-cholo-senalado-sucesor-de-bendito-menor-en-los-pachencas-3587801",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-21T23:06:49+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupo armado"
+      ]
+    },
+    {
+      "id": "980a380687ec",
+      "titulo": "Ucrania alerta del riesgo de hambruna en la localidad ocupada de Oleshki y exige a Rusia una evacuación",
+      "resumen": "Unas 6.000 personas están atrapadas por los combates y según Según el ministerio de Exteriores ucraniano, Andrí Sibiga, la situación es \"crítica\" Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/21/6ab1726fe4d4d83f3b8b45a4.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-21T18:15:37+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "combates"
       ]
     },
     {
