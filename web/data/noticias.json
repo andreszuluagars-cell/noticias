@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-09-22T15:06:42.279218+00:00",
-  "total_revisadas": 268,
-  "total_relevantes": 26,
+  "generado_en": "2026-09-23T15:08:50.757269+00:00",
+  "total_revisadas": 266,
+  "total_relevantes": 28,
   "noticias": [
     {
       "id": "413525456da1",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.930702+00:00",
+      "fecha": "2026-09-23T15:08:47.565016+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,94 +27,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.930691+00:00",
+      "fecha": "2026-09-23T15:08:47.564997+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "ataque armado"
-      ]
-    },
-    {
-      "id": "a6dfa2a8bb2b",
-      "titulo": "“Si hubiera sido paramilitar, lo habría sido de frente”: Uribe pide definir su situación por masacres en Antioquia",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alvaro-uribe-investigacion-fiscalia-paramilitarismo-antioquia-FO41297002",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128135+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitar"
-      ]
-    },
-    {
-      "id": "63472203b981",
-      "titulo": "A alias Firu, cabecilla de las disidencias, ya lo mandaron a una cárcel donde no llegaría “ni la señal de la Santa Cruz”",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/traslado-a-alias-firu-cabecilla-de-las-disidencias-carcel-de-giron-santander-donde-no-llegaria-ni-la-senal-de-la-santa-cruz-MG41304877",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128119+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "717e33c10389",
-      "titulo": "Tres soldados fueron asesinados en ataque con explosivos en el Meta; señalan a disidencias de ‘Calarcá’",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/tres-soldados-asesinados-ataque-explosivos-meta-disidencias-calarca-EE41329805",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128079+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "11781f6ef8bd",
-      "titulo": "Disidencias de las Farc secuestraron, con fusiles y pistolas, a abogada de excombatientes en Cauca; ¿cómo está ella?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/sandra-monica-herrera-secuestrada-cauca-disidencias-farc-jep-AE41327896",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128063+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "040644e03b1c",
-      "titulo": "JEP imputa crímenes de guerra y lesa humanidad a cinco excomandantes de las Farc, ¿quiénes son?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-imputa-crimenes-guerra-lesa-humanidad-cinco-excomandantes-farc-quienes-son-EF41332547",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128047+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "crimenes de guerra",
-        "farc"
       ]
     },
     {
@@ -125,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128031+00:00",
+      "fecha": "2026-09-23T15:08:46.709125+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -141,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:38.128000+00:00",
+      "fecha": "2026-09-23T15:08:46.709056+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
@@ -152,14 +70,110 @@
       ]
     },
     {
-      "id": "7902524362e8",
-      "titulo": "El Ejército decomisó oro y dinero en efectivo del Clan del Golfo, en Antioquia",
+      "id": "eb20edf22bb4",
+      "titulo": "Los Pachenca: quiénes son y cómo opera el grupo paramilitar que ahora está en la mira del Gobierno",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/oro-y-dinero-en-efectivo-del-clan-del-golfo-decomiso-el-ejercito-en-antioquia/202602/",
+      "url": "https://elcolombiano.com/colombia/los-pachenca-quienes-son-y-como-opera-ese-grupo-paramilitar-BB41379019",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:46.708870+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitar"
+      ]
+    },
+    {
+      "id": "fecbb75283ae",
+      "titulo": "Paz y derechos humanos",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/paz-y-derechos-humanos",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:46.708800+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "9534ba799654",
+      "titulo": "Denuncian que la JEP gastó más de $200.000 millones en eventos y defensa de exFarc; ¿qué responde el tribunal?",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/paz-y-derechos-humanos/jep-gastos-209-mil-millones-eventos-defensa-exfarc-LO41388223",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:46.708795+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "4987f03d8dbc",
+      "titulo": "“La JEP ha sacado en ocho años las mismas condenas que un juez en un mes”: duros reparos de víctimas de las Farc",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-jep-ha-sacado-en-ocho-anos-las-mismas-condenas-que-un-juez-en-un-mes-duros-reparos-de-las-victimas-de-la-farc/202618/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.765886+00:00",
+      "fecha": "2026-09-23T15:08:46.221631+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "7fe1955b466d",
+      "titulo": "La JEP le ordena al Ministerio de Defensa instalar una placa conmemorativa por el holocausto del Palacio de Justicia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-jep-le-ordena-al-mindefensa-instalar-una-placa-conmemorativa-por-el-holocausto-del-palacio-de-justicia/202628/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:46.221621+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "2bb3f17f94b2",
+      "titulo": "Volaron con explosivos el tren del Cerrejón en La Guajira: todo se da en medio del paro armado de las Autodefensas Conquistadoras",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/volaron-con-explosivos-el-tren-del-cerrejon-en-la-guajira-todo-se-da-en-medio-del-paro-armado-de-las-autodefensas-conquistadoras/202657/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:46.221553+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "fdf6f58bb85b",
+      "titulo": "Integrante del Clan del Golfo contó por qué decidió entregarse al Ejército: “El Tigre Abelardo está muy bravo”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/integrante-del-clan-del-golfo-conto-por-que-decidio-entregarse-al-ejercito-el-tigre-abelardo-esta-muy-bravo/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:46.221543+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -168,19 +182,19 @@
       ]
     },
     {
-      "id": "9b5b90369e80",
-      "titulo": "Gobierno canceló diálogos con disidencias de “Calarcá” y otros dos grupos: esta es la orden",
+      "id": "15d87f310b80",
+      "titulo": "El ELN sería el responsable del ataque con explosivos que descarriló un tren del Cerrejón en La Guajira",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/gobierno-de-la-espriella-cancelo-mesas-de-dialogo-con-disidencias-de-calarca-y-otros-dos-grupos-esta-es-la-orden/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/el-eln-seria-el-responsable-del-ataque-con-explosivos-que-descarrilo-un-tren-del-cerrejon-en-la-guajira/202634/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505900+00:00",
+      "fecha": "2026-09-23T15:08:46.221415+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "eln"
       ]
     },
     {
@@ -191,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505891+00:00",
+      "fecha": "2026-09-23T15:08:45.690532+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -207,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505883+00:00",
+      "fecha": "2026-09-23T15:08:45.690520+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -223,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505871+00:00",
+      "fecha": "2026-09-23T15:08:45.690503+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -239,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505852+00:00",
+      "fecha": "2026-09-23T15:08:45.690478+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -255,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505826+00:00",
+      "fecha": "2026-09-23T15:08:45.690425+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -264,14 +278,30 @@
       ]
     },
     {
+      "id": "25a9e45a9974",
+      "titulo": "¿Reducir el presupuesto de la JEP?: así está el pulso de la propuesta en el Congreso",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/asi-esta-el-pulso-en-el-congreso-para-reducir-el-presupuesto-de-la-jep/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:45.690420+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
       "id": "e76441a4e6bd",
-      "titulo": "\"Orientación sexual y de género fue una lápida\": magistrado sobre imputación a exjefes Farc",
+      "titulo": "“Orientación sexual y de género fue una lápida”: magistrado sobre imputación a exjefes Farc",
       "resumen": "",
       "url": "https://www.elespectador.com/judicial/orientacion-sexual-y-de-genero-fue-una-lapida-magistrado-sobre-imputacion-a-exjefes-farc/",
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-22T15:06:37.505801+00:00",
+      "fecha": "2026-09-23T15:08:45.690415+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -280,19 +310,83 @@
       ]
     },
     {
-      "id": "23ba5529cdd8",
-      "titulo": "Trump dice que la guerra de Ucrania terminará \"más rápido\" de lo que se cree",
+      "id": "b7572c86a699",
+      "titulo": "Gobierno De la Espriella retira designación de Salvatore Mancuso como gestor de paz",
       "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/09/22/trump-dice-que-la-guerra-de-ucrania-terminara-mas-rapido-de-lo-que-se-cree/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-09-22T15:01:03+00:00",
+      "url": "https://www.elespectador.com/politica/gobierno-de-la-espriella-retira-designacion-de-salvatore-mancuso-como-gestor-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:45.690403+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "guerra de ucrania"
+        "gestor de paz"
+      ]
+    },
+    {
+      "id": "452c3977f025",
+      "titulo": "No es solo la JEP: los recortes que amenazan la implementación del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/no-es-solo-la-jep-los-recortes-que-amenazan-la-implementacion-del-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-23T15:08:45.690396+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "6cf8e98994db",
+      "titulo": "Ataque a línea férrea del Cerrejón en Uribia habría sido perpetrado por el Eln: esto se sabe",
+      "resumen": "El tren se movilizaba sin carga cuando se produjo la afectación. Tropas de la Décima Brigada mantienen vigilancia sobre el corredor.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-a-linea-ferrea-del-cerrejon-en-uribia-habria-sido-perpetrado-por-el-eln-esto-se-sabe-3588235",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-23T14:19:52+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "90c695dcf2de",
+      "titulo": "La historia detrás de la Torre Squadra, el edificio de $41.176 millones que la JEP lleva ocho años pagando en arriendo",
+      "resumen": "Solo en 2025, la JEP pagó $27.589 millones en arriendo por el edificio de 12 pisos donde funciona su sede.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/la-historia-detras-de-la-torre-squadra-el-edificio-de-41-176-millones-que-la-jep-lleva-ocho-anos-pagando-en-arriendo-3588133",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-23T11:18:51+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "7a777900e9a2",
+      "titulo": "Gobierno de Abelardo De La Espriella revocó la designación de Salvatore Mancuso como gestor de paz",
+      "resumen": "El exjefe paramilitar había sido designado mediante la Resolución 244 del 14 de agosto de 2023, en el marco de la 'paz total'.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-de-abelardo-de-la-espriella-revoco-la-designacion-de-salvatore-mancuso-como-gestor-de-paz-3588076",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-09-22T21:08:31+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitar"
       ]
     },
     {
@@ -309,70 +403,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "c411732ae648",
-      "titulo": "Siete muertos, tres capturados y armas incautadas: los detalles del operativo en el que cayó alias Cholo, cabecilla de 'los Pachenca'",
-      "resumen": "El hombre señalado de manejar finanzas y rutas del narcotráfico hacia Centroamérica estaba entre los mandos del grupo armado.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/siete-muertos-tres-capturados-y-armas-incautadas-los-detalles-del-operativo-en-el-que-cayo-alias-cholo-sucesor-de-bendito-menor-3587821",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-22T11:12:42+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
-      ]
-    },
-    {
-      "id": "6ca12094c320",
-      "titulo": "Cada 8 días un municipio es 'colonizado' por los grupos armados: crudo informe de Pares devela el avance de la criminalidad en el país",
-      "resumen": "Pares devela que, en 2025, los actos terroristas aumentaron en un 227% y que cada día terminaron desplazadas 853 víctimas.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/cada-8-dias-un-municipio-es-colonizado-por-los-grupos-armados-crudo-informe-de-pares-devela-el-avance-de-la-criminalidad-en-el-pais-3587753",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-09-22T11:07:35+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "c164a2632d54",
-      "titulo": "Golpe al corazón de 'los Pachenca': cayó alias Cholo, segunda cabecilla del grupo armado",
-      "resumen": "En el mismo operativo también murió el hijo de alias Pinocho. Esto se sabe.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-cholo-senalado-sucesor-de-bendito-menor-en-los-pachencas-3587801",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-21T23:06:49+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
-      ]
-    },
-    {
-      "id": "980a380687ec",
-      "titulo": "Ucrania alerta del riesgo de hambruna en la localidad ocupada de Oleshki y exige a Rusia una evacuación",
-      "resumen": "Unas 6.000 personas están atrapadas por los combates y según Según el ministerio de Exteriores ucraniano, Andrí Sibiga, la situación es \"crítica\" Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/21/6ab1726fe4d4d83f3b8b45a4.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-21T18:15:37+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
       ]
     },
     {
