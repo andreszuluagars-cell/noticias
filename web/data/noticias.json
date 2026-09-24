@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-09-23T15:08:50.757269+00:00",
-  "total_revisadas": 266,
-  "total_relevantes": 28,
+  "generado_en": "2026-09-24T15:23:08.761365+00:00",
+  "total_revisadas": 269,
+  "total_relevantes": 35,
   "noticias": [
     {
       "id": "413525456da1",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:47.565016+00:00",
+      "fecha": "2026-09-24T15:23:06.030077+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,62 +27,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:47.564997+00:00",
+      "fecha": "2026-09-24T15:23:06.030058+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "ataque armado"
-      ]
-    },
-    {
-      "id": "ab021b786f4e",
-      "titulo": "Confirman asesinato de Mónica Beltrán, niña de 13 años que fue raptada por disidencias de las Farc",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/confirman-asesinato-monica-beltran-nina-reclutada-disidencias-LF41339741",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.709125+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "4fb7574f215d",
-      "titulo": "Liberaron al conductor de ambulancia secuestrado por el ELN durante una misión médica en el Catatumbo: estuvo 11 días cautivo",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/liberaron-conductor-ambulancia-secuestrado-eln-catatumbo-BD41351198",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.709056+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "eln",
-        "mision medica"
-      ]
-    },
-    {
-      "id": "eb20edf22bb4",
-      "titulo": "Los Pachenca: quiénes son y cómo opera el grupo paramilitar que ahora está en la mira del Gobierno",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/los-pachenca-quienes-son-y-como-opera-ese-grupo-paramilitar-BB41379019",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.708870+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitar"
       ]
     },
     {
@@ -93,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.708800+00:00",
+      "fecha": "2026-09-24T15:23:05.486014+00:00",
       "temas": [
         "DDHH"
       ],
@@ -109,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.708795+00:00",
+      "fecha": "2026-09-24T15:23:05.486010+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -118,14 +68,46 @@
       ]
     },
     {
-      "id": "4987f03d8dbc",
-      "titulo": "“La JEP ha sacado en ocho años las mismas condenas que un juez en un mes”: duros reparos de víctimas de las Farc",
+      "id": "327b1df18020",
+      "titulo": "Barrio a barrio: mapa de las zonas donde operan ‘Los Pachenca’, los paramilitares que azotan Santa Marta y Riohacha",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-jep-ha-sacado-en-ocho-anos-las-mismas-condenas-que-un-juez-en-un-mes-duros-reparos-de-las-victimas-de-la-farc/202618/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/mapa-los-pachenca-santa-marta-riohacha-zonas-donde-operan-GA41419861",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.221631+00:00",
+      "fecha": "2026-09-24T15:23:05.485828+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitares"
+      ]
+    },
+    {
+      "id": "20355cbb880e",
+      "titulo": "Presupuesto de la JEP tendrá recorte de $170.000 millones para el 2027, ¿qué pasará con el tribunal?",
+      "resumen": "",
+      "url": "https://elcolombiano.com/negocios/jep-recorte-170000-millones-presupuesto-2027-congreso-CE41459487",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-24T15:23:05.485735+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "e530f5279066",
+      "titulo": "Operativo Ecuador-EE. UU. abate a ‘Charlie’, señalado por narcotráfico y vinculado a disidencia de las Farc",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/alias-charlie-abatido-ecuador-operativo-eeuu-vinculos-disidencias-farc-los-choneros-HH41460272",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-24T15:23:05.485703+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -134,67 +116,69 @@
       ]
     },
     {
-      "id": "7fe1955b466d",
-      "titulo": "La JEP le ordena al Ministerio de Defensa instalar una placa conmemorativa por el holocausto del Palacio de Justicia",
+      "id": "bc9a49d7a04a",
+      "titulo": "Disidencias volaron parte de la red de acueducto en Jamundí, Valle",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-jep-le-ordena-al-mindefensa-instalar-una-placa-conmemorativa-por-el-holocausto-del-palacio-de-justicia/202628/",
+      "url": "https://semana.com/nacion/cali/articulo/disidencias-volaron-parte-de-la-red-de-acueducto-en-jamundi-valle/202651/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.221621+00:00",
+      "fecha": "2026-09-24T15:23:02.037173+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "171a8f6e187d",
+      "titulo": "Abelardo De La Espriella confirma que una integrante de las disidencias de las Farc se entregó: “No quieren terminar en una bolsa”",
+      "resumen": "",
+      "url": "https://semana.com/politica/articulo/abelardo-de-la-espriella-confirma-que-una-integrante-de-las-disidencias-de-las-farc-se-entrego-no-quieren-terminar-en-una-bolsa/202610/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-24T15:23:02.037073+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "681ac470a9f0",
+      "titulo": "“Lobby político, desayunos y formatos con medidas cautelares”: la JEP estaría buscando apoyo de militares procesados por falsos positivos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/lobby-politico-desayunos-y-formatos-con-medidas-cautelares-la-jep-estaria-buscando-apoyo-de-militares-procesados-por-falsos-positivos/202620/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-24T15:23:02.037028+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "falsos positivos",
         "jep"
       ]
     },
     {
-      "id": "2bb3f17f94b2",
-      "titulo": "Volaron con explosivos el tren del Cerrejón en La Guajira: todo se da en medio del paro armado de las Autodefensas Conquistadoras",
+      "id": "1f5bb5c8c29b",
+      "titulo": "Fuerte golpe a las disidencias en Chaparral, Tolima, durante Operación Horus: incautan arsenal y drones del Frente Gerónimo Galeano",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/volaron-con-explosivos-el-tren-del-cerrejon-en-la-guajira-todo-se-da-en-medio-del-paro-armado-de-las-autodefensas-conquistadoras/202657/",
+      "url": "https://semana.com/nacion/articulo/fuerte-golpe-a-disidencias-en-chaparral-tolima-durante-operacion-horus-incautan-arsenal-y-drones-del-frente-geronimo-galeano/202643/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.221553+00:00",
+      "fecha": "2026-09-24T15:23:02.037018+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "fdf6f58bb85b",
-      "titulo": "Integrante del Clan del Golfo contó por qué decidió entregarse al Ejército: “El Tigre Abelardo está muy bravo”",
-      "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/integrante-del-clan-del-golfo-conto-por-que-decidio-entregarse-al-ejercito-el-tigre-abelardo-esta-muy-bravo/202632/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.221543+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "15d87f310b80",
-      "titulo": "El ELN sería el responsable del ataque con explosivos que descarriló un tren del Cerrejón en La Guajira",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-eln-seria-el-responsable-del-ataque-con-explosivos-que-descarrilo-un-tren-del-cerrejon-en-la-guajira/202634/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-23T15:08:46.221415+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
@@ -205,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690532+00:00",
+      "fecha": "2026-09-24T15:23:01.842927+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -221,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690520+00:00",
+      "fecha": "2026-09-24T15:23:01.842915+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690503+00:00",
+      "fecha": "2026-09-24T15:23:01.842897+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690478+00:00",
+      "fecha": "2026-09-24T15:23:01.842881+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690425+00:00",
+      "fecha": "2026-09-24T15:23:01.842827+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690420+00:00",
+      "fecha": "2026-09-24T15:23:01.842822+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690415+00:00",
+      "fecha": "2026-09-24T15:23:01.842817+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690403+00:00",
+      "fecha": "2026-09-24T15:23:01.842806+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-23T15:08:45.690396+00:00",
+      "fecha": "2026-09-24T15:23:01.842800+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -342,14 +326,62 @@
       ]
     },
     {
-      "id": "6cf8e98994db",
-      "titulo": "Ataque a línea férrea del Cerrejón en Uribia habría sido perpetrado por el Eln: esto se sabe",
-      "resumen": "El tren se movilizaba sin carga cuando se produjo la afectación. Tropas de la Décima Brigada mantienen vigilancia sobre el corredor.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-a-linea-ferrea-del-cerrejon-en-uribia-habria-sido-perpetrado-por-el-eln-esto-se-sabe-3588235",
+      "id": "765c1f1411fc",
+      "titulo": "Amnistía Internacional denuncia que EEUU violó derechos humanos en operaciones migratorias",
+      "resumen": "",
+      "url": "https://www.infobae.com/america/agencias/2026/09/24/amnistia-internacional-denuncia-que-eeuu-violo-derechos-humanos-en-operaciones-migratorias/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-24T15:15:51+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "95223d817e21",
+      "titulo": "Víctimas cuestionan imágenes de Rodrigo Londoño, 'Timochenko', buscando desaparecidos tras sanciones de la JEP: 'Propaganda criminal para presupuesto'",
+      "resumen": "Las actividades iniciadas en Huila provocaron la dura reacción de víctimas que califican la medida de impunidad y propaganda criminal.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/organizaciones-cuestionan-imagenes-de-rodrigo-londono-timochenko-tras-sanciones-de-la-jep-buscando-desaparecidos-ejercicio-de-responsabilidad-3588511",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-23T14:19:52+00:00",
+      "fecha": "2026-09-24T14:58:18+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "03c7d902598a",
+      "titulo": "El presidente palestino, Abu Mazen, ante la Asamblea General de la ONU: \"No abandonaremos nuestra patria. No dejaremos que nadie decida nuestro futuro en nuestro nombre\"",
+      "resumen": "El presidente de la Autoridad Palestina denuncia que la violencia de los colonos israelíes en Cisjordania avanza hacia la \"limpieza étnica y el terrorismo de Estado\" Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/24/6ab52a04e85ece264d8b45db.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-24T14:55:19+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "limpieza etnica"
+      ]
+    },
+    {
+      "id": "bd6caf444766",
+      "titulo": "Alias El Indio, los talonarios y la red de ‘peajes’ que el Eln habría instalado en las carreteras del Catatumbo",
+      "resumen": "El señalado integrante del frente Juan Fernando Porras habría coordinado cobros a transportadores y maquinaria pesada.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-el-indio-los-talonarios-y-la-red-de-peajes-que-el-eln-habria-instalado-en-las-carreteras-del-catatumbo-3588569",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-24T14:45:56+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -358,19 +390,133 @@
       ]
     },
     {
-      "id": "90c695dcf2de",
-      "titulo": "La historia detrás de la Torre Squadra, el edificio de $41.176 millones que la JEP lleva ocho años pagando en arriendo",
-      "resumen": "Solo en 2025, la JEP pagó $27.589 millones en arriendo por el edificio de 12 pisos donde funciona su sede.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/la-historia-detras-de-la-torre-squadra-el-edificio-de-41-176-millones-que-la-jep-lleva-ocho-anos-pagando-en-arriendo-3588133",
+      "id": "4476d33f0fdb",
+      "titulo": "Canciller Omar Bula asegura que Colombia 'remoldeará' el Acuerdo de Paz de 2016 en función de las prioridades del gobierno de Abelardo De La Espriella",
+      "resumen": "El ministro de Relaciones Exteriores señaló que el tema se tocó durante un encuentro con su homólogo de Gran Bretaña.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/canciller-omar-bula-asegura-que-colombia-remoldeara-el-acuerdo-de-paz-de-2016-en-funcion-de-las-prioridades-del-gobierno-de-abelardo-de-la-espriella-3588554",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Política / Proceso de paz",
       "region": "nacional",
-      "fecha": "2026-09-23T11:18:51+00:00",
+      "fecha": "2026-09-24T14:06:08+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "7acd08a7cda2",
+      "titulo": "¿Por qué Pitalito fue el epicentro del primer trabajo conjunto entre exjefes Farc y militares culpables de ‘falsos positivos’?",
+      "resumen": "Durante estos días se realizan labores de búsqueda de personas dadas por desaparecidas. El lugar no fue elegido al azar.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/por-que-pitalito-fue-el-epicentro-del-primer-trabajo-conjunto-entre-exjefes-farc-y-militares-culpables-de-falsos-positivos-3588541",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-24T13:16:45+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "falsos positivos",
+        "farc"
+      ]
+    },
+    {
+      "id": "8a42fab922a3",
+      "titulo": "Cayó alias Gomelo, el señalado integrante del 'clan del Golfo' que habría movido las rentas del narcotráfico en el Bajo Cauca",
+      "resumen": "Autoridades señalan a Duván Chica Sánchez como uno de los principales cabecillas del narcotráfico de la subestructura ‘Yeison Leudo Chaverra’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-gomelo-el-senalado-integrante-del-clan-del-golfo-que-habria-movido-las-rentas-del-narcotrafico-en-el-bajo-cauca-3588482",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-24T02:36:43+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "2a360e688f7d",
+      "titulo": "Drones y granadas improvisadas, entre el arsenal incautado al Frente ‘Gerónimo Galeano’, de las disidencias de ‘Mordisco’ en Tolima",
+      "resumen": "La operación conjunta de Policía, Ejército y Fuerza Aérea permitió capturar a un presunto integrante de la estructura.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/drones-y-granadas-improvisadas-entre-el-arsenal-incautado-al-frente-geronimo-galeano-de-las-disidencias-de-mordisco-en-tolima-3588480",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-24T02:08:21+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "46157da71470",
+      "titulo": "Disidencias atacaron con explosivos y disparos a agentes del CTI que investigan tráfico ilegal de combustible en el Cauca",
+      "resumen": "Detrás del ataque que fue controlado por el Ejército está el 'frente Jaime Martínez' de 'Iván Mordisco'.",
+      "url": "https://www.eltiempo.com/justicia/delitos/disidencias-atacaron-con-explosivos-y-disparos-a-agentes-del-cti-que-investigan-trafico-ilegal-de-combustible-en-el-cauca-3588446",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-24T00:19:39+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "6420776e213b",
+      "titulo": "Hallan 100 kilos de explosivos del Eln en Santander que serían usados durante visita presidencial a Bucaramanga",
+      "resumen": "El material fue ubicado en zona rural de Charta durante una operación del Ejército, la Policía y con apoyo de mecanismos de cooperación con el FBI.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-100-kilos-de-explosivos-del-eln-en-santander-que-serian-usados-durante-visita-presidencial-a-bucaramanga-3588433",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-23T23:07:33+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "31abc36cb16f",
+      "titulo": "Operación militar contra disidencias de ‘Calarcá’ dejó un muerto y cinco fusiles incautados en Guaviare",
+      "resumen": "La acción en zona rural de Calamar contra el Bloque ‘Jorge Suárez Briceño’. En el lugar fueron halladas armas largas y 560 cartuchos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-militar-contra-disidencias-de-calarca-dejo-un-muerto-y-cinco-fusiles-incautados-en-guaviare-3588407",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-23T21:37:20+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "71f7322a621a",
+      "titulo": "Incautan casi una tonelada de cocaína en el Meta: droga estaría ligada al bloque ‘Jorge Suárez Briceño’, de las disidencias de ‘Calarcá’",
+      "resumen": "El cargamento, avaluado en más de 45 millones de dólares, era transportado en una chalupa por un corredor fluvial de Puerto Concordia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-casi-una-tonelada-de-cocaina-en-el-meta-droga-estaria-ligada-al-bloque-jorge-suarez-briceno-de-las-disidencias-de-calarca-3588331",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-23T17:59:55+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -390,22 +536,6 @@
       ]
     },
     {
-      "id": "d6a006ebc19c",
-      "titulo": "Fuerza Pública rescató a un hombre secuestrado por el Eln en Cúcuta, Norte de Santander: así lo anunció el presidente Abelardo De La Espriella",
-      "resumen": "El reporte se conoció durante la noche de este 21 de septiembre. Aquí los detalles.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/fuerza-publica-rescato-a-un-hombre-secuestrado-por-el-eln-en-cucuta-norte-de-santander-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella-3587856",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-22T12:11:28+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
       "id": "cce4e17fca66",
       "titulo": "Gobierno da estocada final a la 'paz total': cierra Zona de Ubicación Temporal en Putumayo y alista fin de procesos con el 'clan del Golfo' y el Eln",
       "resumen": "El Ejecutivo expidió las resoluciones que revocan la designación de los representantes. Hay dudas por futuro de 99 personas que estaban concentradas.",
@@ -419,22 +549,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "73a220c1a136",
-      "titulo": "$125.174 millones sin acuerdos finales ni desmantelamiento: el costo de los diálogos de la ‘paz total’ que ahora desmonta el gobierno De La Espriella",
-      "resumen": "EL TIEMPO revela recursos ejecutados en negociaciones con grupos armados y bandas urbanas. Transporte aéreo y medidas de protección lideraron gastos.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/125-174-millones-sin-acuerdos-finales-ni-desmantelamiento-el-costo-de-los-dialogos-de-la-paz-total-que-ahora-desmonta-el-gobierno-de-la-espriella-3583741",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-09-05T15:47:54+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
       ]
     },
     {
