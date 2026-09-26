@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-09-25T15:25:18.216412+00:00",
+  "generado_en": "2026-09-26T14:38:43.837384+00:00",
   "total_revisadas": 269,
   "total_relevantes": 28,
   "noticias": [
-    {
-      "id": "393c09553cbe",
-      "titulo": "Tragedia para los Pérez en la vía Ocaña-Ábrego, agricultor fallecido y líder juvenil en recuperación tras ataque armado",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/tragedia-para-los-perez-en-la-ocana-abrego-agricultor-fallecido-y-lider-juvenil-en",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-25T15:25:15.227284+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
     {
       "id": "84bf7b70ee57",
       "titulo": "Mónica, menor víctima de reclutamiento en el Catatumbo, fue asesinada; su padre pedía ayuda desde hace cinco meses",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:15.227184+00:00",
+      "fecha": "2026-09-26T14:38:39.759652+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,30 +20,78 @@
       ]
     },
     {
-      "id": "327b1df18020",
-      "titulo": "Barrio a barrio: mapa de las zonas donde operan ‘Los Pachenca’, los paramilitares que azotan Santa Marta y Riohacha",
+      "id": "38c577189d8f",
+      "titulo": "Escudo de las Américas incluye al Clan del Golfo, ELN y disidencias de las Farc en listado de organizaciones narcoterroristas",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/mapa-los-pachenca-santa-marta-riohacha-zonas-donde-operan-GA41419861",
+      "url": "https://elcolombiano.com/colombia/escudo-de-las-americas-clan-del-golfo-eln-disidencias-farc-organizaciones-narcoterroristas-HA41504102",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.693968+00:00",
+      "fecha": "2026-09-26T14:38:38.844422+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "paramilitares"
+        "clan del golfo"
       ]
     },
     {
-      "id": "20355cbb880e",
-      "titulo": "Presupuesto de la JEP tendrá recorte de $170.000 millones para el 2027, ¿qué pasará con el tribunal?",
+      "id": "224e8864319a",
+      "titulo": "Indignación por docente que pidió a niños de primaria dibujar insignias del ELN y Farc",
       "resumen": "",
-      "url": "https://elcolombiano.com/negocios/jep-recorte-170000-millones-presupuesto-2027-congreso-CE41459487",
+      "url": "https://elcolombiano.com/colombia/docente-ninos-primaria-dibujar-banderas-eln-farc-IA41506709",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.693874+00:00",
+      "fecha": "2026-09-26T14:38:38.844360+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "1f36d64301bc",
+      "titulo": "Alias Araña, cabecilla de Comandos de Frontera, será extraditado: así pasó de “gestor de paz” con Petro a preso en EE. UU.",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/alias-arana-extraditado-estados-unidos-abelardo-de-la-espriella-PA41509666",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-26T14:38:38.844298+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "gestor de paz"
+      ]
+    },
+    {
+      "id": "77fc2b16fcd2",
+      "titulo": "Con talonarios y expedición de paz y salvo: así es como el ELN registraba extorsiones en el Catatumbo",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/eln-registra-extorsiones-con-talonarios-en-catatumbo-norte-santander-DB41512032",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-26T14:38:38.844267+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "530f64c0f4dc",
+      "titulo": "La JEP, en medio del fuego cruzado por sus gastos y el impacto del recorte sobre las víctimas",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/jep-recorte-presupuesto-impacto-victimas-KD41530930",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-26T14:38:38.844152+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,67 +100,51 @@
       ]
     },
     {
-      "id": "e530f5279066",
-      "titulo": "Operativo Ecuador-EE. UU. abate a ‘Charlie’, señalado por narcotráfico y vinculado a disidencia de las Farc",
+      "id": "a9fd87f8ef8f",
+      "titulo": "Exclusivo | Enviaron a la cárcel a oficial (r) de Policía por provocar el desplazamiento forzado de la familia de Luis Alfonso",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-charlie-abatido-ecuador-operativo-eeuu-vinculos-disidencias-farc-los-choneros-HH41460272",
+      "url": "https://elcolombiano.com/colombia/cantante-luis-alfonso-capturado-policia-retirado-desplazamiento-familia-ID41531081",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.693842+00:00",
+      "fecha": "2026-09-26T14:38:38.844120+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "desplazamiento forzado"
       ]
     },
     {
-      "id": "f43779b16fd9",
-      "titulo": "Así empiezan a cumplir sanción de la JEP exjefes de las Farc: buscan cuerpos de desaparecidos en Pitalito",
+      "id": "2ac3608e8eca",
+      "titulo": "Acusan a teniente (r) de la Policía de desplazamiento forzado de la familia del cantante Luis Alfonso: fue enviado a prisión",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/exjefes-farc-cumplen-sancion-jep-buscan-cuerpos-pitalito-KG41472697",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.693761+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "75b3a63ab30c",
-      "titulo": "Ataque con drones y explosivos contra la Estación de Policía de Aguachica: Gobernación del Cesar se pronuncia",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ataque-con-drones-y-explosivos-contra-la-estacion-de-policia-de-aguachica-gobernacion-del-cesar-se-pronuncia/202639/",
+      "url": "https://semana.com/nacion/medellin/articulo/acusan-a-teniente-r-de-la-policia-de-desplazamiento-forzado-de-la-familia-del-cantante-luis-alfonso-fue-enviado-a-prision/202629/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.248883+00:00",
+      "fecha": "2026-09-26T14:38:38.491612+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "desplazamiento forzado"
       ]
     },
     {
-      "id": "4c0a38fa57d7",
-      "titulo": "Habla rector del colegio donde una profesora pidió como tarea dibujar banderas del ELN y las Farc: contó qué les dijeron a los papás",
+      "id": "71f117902885",
+      "titulo": "Líder social Gabriel Pacheco Díaz fue asesinado en Putumayo: cuatro casos más fueron reportados en una sola semana",
       "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/habla-rector-del-colegio-en-el-que-profesora-pidio-como-tarea-dibujar-banderas-del-eln-y-las-farc-conto-que-dijeron-a-los-papas/202656/",
+      "url": "https://semana.com/nacion/articulo/lider-social-gabriel-pacheco-diaz-fue-asesinado-en-putumayo-cuatro-casos-mas-fueron-reportados-en-una-sola-semana/202607/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.248830+00:00",
+      "fecha": "2026-09-26T14:38:38.491571+00:00",
       "temas": [
-        "Conflicto armado"
+        "DDHH"
       ],
       "palabras_clave": [
-        "farc"
+        "lider social"
       ]
     },
     {
@@ -139,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001471+00:00",
+      "fecha": "2026-09-26T14:38:38.126353+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001454+00:00",
+      "fecha": "2026-09-26T14:38:38.126335+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001429+00:00",
+      "fecha": "2026-09-26T14:38:38.126318+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001336+00:00",
+      "fecha": "2026-09-26T14:38:38.126270+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001331+00:00",
+      "fecha": "2026-09-26T14:38:38.126265+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001325+00:00",
+      "fecha": "2026-09-26T14:38:38.126259+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001312+00:00",
+      "fecha": "2026-09-26T14:38:38.126246+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001307+00:00",
+      "fecha": "2026-09-26T14:38:38.126241+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001296+00:00",
+      "fecha": "2026-09-26T14:38:38.126229+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001289+00:00",
+      "fecha": "2026-09-26T14:38:38.126221+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-25T15:25:14.001252+00:00",
+      "fecha": "2026-09-26T14:38:38.126194+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -308,35 +324,19 @@
       ]
     },
     {
-      "id": "1b2fe0d47cff",
-      "titulo": "UNICEF alerta de que uno de cada cuatro niños en Yemen sufren desnutrición aguda en pleno repunte de los combates",
-      "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/09/25/unicef-alerta-de-que-uno-de-cada-cuatro-ninos-en-yemen-sufren-desnutricion-aguda-en-pleno-repunte-de-los-combates/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-09-25T15:16:46+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "e7ca8d9fa056",
-      "titulo": "Agosto, primer mes de De La Espriella, cerró con reducciones en homicidio, extorsión, secuestro y otros delitos de alto impacto",
-      "resumen": "Cifras del Mindefensa muestran descensos frente a agosto de 2025 en varios indicadores. El acumulado de enero a agosto tiene resultados distintos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/agosto-primer-mes-de-de-la-espriella-cerro-con-reducciones-en-homicidio-extorsion-secuestro-y-otros-delitos-de-alto-impacto-3588883",
+      "id": "de5767f5b79b",
+      "titulo": "JEP ordena instalar placa en las caballerizas del Cantón Norte por hechos del Palacio de Justicia",
+      "resumen": "La Sección de Apelación ordenó al Ministerio de Defensa poner una placa permanente en el lugar.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-ordena-instalar-placa-en-las-caballerizas-del-canton-norte-por-hechos-del-palacio-de-justicia-3588953",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-25T14:42:11+00:00",
+      "fecha": "2026-09-25T17:02:23+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "secuestro"
+        "jep"
       ]
     },
     {
@@ -347,12 +347,28 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-25T13:50:25+00:00",
+      "fecha": "2026-09-25T17:01:41+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "clan del golfo"
+      ]
+    },
+    {
+      "id": "e7ca8d9fa056",
+      "titulo": "Agosto, primer mes de De La Espriella, cerró con reducciones en homicidio, extorsión, secuestro y otros delitos de alto impacto",
+      "resumen": "Cifras del Mindefensa muestran descensos frente a agosto de 2025 en varios indicadores. El acumulado de enero a agosto tiene resultados distintos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/agosto-primer-mes-de-de-la-espriella-cerro-con-reducciones-en-homicidio-extorsion-secuestro-y-otros-delitos-de-alto-impacto-3588883",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-25T16:04:36+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
       ]
     },
     {
@@ -369,22 +385,6 @@
       ],
       "palabras_clave": [
         "derechos humanos"
-      ]
-    },
-    {
-      "id": "03c7d902598a",
-      "titulo": "El presidente palestino, Abu Mazen, ante la Asamblea General de la ONU: \"No abandonaremos nuestra patria. No dejaremos que nadie decida nuestro futuro en nuestro nombre\"",
-      "resumen": "El presidente de la Autoridad Palestina denuncia que la violencia de los colonos israelíes en Cisjordania avanza hacia la \"limpieza étnica y el terrorismo de Estado\" Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/24/6ab52a04e85ece264d8b45db.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-24T14:55:19+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "limpieza etnica"
       ]
     },
     {
