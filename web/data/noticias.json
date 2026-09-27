@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-09-26T14:38:43.837384+00:00",
-  "total_revisadas": 269,
-  "total_relevantes": 28,
+  "generado_en": "2026-09-27T15:13:14.941657+00:00",
+  "total_revisadas": 267,
+  "total_relevantes": 36,
   "noticias": [
     {
       "id": "84bf7b70ee57",
@@ -11,12 +11,44 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:39.759652+00:00",
+      "fecha": "2026-09-27T15:13:12.865377+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "reclutamiento"
+      ]
+    },
+    {
+      "id": "1e227648fef7",
+      "titulo": "Ataque armado dejó gravemente herido a patrullero de la Policía en Ocaña",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/ataque-armado-dejo-gravemente-herido-patrullero-de-la-policia-en-ocana",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.865315+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque armado"
+      ]
+    },
+    {
+      "id": "b320f3d45971",
+      "titulo": "¿Se la quería sacar del camino? Cayó presunto autor intelectual del crimen de lideresa social en Norte de Santander",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/se-la-queria-sacar-del-camino-cayo-presunto-autor-intelectual-del-crimen-de-lideresa",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.865287+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lideresa social"
       ]
     },
     {
@@ -27,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.844422+00:00",
+      "fecha": "2026-09-27T15:13:12.532470+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.844360+00:00",
+      "fecha": "2026-09-27T15:13:12.532384+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.844298+00:00",
+      "fecha": "2026-09-27T15:13:12.532286+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.844267+00:00",
+      "fecha": "2026-09-27T15:13:12.532232+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +123,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.844152+00:00",
+      "fecha": "2026-09-27T15:13:12.532048+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +139,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.844120+00:00",
+      "fecha": "2026-09-27T15:13:12.531998+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,51 +148,83 @@
       ]
     },
     {
-      "id": "2ac3608e8eca",
-      "titulo": "Acusan a teniente (r) de la Policía de desplazamiento forzado de la familia del cantante Luis Alfonso: fue enviado a prisión",
+      "id": "cb039506a2f9",
+      "titulo": "Defensoría del Pueblo pide al MinDefensa y al Ejército esclarecer la muerte de un campesino de La Macarena, Meta",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/acusan-a-teniente-r-de-la-policia-de-desplazamiento-forzado-de-la-familia-del-cantante-luis-alfonso-fue-enviado-a-prision/202629/",
+      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-pide-al-mindefensa-y-al-ejercito-esclarecer-la-muerte-de-un-campesino-de-la-macarena-meta/202646/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.491612+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "desplazamiento forzado"
-      ]
-    },
-    {
-      "id": "71f117902885",
-      "titulo": "Líder social Gabriel Pacheco Díaz fue asesinado en Putumayo: cuatro casos más fueron reportados en una sola semana",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/lider-social-gabriel-pacheco-diaz-fue-asesinado-en-putumayo-cuatro-casos-mas-fueron-reportados-en-una-sola-semana/202607/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.491571+00:00",
+      "fecha": "2026-09-27T15:13:12.306794+00:00",
       "temas": [
         "DDHH"
       ],
       "palabras_clave": [
-        "lider social"
+        "defensoria del pueblo"
       ]
     },
     {
-      "id": "f11d7526e3c8",
-      "titulo": "Gobierno usa la diplomacia y el acuerdo de paz para darle forma a su política de seguridad",
+      "id": "43a2caea3b19",
+      "titulo": "Autoridades hallan depósito ilegal del ELN en Toledo, Norte de Santander: destruyen 13 minas antipersonal",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/gobierno-usa-la-diplomacia-y-el-acuerdo-de-paz-para-darle-forma-a-su-politica-de-seguridad/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/cucuta/articulo/autoridades-hallan-deposito-ilegal-del-eln-en-toledo-norte-de-santander-destr-uyen-13-minas-antipersonal/202614/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126353+00:00",
+      "fecha": "2026-09-27T15:13:12.306750+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "eln"
+      ]
+    },
+    {
+      "id": "0132d46b48e3",
+      "titulo": "Reportan atentado en la vía férrea de Fundación, Magdalena: gobernadora hizo llamado al presidente Abelardo De La Espriella",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/reportan-atentado-en-la-via-ferrea-de-fundacion-magdalena-gobernadora-hizo-llamado-al-presidente-abelardo-de-la-espriella/202641/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.306681+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "c36d6fbd46ce",
+      "titulo": "La batalla secreta: así buscan impedir que el Clan del Golfo se apodere del terreno perdido por las Autodefensas de la Sierra",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-batalla-secreta-asi-buscan-impedir-que-el-clan-del-golfo-se-apodere-del-terreno-perdido-por-las-autodefensas-de-la-sierra/202600/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.306630+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "ca6d5886e510",
+      "titulo": "Alias Araña, de jefe de sicarios a gestor de paz extraditado por narcotráfico",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/alias-arana-de-jefe-de-sicarios-a-gestor-de-paz-extraditado-por-narcotrafico/202624/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.306615+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "gestor de paz"
       ]
     },
     {
@@ -171,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126335+00:00",
+      "fecha": "2026-09-27T15:13:12.040483+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126318+00:00",
+      "fecha": "2026-09-27T15:13:12.040449+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126270+00:00",
+      "fecha": "2026-09-27T15:13:12.040411+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126265+00:00",
+      "fecha": "2026-09-27T15:13:12.040405+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126259+00:00",
+      "fecha": "2026-09-27T15:13:12.040382+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126246+00:00",
+      "fecha": "2026-09-27T15:13:12.040369+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126241+00:00",
+      "fecha": "2026-09-27T15:13:12.040362+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126229+00:00",
+      "fecha": "2026-09-27T15:13:12.040345+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126221+00:00",
+      "fecha": "2026-09-27T15:13:12.040338+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +379,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-26T14:38:38.126194+00:00",
+      "fecha": "2026-09-27T15:13:12.040331+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -324,30 +388,111 @@
       ]
     },
     {
-      "id": "de5767f5b79b",
-      "titulo": "JEP ordena instalar placa en las caballerizas del Cantón Norte por hechos del Palacio de Justicia",
-      "resumen": "La Sección de Apelación ordenó al Ministerio de Defensa poner una placa permanente en el lugar.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-ordena-instalar-placa-en-las-caballerizas-del-canton-norte-por-hechos-del-palacio-de-justicia-3588953",
+      "id": "711eecd90c78",
+      "titulo": "Del diálogo de Santos al sometimiento de De la Espriella: ¿qué pasó con el Acuerdo de Paz?",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/acuerdo-de-paz-cumple-10-anos-del-dialogo-de-santos-al-sometimiento-de-de-la-espriella-que-ha-pasado-en-colombia/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.040316+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "d12d3a2135ce",
+      "titulo": "Atrapados en sus territorios: el encierro que impone el conflicto armado",
+      "resumen": "",
+      "url": "https://www.elespectador.com/colombia-20/atrapados-en-sus-territorios-el-encierro-que-impone-el-conflicto-armado/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-09-27T15:13:12.040282+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "conflicto armado"
+      ]
+    },
+    {
+      "id": "365be32cbc29",
+      "titulo": "Detenidos nueve sospechosos de cometer crímenes de guerra en Kosovo en 1999",
+      "resumen": "",
+      "url": "https://www.infobae.com/america/agencias/2026/09/27/detenidos-nueve-sospechosos-de-cometer-crimenes-de-guerra-en-kosovo-en-1999/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-27T15:02:13+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra"
+      ]
+    },
+    {
+      "id": "056d4c8b4aaf",
+      "titulo": "La trayectoria criminal de alias Robinson, el hombre de la ‘Segunda Marquetalia’ señalado de financiar el crimen de Miguel Uribe",
+      "resumen": "El presidente De La Espriella lo señaló de dirigir las extorsiones y amenazas contra campesinos, además de comandar el reclutamiento de menores.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-trayectoria-criminal-de-alias-robinson-el-hombre-de-la-segunda-marquetalia-senalado-de-financiar-el-crimen-de-miguel-uribe-3589295",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-25T17:02:23+00:00",
+      "fecha": "2026-09-27T14:58:58+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "f2f0842cf8d6",
+      "titulo": "Cada día, en promedio, se registra un ataque con drones en el país: disidencias de ‘Iván Mordisco’ y el Eln son los que más los usan",
+      "resumen": "En lo que va del año, se han perpetrado 292 atentados con drones cargados con explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cada-dia-en-promedio-se-registra-un-ataque-con-drones-en-el-pais-disidencias-de-ivan-mordisco-y-el-eln-son-los-que-mas-los-usan-3589204",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-27T04:17:46+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "disidencias"
       ]
     },
     {
-      "id": "5c32dc283f4e",
-      "titulo": "El seguimiento con dron que permitió ubicar laboratorio del ‘clan del Golfo’ en Chocó",
-      "resumen": "La estructura era utilizada para producir más de 300 libras de pasta base al mes. El laboratorio generaba ingresos superiores a $320 millones.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/seguimiento-con-dron-que-permitio-ubicar-laboratorio-del-clan-del-golfo-en-choco-3588862",
+      "id": "a856286b251d",
+      "titulo": "En las entrañas de los grupos que ‘cazan’ a objetivos de alto valor",
+      "resumen": "EL TIEMPO acompañó al cuerpo élite que prepara las operaciones contra los cabecillas de los grupos armados.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/en-las-entranas-de-los-grupos-que-cazan-a-objetivos-de-alto-valor-3589216",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-25T17:01:41+00:00",
+      "fecha": "2026-09-27T03:01:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "5d94f9af6da9",
+      "titulo": "Hallan depósito del ‘clan del Golfo’ con armas y uniformes de Policía y EPM en Antioquia",
+      "resumen": "La operación del Gaula Militar Oriente y el CTI se desarrolló en Santa Elena. En el lugar fueron incautados armas, radios y fue capturada una mujer.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-deposito-del-clan-del-golfo-con-armas-y-uniformes-de-policia-y-epm-en-antioquia-3589211",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-26T20:07:27+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -356,35 +501,19 @@
       ]
     },
     {
-      "id": "e7ca8d9fa056",
-      "titulo": "Agosto, primer mes de De La Espriella, cerró con reducciones en homicidio, extorsión, secuestro y otros delitos de alto impacto",
-      "resumen": "Cifras del Mindefensa muestran descensos frente a agosto de 2025 en varios indicadores. El acumulado de enero a agosto tiene resultados distintos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/agosto-primer-mes-de-de-la-espriella-cerro-con-reducciones-en-homicidio-extorsion-secuestro-y-otros-delitos-de-alto-impacto-3588883",
+      "id": "6dadf9f277f6",
+      "titulo": "‘Pinocho’, ‘Comando 77’ y ‘Patilizo’, los tres objetivos de alto valor de ‘los Pachenca’ que están bajo los radares de la Fuerza Pública",
+      "resumen": "Concentran funciones de dirección, mando militar y entrenamiento dentro del grupo armado. Estos son sus perfiles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/pinocho-comando-77-y-patilizo-los-tres-objetivos-de-alto-valor-de-los-pachenca-que-estan-bajo-los-radares-de-la-fuerza-publica-3589162",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-25T16:04:36+00:00",
+      "fecha": "2026-09-26T14:31:20+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "2bfc4bff4eae",
-      "titulo": "Trump pide al Supremo permitir las deportaciones de migrantes a terceros países",
-      "resumen": "Más de 25.000 migrantes han sido enviados a terceros países desde que Trump puso en marcha esta política, según datos de organizaciones de derechos humanos Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/25/6ab5b04cfc6c83900e8b459d.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-25T06:31:37+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
+        "grupo armado"
       ]
     },
     {
