@@ -1,22 +1,22 @@
 {
-  "generado_en": "2026-09-27T15:13:14.941657+00:00",
+  "generado_en": "2026-09-28T18:13:37.427337+00:00",
   "total_revisadas": 267,
-  "total_relevantes": 36,
+  "total_relevantes": 32,
   "noticias": [
     {
-      "id": "84bf7b70ee57",
-      "titulo": "Mónica, menor víctima de reclutamiento en el Catatumbo, fue asesinada; su padre pedía ayuda desde hace cinco meses",
+      "id": "c73b13eb947d",
+      "titulo": "Las deportaciones de EE.UU. a terceros países acarrean “cascada de violaciones” de derechos humanos, según expertos de la ONU",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/monica-menor-victima-de-reclutamiento-en-el-catatumbo-fue-asesinada-su-padre-pedia-ayuda",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.865377+00:00",
+      "url": "https://elcomercio.pe/mundo/actualidad/las-deportaciones-de-estados-unidos-a-terceros-paises-acarrean-cascada-de-violaciones-de-derechos-humanos-segun-expertos-de-la-onu-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-09-28T18:13:37.293659+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "reclutamiento"
+        "derechos humanos"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.865315+00:00",
+      "fecha": "2026-09-28T18:13:34.792119+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.865287+00:00",
+      "fecha": "2026-09-28T18:13:34.792108+00:00",
       "temas": [
         "DDHH"
       ],
@@ -52,62 +52,14 @@
       ]
     },
     {
-      "id": "38c577189d8f",
-      "titulo": "Escudo de las Américas incluye al Clan del Golfo, ELN y disidencias de las Farc en listado de organizaciones narcoterroristas",
+      "id": "820bb4894081",
+      "titulo": "Con pistolas, fusiles y talonarios de cobro: así cayeron cinco presuntos extorsionistas del Eln en Tibú",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/escudo-de-las-americas-clan-del-golfo-eln-disidencias-farc-organizaciones-narcoterroristas-HA41504102",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/con-pistolas-fusiles-y-talonarios-de-cobro-asi-cayeron-cinco-presuntos-extorsionistas-del",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.532470+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "224e8864319a",
-      "titulo": "Indignación por docente que pidió a niños de primaria dibujar insignias del ELN y Farc",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/docente-ninos-primaria-dibujar-banderas-eln-farc-IA41506709",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.532384+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "1f36d64301bc",
-      "titulo": "Alias Araña, cabecilla de Comandos de Frontera, será extraditado: así pasó de “gestor de paz” con Petro a preso en EE. UU.",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-arana-extraditado-estados-unidos-abelardo-de-la-espriella-PA41509666",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.532286+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "gestor de paz"
-      ]
-    },
-    {
-      "id": "77fc2b16fcd2",
-      "titulo": "Con talonarios y expedición de paz y salvo: así es como el ELN registraba extorsiones en el Catatumbo",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-registra-extorsiones-con-talonarios-en-catatumbo-norte-santander-DB41512032",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.532232+00:00",
+      "fecha": "2026-09-28T18:13:34.792079+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.532048+00:00",
+      "fecha": "2026-09-28T18:13:34.214054+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.531998+00:00",
+      "fecha": "2026-09-28T18:13:34.214035+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,30 +100,46 @@
       ]
     },
     {
-      "id": "cb039506a2f9",
-      "titulo": "Defensoría del Pueblo pide al MinDefensa y al Ejército esclarecer la muerte de un campesino de La Macarena, Meta",
+      "id": "b81fbc256503",
+      "titulo": "Exclusivo | De la guerrilla a la central de espías: los cinco desastres que los exM-19 le dejaron a la DNI",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-pide-al-mindefensa-y-al-ejercito-esclarecer-la-muerte-de-un-campesino-de-la-macarena-meta/202646/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/gustavo-petro-dni-desastres-m19-abelardo-de-la-espriella-espias-guerrilla-PH41570816",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.306794+00:00",
+      "fecha": "2026-09-28T18:13:34.213952+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "defensoria del pueblo"
+        "guerrilla"
       ]
     },
     {
-      "id": "43a2caea3b19",
-      "titulo": "Autoridades hallan depósito ilegal del ELN en Toledo, Norte de Santander: destruyen 13 minas antipersonal",
+      "id": "dd065cc90a17",
+      "titulo": "El drama de la familia de Idel José Torres: las disidencias se llevaron su cuerpo tras asesinarlo",
       "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/autoridades-hallan-deposito-ilegal-del-eln-en-toledo-norte-de-santander-destr-uyen-13-minas-antipersonal/202614/",
+      "url": "https://elcolombiano.com/colombia/idel-jose-torres-soldado-cuerpo-retenido-disidencias-el-tambo-EC41610444",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-28T18:13:34.213801+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "e53fe49d9c38",
+      "titulo": "De La Espriella revela un golpe al ELN en Cúcuta: 1.120 kilos de cocaína incautados y nueve laboratorios afectados",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/de-la-espriella-revela-golpe-al-eln-en-cucuta-1120-kilos-de-cocaina-incautados-y-nueve-laboratorios-afectados/202613/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.306750+00:00",
+      "fecha": "2026-09-28T18:13:30.632819+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -180,67 +148,35 @@
       ]
     },
     {
-      "id": "0132d46b48e3",
-      "titulo": "Reportan atentado en la vía férrea de Fundación, Magdalena: gobernadora hizo llamado al presidente Abelardo De La Espriella",
+      "id": "a15191c8d3b3",
+      "titulo": "ELN recluta niños de hasta ocho años: la indignante revelación se conoció tras una nueva condena contra los cabecillas",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/reportan-atentado-en-la-via-ferrea-de-fundacion-magdalena-gobernadora-hizo-llamado-al-presidente-abelardo-de-la-espriella/202641/",
+      "url": "https://semana.com/nacion/articulo/eln-recluta-ninos-hasta-de-ocho-anos-de-edad-la-escandalosa-revelacion-se-conocio-tras-una-nueva-condena-contra-los-cabecillas/202654/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.306681+00:00",
+      "fecha": "2026-09-28T18:13:30.632797+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "eln"
       ]
     },
     {
-      "id": "c36d6fbd46ce",
-      "titulo": "La batalla secreta: así buscan impedir que el Clan del Golfo se apodere del terreno perdido por las Autodefensas de la Sierra",
+      "id": "0f8dd225f66f",
+      "titulo": "Disidencias de Mordisco no han regresado cadáver de soldado asesinado en Cauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-batalla-secreta-asi-buscan-impedir-que-el-clan-del-golfo-se-apodere-del-terreno-perdido-por-las-autodefensas-de-la-sierra/202600/",
+      "url": "https://semana.com/nacion/articulo/disidencias-de-mordisco-no-han-regresado-cadaver-de-soldado-asesinado-en-cauca/202617/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.306630+00:00",
+      "fecha": "2026-09-28T18:13:30.632696+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "ca6d5886e510",
-      "titulo": "Alias Araña, de jefe de sicarios a gestor de paz extraditado por narcotráfico",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/alias-arana-de-jefe-de-sicarios-a-gestor-de-paz-extraditado-por-narcotrafico/202624/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.306615+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "gestor de paz"
-      ]
-    },
-    {
-      "id": "0af05c56cae5",
-      "titulo": "“La negociación no es debilidad”: Santos en el marco de los 10 años del Acuerdo de Paz",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/la-negociacion-no-es-debilidad-juan-manuel-santos-en-el-marco-de-los-10-anos-del-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040483+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
+        "disidencias"
       ]
     },
     {
@@ -251,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040449+00:00",
+      "fecha": "2026-09-28T18:13:30.220478+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040411+00:00",
+      "fecha": "2026-09-28T18:13:30.220453+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040405+00:00",
+      "fecha": "2026-09-28T18:13:30.220450+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040382+00:00",
+      "fecha": "2026-09-28T18:13:30.220447+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040369+00:00",
+      "fecha": "2026-09-28T18:13:30.220428+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040362+00:00",
+      "fecha": "2026-09-28T18:13:30.220425+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040345+00:00",
+      "fecha": "2026-09-28T18:13:30.220417+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040338+00:00",
+      "fecha": "2026-09-28T18:13:30.220410+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040331+00:00",
+      "fecha": "2026-09-28T18:13:30.220407+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040316+00:00",
+      "fecha": "2026-09-28T18:13:30.220400+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -411,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-27T15:13:12.040282+00:00",
+      "fecha": "2026-09-28T18:13:30.220396+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -420,47 +356,94 @@
       ]
     },
     {
-      "id": "365be32cbc29",
-      "titulo": "Detenidos nueve sospechosos de cometer crímenes de guerra en Kosovo en 1999",
+      "id": "349d4a05627d",
+      "titulo": "La Unión Europea envía 61 millones de euros en ayuda humanitaria ante el conflicto etíope",
       "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/09/27/detenidos-nueve-sospechosos-de-cometer-crimenes-de-guerra-en-kosovo-en-1999/",
+      "url": "https://www.infobae.com/america/agencias/2026/09/28/la-union-europea-envia-61-millones-de-euros-en-ayuda-humanitaria-ante-el-conflicto-etiope/",
       "fuente": "Infobae",
       "seccion": "Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-09-27T15:02:13+00:00",
+      "fecha": "2026-09-28T18:01:40+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "crimenes de guerra"
+        "ayuda humanitaria"
       ]
     },
     {
-      "id": "056d4c8b4aaf",
-      "titulo": "La trayectoria criminal de alias Robinson, el hombre de la ‘Segunda Marquetalia’ señalado de financiar el crimen de Miguel Uribe",
-      "resumen": "El presidente De La Espriella lo señaló de dirigir las extorsiones y amenazas contra campesinos, además de comandar el reclutamiento de menores.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-trayectoria-criminal-de-alias-robinson-el-hombre-de-la-segunda-marquetalia-senalado-de-financiar-el-crimen-de-miguel-uribe-3589295",
+      "id": "4db1d5115bed",
+      "titulo": "Fuertes combates contra las disidencias de las Farc se registran en la frontera entre Colombia y Perú: esto se sabe",
+      "resumen": "La acción ocurrió cerca de San Belín de Yaricaya, en la provincia peruana de Putumayo, donde patrullas militares y policiales ubicaron a integrantes de la organización tras labores de inteligencia",
+      "url": "https://www.infobae.com/colombia/2026/09/28/fuertes-combates-contra-las-disidencias-de-las-farc-se-registran-en-la-frontera-entre-colombia-y-peru-esto-se-sabe/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-09-28T17:53:07+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "16738afcd959",
+      "titulo": "Los viajes de la JEP por $56.120 millones, bajo la lupa por el Congreso para el presupuesto de 2027",
+      "resumen": "La entidad dice que tiquetes, viáticos y desplazamientos pesan en promedio 1,1 % de su presupuesto.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/los-viajes-de-la-jep-por-56-120-millones-bajo-la-lupa-por-el-congreso-para-el-presupuesto-de-3589459",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-27T14:58:58+00:00",
+      "fecha": "2026-09-28T16:20:40+00:00",
       "temas": [
-        "Conflicto armado",
-        "DIH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "reclutamiento de menores"
+        "jep"
       ]
     },
     {
-      "id": "f2f0842cf8d6",
-      "titulo": "Cada día, en promedio, se registra un ataque con drones en el país: disidencias de ‘Iván Mordisco’ y el Eln son los que más los usan",
-      "resumen": "En lo que va del año, se han perpetrado 292 atentados con drones cargados con explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cada-dia-en-promedio-se-registra-un-ataque-con-drones-en-el-pais-disidencias-de-ivan-mordisco-y-el-eln-son-los-que-mas-los-usan-3589204",
+      "id": "91a8968ef109",
+      "titulo": "Caso Yulixa Toloza: el documento que revela qué pasó con los falsos médicos capturados en Venezuela señalados de su muerte y desaparición",
+      "resumen": "EL TIEMPO tuvo acceso al expediente remitido a la Corte venezolana contra los requeridos en Colombia por la muerte y desaparición forzada de Toloza.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/caso-yulixa-toloza-el-documento-que-revela-que-paso-con-los-falsos-medicos-capturados-en-venezuela-3589450",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-27T04:17:46+00:00",
+      "fecha": "2026-09-28T15:57:52+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "desaparicion forzada"
+      ]
+    },
+    {
+      "id": "bef9d5999ad2",
+      "titulo": "Matan a tiros a dos estudiantes en Morelos dos semanas después del asesinato de la española Claudia Tacoronte",
+      "resumen": "Se trata de dos adolescentes, en cursos de acceso a la universidad, y murieron la noche del sábado durante un ataque armado, mientras un tercer joven resultó herido Leer",
+      "url": "https://www.elmundo.es/internacional/2026/09/28/6ab9fcb521efa0443e8b456f.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-09-28T05:53:22+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ataque armado"
+      ]
+    },
+    {
+      "id": "4da5f045f369",
+      "titulo": "Mindefensa se pronunció por cuerpo de soldado asesinado y sustraído por disidencias de las Farc en El Tambo, Cauca: 'Extrema gravedad y bajeza'",
+      "resumen": "La cartera pidió intervención de organismos humanitarios y autoridades para facilitar la recuperación y garantizar una despedida digna a la familia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mindefensa-se-pronuncio-por-cuerpo-de-soldado-asesinado-y-sustraido-por-disidencias-de-las-farc-en-el-tambo-cauca-extrema-gravedad-y-bajeza-3589387",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-28T04:44:07+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -469,51 +452,19 @@
       ]
     },
     {
-      "id": "a856286b251d",
-      "titulo": "En las entrañas de los grupos que ‘cazan’ a objetivos de alto valor",
-      "resumen": "EL TIEMPO acompañó al cuerpo élite que prepara las operaciones contra los cabecillas de los grupos armados.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/en-las-entranas-de-los-grupos-que-cazan-a-objetivos-de-alto-valor-3589216",
+      "id": "d53aba6d6afd",
+      "titulo": "El atentado al exministro Londoño y la participación en el magnicidio de Miguel Uribe Turbay: el expediente que sella la caída de alias Robinson",
+      "resumen": "Miguel Orlando Guzmán González, 'Robinson', cayó en Tello, Huila, tras 35 años de crímenes que van desde El Nogal hasta el magnicidio de Uribe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-atentado-al-exministro-londono-y-la-participacion-en-el-magnicidio-de-miguel-uribe-turbay-el-expediente-que-sella-la-caida-de-alias-robinson-3589339",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-27T03:01:00+00:00",
+      "fecha": "2026-09-27T20:26:10+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "5d94f9af6da9",
-      "titulo": "Hallan depósito del ‘clan del Golfo’ con armas y uniformes de Policía y EPM en Antioquia",
-      "resumen": "La operación del Gaula Militar Oriente y el CTI se desarrolló en Santa Elena. En el lugar fueron incautados armas, radios y fue capturada una mujer.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-deposito-del-clan-del-golfo-con-armas-y-uniformes-de-policia-y-epm-en-antioquia-3589211",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-26T20:07:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "6dadf9f277f6",
-      "titulo": "‘Pinocho’, ‘Comando 77’ y ‘Patilizo’, los tres objetivos de alto valor de ‘los Pachenca’ que están bajo los radares de la Fuerza Pública",
-      "resumen": "Concentran funciones de dirección, mando militar y entrenamiento dentro del grupo armado. Estos son sus perfiles.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/pinocho-comando-77-y-patilizo-los-tres-objetivos-de-alto-valor-de-los-pachenca-que-estan-bajo-los-radares-de-la-fuerza-publica-3589162",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-26T14:31:20+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
+        "atentado"
       ]
     },
     {
@@ -562,22 +513,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "727b50a65b62",
-      "titulo": "Gobernador de Nariño responde a advertencias del presidente De La Espriella sobre diálogos con grupos armados: 'Son competencia del Gobierno Nacional'",
-      "resumen": "En la Cumbre de Gobernadores, el presidente De La Espriella advirtió sanciones para quienes realicen negociaciones reservadas con grupos armados.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobernador-de-narino-responde-a-advertencias-del-presidente-de-la-espriella-sobre-dialogos-con-grupos-armados-son-competencia-del-gobierno-nacional-3583819",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-09-05T15:32:45+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
       ]
     }
   ]
