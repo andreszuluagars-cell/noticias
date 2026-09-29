@@ -1,54 +1,22 @@
 {
-  "generado_en": "2026-09-28T18:13:37.427337+00:00",
-  "total_revisadas": 267,
-  "total_relevantes": 32,
+  "generado_en": "2026-09-29T16:35:35.085456+00:00",
+  "total_revisadas": 265,
+  "total_relevantes": 28,
   "noticias": [
     {
-      "id": "c73b13eb947d",
-      "titulo": "Las deportaciones de EE.UU. a terceros países acarrean “cascada de violaciones” de derechos humanos, según expertos de la ONU",
+      "id": "bde0350508ff",
+      "titulo": "Zelensky dice que Corea del Norte prepara el envío de otros 10.000 soldados a Rusia para la guerra en Ucrania",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/actualidad/las-deportaciones-de-estados-unidos-a-terceros-paises-acarrean-cascada-de-violaciones-de-derechos-humanos-segun-expertos-de-la-onu-ultimas-noticia/",
+      "url": "https://elcomercio.pe/mundo/europa/zelensky-dice-que-corea-del-norte-prepara-el-envio-de-otros-10000-soldados-a-rusia-para-la-guerra-en-ucrania-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-09-28T18:13:37.293659+00:00",
+      "fecha": "2026-09-29T16:35:34.912337+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "1e227648fef7",
-      "titulo": "Ataque armado dejó gravemente herido a patrullero de la Policía en Ocaña",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-armado-dejo-gravemente-herido-patrullero-de-la-policia-en-ocana",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.792119+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
-    {
-      "id": "b320f3d45971",
-      "titulo": "¿Se la quería sacar del camino? Cayó presunto autor intelectual del crimen de lideresa social en Norte de Santander",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/se-la-queria-sacar-del-camino-cayo-presunto-autor-intelectual-del-crimen-de-lideresa",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.792108+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "lideresa social"
+        "guerra en ucrania"
       ]
     },
     {
@@ -59,44 +27,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.792079+00:00",
+      "fecha": "2026-09-29T16:35:26.598703+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "530f64c0f4dc",
-      "titulo": "La JEP, en medio del fuego cruzado por sus gastos y el impacto del recorte sobre las víctimas",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-recorte-presupuesto-impacto-victimas-KD41530930",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.214054+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "a9fd87f8ef8f",
-      "titulo": "Exclusivo | Enviaron a la cárcel a oficial (r) de Policía por provocar el desplazamiento forzado de la familia de Luis Alfonso",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/cantante-luis-alfonso-capturado-policia-retirado-desplazamiento-familia-ID41531081",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.214035+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "desplazamiento forzado"
       ]
     },
     {
@@ -107,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.213952+00:00",
+      "fecha": "2026-09-29T16:35:25.830511+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:34.213801+00:00",
+      "fecha": "2026-09-29T16:35:25.830222+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,14 +68,14 @@
       ]
     },
     {
-      "id": "e53fe49d9c38",
-      "titulo": "De La Espriella revela un golpe al ELN en Cúcuta: 1.120 kilos de cocaína incautados y nueve laboratorios afectados",
+      "id": "b55923d80aac",
+      "titulo": "60 menores reclutados por el ELN y 11 condenados: la historia detrás de un expediente de violencia",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/de-la-espriella-revela-golpe-al-eln-en-cucuta-1120-kilos-de-cocaina-incautados-y-nueve-laboratorios-afectados/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/condenan-11-miembros-eln-reclutamiento-menores-de-edad-EC41614660",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.632819+00:00",
+      "fecha": "2026-09-29T16:35:25.830171+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,35 +84,51 @@
       ]
     },
     {
-      "id": "a15191c8d3b3",
-      "titulo": "ELN recluta niños de hasta ocho años: la indignante revelación se conoció tras una nueva condena contra los cabecillas",
+      "id": "2f17913cab8c",
+      "titulo": "Tribunal deja en firme condena contra exsubdirector del DAS por el secuestro de Piedad Córdoba",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/eln-recluta-ninos-hasta-de-ocho-anos-de-edad-la-escandalosa-revelacion-se-conocio-tras-una-nueva-condena-contra-los-cabecillas/202654/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/secuestro-piedad-cordoba-condena-exdirector-das-jose-miguel-narvaez-justicia-medellin-DC41613563",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.632797+00:00",
+      "fecha": "2026-09-29T16:35:25.830123+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "368e820dac0f",
+      "titulo": "Perú enfrenta a disidentes de las FARC en la frontera con Colombia durante “operación Zancudo”",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/peru-enfrenta-disidentes-farc-amazonia-colombia-operacion-zancudo-HB41620016",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-29T16:35:25.830072+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "f21482f7bc5a",
+      "titulo": "ELN obligó a policías secuestrados a revelar fuentes e investigaciones en videos",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/eln-obligo-policias-secuestrados-dijin-revelar-investigaciones-GC41612051",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-09-29T16:35:25.829950+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "0f8dd225f66f",
-      "titulo": "Disidencias de Mordisco no han regresado cadáver de soldado asesinado en Cauca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/disidencias-de-mordisco-no-han-regresado-cadaver-de-soldado-asesinado-en-cauca/202617/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.632696+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
@@ -187,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220478+00:00",
+      "fecha": "2026-09-29T16:35:24.913600+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220453+00:00",
+      "fecha": "2026-09-29T16:35:24.913566+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220450+00:00",
+      "fecha": "2026-09-29T16:35:24.913560+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220447+00:00",
+      "fecha": "2026-09-29T16:35:24.913555+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220428+00:00",
+      "fecha": "2026-09-29T16:35:24.913544+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220425+00:00",
+      "fecha": "2026-09-29T16:35:24.913509+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220417+00:00",
+      "fecha": "2026-09-29T16:35:24.913497+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220410+00:00",
+      "fecha": "2026-09-29T16:35:24.913490+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220407+00:00",
+      "fecha": "2026-09-29T16:35:24.913480+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220400+00:00",
+      "fecha": "2026-09-29T16:35:24.913468+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-28T18:13:30.220396+00:00",
+      "fecha": "2026-09-29T16:35:24.913461+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -356,51 +308,51 @@
       ]
     },
     {
-      "id": "349d4a05627d",
-      "titulo": "La Unión Europea envía 61 millones de euros en ayuda humanitaria ante el conflicto etíope",
-      "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/09/28/la-union-europea-envia-61-millones-de-euros-en-ayuda-humanitaria-ante-el-conflicto-etiope/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-09-28T18:01:40+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ayuda humanitaria"
-      ]
-    },
-    {
-      "id": "4db1d5115bed",
-      "titulo": "Fuertes combates contra las disidencias de las Farc se registran en la frontera entre Colombia y Perú: esto se sabe",
-      "resumen": "La acción ocurrió cerca de San Belín de Yaricaya, en la provincia peruana de Putumayo, donde patrullas militares y policiales ubicaron a integrantes de la organización tras labores de inteligencia",
-      "url": "https://www.infobae.com/colombia/2026/09/28/fuertes-combates-contra-las-disidencias-de-las-farc-se-registran-en-la-frontera-entre-colombia-y-peru-esto-se-sabe/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-09-28T17:53:07+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "16738afcd959",
-      "titulo": "Los viajes de la JEP por $56.120 millones, bajo la lupa por el Congreso para el presupuesto de 2027",
-      "resumen": "La entidad dice que tiquetes, viáticos y desplazamientos pesan en promedio 1,1 % de su presupuesto.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/los-viajes-de-la-jep-por-56-120-millones-bajo-la-lupa-por-el-congreso-para-el-presupuesto-de-3589459",
+      "id": "7c1cecf47034",
+      "titulo": "Detalles de la captura de 'Pollo', presunto cabecilla de disidencias de las Farc: sería responsable de asesinar y reclutar a la menor Mónica Beltrán",
+      "resumen": "El criminal haría parte de la subestructura Jorge Suárez Briceño. Este hombre fue aprehendido en un operativo del Ejército, Fuerza Aérea y Policía.",
+      "url": "https://www.eltiempo.com/justicia/delitos/detalles-de-la-captura-del-pollo-presunto-cabecilla-de-disidencias-de-las-farc-seria-responsable-de-asesinar-y-reclutar-a-la-menor-monica-beltran-3589714",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-09-28T16:20:40+00:00",
+      "fecha": "2026-09-29T16:10:29+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "4d1b14c1d95f",
+      "titulo": "Enviaron a la cárcel a tres hombres señalados de pertenecer al Eln y participar de extorsiones en el Bajo Cauca antioqueño",
+      "resumen": "Los detenidos harían parte de la compañía 'Héroes de Tarazá', responsable de varios delitos en el departamento.",
+      "url": "https://www.eltiempo.com/justicia/delitos/enviaron-a-la-carcel-a-tres-hombres-senalados-de-pertenecer-al-eln-y-participar-de-extorsiones-en-el-bajo-cauca-antioqueno-3589817",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-09-29T15:47:05+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "c66b586203aa",
+      "titulo": "Cayó alias El Paisa, señalado de mover cocaína del ‘clan del Golfo’ hacia Estados Unidos",
+      "resumen": "Las autoridades lo señalan de articular cargamentos que salían desde el Golfo de Urabá y Córdoba en lanchas rápidas rumbo a Centroamérica.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-el-paisa-senalado-de-mover-cocaina-del-clan-del-golfo-hacia-estados-unidos-3589664",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-29T00:10:38+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -411,12 +363,28 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-28T15:57:52+00:00",
+      "fecha": "2026-09-28T21:34:27+00:00",
       "temas": [
         "DDHH"
       ],
       "palabras_clave": [
         "desaparicion forzada"
+      ]
+    },
+    {
+      "id": "81ee1b52c509",
+      "titulo": "Incautan más de una tonelada de clorhidrato de cocaína al Eln en Norte de Santander",
+      "resumen": "La contundente acción militar se llevó a cabo en la vereda La Selva del corregimiento de San Pedro, en Cúcuta.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-mas-de-una-tonelada-de-clorhidrato-de-cocaina-al-eln-en-norte-de-santander-3589568",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-28T19:46:31+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -433,38 +401,6 @@
       ],
       "palabras_clave": [
         "ataque armado"
-      ]
-    },
-    {
-      "id": "4da5f045f369",
-      "titulo": "Mindefensa se pronunció por cuerpo de soldado asesinado y sustraído por disidencias de las Farc en El Tambo, Cauca: 'Extrema gravedad y bajeza'",
-      "resumen": "La cartera pidió intervención de organismos humanitarios y autoridades para facilitar la recuperación y garantizar una despedida digna a la familia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mindefensa-se-pronuncio-por-cuerpo-de-soldado-asesinado-y-sustraido-por-disidencias-de-las-farc-en-el-tambo-cauca-extrema-gravedad-y-bajeza-3589387",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-28T04:44:07+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d53aba6d6afd",
-      "titulo": "El atentado al exministro Londoño y la participación en el magnicidio de Miguel Uribe Turbay: el expediente que sella la caída de alias Robinson",
-      "resumen": "Miguel Orlando Guzmán González, 'Robinson', cayó en Tello, Huila, tras 35 años de crímenes que van desde El Nogal hasta el magnicidio de Uribe.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-atentado-al-exministro-londono-y-la-participacion-en-el-magnicidio-de-miguel-uribe-turbay-el-expediente-que-sella-la-caida-de-alias-robinson-3589339",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-27T20:26:10+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
       ]
     },
     {
