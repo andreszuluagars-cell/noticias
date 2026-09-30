@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-09-29T16:35:35.085456+00:00",
-  "total_revisadas": 265,
-  "total_relevantes": 28,
+  "generado_en": "2026-09-30T16:27:58.717237+00:00",
+  "total_revisadas": 262,
+  "total_relevantes": 26,
   "noticias": [
-    {
-      "id": "bde0350508ff",
-      "titulo": "Zelensky dice que Corea del Norte prepara el envío de otros 10.000 soldados a Rusia para la guerra en Ucrania",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/zelensky-dice-que-corea-del-norte-prepara-el-envio-de-otros-10000-soldados-a-rusia-para-la-guerra-en-ucrania-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-09-29T16:35:34.912337+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra en ucrania"
-      ]
-    },
     {
       "id": "820bb4894081",
       "titulo": "Con pistolas, fusiles y talonarios de cobro: así cayeron cinco presuntos extorsionistas del Eln en Tibú",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:26.598703+00:00",
+      "fecha": "2026-09-30T16:27:55.061101+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,62 +20,30 @@
       ]
     },
     {
-      "id": "b81fbc256503",
-      "titulo": "Exclusivo | De la guerrilla a la central de espías: los cinco desastres que los exM-19 le dejaron a la DNI",
+      "id": "0c8e4181851b",
+      "titulo": "Exalcalde “Jhon Calzones” perdió la vida en un atentado con arma de fuego en Casanare",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/gustavo-petro-dni-desastres-m19-abelardo-de-la-espriella-espias-guerrilla-PH41570816",
+      "url": "https://elcolombiano.com/colombia/atentado-jhon-calzones-exalcalde-yopal-casanare-recompensa-KF41661821",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:25.830511+00:00",
+      "fecha": "2026-09-30T16:27:54.332997+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "guerrilla"
+        "atentado"
       ]
     },
     {
-      "id": "dd065cc90a17",
-      "titulo": "El drama de la familia de Idel José Torres: las disidencias se llevaron su cuerpo tras asesinarlo",
+      "id": "b73544d3f70d",
+      "titulo": "Otro de los implicados en el secuestro del ingeniero Andrés Camilo aceptó su culpa y dio pistas sobre su secuestro",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/idel-jose-torres-soldado-cuerpo-retenido-disidencias-el-tambo-EC41610444",
+      "url": "https://elcolombiano.com/medellin/andres-camilo-pelaez-secuestro-alias-el-cabo-san-andres-de-cuerquia-NF41668533",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:25.830222+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "b55923d80aac",
-      "titulo": "60 menores reclutados por el ELN y 11 condenados: la historia detrás de un expediente de violencia",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/condenan-11-miembros-eln-reclutamiento-menores-de-edad-EC41614660",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-29T16:35:25.830171+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "2f17913cab8c",
-      "titulo": "Tribunal deja en firme condena contra exsubdirector del DAS por el secuestro de Piedad Córdoba",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/secuestro-piedad-cordoba-condena-exdirector-das-jose-miguel-narvaez-justicia-medellin-DC41613563",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-09-29T16:35:25.830123+00:00",
+      "fecha": "2026-09-30T16:27:54.332974+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,35 +52,51 @@
       ]
     },
     {
-      "id": "368e820dac0f",
-      "titulo": "Perú enfrenta a disidentes de las FARC en la frontera con Colombia durante “operación Zancudo”",
+      "id": "1c8b1a018c6d",
+      "titulo": "Liberan a Durley Montoya, la última sobreviviente del secuestro masivo del Clan del Golfo en Anorí, Antioquia",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/peru-enfrenta-disidentes-farc-amazonia-colombia-operacion-zancudo-HB41620016",
+      "url": "https://elcolombiano.com/antioquia/durley-montoya-liberada-secuestro-clan-del-golfo-anori-GL41689681",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:25.830072+00:00",
+      "fecha": "2026-09-30T16:27:54.332876+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "clan del golfo"
       ]
     },
     {
-      "id": "f21482f7bc5a",
-      "titulo": "ELN obligó a policías secuestrados a revelar fuentes e investigaciones en videos",
+      "id": "adbb7f48a1aa",
+      "titulo": "Caen tres miembros del ELN tras extorsiones, quema de bus y ataques a tropas del Ejército en la vía a la Costa",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-obligo-policias-secuestrados-dijin-revelar-investigaciones-GC41612051",
+      "url": "https://elcolombiano.com/antioquia/eln-heroes-taraza-capturados-quema-bus-extorsiones-antioquia-KC41700309",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:25.829950+00:00",
+      "fecha": "2026-09-30T16:27:54.332780+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
+      ]
+    },
+    {
+      "id": "e20b5636ccc3",
+      "titulo": "Comando Sur de EE. UU. destaca captura de un cabecilla del Clan del Golfo en Colombia: “Es claro”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/comando-sur-de-ee-uu-destaca-captura-de-un-cabecilla-del-clan-del-golfo-en-colombia-es-claro/202607/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-09-30T16:27:53.993315+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -139,7 +107,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913600+00:00",
+      "fecha": "2026-09-30T16:27:53.726152+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913566+00:00",
+      "fecha": "2026-09-30T16:27:53.726131+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913560+00:00",
+      "fecha": "2026-09-30T16:27:53.726128+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913555+00:00",
+      "fecha": "2026-09-30T16:27:53.726124+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913544+00:00",
+      "fecha": "2026-09-30T16:27:53.726112+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913509+00:00",
+      "fecha": "2026-09-30T16:27:53.726109+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913497+00:00",
+      "fecha": "2026-09-30T16:27:53.726092+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913490+00:00",
+      "fecha": "2026-09-30T16:27:53.726088+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913480+00:00",
+      "fecha": "2026-09-30T16:27:53.726085+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913468+00:00",
+      "fecha": "2026-09-30T16:27:53.726073+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-29T16:35:24.913461+00:00",
+      "fecha": "2026-09-30T16:27:53.726069+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -308,14 +276,46 @@
       ]
     },
     {
-      "id": "7c1cecf47034",
-      "titulo": "Detalles de la captura de 'Pollo', presunto cabecilla de disidencias de las Farc: sería responsable de asesinar y reclutar a la menor Mónica Beltrán",
-      "resumen": "El criminal haría parte de la subestructura Jorge Suárez Briceño. Este hombre fue aprehendido en un operativo del Ejército, Fuerza Aérea y Policía.",
-      "url": "https://www.eltiempo.com/justicia/delitos/detalles-de-la-captura-del-pollo-presunto-cabecilla-de-disidencias-de-las-farc-seria-responsable-de-asesinar-y-reclutar-a-la-menor-monica-beltran-3589714",
+      "id": "3ca588465d05",
+      "titulo": "SIFE: el perturbador sistema del Eln para registrar a los menores reclutados a la fuerza por jefes como 'Pablo Beltrán' y 'Antonio García'",
+      "resumen": "Un juzgado condenó a 11 jefes del Eln por reclutar a 60 menores. La sentencia dejó al descubierto el sistema de registro interno SIFE.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/sife-el-perturbador-sistema-del-eln-para-registrar-a-los-menores-reclutados-a-la-fuerza-por-jefes-como-pablo-beltran-y-antonio-garcia-3590150",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-29T16:10:29+00:00",
+      "fecha": "2026-09-30T16:09:49+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "12a32a0f933a",
+      "titulo": "Operaciones de la Fuerza Pública contra los grupos criminales hoy 30 de septiembre: trasladaron a Juan Guillermo Monsalve a la cárcel de Cómbita",
+      "resumen": "Siga el minuto a minuto con las últimas noticias sobre los golpes de las autoridades contra los grupos armados en Colombia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operaciones-de-la-fuerza-publica-contra-los-grupos-criminales-hoy-30-de-septiembre-autoridades-logran-la-captura-de-alias-camilo-y-alias-sebastian-3590043",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-30T16:03:40+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "9051b4e0f712",
+      "titulo": "Caen seis presuntos integrantes de la Estructura Rodrigo Cadete, de las disidencias de ‘Calarcá’ en La Montañita, Caquetá",
+      "resumen": "Durante la operación fue rescatado un menor de edad. Se incautó material de guerra e intendencia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/caen-seis-presuntos-integrantes-de-la-estructura-rodrigo-cadete-de-las-disidencias-de-calarca-en-la-montanita-caqueta-3590139",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-30T15:25:38+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -324,14 +324,14 @@
       ]
     },
     {
-      "id": "4d1b14c1d95f",
-      "titulo": "Enviaron a la cárcel a tres hombres señalados de pertenecer al Eln y participar de extorsiones en el Bajo Cauca antioqueño",
-      "resumen": "Los detenidos harían parte de la compañía 'Héroes de Tarazá', responsable de varios delitos en el departamento.",
-      "url": "https://www.eltiempo.com/justicia/delitos/enviaron-a-la-carcel-a-tres-hombres-senalados-de-pertenecer-al-eln-y-participar-de-extorsiones-en-el-bajo-cauca-antioqueno-3589817",
+      "id": "27e70b1441e6",
+      "titulo": "Los cuadernos hallados en cárceles que ahora revisan por información sobre crímenes del Eln",
+      "resumen": "Material fue encontrado durante diligencias de allanamiento en centros penitenciarios. Operación dejó cinco capturas y permitió incautar 13 celulares",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-cuadernos-hallados-en-carceles-que-ahora-revisan-por-informacion-sobre-crimenes-del-eln-3590125",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-29T15:47:05+00:00",
+      "fecha": "2026-09-30T14:56:20+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -340,51 +340,19 @@
       ]
     },
     {
-      "id": "c66b586203aa",
-      "titulo": "Cayó alias El Paisa, señalado de mover cocaína del ‘clan del Golfo’ hacia Estados Unidos",
-      "resumen": "Las autoridades lo señalan de articular cargamentos que salían desde el Golfo de Urabá y Córdoba en lanchas rápidas rumbo a Centroamérica.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-el-paisa-senalado-de-mover-cocaina-del-clan-del-golfo-hacia-estados-unidos-3589664",
+      "id": "0c946109b24d",
+      "titulo": "Estados Unidos emite nueva alerta de seguridad y pide no viajar a Norte de Santander ni a la frontera con Venezuela por posibles ataques con drones",
+      "resumen": "El Departamento de Estado aseguró que 'existe un riesgo elevado de agresiones por parte de grupos armados ilegales' en el país.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estados-unidos-emite-nueva-alerta-de-seguridad-y-pide-no-viajar-a-norte-de-santander-ni-a-la-frontera-con-venezuela-por-posibles-ataques-con-drones-3590023",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-29T00:10:38+00:00",
+      "fecha": "2026-09-30T02:15:00+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "91a8968ef109",
-      "titulo": "Caso Yulixa Toloza: el documento que revela qué pasó con los falsos médicos capturados en Venezuela señalados de su muerte y desaparición",
-      "resumen": "EL TIEMPO tuvo acceso al expediente remitido a la Corte venezolana contra los requeridos en Colombia por la muerte y desaparición forzada de Toloza.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/caso-yulixa-toloza-el-documento-que-revela-que-paso-con-los-falsos-medicos-capturados-en-venezuela-3589450",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-28T21:34:27+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "desaparicion forzada"
-      ]
-    },
-    {
-      "id": "81ee1b52c509",
-      "titulo": "Incautan más de una tonelada de clorhidrato de cocaína al Eln en Norte de Santander",
-      "resumen": "La contundente acción militar se llevó a cabo en la vereda La Selva del corregimiento de San Pedro, en Cúcuta.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-mas-de-una-tonelada-de-clorhidrato-de-cocaina-al-eln-en-norte-de-santander-3589568",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-28T19:46:31+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "grupos armados"
       ]
     },
     {
