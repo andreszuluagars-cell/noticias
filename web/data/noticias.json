@@ -1,17 +1,17 @@
 {
-  "generado_en": "2026-09-30T16:27:58.717237+00:00",
-  "total_revisadas": 262,
-  "total_relevantes": 26,
+  "generado_en": "2026-10-01T17:05:30.965593+00:00",
+  "total_revisadas": 267,
+  "total_relevantes": 30,
   "noticias": [
     {
-      "id": "820bb4894081",
-      "titulo": "Con pistolas, fusiles y talonarios de cobro: así cayeron cinco presuntos extorsionistas del Eln en Tibú",
+      "id": "878583c47c2d",
+      "titulo": "Incautan 1.120 kilos de cocaína al Eln en Cúcuta y destruyen un laboratorio",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/con-pistolas-fusiles-y-talonarios-de-cobro-asi-cayeron-cinco-presuntos-extorsionistas-del",
+      "url": "https://laopinion.co/judicial/incautan-1120-kilos-de-cocaina-al-eln-en-cucuta-y-destruyen-un-laboratorio",
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:55.061101+00:00",
+      "fecha": "2026-10-01T17:05:27.932933+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:54.332997+00:00",
+      "fecha": "2026-10-01T17:05:27.412140+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:54.332974+00:00",
+      "fecha": "2026-10-01T17:05:27.412107+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:54.332876+00:00",
+      "fecha": "2026-10-01T17:05:27.411963+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:54.332780+00:00",
+      "fecha": "2026-10-01T17:05:27.411822+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,14 +84,30 @@
       ]
     },
     {
-      "id": "e20b5636ccc3",
-      "titulo": "Comando Sur de EE. UU. destaca captura de un cabecilla del Clan del Golfo en Colombia: “Es claro”",
+      "id": "2c76ffcc9505",
+      "titulo": "Abelardo De La Espriella confirmó contundente golpe contra disidencias de alias Iván Mordisco",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/comando-sur-de-ee-uu-destaca-captura-de-un-cabecilla-del-clan-del-golfo-en-colombia-es-claro/202607/",
+      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-confirmo-contundente-golpe-contra-disidencias-de-alias-ivan-mordisco/202609/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.993315+00:00",
+      "fecha": "2026-10-01T17:05:26.994966+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "a981f56d25cd",
+      "titulo": "Redada en el Magdalena deja 10 capturados del Clan del Golfo y las Autodefensas Conquistadoras",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/redada-en-el-magdalena-deja-10-capturados-del-clan-del-golfo-y-las-autodefensas-conquistadoras/202629/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-01T17:05:26.994842+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,19 +116,51 @@
       ]
     },
     {
-      "id": "c4ed770f0260",
-      "titulo": "Clausurada la mesa de paz con Comuneros del Sur, ¿ahora qué? Habla exnegociador Andrei Gómez",
+      "id": "434875d90dbc",
+      "titulo": "Masacre en Sevilla, Valle del Cauca: estos son los grupos ilegales que delinquen en la zona",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/clausurada-la-mesa-con-comuneros-del-sur-y-ahora-que-habla-el-exnegociador-de-paz-andrei-gomez/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/cali/articulo/masacre-en-sevilla-valle-del-cauca-estos-son-los-grupos-ilegales-que-delinquen-en-la-zona/202626/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726152+00:00",
+      "fecha": "2026-10-01T17:05:26.994816+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "mesa de paz"
+        "masacre"
+      ]
+    },
+    {
+      "id": "6562cc2fec66",
+      "titulo": "Golpe al ELN: Policía de Pereira incauta dron que tendría como destino Chocó y Cauca",
+      "resumen": "",
+      "url": "https://semana.com/nacion/pereira/articulo/golpe-al-eln-policia-de-pereira-incauta-dron-que-tendria-como-destino-choco-y-cauca/202631/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-01T17:05:26.994684+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "b63fb5fac474",
+      "titulo": "JEP cita como testigo a Timochenko en el juicio por “Farcpolítica” contra el excongresista Luis Almario Rojas",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/jep-cita-como-testigo-a-timochenko-en-el-juicio-por-farcpolitica-contra-el-excongresista-luis-almario-rojas/202609/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-01T17:05:26.994652+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
       ]
     },
     {
@@ -123,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726131+00:00",
+      "fecha": "2026-10-01T17:05:26.472904+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726128+00:00",
+      "fecha": "2026-10-01T17:05:26.472898+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726124+00:00",
+      "fecha": "2026-10-01T17:05:26.472894+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726112+00:00",
+      "fecha": "2026-10-01T17:05:26.472881+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726109+00:00",
+      "fecha": "2026-10-01T17:05:26.472877+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726092+00:00",
+      "fecha": "2026-10-01T17:05:26.472864+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726088+00:00",
+      "fecha": "2026-10-01T17:05:26.472859+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726085+00:00",
+      "fecha": "2026-10-01T17:05:26.472818+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726073+00:00",
+      "fecha": "2026-10-01T17:05:26.472805+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,12 +315,76 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-09-30T16:27:53.726069+00:00",
+      "fecha": "2026-10-01T17:05:26.472797+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "conflicto armado"
+      ]
+    },
+    {
+      "id": "e85ce4e73974",
+      "titulo": "Ataque armado en secundaria de Torreón moviliza a autoridades: reportan dos detenidos",
+      "resumen": "El ataque ocurrió en la Secundaria número 13, ubicada en el Ejido La Unión; entre los lesionados se encuentra al menos un menor de edad",
+      "url": "https://www.infobae.com/mexico/2026/10/01/ataque-armado-en-secundaria-de-torreon-moviliza-a-autoridades-reportan-tres-personas-heridas/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-01T16:56:25+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ataque armado"
+      ]
+    },
+    {
+      "id": "2889dbdf32ba",
+      "titulo": "La historia del ruso Sergei Vagin que fue capturado, señalado de espionaje y ahora enfrenta su expulsión de Colombia",
+      "resumen": "Ya había sido detenido en 2022 en medio de señalamientos de inteligencia sobre sus supuestos vínculos con el Eln.",
+      "url": "https://www.eltiempo.com/justicia/delitos/la-historia-del-ruso-sergei-vagin-que-fue-capturado-senalado-de-espionaje-y-ahora-enfrenta-su-expulsion-de-colombia-3590389",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-01T13:37:59+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "677f1f6afba7",
+      "titulo": "Exclusivo: más de 90 pistas clandestinas y los detalles del nuevo mapa del Eln en Venezuela",
+      "resumen": "Nuevos reportes muestran una expansión de la infraestructura asociada a la guerrilla en Zulia y Táchira. Su presencia ya no estaría en áreas rurales.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/exclusivo-mas-de-90-pistas-clandestinas-y-los-detalles-del-nuevo-mapa-del-eln-en-venezuela-3590291",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-01T03:15:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "50d750686946",
+      "titulo": "Cayó en El Poblado, Medellín, hombre requerido por la justicia de Perú por narcotráfico",
+      "resumen": "Estaría vinculado al Bloque Amazonas ‘Manuel Marulanda Vélez’ de las disidencias de ‘Iván Mordisco’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-el-poblado-medellin-hombre-requerido-por-la-justicia-de-peru-por-narcotrafico-3590252",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-09-30T20:49:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -283,7 +395,7 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-30T16:09:49+00:00",
+      "fecha": "2026-09-30T20:35:22+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -292,19 +404,19 @@
       ]
     },
     {
-      "id": "12a32a0f933a",
-      "titulo": "Operaciones de la Fuerza Pública contra los grupos criminales hoy 30 de septiembre: trasladaron a Juan Guillermo Monsalve a la cárcel de Cómbita",
-      "resumen": "Siga el minuto a minuto con las últimas noticias sobre los golpes de las autoridades contra los grupos armados en Colombia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operaciones-de-la-fuerza-publica-contra-los-grupos-criminales-hoy-30-de-septiembre-autoridades-logran-la-captura-de-alias-camilo-y-alias-sebastian-3590043",
+      "id": "e47f3cd20ec5",
+      "titulo": "Incautan explosivos del Eln en Cúcuta: los tenían almacenados para ejecutar atentados en la capital de Norte de Santander",
+      "resumen": "Inteligencia militar ubicó cuatro pimpinas con material explosivo que pertenecería al Frente Urbano Carlos Germán Velasco Villamizar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-explosivos-del-eln-en-cucuta-los-tenian-almacenados-para-ejecutar-atentados-en-la-capital-de-norte-de-santander-3590180",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-09-30T16:03:40+00:00",
+      "fecha": "2026-09-30T17:21:14+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "eln"
       ]
     },
     {
@@ -321,54 +433,6 @@
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "27e70b1441e6",
-      "titulo": "Los cuadernos hallados en cárceles que ahora revisan por información sobre crímenes del Eln",
-      "resumen": "Material fue encontrado durante diligencias de allanamiento en centros penitenciarios. Operación dejó cinco capturas y permitió incautar 13 celulares",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-cuadernos-hallados-en-carceles-que-ahora-revisan-por-informacion-sobre-crimenes-del-eln-3590125",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-30T14:56:20+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "0c946109b24d",
-      "titulo": "Estados Unidos emite nueva alerta de seguridad y pide no viajar a Norte de Santander ni a la frontera con Venezuela por posibles ataques con drones",
-      "resumen": "El Departamento de Estado aseguró que 'existe un riesgo elevado de agresiones por parte de grupos armados ilegales' en el país.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estados-unidos-emite-nueva-alerta-de-seguridad-y-pide-no-viajar-a-norte-de-santander-ni-a-la-frontera-con-venezuela-por-posibles-ataques-con-drones-3590023",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-09-30T02:15:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "bef9d5999ad2",
-      "titulo": "Matan a tiros a dos estudiantes en Morelos dos semanas después del asesinato de la española Claudia Tacoronte",
-      "resumen": "Se trata de dos adolescentes, en cursos de acceso a la universidad, y murieron la noche del sábado durante un ataque armado, mientras un tercer joven resultó herido Leer",
-      "url": "https://www.elmundo.es/internacional/2026/09/28/6ab9fcb521efa0443e8b456f.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-09-28T05:53:22+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ataque armado"
       ]
     },
     {
