@@ -1,86 +1,22 @@
 {
-  "generado_en": "2026-10-05T19:22:13.448828+00:00",
-  "total_revisadas": 265,
-  "total_relevantes": 39,
+  "generado_en": "2026-10-06T16:53:12.207371+00:00",
+  "total_revisadas": 268,
+  "total_relevantes": 42,
   "noticias": [
     {
-      "id": "1847609fb480",
-      "titulo": "De la Espriella confirmó 148 capturas en operación contra secuestro y extorsión: 11 son del Clan del Golfo",
+      "id": "ad7f95041546",
+      "titulo": "El jefe de la ONU aboga por un alto el fuego “permanente” en Gaza",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/presidencia-148-capturas-operacion-secuestro-extorsion-11-clan-del-golfo-DO41839390",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412401+00:00",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/gaza-el-jefe-de-la-onu-antonio-guterres-aboga-por-un-alto-el-fuego-permanente-en-franja-de-gaza-israel-hamas-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-06T16:53:12.100777+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "cd99f94c5b08",
-      "titulo": "Masacre en Cartagena: detalles del asesinato de cuatro jóvenes en una camioneta; investigan disputa entre bandas",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/masacre-cartagena-detalles-asesinato-cuatro-jovenes-enfrentamiento-bandas-GJ41846356",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412334+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "4d5eebb871d0",
-      "titulo": "Diez años del Plebiscito por la Paz, el día en que el pueblo dijo “no” al acuerdo con las Farc",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/plebiscito-paz-10-anos-cirticas-jep-santos-uribe-roux-balance-FJ41846506",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412302+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "247276c5110f",
-      "titulo": "Hallaron muerto a Julián Hincapié, el líder social que había desaparecido en Anorí hace más de veinte días",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/julian-hincapie-hallan-cuerpo-anori-lider-social-desaparecido-que-paso-HI41854762",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412272+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "lider social"
-      ]
-    },
-    {
-      "id": "5a0663989a79",
-      "titulo": "“Hay que reconocer que la JEP ha cometido errores”: Humberto de la Calle, tras 10 años del plebiscito",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/humberto-de-la-calle-jep-ajuste-fiscal-plebiscito-paz-CK41875520",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412241+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
+        "alto el fuego"
       ]
     },
     {
@@ -91,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412209+00:00",
+      "fecha": "2026-10-06T16:53:07.418207+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:10.412176+00:00",
+      "fecha": "2026-10-06T16:53:07.418188+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,101 +52,148 @@
       ]
     },
     {
-      "id": "f915eb7104da",
-      "titulo": "Así fue la maniobra del Ejército para desactivar explosivos instalados cerca de un colegio en el Cauca",
+      "id": "f5fa70201c06",
+      "titulo": "“Ha habido desinformación. La Jurisdicción está cumpliendo”: JEP",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-fue-la-maniobra-del-ejercito-para-desactivar-explosivos-instalados-cerca-de-un-colegio-en-el-cauca/202634/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/ha-habido-desinformacion-la-jurisdiccion-esta-cumpliendo-jep-DP41934263",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.994715+00:00",
+      "fecha": "2026-10-06T16:53:07.418071+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "jep"
       ]
     },
     {
-      "id": "a86e159560dc",
-      "titulo": "Hacienda avaluada en más de $21.300 millones pasará a reparar a las víctimas del conflicto: paramilitares se habrían entrenado allí",
+      "id": "056aa3533364",
+      "titulo": "Gobierno alista revisión del Acuerdo de Paz para presentarla en la ONU: ¿qué puede cambiar?",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/hacienda-avaluada-en-mas-de-21300-millones-pasara-a-reparar-a-las-victimas-del-conflicto-paramilitares-se-habrian-entrenado-alli/202610/",
+      "url": "https://elcolombiano.com/colombia/gobierno-de-la-espriella-revision-acuerdo-de-paz-onu-BP41932939",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:07.418052+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "316b931fbeb2",
+      "titulo": "Timochenko y exsecretariado de las Farc pagan condena por secuestrados limpiando el cementerio de Pitalito, Huila",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/timochenko-exsecretariado-farc-sancion-jep-cementerio-pitalito-PP41939446",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:07.418029+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "e6bc777ee073",
+      "titulo": "Insólito: un rayo detonó una bomba que disidencias de Farc escondían en alcantarilla de Cauca",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/rayo-detuvo-bomba-disidencias-farc-suarez-cauca-BP41939109",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:07.418008+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "193484d58c5e",
+      "titulo": "Abelardo ‘resucitó’ Fuerza de Tarea Conjunta que Petro eliminó y la estrena contra el Clan del Golfo y el ELN",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/abelardo-reactivo-fuerza-especial-combatir-delincuentes-que-es-como-funciona-OJ41952491",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:07.417963+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "b14149b8e711",
+      "titulo": "Disidencias arremeten contra el Huila: atacaron la empresa de servicios públicos de Algeciras y la estación de Policía de Aipe",
+      "resumen": "",
+      "url": "https://semana.com/nacion/florencia/articulo/disidencias-arremeten-contra-el-huila-atacaron-la-empresa-de-servicios-publicos-de-algeciras-y-la-estacion-de-policia-de-aipe/202610/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.994705+00:00",
+      "fecha": "2026-10-06T16:53:06.947656+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "e87348a25943",
+      "titulo": "Presidente De La Espriella reportó nuevos golpes contra grupos armados y la minería ilegal",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/de-la-espriella-reporto-nuevos-golpes-contra-grupos-armados-y-la-mineria-ilegal/202637/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:06.947610+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "f6080909d9c2",
+      "titulo": "Verifican posible carro bomba en el Cauca: disidencias de las Farc han atacado con ráfagas de fusil a la Fuerza Pública",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/verifican-posible-carro-bomba-en-el-cauca-disidencias-de-las-farc-han-atacado-con-rafagas-de-fusil-a-la-fuerza-publica/202654/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:06.947576+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "027de862dc7d",
+      "titulo": "Alias la Morocha sería la estratega de reclutamiento de menores de edad para Calarcá en Caquetá",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/alias-la-morocha-seria-la-estratega-de-reclutamiento-de-menores-de-edad-para-calarca-en-caqueta/202627/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:06.947570+00:00",
       "temas": [
         "Conflicto armado",
-        "DDHH"
+        "DIH"
       ],
       "palabras_clave": [
-        "paramilitares",
-        "victimas del conflicto"
-      ]
-    },
-    {
-      "id": "3ff64ae8304e",
-      "titulo": "Alias Lobo y Zamanta, los disidentes de Farc de confianza de Primo Gay, capturados tras orden del presidente De La Espriella",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/alias-lobo-y-zamanta-los-disidentes-de-farc-de-confianza-de-primo-gay-capturados-tras-orden-del-presidente-de-la-espriella/202607/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.994628+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "86ae0879b7f4",
-      "titulo": "La JEP reaccionó a las polémicas declaraciones de Timochenko en las que justificó los secuestros durante el conflicto armado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-jep-reacciono-a-las-polemicas-declaraciones-de-timochenko-en-que-justifico-los-secuestros-durante-el-conflicto-armado/202637/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.994617+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "conflicto armado"
-      ]
-    },
-    {
-      "id": "1e3161f00ce4",
-      "titulo": "Soldado murió en fuertes combates con las disidencias de las Farc en Caquetá: dos capturados",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/soldado-murio-en-fuertes-combates-con-las-disidencias-de-las-farc-en-el-caqueta-dos-capturados/202608/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.994505+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "cc5a29a5100a",
-      "titulo": "La prueba de fuego de la JEP: su primera sanción a las Farc divide a las víctimas",
-      "resumen": "",
-      "url": "https://www.elespectador.com/judicial/la-prueba-de-fuego-de-la-jep-su-primera-sancion-a-las-farc-divide-a-las-victimas/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813638+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
+        "reclutamiento de menores"
       ]
     },
     {
@@ -221,7 +204,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813634+00:00",
+      "fecha": "2026-10-06T16:53:06.315776+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +220,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813627+00:00",
+      "fecha": "2026-10-06T16:53:06.315773+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +236,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813618+00:00",
+      "fecha": "2026-10-06T16:53:06.315768+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +252,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813613+00:00",
+      "fecha": "2026-10-06T16:53:06.315765+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +268,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813604+00:00",
+      "fecha": "2026-10-06T16:53:06.315760+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +284,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813600+00:00",
+      "fecha": "2026-10-06T16:53:06.315757+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +300,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813595+00:00",
+      "fecha": "2026-10-06T16:53:06.315754+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +316,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813584+00:00",
+      "fecha": "2026-10-06T16:53:06.315749+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -349,7 +332,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813579+00:00",
+      "fecha": "2026-10-06T16:53:06.315745+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -365,7 +348,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813506+00:00",
+      "fecha": "2026-10-06T16:53:06.315692+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -381,7 +364,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813492+00:00",
+      "fecha": "2026-10-06T16:53:06.315684+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -397,7 +380,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-05T19:22:09.813483+00:00",
+      "fecha": "2026-10-06T16:53:06.315680+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -406,19 +389,197 @@
       ]
     },
     {
-      "id": "f1979f8c5ef5",
-      "titulo": "El nuevo caso de extraditable que dividió a la Corte Suprema sobre garantía de protección de derechos humanos en Venezuela",
-      "resumen": "Caso puso sobre la mesa la discusión sobre si pesa más el cumplimiento de tratado de extradición o el riesgo para los DD. HH. de quien sea entregado.",
-      "url": "https://www.eltiempo.com/justicia/cortes/el-nuevo-caso-de-extraditable-que-dividio-a-la-corte-suprema-sobre-garantia-de-proteccion-de-derechos-humanos-en-venezuela-3591328",
+      "id": "761d32ce7395",
+      "titulo": "Se abre polémica por declaraciones de Rodrigo Londoño ante la JEP: tribunal respondió",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/se-abre-polemica-por-declaraciones-de-rodrigo-londono-ante-la-jep-tribunal-respondio/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:53:06.315644+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "9aba1893716f",
+      "titulo": "Cayó ‘La Morocha’, cabecilla política de las disidencias de ‘Calarcá’ en Caquetá: lideraba la  extorsión y reclutamiento de menores",
+      "resumen": "La mujer fue detenida junto a otros dos presuntos integrantes de su esquema de seguridad en la vereda Zabaleta de Cartagena del Chairá, en el sur colombiano",
+      "url": "https://www.infobae.com/colombia/2026/10/06/cayo-la-morocha-cabecilla-politica-de-las-disidencias-de-calarca-en-caqueta-lideraba-la-extorsion-y-reclutamiento-de-menores/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-06T16:42:02+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "reclutamiento"
+      ]
+    },
+    {
+      "id": "abdbfd9ab4ea",
+      "titulo": "Ataques terroristas contra vías caen 76 % en 2026 pese al atentado de Cajibío, Cauca",
+      "resumen": "Entre enero y junio de este año se registraron cuatro afectaciones contra vías y puentes, frente a 17 en el mismo periodo de 2025.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataques-terroristas-contra-vias-caen-76-en-2026-pese-al-atentado-de-cajibio-cauca-3591632",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-06T16:35:22+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "385a2b543d56",
+      "titulo": "Así capturaron a alias la Morocha, señalada de reclutar menores en Caquetá para alias Calarcá",
+      "resumen": "La mujer aparecía en los carteles de los más buscados de Caquetá y Huila y es investigada por varios delitos, entre ellos secuestro y extorsión.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturada-alias-la-morocha-senalada-de-reclutar-menores-en-caqueta-3591594",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-06T15:58:31+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "206d063d7ede",
+      "titulo": "Alertan que no hay director oficial de derechos humanos en el MinInterior tras dos meses del nuevo Gobierno | Esto responde la entidad",
+      "resumen": "La alerta fue ampliada por la defensora de derechos humanos Jomary Ortegón, quien ocupó ese cargo hasta hace unos meses.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/alertan-que-no-hay-director-oficial-de-derechos-humanos-en-el-mininterior-tras-dos-meses-del-nuevo-gobierno-esto-responde-la-entidad-3591575",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-05T17:51:20+00:00",
+      "fecha": "2026-10-06T15:43:35+00:00",
       "temas": [
         "DDHH"
       ],
       "palabras_clave": [
         "derechos humanos"
+      ]
+    },
+    {
+      "id": "b181cee6eb76",
+      "titulo": "Drummond pierde tutela ante la Corte Suprema y sigue obligado a devolver tierras despojadas en Cesar",
+      "resumen": "EL TIEMPO conoció que la Sala Laboral de la Corte Suprema les dio la razón a las víctimas del conflicto y a los jueces de restitución.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/drummond-pierde-tutela-ante-la-corte-suprema-y-sigue-obligado-a-devolver-tierras-despojadas-en-cesar-3591597",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-06T15:29:36+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "victimas del conflicto"
+      ]
+    },
+    {
+      "id": "74f770ef2eff",
+      "titulo": "Consejo de Estado condena a comunidad y líder social por bloqueos que afectaron producción de Ecopetrol",
+      "resumen": "El alto tribunal declaró responsables a la corporación comunitaria de San Isidro Chichimene por las protestas de 2017.",
+      "url": "https://www.eltiempo.com/justicia/cortes/consejo-de-estado-condena-a-comunidad-y-lider-social-por-bloqueos-que-afectaron-produccion-de-ecopetrol-3591574",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-06T14:36:34+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lider social"
+      ]
+    },
+    {
+      "id": "d703a11cd8ba",
+      "titulo": "Fuerte mensaje de la CIDH a los presidentes de la región: ‘Las políticas de seguridad deben respetar la dignidad humana’",
+      "resumen": "La CIDH denuncia que, en nombre de la seguridad, no se pueden llevar a cabo encarcelamientos masivos, ni operaciones policiales de alta letalidad.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/fuerte-mensaje-de-la-cidh-a-los-presidentes-de-la-region-las-politicas-de-seguridad-deben-respetar-la-dignidad-humana-3591562",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-06T14:03:11+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "cidh"
+      ]
+    },
+    {
+      "id": "cfa12f696a23",
+      "titulo": "El debate en el Senado por propuesta de enviar a la Justicia Penal y Militar las condenas de la JEP a uniformados",
+      "resumen": "Víctimas, organizaciones de derechos humanos, un magistrado de la JEP y un coronel (r) hablaron ante el Senado sobre proyecto del Centro Democrático.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/el-debate-en-el-senado-por-propuesta-de-enviar-a-la-justicia-penal-y-militar-las-condenas-de-la-jep-a-uniformados-3591440",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-06T11:57:38+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos",
+        "jep"
+      ]
+    },
+    {
+      "id": "3df9bc858e32",
+      "titulo": "Turquía y Pakistán aceleran el apoyo militar a Riad en plena ofensiva en Yemen",
+      "resumen": "El anuncio coincide con una escalada de los combates, ataques contra dos aeropuertos saudíes y la petrolera estatal Aramco Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/06/6ac4d58bfc6c8321308b4595.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-06T11:22:30+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "dcdb1acb4110",
+      "titulo": "Capturan a alias Piloto, señalado de manejar extorsiones del ‘clan del Golfo’ en Antioquia",
+      "resumen": "Lo señalan de perfilar víctimas, coordinar cobros a mineros, transportadores, ganaderos y rendir cuentas a la estructura 'Pacificadores de Samaná'.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-alias-piloto-senalado-de-manejar-extorsiones-del-clan-del-golfo-en-antioquia-3591434",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-05T22:29:49+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "bc7fbe568ab8",
+      "titulo": "Cayó el segundo cabecilla de la estructura 36 de las disidencias de ‘Calarcá’ en Antioquia",
+      "resumen": "Se trata de alias Lobo, por quien se ofrecía una recompensa de hasta 100 millones de pesos. Estaba incluido en el cartel de los más buscados.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-el-segundo-cabecilla-de-la-estructura-36-de-las-disidencias-de-calarca-en-antioquia-3591307",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-05T19:47:37+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -438,38 +599,6 @@
       ]
     },
     {
-      "id": "bc7fbe568ab8",
-      "titulo": "Cayó el segundo cabecilla de la estructura 36 de las disidencias de ‘Calarcá’ en Antioquia",
-      "resumen": "Se trata de alias Lobo, por quien se ofrecía una recompensa de hasta 100 millones de pesos. Estaba incluido en el cartel de los más buscados.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-el-segundo-cabecilla-de-la-estructura-36-de-las-disidencias-de-calarca-en-antioquia-3591307",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-05T15:33:31+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "91dc22d1c584",
-      "titulo": "Esta es ‘Piedra Linda’ la finca donde extranjeros entrenaban paramilitares en Cimitarra (Santander) y que quedó en poder del Estado",
-      "resumen": "El Tribunal Superior de Bucaramanga impuso medidas de extinción de derecho de dominio sobre la finca avaluada en 21.300 millones.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/esta-es-piedra-linda-la-finca-donde-extranjeros-entrenaban-paramilitares-en-cimitarra-santander-y-que-quedo-en-poder-del-estado-3591236",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-05T12:43:39+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitares"
-      ]
-    },
-    {
       "id": "bed93e5c2700",
       "titulo": "‘La JEP tiene deficiencias que se pueden corregir’: habla el exnegociador de paz Humberto de la Calle",
       "resumen": "El exnegociador llama al Gobierno y al tribunal a buscar un punto común frente a la situación fiscal, sin desconocer el espíritu del acuerdo de paz.",
@@ -486,22 +615,6 @@
       ]
     },
     {
-      "id": "e96f3a7669df",
-      "titulo": "Una antena satelital reveló la conexión entre una mina ilegal y el 'clan del Golfo'",
-      "resumen": "La conexión permitía mantener comunicación con integrantes de una subestructura ilegal y recibir alertas sobre la presencia del Ejército.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/una-antena-satelital-revelo-la-conexion-entre-una-mina-ilegal-y-el-clan-del-golfo-3591137",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-04T18:39:10+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
       "id": "a90787f2c295",
       "titulo": "Así es como Viotá convierte un antiguo corredor de las Farc en un destino de paz",
       "resumen": "El turismo se convirtió en una herramienta que reúne a firmantes de paz, víctimas y campesinos en una apuesta por la reconciliación.",
@@ -515,70 +628,6 @@
       ],
       "palabras_clave": [
         "farc"
-      ]
-    },
-    {
-      "id": "05c3f02a9001",
-      "titulo": "Un bombardeo israelí contra un vehículo mata al director de una organización humanitaria en Gaza y deja una decena de heridos",
-      "resumen": "Las fuerzas armadas israelíes han matado a más de 1.400 personas en Gaza durante el supuesto alto el fuego, que entró en vigor en octubre de 2025, según el Ministerio de Sanidad gazatí Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/04/6ac2170ee85ecee0298b4573.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-04T09:15:21+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
-      "id": "a0917b59e3f2",
-      "titulo": "Abelardo De La Espriella reportó la captura de dos integrantes del 'clan del Golfo' en un operativo del Ejército en Río de Oro, Cesar",
-      "resumen": "Los detenidos pertenecerían a la subestructura 'Ferney Antonio López Polo', de acuerdo con la información divulgada por el presidente.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/abelardo-de-la-espriella-reporto-la-captura-de-dos-integrantes-del-clan-del-golfo-en-un-operativo-del-ejercito-en-rio-de-oro-cesar-3591093",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-04T04:47:29+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "ff09a3b10791",
-      "titulo": "La pista médica que llevó a las autoridades hasta alias Terry, cabecilla del ‘clan del Golfo’ en Antioquia",
-      "resumen": "Ocho militares se infiltraron en el suroeste antioqueño, reconstruyeron sus movimientos y esperaron durante semanas el momento para lanzar operación.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-pista-medica-que-llevo-a-las-autoridades-hasta-alias-terry-cabecilla-del-clan-del-golfo-en-antioquia-3591025",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-03T22:21:10+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "b6263ae696cf",
-      "titulo": "Golpe al Frente 44 de ‘Iván Mordisco’: cinco capturas por homicidios y ataques contra la Fuerza Pública",
-      "resumen": "Tres allanamientos en San José del Guaviare y Acacías permitieron capturar a señalados de integrar el Frente 44 ‘Antonio Ricaurte’ del grupo armado.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-al-frente-44-de-ivan-mordisco-cinco-capturas-por-homicidios-y-ataques-contra-la-fuerza-publica-3590980",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-03T14:57:47+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
       ]
     },
     {
