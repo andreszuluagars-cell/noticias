@@ -1,8 +1,24 @@
 {
-  "generado_en": "2026-10-08T17:29:20.165838+00:00",
-  "total_revisadas": 267,
-  "total_relevantes": 45,
+  "generado_en": "2026-10-09T17:07:39.752701+00:00",
+  "total_revisadas": 268,
+  "total_relevantes": 38,
   "noticias": [
+    {
+      "id": "3062e6fd1738",
+      "titulo": "“Ladrillo a ladrillo”.Escala la polémica por el Nobel de la Paz y Trump lanza una feroz amenaza contra la Corte Penal Internacional",
+      "resumen": "",
+      "url": "https://lanacion.com.ar/estados-unidos/la-feroz-amenaza-de-trump-contra-la-corte-penal-internacional-tras-el-nobel-de-la-paz-nid09102026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-09T17:07:39.034111+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "corte penal internacional"
+      ]
+    },
     {
       "id": "1d62f653d84b",
       "titulo": "Hallan depósito del Eln con explosivos que serían usados en drones en Norte de Santander",
@@ -11,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.592390+00:00",
+      "fecha": "2026-10-09T17:07:36.778637+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,30 +36,30 @@
       ]
     },
     {
-      "id": "056aa3533364",
-      "titulo": "Gobierno alista revisión del Acuerdo de Paz para presentarla en la ONU: ¿qué puede cambiar?",
+      "id": "b24435e54b69",
+      "titulo": "Atentado en Cauca: disidencias usaron volqueta con explosivos cerca de más de 300 civiles para atacar base militar",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/gobierno-de-la-espriella-revision-acuerdo-de-paz-onu-BP41932939",
+      "url": "https://elcolombiano.com/colombia/atentado-cauca-octubre-2026-disidencias-usan-volqueta-explosivos-cerca-300-civiles-atacar-base-militar-JA42069321",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065669+00:00",
+      "fecha": "2026-10-09T17:07:36.076173+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "disidencias"
       ]
     },
     {
-      "id": "316b931fbeb2",
-      "titulo": "Timochenko y exsecretariado de las Farc pagan condena por secuestrados limpiando el cementerio de Pitalito, Huila",
+      "id": "2df39b2de368",
+      "titulo": "En medio del debate por la JEP, informe de la Misión de Verificación de la ONU revela cómo va el Acuerdo de Paz con las Farc",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/timochenko-exsecretariado-farc-sancion-jep-cementerio-pitalito-PP41939446",
+      "url": "https://elcolombiano.com/colombia/acuerdo-paz-colombia-claves-informe-mision-verificacion-onu-IP42098000",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065654+00:00",
+      "fecha": "2026-10-09T17:07:36.075975+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,14 +68,14 @@
       ]
     },
     {
-      "id": "e6bc777ee073",
-      "titulo": "Insólito: un rayo detonó una bomba que disidencias de Farc escondían en alcantarilla de Cauca",
+      "id": "23e7818e16f1",
+      "titulo": "Ejército frustra atentado de las disidencias en Miranda, Cauca: hallaron 250 kilos de explosivos",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/rayo-detuvo-bomba-disidencias-farc-suarez-cauca-BP41939109",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/cali/articulo/ejercito-frustra-atentado-de-las-disidencias-en-miranda-cauca-hallaron-250-kilos-de-explosivos/202603/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065637+00:00",
+      "fecha": "2026-10-09T17:07:35.676858+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,227 +84,67 @@
       ]
     },
     {
-      "id": "193484d58c5e",
-      "titulo": "Abelardo ‘resucitó’ Fuerza de Tarea Conjunta que Petro eliminó y la estrena contra el Clan del Golfo y el ELN",
+      "id": "219ae835d43c",
+      "titulo": "La FIP revela que el 95% de los atentados con drones kamikaze en Colombia son obra del EMC y el ELN",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/abelardo-reactivo-fuerza-especial-combatir-delincuentes-que-es-como-funciona-OJ41952491",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/articulo/la-fip-revela-que-el-95-de-los-atentados-con-drones-kamikaze-en-colombia-son-obra-del-emc-y-el-eln/202630/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065614+00:00",
+      "fecha": "2026-10-09T17:07:35.676816+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "eln"
       ]
     },
     {
-      "id": "8ae9882776c7",
-      "titulo": "Gobierno de Abelardo de la Espriella plantea cambios en la implementación del Acuerdo de Paz; lo llevarían a la ONU",
+      "id": "67ecd7af0cd3",
+      "titulo": "Alias Kleiver, el hombre de confianza del Negro Ober, que sembró temor con símbolos del ELN en Barranquilla",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/gobierno-de-abelardo-de-la-espriella-plantea-cambios-en-la-implementacion-del-acuerdo-de-paz-lo-llevarian-a-la-onu-NK41963349",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/barranquilla/articulo/alias-kleiver-el-hombre-de-confianza-del-negro-ober-que-sembro-temor-con-simbolos-del-eln-en-barranquilla/202647/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065598+00:00",
+      "fecha": "2026-10-09T17:07:35.676808+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "eln"
       ]
     },
     {
-      "id": "beba1aaa0a75",
-      "titulo": "Se agudiza el orden público en Segovia, Antioquia: reportan el hallazgo de tres cuerpos sin vida, ya son 5 en 24 horas",
+      "id": "84c766a6c8b3",
+      "titulo": "ONU Derechos Humanos le pide al Estado colombiano garantizar los derechos de las víctimas y la no repetición",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/segovia-antioquia-cinco-cuerpos-asesinados-en-24-horas-HL41974605",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/articulo/onu-derechos-humanos-le-pide-al-estado-colombiano-garantizar-los-derechos-de-las-victimas-y-la-no-repeticion/202609/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065583+00:00",
+      "fecha": "2026-10-09T17:07:35.676801+00:00",
       "temas": [
-        "Conflicto armado"
+        "DDHH"
       ],
       "palabras_clave": [
-        "orden publico"
+        "derechos humanos"
       ]
     },
     {
-      "id": "90cc265278a2",
-      "titulo": "El historial criminal de alias La Morocha, presunta cabecilla de la estructura Rodrigo Cadete de las disidencias de las Farc",
+      "id": "17422ffb884b",
+      "titulo": "Ejército frustró atentado con carro bomba en Cauca: sujetos llevaban un vehículo cargado de explosivos y así fueron descubiertos",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/historial-criminal-alias-morocha-cabecilla-estructura-rodrigo-cadete-disidencias-farc-KF41993944",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/articulo/ejercito-frustro-atentado-con-carro-bomba-en-cauca-sujetos-llevaban-un-vehiculo-cargado-de-explosivos-y-asi-fueron-descubiertos/202637/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065536+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "5fe3c198db1e",
-      "titulo": "Detectaron camión con 400 kilos de explosivos que iba rumbo a Cali para posible atentado",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/camion-explosivos-rumbo-cali-400-kilos-santander-quilichao-HF41994047",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065520+00:00",
+      "fecha": "2026-10-09T17:07:35.676672+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "atentado"
-      ]
-    },
-    {
-      "id": "9d76d4bec8b0",
-      "titulo": "“Que algo no le guste me motiva a seguir investigando”: María Clara Posada a Timochenko tras polémica por videos de la JEP",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/maria-clara-posada-discusion-timochenko-videos-jep-audiencia-secuestros-HG42004399",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:17.065503+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "6895bbdf4cd2",
-      "titulo": "Alerta en Barranquilla: aparece bandera del ELN y un cilindro en el sur de la ciudad; autoridades verifican si hay explosivos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/alerta-en-el-sur-de-barranquilla-aparece-bandera-del-eln-y-verifican-si-hay-explosivos/202626/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.798103+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "7454a79bacbd",
-      "titulo": "Atacan con explosivos la base militar del Ejército en Miranda, Cauca: delincuentes utilizaron tatucos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/atacan-con-explosivos-la-base-militar-del-ejercito-en-miranda-cauca-delincuentes-utilizaron-tatucos/202658/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.798086+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "966dfc978c1a",
-      "titulo": "Policía tiene identificado al responsable de colocar bandera del ELN y cilindro en Barranquilla",
-      "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/policia-tiene-identificado-a-responsable-de-colocar-bandera-del-eln-y-cilindro-en-barranquilla/202658/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.798080+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "fa4516044eea",
-      "titulo": "Policía halla cilindros alusivos al ELN abandonados en un parqueadero en Soledad, Atlántico: Los Costeños estarían detrás",
-      "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/otra-amenaza-de-explosivo-en-soledad-atlantico-cerca-de-la-terminal-de-transportes/202645/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.798037+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "6b82252e1079",
-      "titulo": "“Había un personaje muy simpático”:  Timochenko se burló ante la JEP de la situación de los secuestrados",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/habia-un-personaje-muy-simpatico-timochenko-se-burlo-ante-la-jep-de-la-situacion-de-los-secuestrados/202647/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.798009+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "c2765ecc2fac",
-      "titulo": "Ejército se pronunció tras ataque con explosivos a base militar en Cauca: reveló detalles y dijo quién estaría detrás del crimen",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-se-pronuncio-tras-ataque-con-explosivos-a-base-militar-en-cauca-revelo-detalles-y-dijo-quien-estaria-detras-del-crimen/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.797990+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "b7572c86a699",
-      "titulo": "Gobierno De la Espriella retira designación de Salvatore Mancuso como gestor de paz",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/gobierno-de-la-espriella-retira-designacion-de-salvatore-mancuso-como-gestor-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509783+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "gestor de paz"
-      ]
-    },
-    {
-      "id": "452c3977f025",
-      "titulo": "No es solo la JEP: los recortes que amenazan la implementación del Acuerdo de Paz",
-      "resumen": "",
-      "url": "https://www.elespectador.com/judicial/no-es-solo-la-jep-los-recortes-que-amenazan-la-implementacion-del-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509781+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     },
     {
@@ -299,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509777+00:00",
+      "fecha": "2026-10-09T17:07:35.412025+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509774+00:00",
+      "fecha": "2026-10-09T17:07:35.412021+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509772+00:00",
+      "fecha": "2026-10-09T17:07:35.412018+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509768+00:00",
+      "fecha": "2026-10-09T17:07:35.412011+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509766+00:00",
+      "fecha": "2026-10-09T17:07:35.412007+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509734+00:00",
+      "fecha": "2026-10-09T17:07:35.411959+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509724+00:00",
+      "fecha": "2026-10-09T17:07:35.411941+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -411,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509722+00:00",
+      "fecha": "2026-10-09T17:07:35.411936+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -427,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509715+00:00",
+      "fecha": "2026-10-09T17:07:35.411925+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -443,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509712+00:00",
+      "fecha": "2026-10-09T17:07:35.411921+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -459,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509708+00:00",
+      "fecha": "2026-10-09T17:07:35.411916+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -475,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-08T17:29:16.509685+00:00",
+      "fecha": "2026-10-09T17:07:35.411911+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -484,21 +340,195 @@
       ]
     },
     {
-      "id": "1c8c18b8589e",
-      "titulo": "Centro de Memoria se refiere a versión de 'buen trato' a secuestrados de las Farc dada por Rodrigo Londoño, 'Timochenko', a la JEP: 'Son víctimas'",
-      "resumen": "La Sala de Reconocimiento de Verdad imputó crímenes de guerra por toma de rehenes y graves privaciones de la libertad.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/version-de-rodrigo-londono-timochenko-en-la-jep-sobre-secuestrados-de-las-farc-reavivo-detalles-de-estos-casos-en-el-centro-de-memoria-3592176",
+      "id": "22a24e1dc8fd",
+      "titulo": "ONU advierte “incertidumbre” sobre implementación de enfoque de género del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/onu-advierte-incertidumbre-sobre-implementacion-de-enfoque-de-genero-del-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-09T17:07:35.411876+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "6f5d55cba379",
+      "titulo": "EEUU sanciona a la Corte Penal Internacional después de que Trump se sumara a los ataques contra la ex juez que ha ganado el Nobel de la Paz",
+      "resumen": "El Comité de los Nobel ha ignorado al presidente de EEUU y ha reconocido a 'Navi' Pillay, quien presidió la Comisión de la ONU que determinó que Israel había cometido \"genocidio\" en Gaza Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/09/6ac9035821efa0895b8b45ca.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-09T15:29:17+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "genocidio"
+      ]
+    },
+    {
+      "id": "0a029e278ca8",
+      "titulo": "Eln estaría detrás de un cargamento de más de una tonelada de cocaína incautado por la Armada en el río Meta",
+      "resumen": "En menos de 15 días, la institución ha decomisado más de 2,5 toneladas de cocaína en este corredor fluvial de la Orinoquía.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-estaria-detras-de-un-cargamento-de-mas-de-una-tonelada-de-cocaina-incautado-por-la-armada-en-el-rio-meta-3592471",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-09T15:24:27+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "ea1ed8f55516",
+      "titulo": "La historia de los tres estadounidenses torturados en Venezuela: al ser liberados les advirtieron en el aeropuerto que no hablaran de los abusos",
+      "resumen": "La acusación contra Nicolás Maduro y Cilia Flores describe a tres ciudadanos de EE. UU. como víctimas de tortura entre 2022 y 2025.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/la-historia-de-los-3-estadounidenses-torturados-en-venezuela-al-ser-liberados-les-advirtieron-en-el-aeropuerto-que-no-hablaran-de-los-abusos-3592419",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-08T16:42:21+00:00",
+      "fecha": "2026-10-09T14:03:50+00:00",
       "temas": [
-        "Conflicto armado",
-        "DIH"
+        "DDHH"
       ],
       "palabras_clave": [
-        "crimenes de guerra",
+        "tortura"
+      ]
+    },
+    {
+      "id": "e13c2c1b48e3",
+      "titulo": "Las pistas que llevan a descifrar al funcionario ‘CC-2’, el señalado ‘torturador de Maduro’: estaría escondido en Arauca bajo protección del Eln",
+      "resumen": "EL TIEMPO conoció información de agencias de inteligencia que apunta a su identidad y a sus presuntos movimientos entre Colombia y Venezuela.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-pistas-que-llevan-a-descifrar-al-funcionario-cc-2-el-senalado-torturador-de-maduro-estaria-escondido-en-arauca-bajo-proteccion-del-eln-3592460",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-09T13:56:37+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "bf7ee1da48ce",
+      "titulo": "ONU Derechos Humanos llamó a garantizar los derechos de las víctimas y de sus comunidades",
+      "resumen": "La petición es que tanto en la reconstrucción tras el terremoto como en el Plan Nacional de Desarrollo se incluya a las comunidades más marginadas.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/onu-derechos-humanos-llamo-a-garantizar-los-derechos-de-las-victimas-y-de-sus-comunidades-3592422",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-09T11:51:05+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "bc80e5fb5935",
+      "titulo": "Navi Pillay, la Nobel de la Paz que acusó a Israel de cometer un genocidio en Gaza",
+      "resumen": "La jurista sudafricana, de 85 años, recibe el Premio Nobel de la Paz por una vida dedicada a luchar contra el apartheid, las matanzas de Ruanda y la persecución de los rohinyás en Birmania Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/09/6ac89d94fc6c83a6328b4588.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-09T11:39:53+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "genocidio"
+      ]
+    },
+    {
+      "id": "c896e41ffb01",
+      "titulo": "Este es el supuesto vínculo económico entre Nicolás Maduro y las Farc tras nueva acusación de la justicia de EE. UU. por el delito de narcoterrorismo",
+      "resumen": "Maduro había negociado con grandes cabecillas de grupos delincuenciales la presunta entrega de explosivos para pagar una deuda de narcotráfico.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/este-es-el-supuesto-vinculo-economico-entre-nicolas-maduro-y-las-farc-tras-nueva-acusacion-de-la-justicia-de-ee-uu-por-el-delito-de-narcoterrorismo-3592416",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-09T11:33:40+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
         "farc"
+      ]
+    },
+    {
+      "id": "f44885d01559",
+      "titulo": "Misión de Verificación de la ONU pide mantener esfuerzos para implementar el Acuerdo de Paz ante incertidumbre institucional con De La Espriella",
+      "resumen": "En su informe trimestral, advierte preocupación por financiación de la institucionalidad de la reincorporación, en medio de la revisión del Gobierno.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/mision-de-verificacion-de-la-onu-pide-mantener-esfuerzos-para-implementar-el-acuerdo-de-paz-ante-incertidumbre-institucional-3592269",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-09T02:23:03+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "8788baea7f51",
+      "titulo": "Dos capturados en Pasto con 23 explosivos improvisados y cilindros acondicionados para su lanzamiento: serían de las disidencias de 'Mordisco'",
+      "resumen": "Uno de los artefactos tenía un alcance potencial de afectación de 400 metros a la redonda, según la Policía.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-capturados-en-pasto-con-23-explosivos-improvisados-y-cilindros-acondicionados-para-su-lanzamiento-serian-de-las-disidencias-de-mordisco-3592333",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-08T22:11:59+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "23a5fdaf4557",
+      "titulo": "Maduro habría negociado con ‘Timochenko’, ‘Iván Márquez’ y ‘Jesús Santrich’ la entrega de explosivos a las Farc para pagar una deuda por narcotráfico",
+      "resumen": "La nueva acusación de la justicia de EE. UU. revela detalles de una presunta reunión en 2013 entre Maduro, Cilia Flores y tres jefes guerrilleros.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/maduro-habria-negociado-con-timochenko-ivan-marquez-y-jesus-santrich-la-entrega-de-explosivos-a-las-farc-para-pagar-una-deuda-por-narcotrafico-3592290",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-08T22:11:15+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "e045d9b02ba4",
+      "titulo": "Cinco capturados y más de una tonelada de marihuana incautada en operación contra disidencias de ‘Iván Mordisco’ en Vaupés",
+      "resumen": "Intervención del Ejército se desarrolló en Mitú y estuvo dirigida contra la estructura Primera Armando Ríos. Autoridades incautaron dos embarcaciones.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cinco-capturados-y-mas-de-una-tonelada-de-marihuana-incautada-en-operacion-contra-disidencias-de-ivan-mordisco-en-vaupes-3592247",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-08T17:28:20+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -515,118 +545,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "bd376b56f0d2",
-      "titulo": "La investigación que revela cómo ‘los Choneros’ buscan expandirse en Colombia y llevar sus tentáculos a los corredores del narcotráfico",
-      "resumen": "Tres personas provenientes de Ecuador cayeron en Villavicencio con fusiles, pistolas y un inhibidor de señal. Buscan alianzas con el ‘clan del Golfo’.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-investigacion-que-revela-como-los-choneros-buscan-expandirse-en-colombia-y-llevar-sus-tentaculos-a-los-corredores-del-narcotrafico-3592150",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-08T13:10:30+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "7c24219cac9d",
-      "titulo": "Defensoría del Pueblo solicitó frenar el decreto que crearía un sistema de información sobre guardias indígenas",
-      "resumen": "Plantea que la medida exige consulta previa y concertación con los pueblos indígenas. Mininterior busca mejorar la coordinación entre entidades",
-      "url": "https://www.eltiempo.com/justicia/investigacion/defensoria-del-pueblo-solicito-frenar-el-decreto-que-crearia-un-sistema-de-informacion-sobre-guardias-indigenas-3592120",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-08T12:05:00+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "c119d7cdfede",
-      "titulo": "‘Los Choneros’ aparecen en Villavicencio y autoridades investigan posible alianza con el ‘clan del Golfo’",
-      "resumen": "Tres personas fueron capturadas en una operación en el barrio San Carlos en la que fueron incautados un fusil, pistolas, proveedores y seis celulares.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-choneros-aparecen-en-villavicencio-y-autoridades-investigan-posible-alianza-con-el-clan-del-golfo-3592042",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-07T22:43:29+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "7ebed96c7d75",
-      "titulo": "Operación contra minería ilegal golpea finanzas de disidencias de 'Mordisco' en el sur del Tolima",
-      "resumen": "Policía intervino cinco unidades de producción en Chaparral y Coyaima. La explotación podía generar cerca de $4.000 millones mensuales en oro.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-contra-mineria-ilegal-golpea-finanzas-de-disidencias-de-mordisco-en-el-sur-del-tolima-3591989",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-07T20:00:39+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "1fd9e24772a0",
-      "titulo": "EEUU prohíbe el alcohol e impone el toque de queda a sus tropas en Okinawa tras el asesinato de una mujer",
-      "resumen": "Un marine, de 20 años y estacionado en la base de Futenma, fue detenido el pasado domingo en la localidad de Naha, sospechoso de haber asesinado a una mujer de 39 años, además de haberle robado la mochila y la cartera en un hotel de la ciudad en la noche del sábado Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/07/6ac5da2c21efa033428b459d.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-07T05:39:09+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "toque de queda"
-      ]
-    },
-    {
-      "id": "bfb180adb09f",
-      "titulo": "Las autoridades localizan un presunto centro de exterminio y una fosa clandestina en el occidente de México",
-      "resumen": "El hallazgo ha reavivado el recuerdo del \"Rancho Izaguirre\" del estado Jalisco, vecino a Nayarit, donde un grupo de activistas, que busca por su cuenta a personas desaparecidas, denunció hace veinte meses la localización de cientos de prendas de vestir y restos óseos en una finca que era empleada por el CJNG como un centro de adiestramiento y reclutamiento forzado Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/07/6ac5d78efdddff2a618b4583.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-07T05:31:57+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "reclutamiento"
-      ]
-    },
-    {
-      "id": "3df9bc858e32",
-      "titulo": "Turquía y Pakistán aceleran el apoyo militar a Riad en plena ofensiva en Yemen",
-      "resumen": "El anuncio coincide con una escalada de los combates, ataques contra dos aeropuertos saudíes y la petrolera estatal Aramco Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/06/6ac4d58bfc6c8321308b4595.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-06T11:22:30+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
       ]
     },
     {
@@ -691,38 +609,6 @@
       ],
       "palabras_clave": [
         "jep"
-      ]
-    },
-    {
-      "id": "4476d33f0fdb",
-      "titulo": "Canciller Omar Bula asegura que Colombia 'remoldeará' el Acuerdo de Paz de 2016 en función de las prioridades del gobierno de Abelardo De La Espriella",
-      "resumen": "El ministro de Relaciones Exteriores señaló que el tema se tocó durante un encuentro con su homólogo de Gran Bretaña.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/canciller-omar-bula-asegura-que-colombia-remoldeara-el-acuerdo-de-paz-de-2016-en-funcion-de-las-prioridades-del-gobierno-de-abelardo-de-la-espriella-3588554",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-09-24T14:06:08+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "7a777900e9a2",
-      "titulo": "Gobierno de Abelardo De La Espriella revocó la designación de Salvatore Mancuso como gestor de paz",
-      "resumen": "El exjefe paramilitar había sido designado mediante la Resolución 244 del 14 de agosto de 2023, en el marco de la 'paz total'.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-de-abelardo-de-la-espriella-revoco-la-designacion-de-salvatore-mancuso-como-gestor-de-paz-3588076",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-09-22T21:08:31+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitar"
       ]
     }
   ]
