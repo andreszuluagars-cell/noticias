@@ -1,38 +1,38 @@
 {
-  "generado_en": "2026-10-10T15:55:38.786419+00:00",
-  "total_revisadas": 267,
-  "total_relevantes": 38,
+  "generado_en": "2026-10-11T16:24:29.129063+00:00",
+  "total_revisadas": 268,
+  "total_relevantes": 37,
   "noticias": [
     {
-      "id": "3062e6fd1738",
-      "titulo": "“Ladrillo a ladrillo”.Escala la polémica por el Nobel de la Paz y Trump lanza una feroz amenaza contra la Corte Penal Internacional",
+      "id": "386eef4bcfd4",
+      "titulo": "Zelensky se declara “sorprendido” de anuncio de Trump de un alto el fuego entre Rusia y Ucrania",
       "resumen": "",
-      "url": "https://lanacion.com.ar/estados-unidos/la-feroz-amenaza-de-trump-contra-la-corte-penal-internacional-tras-el-nobel-de-la-paz-nid09102026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-volodymyr-zelensky-se-declara-sorprendido-de-anuncio-de-donald-trump-de-un-alto-el-fuego-entre-rusia-y-ucrania-vladimir-putin-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-10-10T15:55:38.220135+00:00",
+      "fecha": "2026-10-11T16:24:29.000974+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "corte penal internacional"
+        "alto el fuego"
       ]
     },
     {
-      "id": "1d62f653d84b",
-      "titulo": "Hallan depósito del Eln con explosivos que serían usados en drones en Norte de Santander",
+      "id": "aea1fbc29837",
+      "titulo": "\"¡No lo rompan!\".Trump dice que Rusia y Ucrania acordaron un “alto el fuego energético”",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/hallan-deposito-del-eln-con-explosivos-que-serian-usados-en-drones-en-norte-de-santander",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-10T15:55:35.557878+00:00",
+      "url": "https://lanacion.com.ar/el-mundo/trump-dice-que-rusia-y-ucrania-acordaron-un-alto-el-fuego-energetico-nid11102026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-11T16:24:28.688916+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "eln"
+        "alto el fuego"
       ]
     },
     {
@@ -43,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:35.557754+00:00",
+      "fecha": "2026-10-11T16:23:24.262830+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:34.588778+00:00",
+      "fecha": "2026-10-11T16:23:23.968656+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:34.588531+00:00",
+      "fecha": "2026-10-11T16:23:23.968470+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,67 +84,67 @@
       ]
     },
     {
-      "id": "8aa7cf95610f",
-      "titulo": "De víctimas del conflicto a madres emprendedoras: así buscan reconstruir sus vidas decenas de colombianos",
+      "id": "32ff7b22ad99",
+      "titulo": "Así cayó alias María José, señalada de usar redes sociales para reclutar a menores de edad para las disidencias de Iván Mordisco",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/de-victimas-del-conflicto-a-madres-emprendedoras-asi-buscan-reconstruir-sus-vidas-decenas-de-colombianos/202642/",
+      "url": "https://semana.com/nacion/articulo/asi-cayo-alias-maria-jose-senalada-de-usar-redes-sociales-para-reclutar-a-menores-de-edad-para-las-disidencias-de-ivan-mordisco/202655/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:34.188442+00:00",
+      "fecha": "2026-10-11T16:23:23.797856+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "a96be32fa7fd",
+      "titulo": "A dos meses del terremoto en Colombia, la Defensoría del Pueblo hace un llamado urgente al Estado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/a-dos-meses-del-terremoto-en-colombia-la-defensoria-del-pueblo-hace-un-llamado-urgente-al-estado/202625/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-11T16:23:23.797826+00:00",
       "temas": [
         "DDHH"
       ],
       "palabras_clave": [
-        "victimas del conflicto"
+        "defensoria del pueblo"
       ]
     },
     {
-      "id": "ef6f0efd42ae",
-      "titulo": "La millonaria fortuna de los grupos armados en Colombia: SEMANA revela detalles de los negocios del ELN, disidencias y Clan del Golfo",
+      "id": "8d03081004a5",
+      "titulo": "Capturado alias Chichero, presunto reclutador de menores del frente Dagoberto Ramos de las disidencias de las Farc",
       "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/la-millonaria-fortuna-de-los-grupos-armados-en-colombia-semana-revela-detalles-de-los-negocios-del-eln-disidencias-y-clan-del-golfo/202608/",
+      "url": "https://semana.com/nacion/articulo/capturado-alias-chichero-presunto-reclutador-de-menores-del-frente-dagoberto-ramos-de-las-disidencias-de-las-farc/202602/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:34.188402+00:00",
+      "fecha": "2026-10-11T16:23:23.797710+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "disidencias"
       ]
     },
     {
-      "id": "6b732f36f9ef",
-      "titulo": "Esta es la historia del indignante indulto por parte de la JEP a alias Solís Almeida, uno de los más sanguinarios cabecillas de las Farc",
+      "id": "29d2521dfaba",
+      "titulo": "Fuerzas Militares bombardean campamento del frente 33 de las disidencias de las Farc en el Catatumbo, Norte de Santander",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/esta-es-la-historia-del-indignante-indulto-por-parte-de-la-jep-a-alias-solis-almeida-uno-de-los-mas-sanguinarios-cabecillas-de-las-farc/202607/",
+      "url": "https://semana.com/nacion/articulo/fuerzas-militares-bombardean-campamento-del-frente-33-de-las-disidencias-de-las-farc-en-el-catatumbo-norte-de-santander/202611/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:34.188391+00:00",
+      "fecha": "2026-10-11T16:23:23.797641+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "61749eb71628",
-      "titulo": "Estos son los expedientes judiciales contra Yahir Acuña, el cacique de Sucre, investigado por corrupción y relaciones con paramilitares",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/estos-son-los-expedientes-judiciales-contra-yahir-acuna-el-cacique-de-sucre-investigado-por-corrupcion-y-relaciones-con-paramilitares/202601/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-10T15:55:34.188353+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitares"
+        "disidencias"
       ]
     },
     {
@@ -155,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541605+00:00",
+      "fecha": "2026-10-11T16:23:23.383309+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541600+00:00",
+      "fecha": "2026-10-11T16:23:23.383305+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541596+00:00",
+      "fecha": "2026-10-11T16:23:23.383302+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541587+00:00",
+      "fecha": "2026-10-11T16:23:23.383295+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541582+00:00",
+      "fecha": "2026-10-11T16:23:23.383291+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541517+00:00",
+      "fecha": "2026-10-11T16:23:23.383238+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541504+00:00",
+      "fecha": "2026-10-11T16:23:23.383226+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541497+00:00",
+      "fecha": "2026-10-11T16:23:23.383205+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541469+00:00",
+      "fecha": "2026-10-11T16:23:23.383190+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541462+00:00",
+      "fecha": "2026-10-11T16:23:23.383185+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541456+00:00",
+      "fecha": "2026-10-11T16:23:23.383179+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541448+00:00",
+      "fecha": "2026-10-11T16:23:23.383173+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-10T15:55:33.541409+00:00",
+      "fecha": "2026-10-11T16:23:23.383134+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -356,30 +356,94 @@
       ]
     },
     {
-      "id": "c8f2cda41c0e",
-      "titulo": "Helicóptero Chinook de Estados Unidos transporta ayuda humanitaria a las zonas afectadas por el sismo en Panamá",
-      "resumen": "La operación incluye el traslado de carpas y suministros de primera necesidad hacia Azuero, mientras se prepara la llegada de 20 especialistas de Virginia y California para apoyar las labores de búsqueda y evaluación de estructuras.",
-      "url": "https://www.infobae.com/panama/2026/10/10/helicoptero-chinook-de-estados-unidos-transporta-ayuda-humanitaria-a-las-zonas-afectadas-por-el-sismo-en-panama/",
+      "id": "550c13f2d58c",
+      "titulo": "Ibeth “La Roca” Zamora, tricampeona mundial otomí, rompe barreras y va por el Salón de la Fama del Boxeo",
+      "resumen": "Con 33 victoria y 13 nocauts, la mexicana construyó una candidatura respaldada por combates contra diferentes campeonas durante sus 18 años sobre el ring",
+      "url": "https://www.infobae.com/mexico/deportes/2026/10/11/ibeth-la-roca-zamora-tricampeona-mundial-otomi-rompe-barreras-y-va-por-el-salon-de-la-fama-internacional-del-boxeo/",
       "fuente": "Infobae",
       "seccion": "Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-10-10T15:39:01+00:00",
+      "fecha": "2026-10-11T16:15:37+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "ayuda humanitaria"
+        "combates"
       ]
     },
     {
-      "id": "7c8506ee2fbe",
-      "titulo": "Cayó alias María José, integrante de las disidencias de ‘Mordisco’ señalada de reclutar menores y coordinar ataques terroristas en Guaviare",
-      "resumen": "La mujer habría utilizado redes sociales para engañar a menores y estaría vinculada con varios ataques perpetrados en Calamar durante 2025.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-maria-jose-integrante-de-las-disidencias-de-mordisco-senalada-de-reclutar-menores-y-coordinar-ataques-terroristas-en-guaviare-3592729",
+      "id": "10f24e5da551",
+      "titulo": "Trump afirma que Rusia y Ucrania han alcanzado un \"alto el fuego energético\", pero Zelenski asegura no estar al corriente",
+      "resumen": "El presidente ucraniano estaría dispuesto a aceptarlo si Moscú hace lo mismo Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/11/6acb9d2921efa0e3338b457a.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-11T15:50:29+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "alto el fuego"
+      ]
+    },
+    {
+      "id": "80dbcd8b9cf6",
+      "titulo": "Un policía muerto, otro herido y un presunto disidente abatido tras ataque armado en Tuluá, Valle del Cauca",
+      "resumen": "La Policía atribuyó preliminarmente el ataque a integrantes del frente 57 de las disidencias. Los hechos ocurrieron en zona rural del municipio.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/un-policia-muerto-otro-herido-y-un-presunto-disidente-abatido-tras-ataque-armado-en-tulua-valle-del-cauca-3592878",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-10T14:09:51+00:00",
+      "fecha": "2026-10-11T14:23:24+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "d4f0875907ae",
+      "titulo": "Ucrania ataca el tercer centro de datos del gigante informático ruso Yandex e interrumpe sus servicios",
+      "resumen": "Rusia también ha atacado el centro de datos Tenet en Odesa, clave para el ejército ucraniano en la recopilación y procesado de información Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/11/6acb35e6e85ece66258b4575.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-11T07:16:09+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ejercito ucraniano"
+      ]
+    },
+    {
+      "id": "9d7b849446d7",
+      "titulo": "Cárceles que no se construyen, salud que no llega y detenciones que no terminan: el nuevo diagnóstico de la Defensoría del sistema penitenciario",
+      "resumen": "El más reciente informe concluye que persiste la masiva violación de derechos humanos y recomienda evitar al máximo la privación de la libertad.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/carceles-que-no-se-construyen-salud-que-no-llega-y-detenciones-que-no-terminan-el-nuevo-diagnostico-de-la-defensoria-del-sistema-penitenciario-3592763",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-11T04:01:00+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "08e50319fedc",
+      "titulo": "Huila refuerza su estrategia de seguridad ante la presión de las disidencias: regresará la Fudra y llegarán más investigadores",
+      "resumen": "La extorsión, los ataques con drones y las disputas entre grupos armados ilegales llevaron al Gobierno a anunciar nuevas medidas de seguridad.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/huila-refuerza-su-estrategia-de-seguridad-ante-la-presion-de-las-disidencias-regresara-la-fudra-y-llegaran-mas-investigadores-3592775",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-10T18:10:31+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -420,22 +484,6 @@
       ]
     },
     {
-      "id": "b1f0fdf2f481",
-      "titulo": "Drones, inteligencia artificial y grupos armados: el desafío que enfrenta la seguridad en Colombia",
-      "resumen": "La ventaja tecnológica de las organizaciones ilegales y las necesidades de transformación de la Fuerza Pública estarán en el centro de un foro.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/drones-inteligencia-artificial-y-grupos-armados-el-desafio-que-enfrenta-la-seguridad-en-colombia-3592561",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-10T02:28:18+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
       "id": "bc80e5fb5935",
       "titulo": "Navi Pillay, la Nobel de la Paz que acusó a Israel de cometer un genocidio en Gaza",
       "resumen": "La jurista sudafricana, de 85 años, recibe el Premio Nobel de la Paz por una vida dedicada a luchar contra el apartheid, las matanzas de Ruanda y la persecución de los rohinyás en Birmania Leer",
@@ -449,54 +497,6 @@
       ],
       "palabras_clave": [
         "genocidio"
-      ]
-    },
-    {
-      "id": "6f5d55cba379",
-      "titulo": "Estados Unidos amenaza con \"desmontar ladrillo a ladrillo\" el Tribunal Penal Internacional tras el Nobel a Navi Pillay",
-      "resumen": "El secretario de Estado, Marco Rubio, justifica las nuevas sanciones como una respuesta a las actuaciones del tribunal el mismo día en que el Nobel de la Paz le vuelve a ser esquivo a Trump Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/09/6ac9035821efa0895b8b45ca.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-09T17:43:52+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "tribunal penal internacional"
-      ]
-    },
-    {
-      "id": "0a029e278ca8",
-      "titulo": "Eln estaría detrás de un cargamento de más de una tonelada de cocaína incautado por la Armada en el río Meta",
-      "resumen": "En menos de 15 días, la institución ha decomisado más de 2,5 toneladas de cocaína en este corredor fluvial de la Orinoquía.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-estaria-detras-de-un-cargamento-de-mas-de-una-tonelada-de-cocaina-incautado-por-la-armada-en-el-rio-meta-3592471",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-09T15:24:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "e13c2c1b48e3",
-      "titulo": "Las pistas que llevan a descifrar al funcionario ‘CC-2’, el señalado ‘torturador de Maduro’: estaría escondido en Arauca bajo protección del Eln",
-      "resumen": "EL TIEMPO conoció información de agencias de inteligencia que apunta a su identidad y a sus presuntos movimientos entre Colombia y Venezuela.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-pistas-que-llevan-a-descifrar-al-funcionario-cc-2-el-senalado-torturador-de-maduro-estaria-escondido-en-arauca-bajo-proteccion-del-eln-3592460",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-09T13:56:37+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
       ]
     },
     {
@@ -529,22 +529,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "8788baea7f51",
-      "titulo": "Dos capturados en Pasto con 23 explosivos improvisados y cilindros acondicionados para su lanzamiento: serían de las disidencias de 'Mordisco'",
-      "resumen": "Uno de los artefactos tenía un alcance potencial de afectación de 400 metros a la redonda, según la Policía.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-capturados-en-pasto-con-23-explosivos-improvisados-y-cilindros-acondicionados-para-su-lanzamiento-serian-de-las-disidencias-de-mordisco-3592333",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-08T22:11:59+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
