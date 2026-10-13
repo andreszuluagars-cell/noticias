@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-10-12T19:55:51.954795+00:00",
+  "generado_en": "2026-10-13T17:42:41.442295+00:00",
   "total_revisadas": 267,
-  "total_relevantes": 43,
+  "total_relevantes": 41,
   "noticias": [
-    {
-      "id": "aea1fbc29837",
-      "titulo": "\"¡No lo rompan!\".Trump dice que Rusia y Ucrania acordaron un “alto el fuego energético”",
-      "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/trump-dice-que-rusia-y-ucrania-acordaron-un-alto-el-fuego-energetico-nid11102026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-10-12T19:55:51.346206+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
     {
       "id": "eec1e90f1aaa",
       "titulo": "Por intentar evitar un homicidio, resultó herido: así fue el ataque armado en Ocaña",
@@ -27,28 +11,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:49.327157+00:00",
+      "fecha": "2026-10-13T17:42:38.941172+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "ataque armado"
-      ]
-    },
-    {
-      "id": "cf6c76eea64d",
-      "titulo": "Maduro habría negociado con las Farc la entrega de explosivos por una deuda de narcotráfico, según acusación de EE. UU.",
-      "resumen": "",
-      "url": "https://elcolombiano.com/internacional/juicio-maduro-cilia-flores-acusacion-narcotrafico-eln-farc-estados-unidos-CH42103089",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871366+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
       ]
     },
     {
@@ -59,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871336+00:00",
+      "fecha": "2026-10-13T17:42:38.599110+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871231+00:00",
+      "fecha": "2026-10-13T17:42:38.599013+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871200+00:00",
+      "fecha": "2026-10-13T17:42:38.598979+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871167+00:00",
+      "fecha": "2026-10-13T17:42:38.598935+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871107+00:00",
+      "fecha": "2026-10-13T17:42:38.598873+00:00",
       "temas": [
         "DDHH"
       ],
@@ -139,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.871102+00:00",
+      "fecha": "2026-10-13T17:42:38.598868+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,62 +116,14 @@
       ]
     },
     {
-      "id": "ba676929d897",
-      "titulo": "Fuertes combates entre el Ejército Nacional y las disidencias de las Farc en Cajibío, Cauca",
+      "id": "51c00de20ea3",
+      "titulo": "MinDefensa entregó detalles del bombardeo contra disidencias de las Farc en Catatumbo: hay una menor de edad entre los muertos",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/fuertes-combates-entre-el-ejercito-nacional-y-las-disidencias-de-las-farc-en-cajibio-cauca/202602/",
+      "url": "https://semana.com/nacion/articulo/mindefensa-entrego-detalles-del-bombardeo-contra-disidencias-de-las-farc-en-catatumbo-hay-una-menor-de-edad-entre-los-muertos/202636/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663702+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "fbbc3f174310",
-      "titulo": "Cayó alias Niño Potro, señalado narcotraficante del Clan del Golfo: es solicitado en extradición por Estados Unidos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/cayo-alias-nino-potro-senalado-narcotraficante-del-clan-del-golfo-es-solicitado-en-extradicion-por-estados-unidos/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663693+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "661ab26d861b",
-      "titulo": "Capturan a cinco integrantes del Clan del Golfo en Antioquia y Chocó",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/capturan-a-cinco-integrantes-del-clan-del-golfo-en-antioquia-y-choco/202644/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663653+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e68b9f437ba7",
-      "titulo": "Se conoce primer balance tras el bombardeo contra las disidencias de las Farc en el Catatumbo: van cuatro cuerpos recuperados",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/se-conoce-primer-balance-tras-el-bombardeo-contra-las-disidencias-de-las-farc-en-catatumbo-van-cuatro-cuerpos-recuperados/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663612+00:00",
+      "fecha": "2026-10-13T17:42:38.455169+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -212,14 +132,14 @@
       ]
     },
     {
-      "id": "bca500742269",
-      "titulo": "Abelardo De La Espriella anuncia golpe a las disidencias en Cauca: dos presuntos integrantes murieron en operación militar",
+      "id": "e7c2c126fff8",
+      "titulo": "Descartan amenaza tras hallar cilindro y pancarta de las disidencias junto al Pascual Guerrero",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncia-golpe-a-las-disidencias-en-cauca-dos-presuntos-integrantes-murieron-en-operacion-militar/202642/",
+      "url": "https://semana.com/nacion/cali/articulo/descartan-amenaza-tras-hallar-cilindro-y-pancarta-de-las-disidencias-junto-al-pascual-guerrero/202615/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663591+00:00",
+      "fecha": "2026-10-13T17:42:38.455158+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -228,51 +148,51 @@
       ]
     },
     {
-      "id": "b95d0a9ccfc4",
-      "titulo": "Activan carrobomba en el peaje de El Bordo en la vía Panamericana entre Popayán y Pasto: hay alerta por cilindro con explosivos",
+      "id": "96fb675722d7",
+      "titulo": "Disidencias atacan a la Policía en Silvia, Cauca: Fuerzas Militares apoyan respuesta al atentado",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/nuevo-atentado-terrorista-volaron-con-explosivos-el-peaje-de-el-mango-en-la-via-panamericana-entre-popayan-y-pasto/202650/",
+      "url": "https://semana.com/nacion/cali/articulo/disidencias-atacan-a-la-policia-en-silvia-cauca-fuerzas-militares-apoyan-respuesta-al-atentado/202626/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663577+00:00",
+      "fecha": "2026-10-13T17:42:38.455146+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "disidencias"
       ]
     },
     {
-      "id": "7d0c29fb2a54",
-      "titulo": "Ejército se pronuncia sobre atentado con carro bomba en el Cauca: confirmó el número de heridos y entregó detalles",
+      "id": "40a5f8925efc",
+      "titulo": "Masacre en El Paujil, Caquetá: tres hombres fueron asesinados en una discoteca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-se-pronuncia-sobre-atentado-con-carro-bomba-en-el-cauca-confirmo-el-numero-de-heridos-y-entrego-detalles/202602/",
+      "url": "https://semana.com/nacion/articulo/masacre-en-el-paujil-caqueta-tres-hombres-fueron-asesinados-en-una-discoteca/202632/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.663559+00:00",
+      "fecha": "2026-10-13T17:42:38.454985+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "masacre"
       ]
     },
     {
-      "id": "9072835cd10c",
-      "titulo": "Proyecto de revisión de sentencias en la Justicia Militar cambiaría las reglas de la JEP",
+      "id": "2e76aa61deb0",
+      "titulo": "JEP atribuye responsabilidad a excomandantes de las Farc por crímenes contra pueblos indígenas",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/proyecto-de-revision-de-sentencias-en-la-justicia-militar-cambiaria-las-reglas-de-la-jep/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/jep-atribuye-responsabilidad-a-excomandantes-de-las-farc-por-crimenes-contra-pueblos-indigenas/202610/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299765+00:00",
+      "fecha": "2026-10-13T17:42:38.454963+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "farc"
       ]
     },
     {
@@ -283,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299754+00:00",
+      "fecha": "2026-10-13T17:42:38.161628+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299750+00:00",
+      "fecha": "2026-10-13T17:42:38.161624+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299712+00:00",
+      "fecha": "2026-10-13T17:42:38.161586+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299704+00:00",
+      "fecha": "2026-10-13T17:42:38.161577+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299683+00:00",
+      "fecha": "2026-10-13T17:42:38.161573+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299673+00:00",
+      "fecha": "2026-10-13T17:42:38.161549+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299667+00:00",
+      "fecha": "2026-10-13T17:42:38.161544+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299659+00:00",
+      "fecha": "2026-10-13T17:42:38.161538+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -411,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299654+00:00",
+      "fecha": "2026-10-13T17:42:38.161529+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -427,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299638+00:00",
+      "fecha": "2026-10-13T17:42:38.161514+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -443,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299631+00:00",
+      "fecha": "2026-10-13T17:42:38.161508+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -459,12 +379,124 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-12T19:55:48.299613+00:00",
+      "fecha": "2026-10-13T17:42:38.161502+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "df5c43a883f5",
+      "titulo": "Los reveladores datos del más reciente ‘conteo al enemigo’: así está el poder de los grupos armados en cada región de Colombia",
+      "resumen": "EL TIEMPO tuvo acceso a un informe de inteligencia realizado a comienzos del segundo semestre de 2026.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-reveladores-datos-del-mas-reciente-conteo-al-enemigo-asi-esta-el-poder-de-los-grupos-armados-en-cada-region-de-colombia-3593194",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-13T16:56:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "dd31f9f89c9a",
+      "titulo": "Procuraduría anuncia nuevo grupo de trabajo para atender la masiva violación de derechos humanos contra la niñez Wayuú",
+      "resumen": "Así lo expresó este martes en Riohacha el procurador general Gregio Eljach.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/procuraduria-anuncia-nuevo-grupo-de-trabajo-para-atender-la-masiva-violacion-de-derechos-humanos-contra-la-ninez-wayuu-3593187",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-13T15:44:46+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "a36700ee2fdd",
+      "titulo": "Las implicaciones que tendría retirar a la ONU de la observación de la reforma rural integral del Acuerdo de Paz",
+      "resumen": "El Consejo de Seguridad tendrá poco más de dos semanas para discutir la propuesta de Colombia, que ya cuenta con el guiño de Estados Unidos.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/las-implicaciones-que-tendria-retirar-a-la-onu-de-la-observacion-de-la-reforma-rural-integral-del-acuerdo-de-paz-3593157",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-13T15:38:47+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "8c5b47ff536f",
+      "titulo": "Diez fusiles, una ametralladora y casi 4.000 cartuchos fueron incautados tras un bombardeo en el Catatumbo",
+      "resumen": "El mindefensa, Jorge Mora, entregó detalles de la operación contra el frente 33 de las disidencias de alias ‘Calarcá’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/diez-fusiles-una-ametralladora-y-casi-4-000-cartuchos-fueron-incautados-tras-un-bombardeo-en-el-catatumbo-3593179",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-13T15:10:16+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "61dc86944c2f",
+      "titulo": "‘En estos lugares, más que Fuerza Pública, se piden políticas públicas’: magistrado Juan Cantillo tras imputación a ex-Farc por crimenes en Amazonía",
+      "resumen": "El magistrado de la JEP advirtió que hoy la JEP ya no puede ingresar a esos territorios por razones de seguridad.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/en-estos-lugares-mas-que-fuerza-publica-se-piden-politicas-publicas-magistrado-juan-cantillo-tras-imputacion-a-ex-farc-por-crimenes-en-amazonia-3593079",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-13T14:09:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "62313cefb19f",
+      "titulo": "Una menor de 16 años murió durante el bombardeo contra las disidencias de 'Calarcá' en el Catatumbo",
+      "resumen": "Mindefensa, Jorge Mora, confirmó que la adolescente estaba en uno de los campamentos del frente 33. Estos son los detalles de la operación aérea.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/una-menor-de-16-anos-murio-durante-el-bombardeo-contra-las-disidencias-de-calarca-en-el-catatumbo-3593092",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-13T12:05:06+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "6ce7e1d009bc",
+      "titulo": "La pista de los drones que llevó al Ejército hasta alias el Tuerto en el Chocó, integrante de Eln",
+      "resumen": "El capturado es presunto miembro de la comisión señalada de dinamizar ataques con estos dispositivos en esa región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-pista-de-los-drones-que-llevo-al-ejercito-hasta-alias-el-tuerto-en-el-choco-integrante-de-eln-3593046",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-12T22:02:27+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -475,7 +507,7 @@
       "fuente": "El Tiempo",
       "seccion": "Política / Proceso de paz",
       "region": "nacional",
-      "fecha": "2026-10-12T19:10:39+00:00",
+      "fecha": "2026-10-12T21:37:09+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -529,54 +561,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "0b5ba8e2d90b",
-      "titulo": "Cuatro muertos y 12 fusiles recuperados, el primer balance del bombardeo contra las disidencias del Frente 33 en el Catatumbo",
-      "resumen": "Policía Judicial logró ingresar a la zona del ataque y adelantan labores de excavación ante la posibilidad de encontrar más cuerpos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cuatro-muertos-y-12-fusiles-recuperados-el-primer-balance-del-bombardeo-contra-las-disidencias-del-frente-33-en-el-catatumbo-3592942",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-12T00:18:42+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "c92b241ae485",
-      "titulo": "Cayó alias Niño Potro, el narco que habría enviado dos toneladas mensuales de cocaína a Estados Unidos en alianza con el ‘clan del Golfo’",
-      "resumen": "Yovanys Chaverra Vargas era uno de los objetivos de alto valor de la DEA y tenía una solicitud de extradición de una corte de Texas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-nino-potro-el-narco-que-habria-enviado-dos-toneladas-mensuales-de-cocaina-a-estados-unidos-en-alianza-con-el-clan-del-golfo-3592922",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-11T22:58:09+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "0c5a2844d9aa",
-      "titulo": "Ataque con drones del Eln en Cauca dejó muerto a un soldado profesional",
-      "resumen": "El Ejército atribuyó preliminarmente el ataque a integrantes del Eln. Esto se sabe.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-del-eln-en-cauca-dejo-muerto-a-un-soldado-profesional-3592916",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-11T22:52:34+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
       ]
     },
     {
@@ -673,22 +657,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "a90787f2c295",
-      "titulo": "Así es como Viotá convierte un antiguo corredor de las Farc en un destino de paz",
-      "resumen": "El turismo se convirtió en una herramienta que reúne a firmantes de paz, víctimas y campesinos en una apuesta por la reconciliación.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/asi-es-como-viota-convierte-un-antiguo-corredor-de-las-farc-en-un-destino-de-paz-3591050",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-04T10:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
       ]
     }
   ]
