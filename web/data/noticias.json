@@ -1,8 +1,24 @@
 {
-  "generado_en": "2026-10-13T17:42:41.442295+00:00",
-  "total_revisadas": 267,
-  "total_relevantes": 41,
+  "generado_en": "2026-10-14T15:20:45.208240+00:00",
+  "total_revisadas": 266,
+  "total_relevantes": 37,
   "noticias": [
+    {
+      "id": "eb3ecf70ed50",
+      "titulo": "El presidente de Ecuador anuncia un nuevo toque de queda en la costa para noviembre",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/el-presidente-de-ecuador-anuncia-un-nuevo-toque-de-queda-en-la-costa-para-noviembre-daniel-noboa-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-14T15:20:45.036633+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "toque de queda"
+      ]
+    },
     {
       "id": "eec1e90f1aaa",
       "titulo": "Por intentar evitar un homicidio, resultó herido: así fue el ataque armado en Ocaña",
@@ -11,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.941172+00:00",
+      "fecha": "2026-10-14T15:20:41.786099+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,62 +36,14 @@
       ]
     },
     {
-      "id": "d8e1ebc7de96",
-      "titulo": "Frustraron atentado terrorista con ‘taxi bomba’ en la vía Panamericana, Cauca: Ejército verifica si hay más explosivos",
+      "id": "5c6a2e55313a",
+      "titulo": "Bombardean campamentos de las disidencias de las Farc en el Catatumbo",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ejercito-frustra-atentado-terrorista-taxi-bomba-via-panamericana-cauca-NG42114393",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/bombardean-campamentos-de-las-disidencias-de-las-farc-en-el-catatumbo",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.599110+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "4961c2de6af7",
-      "titulo": "Capturaron a alias María José, presunta encargada de reclutar menores para las disidencias de las Farc en Guaviare",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/capturaron-alias-maria-jose-encargada-reclutar-menores-disidencias-farc-guaviare-BC42155114",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.599013+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "eda8d6bc864b",
-      "titulo": "“Los colombianos estamos pagando lo que les toca a las Farc”: María Clara Posada",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/paz-y-derechos-humanos/maria-clara-posada-colombianos-pagando-toca-farc-jep-NC42158050",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.598979+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "f8646623913a",
-      "titulo": "Abelardo De la Espriella ordenó bombardeo al frente 33 de las disidencias en el Catatumbo; esto se sabe",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/presidente-de-la-espriella-ordena-bombardeo-frente-33-catatumbo-NB42163860",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.598935+00:00",
+      "fecha": "2026-10-14T15:20:41.786015+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.598873+00:00",
+      "fecha": "2026-10-14T15:20:41.235242+00:00",
       "temas": [
         "DDHH"
       ],
@@ -107,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.598868+00:00",
+      "fecha": "2026-10-14T15:20:41.235236+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,83 +84,35 @@
       ]
     },
     {
-      "id": "51c00de20ea3",
-      "titulo": "MinDefensa entregó detalles del bombardeo contra disidencias de las Farc en Catatumbo: hay una menor de edad entre los muertos",
+      "id": "079e9e6372b4",
+      "titulo": "Defensoría pidió replantear los bombardeos contra grupos armados tras muerte de menores: “Son víctimas”",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/mindefensa-entrego-detalles-del-bombardeo-contra-disidencias-de-las-farc-en-catatumbo-hay-una-menor-de-edad-entre-los-muertos/202636/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/defensoria-pide-gobierno-replantear-bombardeos-contra-grupos-armados-muerte-menores-GF42210053",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.455169+00:00",
+      "fecha": "2026-10-14T15:20:41.234905+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "grupos armados"
       ]
     },
     {
-      "id": "e7c2c126fff8",
-      "titulo": "Descartan amenaza tras hallar cilindro y pancarta de las disidencias junto al Pascual Guerrero",
+      "id": "acff233b9b8f",
+      "titulo": "Ataque con explosivos aéreos contra la Policía en Dagua enciende las alarmas en el Valle del Cauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/descartan-amenaza-tras-hallar-cilindro-y-pancarta-de-las-disidencias-junto-al-pascual-guerrero/202615/",
+      "url": "https://semana.com/nacion/articulo/ataque-con-explosivos-aereos-contra-la-policia-en-dagua-enciende-las-alarmas-en-el-valle-del-cauca/202608/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.455158+00:00",
+      "fecha": "2026-10-14T15:20:40.749225+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "96fb675722d7",
-      "titulo": "Disidencias atacan a la Policía en Silvia, Cauca: Fuerzas Militares apoyan respuesta al atentado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/disidencias-atacan-a-la-policia-en-silvia-cauca-fuerzas-militares-apoyan-respuesta-al-atentado/202626/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.455146+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "40a5f8925efc",
-      "titulo": "Masacre en El Paujil, Caquetá: tres hombres fueron asesinados en una discoteca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/masacre-en-el-paujil-caqueta-tres-hombres-fueron-asesinados-en-una-discoteca/202632/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.454985+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "2e76aa61deb0",
-      "titulo": "JEP atribuye responsabilidad a excomandantes de las Farc por crímenes contra pueblos indígenas",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/jep-atribuye-responsabilidad-a-excomandantes-de-las-farc-por-crimenes-contra-pueblos-indigenas/202610/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.454963+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
+        "explosivos"
       ]
     },
     {
@@ -203,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161628+00:00",
+      "fecha": "2026-10-14T15:20:40.282042+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161624+00:00",
+      "fecha": "2026-10-14T15:20:40.282037+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161586+00:00",
+      "fecha": "2026-10-14T15:20:40.281972+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161577+00:00",
+      "fecha": "2026-10-14T15:20:40.281958+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161573+00:00",
+      "fecha": "2026-10-14T15:20:40.281953+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161549+00:00",
+      "fecha": "2026-10-14T15:20:40.281918+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161544+00:00",
+      "fecha": "2026-10-14T15:20:40.281912+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161538+00:00",
+      "fecha": "2026-10-14T15:20:40.281906+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161529+00:00",
+      "fecha": "2026-10-14T15:20:40.281898+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +267,23 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161514+00:00",
+      "fecha": "2026-10-14T15:20:40.281874+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "bf450818e6c8",
+      "titulo": "¿Se ha cumplido con la reforma rural del Acuerdo de Paz? Este es el balance 10 años después",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/se-ha-cumplido-con-la-reforma-rural-del-acuerdo-de-paz-este-es-el-balance-10-anos-despues/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-14T15:20:40.281867+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161508+00:00",
+      "fecha": "2026-10-14T15:20:40.281860+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +315,151 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-13T17:42:38.161502+00:00",
+      "fecha": "2026-10-14T15:20:40.281852+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "5fe446fa4162",
+      "titulo": "Con apoyo de la DEA, autoridades colombianas incautaron una tonelada de cocaína en Santa Marta perteneciente a la facción de ‘Los Pachenca’ que lideraba Bendito Menor: el cargamento tenía como destino Estados Unidos",
+      "resumen": "El jefe de Estado agregó que el hallazgo forma parte de las acciones contra las fuentes de financiación de los grupos armados ilegales en la región",
+      "url": "https://www.infobae.com/colombia/2026/10/14/con-apoyo-de-la-dea-autoridades-colombianas-incautaron-una-tonelada-de-cocaina-en-santa-marta-perteneciente-a-la-faccion-de-los-pachenca-que-lideraba-bendito-menor-el-cargamento-tenia-como-destino-estados-unidos/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-14T15:19:26+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "7cdd14f9dddc",
+      "titulo": "El accidente que dejó a Locomotora Castro 27 días en coma en 2005 y su regreso a los rings nueve meses más tarde",
+      "resumen": "El Roña impactó su vehículo contra un árbol un mes después de vencer por nocaut a Derrick Harmon en el Luna Park. Luego protagonizaría dos combates más",
+      "url": "https://www.infobae.com/deportes/2026/10/14/el-accidente-que-dejo-a-locomotora-castro-27-dias-en-coma-en-2005-y-su-regreso-a-los-rings-nueve-meses-mas-tarde/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-14T15:11:20+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "8d98e76ef796",
+      "titulo": "El documento que revela los multimillonarios negocios criminales que alimentan el poder de los grupos armados en Colombia",
+      "resumen": "EL TIEMPO accedió a un análisis de inteligencia que evidencia cómo la minería, el contrabando, entre otros, sostienen la disputa en los territorios.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-documento-que-revela-los-multimillonarios-negocios-criminales-que-alimentan-el-poder-de-los-grupos-armados-en-colombia-3593443",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T14:38:30+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "4d3fd620f8ff",
+      "titulo": "Cae alias Emilio Zapata, señalado de dinamizar las confrontaciones armadas entre el grupo de ‘Calarcá’ y ‘clan del Golfo’ en Antioquia",
+      "resumen": "Las autoridades lo vinculan con un enfrentamiento que dejó 13 muertos en Remedios.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-alias-emilio-zapata-senalado-de-dinamizar-las-confrontaciones-armadas-entre-el-grupo-de-calarca-y-clan-del-golfo-en-antioquia-3593429",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T13:47:03+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "b5bbdaf3142f",
+      "titulo": "El juicio por Nord Stream arranca con un intento de sabotaje jurídico: \"Tiene que defenderse con las manos atadas\"",
+      "resumen": "La defensa del acusado alega que no puede declarar sin permiso del Ejército ucraniano Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/14/6acf805be9cf4a32678b45a9.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-14T13:27:33+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ejercito ucraniano"
+      ]
+    },
+    {
+      "id": "ad41edadfc07",
+      "titulo": "Unicef alerta por 163 escuelas atacadas o usadas en medio del conflicto armado en los últimos tres años",
+      "resumen": "Cauca, Arauca, Norte de Santander y Chocó concentran el mayor número de eventos. Este es el panorama.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/unicef-alerta-por-163-escuelas-atacadas-o-usadas-en-medio-del-conflicto-armado-en-los-ultimos-tres-anos-3593052",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T11:25:02+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "conflicto armado"
+      ]
+    },
+    {
+      "id": "1ccc229b93aa",
+      "titulo": "Las 10 claves del proyecto de sometimiento para grupos armados que reemplazará a la 'paz total'",
+      "resumen": "Plantea el sometimiento a la justicia ordinaria. Se busca su aprobación en Congreso antes del 4 de noviembre, cuando vencen prórrogas de la Ley 418.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-10-claves-del-proyecto-de-sometimiento-para-grupos-armados-que-reemplazara-a-la-paz-total-3593291",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T11:23:32+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "a36700ee2fdd",
+      "titulo": "Las implicaciones que tendría retirar a la ONU de la observación de la reforma rural integral del Acuerdo de Paz",
+      "resumen": "El Consejo de Seguridad tendrá poco más de dos semanas para discutir la propuesta de Colombia, que ya cuenta con el guiño de Estados Unidos.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/las-implicaciones-que-tendria-retirar-a-la-onu-de-la-observacion-de-la-reforma-rural-integral-del-acuerdo-de-paz-3593157",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-14T01:59:17+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "c373397e7b4e",
+      "titulo": "'Sin seguridad no hay paz, pero sin desarrollo rural tampoco': el llamado de Juan C. Restrepo ante posible retiro de verificación a la reforma rural",
+      "resumen": "El exministro dice que la propuesta del Gobierno de excluir a la ONU del punto 1 del Acuerdo de Paz pone en duda su voluntad de cumplirlo a cabalidad.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/sin-seguridad-no-hay-paz-pero-sin-desarrollo-rural-tampoco-el-llamado-de-juan-c-restrepo-ante-posible-retiro-de-verificacion-a-la-reforma-rural-3593313",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-13T22:45:22+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +475,7 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-13T16:56:41+00:00",
+      "fecha": "2026-10-13T21:32:56+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -404,35 +484,19 @@
       ]
     },
     {
-      "id": "dd31f9f89c9a",
-      "titulo": "Procuraduría anuncia nuevo grupo de trabajo para atender la masiva violación de derechos humanos contra la niñez Wayuú",
-      "resumen": "Así lo expresó este martes en Riohacha el procurador general Gregio Eljach.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/procuraduria-anuncia-nuevo-grupo-de-trabajo-para-atender-la-masiva-violacion-de-derechos-humanos-contra-la-ninez-wayuu-3593187",
+      "id": "38c4c5559916",
+      "titulo": "Golpe a las finanzas de las disidencias de ‘Iván Mordisco’ en Cauca: minería ilegal movía más de $2.250 millones al mes",
+      "resumen": "Dos unidades de extracción de oro fueron intervenidas por el Ejército y la Policía en Villa Rica, Cauca.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-de-las-disidencias-de-ivan-mordisco-en-cauca-mineria-ilegal-movia-mas-de-2-250-millones-al-mes-3593227",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-13T15:44:46+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "a36700ee2fdd",
-      "titulo": "Las implicaciones que tendría retirar a la ONU de la observación de la reforma rural integral del Acuerdo de Paz",
-      "resumen": "El Consejo de Seguridad tendrá poco más de dos semanas para discutir la propuesta de Colombia, que ya cuenta con el guiño de Estados Unidos.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/las-implicaciones-que-tendria-retirar-a-la-onu-de-la-observacion-de-la-reforma-rural-integral-del-acuerdo-de-paz-3593157",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-13T15:38:47+00:00",
+      "fecha": "2026-10-13T17:30:24+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "disidencias"
       ]
     },
     {
@@ -452,22 +516,6 @@
       ]
     },
     {
-      "id": "61dc86944c2f",
-      "titulo": "‘En estos lugares, más que Fuerza Pública, se piden políticas públicas’: magistrado Juan Cantillo tras imputación a ex-Farc por crimenes en Amazonía",
-      "resumen": "El magistrado de la JEP advirtió que hoy la JEP ya no puede ingresar a esos territorios por razones de seguridad.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/en-estos-lugares-mas-que-fuerza-publica-se-piden-politicas-publicas-magistrado-juan-cantillo-tras-imputacion-a-ex-farc-por-crimenes-en-amazonia-3593079",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-13T14:09:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
       "id": "62313cefb19f",
       "titulo": "Una menor de 16 años murió durante el bombardeo contra las disidencias de 'Calarcá' en el Catatumbo",
       "resumen": "Mindefensa, Jorge Mora, confirmó que la adolescente estaba en uno de los campamentos del frente 33. Estos son los detalles de la operación aérea.",
@@ -484,22 +532,6 @@
       ]
     },
     {
-      "id": "6ce7e1d009bc",
-      "titulo": "La pista de los drones que llevó al Ejército hasta alias el Tuerto en el Chocó, integrante de Eln",
-      "resumen": "El capturado es presunto miembro de la comisión señalada de dinamizar ataques con estos dispositivos en esa región.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-pista-de-los-drones-que-llevo-al-ejercito-hasta-alias-el-tuerto-en-el-choco-integrante-de-eln-3593046",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-12T22:02:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
       "id": "750236a56ebb",
       "titulo": "Las frases más contundentes del canciller Omar Bula en su intervención ante el Consejo de Seguridad: habló de promoción ideológica del acuerdo de paz",
       "resumen": "El jefe de la diplomacia se dirigió por primera vez a esta instancia en medio de la presentación del informe trimestral de la Misión de Verificación.",
@@ -513,86 +545,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "40d1ded51330",
-      "titulo": "Alias Ferley Ríos, el cabecilla de las disidencias de ‘Iván Mordisco’, señalado por el atentado contra el peaje de El Bordo, en Cauca",
-      "resumen": "Tiene orden de captura por secuestro y extorsión. Las autoridades ofrecen hasta 1.000 millones de pesos por información que permita capturarlo.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-ferley-rios-el-cabecilla-de-las-disidencias-de-ivan-mordisco-senalado-por-el-atentado-contra-el-peaje-de-el-bordo-en-cauca-3593001",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-12T15:14:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "554aed85244b",
-      "titulo": "Balance: cuatro municipios del Cauca concentran una nueva escalada de violencia en las últimas 72 horas",
-      "resumen": "El atentado contra el peaje de El Bordo marcó el último caso que alteró el orden público en el departamento.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/balance-cuatro-municipios-del-cauca-concentran-una-nueva-escalada-de-violencia-en-las-ultimas-72-horas-3592987",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-12T13:54:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "d707e69fe643",
-      "titulo": "Capturan a cinco presuntos integrantes del Clan del Golfo en Antioquia y Chocó: uno es requerido en extradición por EE. UU.",
-      "resumen": "Alias ‘Caliche’ y otros tres señalados de participar en un ataque contra policías fueron detenidos en Antioquia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-cinco-presuntos-integrantes-del-clan-del-golfo-en-antioquia-y-choco-uno-es-requerido-en-extradicion-por-ee-uu-3592943",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-12T00:57:36+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "10f24e5da551",
-      "titulo": "Zelenski ofrece celebrar elecciones si Rusia acepta 60 días de alto el fuego",
-      "resumen": "Trump afirma que Rusia y Ucrania han alcanzado un \"alto el fuego energético\", pero el presidente ucraniano asegura no estar al corriente Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/11/6acb9d2921efa0e3338b457a.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-11T17:59:55+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
-      "id": "d4f0875907ae",
-      "titulo": "Ucrania ataca el tercer centro de datos del gigante informático ruso Yandex e interrumpe sus servicios",
-      "resumen": "Rusia también ha atacado el centro de datos Tenet en Odesa, clave para el ejército ucraniano en la recopilación y procesado de información Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/11/6acb35e6e85ece66258b4575.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-11T17:20:42+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ejercito ucraniano"
       ]
     },
     {
@@ -620,22 +572,6 @@
       "seccion": "Política / Proceso de paz",
       "region": "nacional",
       "fecha": "2026-10-09T02:23:03+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "f893f26401d5",
-      "titulo": "Los alcances de la revisión al acuerdo de paz que prepara el gobierno de Abelardo De La Espriella: ¿qué dirá ante el Consejo de Seguridad?",
-      "resumen": "El 12 de octubre se expondrán reparos. Ajustes tienen límites constitucionales, pero podrían concentrarse en cambios administrativos.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/los-alcances-de-la-revision-al-acuerdo-de-paz-que-prepara-el-gobierno-de-abelardo-de-la-espriella-que-dira-ante-el-consejo-de-seguridad-3591157",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-05T15:58:05+00:00",
       "temas": [
         "Conflicto armado"
       ],
