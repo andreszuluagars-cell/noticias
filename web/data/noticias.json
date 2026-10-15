@@ -1,40 +1,8 @@
 {
-  "generado_en": "2026-10-14T15:20:45.208240+00:00",
-  "total_revisadas": 266,
-  "total_relevantes": 37,
+  "generado_en": "2026-10-15T15:12:24.295635+00:00",
+  "total_revisadas": 267,
+  "total_relevantes": 35,
   "noticias": [
-    {
-      "id": "eb3ecf70ed50",
-      "titulo": "El presidente de Ecuador anuncia un nuevo toque de queda en la costa para noviembre",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/el-presidente-de-ecuador-anuncia-un-nuevo-toque-de-queda-en-la-costa-para-noviembre-daniel-noboa-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-14T15:20:45.036633+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "toque de queda"
-      ]
-    },
-    {
-      "id": "eec1e90f1aaa",
-      "titulo": "Por intentar evitar un homicidio, resultó herido: así fue el ataque armado en Ocaña",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/por-intentar-evitar-un-homicidio-resulto-herido-asi-fue-el-ataque-armado-en-ocana",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-14T15:20:41.786099+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
     {
       "id": "5c6a2e55313a",
       "titulo": "Bombardean campamentos de las disidencias de las Farc en el Catatumbo",
@@ -43,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:41.786015+00:00",
+      "fecha": "2026-10-15T15:12:21.220440+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,35 +20,19 @@
       ]
     },
     {
-      "id": "fecbb75283ae",
-      "titulo": "Paz y derechos humanos",
+      "id": "d1c036cf1467",
+      "titulo": "Bombardeo contra el frente 33 de las disidencias de las Farc: así fue la operación militar en el Catatumbo",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/paz-y-derechos-humanos",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/bombardeo-contra-el-frente-33-de-las-disidencias-de-las-farc-asi-fue-la-operacion-militar",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:41.235242+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "9d1803eb7021",
-      "titulo": "ELN gana suelo en La Guajira tras caída de Bendito Menor",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/paz-y-derechos-humanos/eln-gana-suelo-la-guajira-tras-caida-bendito-menor-DA42170542",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-14T15:20:41.235236+00:00",
+      "fecha": "2026-10-15T15:12:21.220411+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
@@ -91,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:41.234905+00:00",
+      "fecha": "2026-10-15T15:12:20.644085+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,51 +52,67 @@
       ]
     },
     {
-      "id": "acff233b9b8f",
-      "titulo": "Ataque con explosivos aéreos contra la Policía en Dagua enciende las alarmas en el Valle del Cauca",
+      "id": "285935eb083e",
+      "titulo": "Ataque del ELN en San José del Palmar, Chocó, dejó 9 militares heridos; esto se sabe",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ataque-con-explosivos-aereos-contra-la-policia-en-dagua-enciende-las-alarmas-en-el-valle-del-cauca/202608/",
+      "url": "https://elcolombiano.com/colombia/ataque-al-ejercito-en-san-jose-del-palmar-choco-KC42267379",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-15T15:12:20.643767+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "0f435bc24fd8",
+      "titulo": "Nueve militares heridos deja violento ataque con drones con explosivos del ELN en Chocó",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/nueve-militares-heridos-deja-violento-ataque-con-drones-con-explosivos-del-eln-en-choco/202613/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.749225+00:00",
+      "fecha": "2026-10-15T15:12:20.184098+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "eln"
       ]
     },
     {
-      "id": "711eecd90c78",
-      "titulo": "Del diálogo de Santos al sometimiento de De la Espriella: ¿qué pasó con el Acuerdo de Paz?",
+      "id": "e777464a3a83",
+      "titulo": "Enfrentamientos entre manifestantes y agentes del UNDMO en el Parque de los Periodistas",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/acuerdo-de-paz-cumple-10-anos-del-dialogo-de-santos-al-sometimiento-de-de-la-espriella-que-ha-pasado-en-colombia/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/bogota/articulo/enfrentamientos-entre-manifestantes-y-agentes-del-undmo-en-el-parque-de-los-periodistas/202643/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.282042+00:00",
+      "fecha": "2026-10-15T15:12:20.183995+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "enfrentamientos"
       ]
     },
     {
-      "id": "d12d3a2135ce",
-      "titulo": "Atrapados en sus territorios: el encierro que impone el conflicto armado",
+      "id": "d6650e8ca22c",
+      "titulo": "Gobernadora del Chocó, Nubia Carolina Córdoba, alerta por grave ataque con drones a una base militar",
       "resumen": "",
-      "url": "https://www.elespectador.com/colombia-20/atrapados-en-sus-territorios-el-encierro-que-impone-el-conflicto-armado/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/cali/articulo/gobernadora-del-choco-nubia-carolina-cordoba-alerta-por-grave-ataque-con-drones-a-una-base-militar/202626/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.282037+00:00",
+      "fecha": "2026-10-15T15:12:20.183861+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "conflicto armado"
+        "ataque con drones"
       ]
     },
     {
@@ -155,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281972+00:00",
+      "fecha": "2026-10-15T15:12:19.614919+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281958+00:00",
+      "fecha": "2026-10-15T15:12:19.614910+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281953+00:00",
+      "fecha": "2026-10-15T15:12:19.614905+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281918+00:00",
+      "fecha": "2026-10-15T15:12:19.614896+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281912+00:00",
+      "fecha": "2026-10-15T15:12:19.614891+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281906+00:00",
+      "fecha": "2026-10-15T15:12:19.614872+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281898+00:00",
+      "fecha": "2026-10-15T15:12:19.614867+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281874+00:00",
+      "fecha": "2026-10-15T15:12:19.614846+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281867+00:00",
+      "fecha": "2026-10-15T15:12:19.614841+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281860+00:00",
+      "fecha": "2026-10-15T15:12:19.614836+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-14T15:20:40.281852+00:00",
+      "fecha": "2026-10-15T15:12:19.614830+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -324,35 +292,35 @@
       ]
     },
     {
-      "id": "5fe446fa4162",
-      "titulo": "Con apoyo de la DEA, autoridades colombianas incautaron una tonelada de cocaína en Santa Marta perteneciente a la facción de ‘Los Pachenca’ que lideraba Bendito Menor: el cargamento tenía como destino Estados Unidos",
-      "resumen": "El jefe de Estado agregó que el hallazgo forma parte de las acciones contra las fuentes de financiación de los grupos armados ilegales en la región",
-      "url": "https://www.infobae.com/colombia/2026/10/14/con-apoyo-de-la-dea-autoridades-colombianas-incautaron-una-tonelada-de-cocaina-en-santa-marta-perteneciente-a-la-faccion-de-los-pachenca-que-lideraba-bendito-menor-el-cargamento-tenia-como-destino-estados-unidos/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-10-14T15:19:26+00:00",
+      "id": "a34335c45694",
+      "titulo": "“El que menos ejecutó fue el gobierno Petro”: dardo sobre implementación del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/gobierno-de-de-la-espriella-habla-de-la-deuda-de-la-administracion-petro-con-la-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-15T15:12:19.614784+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "acuerdo de paz"
       ]
     },
     {
-      "id": "7cdd14f9dddc",
-      "titulo": "El accidente que dejó a Locomotora Castro 27 días en coma en 2005 y su regreso a los rings nueve meses más tarde",
-      "resumen": "El Roña impactó su vehículo contra un árbol un mes después de vencer por nocaut a Derrick Harmon en el Luna Park. Luego protagonizaría dos combates más",
-      "url": "https://www.infobae.com/deportes/2026/10/14/el-accidente-que-dejo-a-locomotora-castro-27-dias-en-coma-en-2005-y-su-regreso-a-los-rings-nueve-meses-mas-tarde/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-10-14T15:11:20+00:00",
+      "id": "a26f04b34379",
+      "titulo": "Gobierno del presidente De La Espriella atribuye a la administración Petro la ejecución más baja del acuerdo de paz: apenas el 4,66 %",
+      "resumen": "El director del Dapre, Carlos Andrés Ríos, entregó cifras del Plan Marco de Implementación.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-del-presidente-de-la-espriella-atribuye-a-la-administracion-petro-la-ejecucion-mas-baja-del-acuerdo-de-paz-4-3593712",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-15T14:26:34+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "acuerdo de paz"
       ]
     },
     {
@@ -363,12 +331,44 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-14T14:38:30+00:00",
+      "fecha": "2026-10-15T12:09:15+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "grupos armados"
+      ]
+    },
+    {
+      "id": "39206997b5bf",
+      "titulo": "Drones con granadas, minas en colegios y una guerra sin cuartel: Defensoría alerta por grave situación de seguridad en Jamundí",
+      "resumen": "La Defensoría del Pueblo advierte qué puede pasar en este municipio clave del Valle si el Estado no reacciona.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/drones-con-granadas-minas-en-colegios-y-una-guerra-sin-cuartel-defensoria-alerta-por-grave-situacion-de-seguridad-en-jamundi-3593685",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-15T11:32:30+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "defensoria del pueblo"
+      ]
+    },
+    {
+      "id": "a37780ad7f89",
+      "titulo": "Ucrania ataca una refinería rusa a 200 kilómetros de Moscú",
+      "resumen": "El líder ucraniano no ocultó su enfado con EEUU por la evidente distancia que Trump ha tomado con su gobierno al retirar al ejército ucraniano información de inteligencia, lo que les ha privado de sistemas de alerta temprana ante ataques con misiles balísticos Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad08812e4d4d877328b4587.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-15T08:00:21+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ejercito ucraniano"
       ]
     },
     {
@@ -379,28 +379,12 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-14T13:47:03+00:00",
+      "fecha": "2026-10-15T02:17:55+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "b5bbdaf3142f",
-      "titulo": "El juicio por Nord Stream arranca con un intento de sabotaje jurídico: \"Tiene que defenderse con las manos atadas\"",
-      "resumen": "La defensa del acusado alega que no puede declarar sin permiso del Ejército ucraniano Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/14/6acf805be9cf4a32678b45a9.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-14T13:27:33+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ejercito ucraniano"
       ]
     },
     {
@@ -411,7 +395,7 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-14T11:25:02+00:00",
+      "fecha": "2026-10-15T02:13:13+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -420,19 +404,99 @@
       ]
     },
     {
-      "id": "1ccc229b93aa",
-      "titulo": "Las 10 claves del proyecto de sometimiento para grupos armados que reemplazará a la 'paz total'",
-      "resumen": "Plantea el sometimiento a la justicia ordinaria. Se busca su aprobación en Congreso antes del 4 de noviembre, cuando vencen prórrogas de la Ley 418.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-10-claves-del-proyecto-de-sometimiento-para-grupos-armados-que-reemplazara-a-la-paz-total-3593291",
+      "id": "0cbff4295569",
+      "titulo": "Rastreo a los celulares y antenas en la selva, la tecnología con la que se busca llegar hasta los escondites de los cabecillas de grupos armados",
+      "resumen": "La iniciativa hace parte de la estrategia para enfrentar a estructuras que suman más de 29.000 integrantes.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-operacion-tecnologica-con-la-que-el-gobierno-busca-llegar-hasta-los-escondites-de-los-cabecillas-3593524",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-14T11:23:32+00:00",
+      "fecha": "2026-10-15T02:09:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "grupos armados"
+      ]
+    },
+    {
+      "id": "14a6090369bb",
+      "titulo": "Ataque con drones cargados con explosivos atribuido al Eln deja nueve militares heridos en Chocó",
+      "resumen": "Uniformados pertenecen al Batallón de Ingenieros y fueron atacados en San José del Palmar. Ejército anunció que reforzará las operaciones en la zona.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-cargados-con-explosivos-atribuido-al-eln-deja-nueve-militares-heridos-en-choco-3593609",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T22:36:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "b5bbdaf3142f",
+      "titulo": "El juicio por Nord Stream arranca con un intento de sabotaje jurídico: \"Tiene que defenderse con las manos atadas\"",
+      "resumen": "La defensa del acusado alega que no puede declarar sin permiso del Ejército ucraniano Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/14/6acf805be9cf4a32678b45a9.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-14T18:13:27+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ejercito ucraniano"
+      ]
+    },
+    {
+      "id": "5d691945317f",
+      "titulo": "La información de un disidente que se sometió a la justicia permitió descubrir un arsenal de ‘Iván Mordisco’ en Guaviare",
+      "resumen": "Tres señalados integrantes de la estructura Martín Villa abandonaron el grupo armado en Calamar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-informacion-de-un-disidente-que-se-sometio-a-la-justicia-permitio-descubrir-un-arsenal-de-ivan-mordisco-en-guaviare-3593537",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T18:03:29+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupo armado"
+      ]
+    },
+    {
+      "id": "b8ac1af47fe2",
+      "titulo": "Ejército abatió a presunto disidente en Tuluá y destruyó seis explosivos instalados en Jamundí",
+      "resumen": "Las acciones estuvieron dirigidas contra los frentes Yair Bermúdez y Jaime Martínez, dos estructuras que mantienen presencia en el Valle del Cauca.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-abatio-a-presunto-disidente-en-tulua-y-destruyo-seis-explosivos-instalados-en-jamundi-3593532",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-14T17:39:43+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "0a07c5e71b45",
+      "titulo": "Turquía redobla la presión contra medios opositores e interviene uno de los canales más vistos en plena emisión",
+      "resumen": "La redada, criticada por un eurodiputado y por organizaciones de derechos humanos, convierte al canal en el quinto gran medio turco que pasa a manos de un interventor Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/14/6acfaaa6fdddff5b568b4584.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-14T16:22:00+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
       ]
     },
     {
@@ -468,70 +532,6 @@
       ]
     },
     {
-      "id": "df5c43a883f5",
-      "titulo": "Los reveladores datos del más reciente ‘conteo al enemigo’: así está el poder de los grupos armados en cada región de Colombia",
-      "resumen": "EL TIEMPO tuvo acceso a un informe de inteligencia realizado a comienzos del segundo semestre de 2026.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-reveladores-datos-del-mas-reciente-conteo-al-enemigo-asi-esta-el-poder-de-los-grupos-armados-en-cada-region-de-colombia-3593194",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-13T21:32:56+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "38c4c5559916",
-      "titulo": "Golpe a las finanzas de las disidencias de ‘Iván Mordisco’ en Cauca: minería ilegal movía más de $2.250 millones al mes",
-      "resumen": "Dos unidades de extracción de oro fueron intervenidas por el Ejército y la Policía en Villa Rica, Cauca.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-de-las-disidencias-de-ivan-mordisco-en-cauca-mineria-ilegal-movia-mas-de-2-250-millones-al-mes-3593227",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-13T17:30:24+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "8c5b47ff536f",
-      "titulo": "Diez fusiles, una ametralladora y casi 4.000 cartuchos fueron incautados tras un bombardeo en el Catatumbo",
-      "resumen": "El mindefensa, Jorge Mora, entregó detalles de la operación contra el frente 33 de las disidencias de alias ‘Calarcá’.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/diez-fusiles-una-ametralladora-y-casi-4-000-cartuchos-fueron-incautados-tras-un-bombardeo-en-el-catatumbo-3593179",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-13T15:10:16+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "62313cefb19f",
-      "titulo": "Una menor de 16 años murió durante el bombardeo contra las disidencias de 'Calarcá' en el Catatumbo",
-      "resumen": "Mindefensa, Jorge Mora, confirmó que la adolescente estaba en uno de los campamentos del frente 33. Estos son los detalles de la operación aérea.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/una-menor-de-16-anos-murio-durante-el-bombardeo-contra-las-disidencias-de-calarca-en-el-catatumbo-3593092",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-13T12:05:06+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
       "id": "750236a56ebb",
       "titulo": "Las frases más contundentes del canciller Omar Bula en su intervención ante el Consejo de Seguridad: habló de promoción ideológica del acuerdo de paz",
       "resumen": "El jefe de la diplomacia se dirigió por primera vez a esta instancia en medio de la presentación del informe trimestral de la Misión de Verificación.",
@@ -561,38 +561,6 @@
       ],
       "palabras_clave": [
         "derechos humanos"
-      ]
-    },
-    {
-      "id": "f44885d01559",
-      "titulo": "Misión de Verificación de la ONU pide mantener esfuerzos para implementar el Acuerdo de Paz ante incertidumbre institucional con De La Espriella",
-      "resumen": "En su informe trimestral, advierte preocupación por financiación de la institucionalidad de la reincorporación, en medio de la revisión del Gobierno.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/mision-de-verificacion-de-la-onu-pide-mantener-esfuerzos-para-implementar-el-acuerdo-de-paz-ante-incertidumbre-institucional-3592269",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-09T02:23:03+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "bed93e5c2700",
-      "titulo": "‘La JEP tiene deficiencias que se pueden corregir’: habla el exnegociador de paz Humberto de la Calle",
-      "resumen": "El exnegociador llama al Gobierno y al tribunal a buscar un punto común frente a la situación fiscal, sin desconocer el espíritu del acuerdo de paz.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/la-jep-tiene-deficiencias-que-se-pueden-corregir-habla-el-exnegociador-de-paz-humberto-de-la-calle-3591159",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-05T04:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     }
   ]
