@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-10-15T15:12:24.295635+00:00",
+  "generado_en": "2026-10-16T14:57:49.358219+00:00",
   "total_revisadas": 267,
-  "total_relevantes": 35,
+  "total_relevantes": 37,
   "noticias": [
     {
       "id": "5c6a2e55313a",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:21.220440+00:00",
+      "fecha": "2026-10-16T14:57:46.667318+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,28 +27,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:21.220411+00:00",
+      "fecha": "2026-10-16T14:57:46.667304+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "079e9e6372b4",
-      "titulo": "Defensoría pidió replantear los bombardeos contra grupos armados tras muerte de menores: “Son víctimas”",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/defensoria-pide-gobierno-replantear-bombardeos-contra-grupos-armados-muerte-menores-GF42210053",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-15T15:12:20.644085+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
       ]
     },
     {
@@ -59,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:20.643767+00:00",
+      "fecha": "2026-10-16T14:57:45.975296+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,51 +52,115 @@
       ]
     },
     {
-      "id": "0f435bc24fd8",
-      "titulo": "Nueve militares heridos deja violento ataque con drones con explosivos del ELN en Chocó",
+      "id": "1568acbf7b0d",
+      "titulo": "Accidente en Cauca deja cuatro muertos y 56 heridos tras presunto ataque armado a bus",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/nueve-militares-heridos-deja-violento-ataque-con-drones-con-explosivos-del-eln-en-choco/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/accidente-bus-cauca-heridos-muertos-via-panamericana-HM42281622",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:20.184098+00:00",
+      "fecha": "2026-10-16T14:57:45.975244+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "ataque armado"
       ]
     },
     {
-      "id": "e777464a3a83",
-      "titulo": "Enfrentamientos entre manifestantes y agentes del UNDMO en el Parque de los Periodistas",
+      "id": "9b427e78fa23",
+      "titulo": "Golpe a las disidencias en Ituango: Ejército encontró explosivos, una granada y más de 60 detonadores",
       "resumen": "",
-      "url": "https://semana.com/nacion/bogota/articulo/enfrentamientos-entre-manifestantes-y-agentes-del-undmo-en-el-parque-de-los-periodistas/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/antioquia/ejercito-halla-explosivos-detonadores-disidencias-farc-ituango-OE42316118",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:20.183995+00:00",
+      "fecha": "2026-10-16T14:57:45.975117+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "enfrentamientos"
+        "disidencias"
       ]
     },
     {
-      "id": "d6650e8ca22c",
-      "titulo": "Gobernadora del Chocó, Nubia Carolina Córdoba, alerta por grave ataque con drones a una base militar",
+      "id": "de280d839277",
+      "titulo": "Policía encontró caleta con arsenal militar del Clan del Golfo y las Farc: explosivos, fusiles y prendas",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/gobernadora-del-choco-nubia-carolina-cordoba-alerta-por-grave-ataque-con-drones-a-una-base-militar/202626/",
+      "url": "https://semana.com/nacion/articulo/policia-encontro-caleta-con-arsenal-militar-del-clan-del-golfo-y-las-farc-explosivos-fusiles-y-prendas/202621/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:20.183861+00:00",
+      "fecha": "2026-10-16T14:57:45.735546+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "ataque con drones"
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "a03eff2728b7",
+      "titulo": "Abelardo De La Espriella anunció contundente golpe contra disidencias de las Farc",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-contundente-golpe-contra-disidencias-de-las-farc/202608/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-16T14:57:45.735526+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "fb5f291c323e",
+      "titulo": "Atentado en Cali: Fuerte explosión en el Puente Nuevo deja dos policías heridos entre Córdoba y El Caney",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/atentado-en-cali-fuerte-explosion-en-el-puente-nuevo-deja-dos-policias-heridos-entre-cordoba-y-el-caney/202610/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-16T14:57:45.735488+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "98cb332d8148",
+      "titulo": "Todo apunta a que el niño asesinado en El Carmen de Viboral cayó en medio de guerra entre Clan del Golfo y El Mesa",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/todo-apunta-a-que-nino-asesinado-en-el-carmen-de-viboral-cayo-en-medio-de-guerra-entre-clan-del-golfo-y-el-mesa/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-16T14:57:45.735472+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "482cf2efbf08",
+      "titulo": "Alcalde Alejandro Eder se pronunció tras atentado en Cali que dejó varios policías heridos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/alcalde-alejandro-eder-se-pronuncio-tras-atentado-en-cali-que-dejo-varios-policias-heridos/202645/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-16T14:57:45.735431+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
       ]
     },
     {
@@ -123,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614919+00:00",
+      "fecha": "2026-10-16T14:57:45.379504+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614910+00:00",
+      "fecha": "2026-10-16T14:57:45.379499+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614905+00:00",
+      "fecha": "2026-10-16T14:57:45.379496+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614896+00:00",
+      "fecha": "2026-10-16T14:57:45.379492+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614891+00:00",
+      "fecha": "2026-10-16T14:57:45.379489+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614872+00:00",
+      "fecha": "2026-10-16T14:57:45.379478+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614867+00:00",
+      "fecha": "2026-10-16T14:57:45.379476+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614846+00:00",
+      "fecha": "2026-10-16T14:57:45.379461+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614841+00:00",
+      "fecha": "2026-10-16T14:57:45.379458+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614836+00:00",
+      "fecha": "2026-10-16T14:57:45.379452+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614830+00:00",
+      "fecha": "2026-10-16T14:57:45.379449+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,12 +347,60 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-15T15:12:19.614784+00:00",
+      "fecha": "2026-10-16T14:57:45.379422+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "d498fc499652",
+      "titulo": "Premio Camina entregará $25 millones a una organización que apoye a sobrevivientes de minas antipersonal",
+      "resumen": "El reconocimiento busca fortalecer iniciativas locales que promuevan los derechos, la rehabilitación y la inclusión social de las víctimas.",
+      "url": "https://www.eltiempo.com/justicia/servicios/premio-camina-entregara-25-millones-a-una-organizacion-que-apoye-a-sobrevivientes-de-minas-antipersonal-3593831",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-16T11:30:59+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "minas antipersonal"
+      ]
+    },
+    {
+      "id": "a37780ad7f89",
+      "titulo": "Ucrania ataca una refinería rusa a 200 kilómetros de Moscú",
+      "resumen": "El líder ucraniano no ocultó su enfado con EEUU por la evidente distancia que Trump ha tomado con su gobierno al retirar al ejército ucraniano información de inteligencia, lo que les ha privado de sistemas de alerta temprana ante ataques con misiles balísticos Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad08812e4d4d877328b4587.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-15T18:11:29+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "ejercito ucraniano"
+      ]
+    },
+    {
+      "id": "4dabbeca3bef",
+      "titulo": "Maduro y su mujer insisten en el tribunal de Nueva York en que las nuevas acusaciones por tortura son \"falsas\"",
+      "resumen": "El inicio del juicio se ha aplazado del 1 de junio al 14, después de la petición de ambas partes Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad10066fdddff60468b457e.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-15T16:40:51+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "tortura"
       ]
     },
     {
@@ -337,70 +433,6 @@
       ],
       "palabras_clave": [
         "grupos armados"
-      ]
-    },
-    {
-      "id": "39206997b5bf",
-      "titulo": "Drones con granadas, minas en colegios y una guerra sin cuartel: Defensoría alerta por grave situación de seguridad en Jamundí",
-      "resumen": "La Defensoría del Pueblo advierte qué puede pasar en este municipio clave del Valle si el Estado no reacciona.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/drones-con-granadas-minas-en-colegios-y-una-guerra-sin-cuartel-defensoria-alerta-por-grave-situacion-de-seguridad-en-jamundi-3593685",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-15T11:32:30+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "a37780ad7f89",
-      "titulo": "Ucrania ataca una refinería rusa a 200 kilómetros de Moscú",
-      "resumen": "El líder ucraniano no ocultó su enfado con EEUU por la evidente distancia que Trump ha tomado con su gobierno al retirar al ejército ucraniano información de inteligencia, lo que les ha privado de sistemas de alerta temprana ante ataques con misiles balísticos Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad08812e4d4d877328b4587.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-15T08:00:21+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ejercito ucraniano"
-      ]
-    },
-    {
-      "id": "4d3fd620f8ff",
-      "titulo": "Cae alias Emilio Zapata, señalado de dinamizar las confrontaciones armadas entre el grupo de ‘Calarcá’ y ‘clan del Golfo’ en Antioquia",
-      "resumen": "Las autoridades lo vinculan con un enfrentamiento que dejó 13 muertos en Remedios.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-alias-emilio-zapata-senalado-de-dinamizar-las-confrontaciones-armadas-entre-el-grupo-de-calarca-y-clan-del-golfo-en-antioquia-3593429",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-15T02:17:55+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "ad41edadfc07",
-      "titulo": "Unicef alerta por 163 escuelas atacadas o usadas en medio del conflicto armado en los últimos tres años",
-      "resumen": "Cauca, Arauca, Norte de Santander y Chocó concentran el mayor número de eventos. Este es el panorama.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/unicef-alerta-por-163-escuelas-atacadas-o-usadas-en-medio-del-conflicto-armado-en-los-ultimos-tres-anos-3593052",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-15T02:13:13+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "conflicto armado"
       ]
     },
     {
