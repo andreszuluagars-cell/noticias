@@ -1,8 +1,24 @@
 {
-  "generado_en": "2026-10-16T14:57:49.358219+00:00",
-  "total_revisadas": 267,
-  "total_relevantes": 37,
+  "generado_en": "2026-10-17T13:50:46.510395+00:00",
+  "total_revisadas": 264,
+  "total_relevantes": 31,
   "noticias": [
+    {
+      "id": "29f478531d1a",
+      "titulo": "El papa pidió a Putin un alto el fuego en Oleshki, Ucrania",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/el-papa-leon-xiv-pidio-a-vladimir-putin-un-alto-el-fuego-en-oleshki-ucrania-rusia-vaticano-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-17T13:50:46.336445+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "alto el fuego"
+      ]
+    },
     {
       "id": "5c6a2e55313a",
       "titulo": "Bombardean campamentos de las disidencias de las Farc en el Catatumbo",
@@ -11,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:46.667318+00:00",
+      "fecha": "2026-10-17T13:50:43.526072+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:46.667304+00:00",
+      "fecha": "2026-10-17T13:50:43.526043+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,35 +52,19 @@
       ]
     },
     {
-      "id": "285935eb083e",
-      "titulo": "Ataque del ELN en San José del Palmar, Chocó, dejó 9 militares heridos; esto se sabe",
+      "id": "1ed90e91f822",
+      "titulo": "Noche violenta en Cúcuta: un dragoneante del Inpec asesinado, un policía herido y explosivos en hechos aislados",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-al-ejercito-en-san-jose-del-palmar-choco-KC42267379",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/noche-violenta-en-cucuta-un-dragoneante-del-inpec-asesinado-un-policia-herido-y-explosivos",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.975296+00:00",
+      "fecha": "2026-10-17T13:50:43.525980+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "1568acbf7b0d",
-      "titulo": "Accidente en Cauca deja cuatro muertos y 56 heridos tras presunto ataque armado a bus",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/accidente-bus-cauca-heridos-muertos-via-panamericana-HM42281622",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.975244+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
+        "explosivos"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.975117+00:00",
+      "fecha": "2026-10-17T13:50:42.749029+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,14 +84,14 @@
       ]
     },
     {
-      "id": "de280d839277",
-      "titulo": "Policía encontró caleta con arsenal militar del Clan del Golfo y las Farc: explosivos, fusiles y prendas",
+      "id": "93e9038468c0",
+      "titulo": "Disidente experto en drones murió al ser atacado por un dron del Clan del Golfo en Antioquia",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/policia-encontro-caleta-con-arsenal-militar-del-clan-del-golfo-y-las-farc-explosivos-fusiles-y-prendas/202621/",
+      "url": "https://semana.com/nacion/medellin/articulo/disidente-experto-en-drones-murio-al-ser-atacado-por-un-dron-del-clan-del-golfo-en-antioquia/202649/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.735546+00:00",
+      "fecha": "2026-10-17T13:50:39.294452+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,30 +100,14 @@
       ]
     },
     {
-      "id": "a03eff2728b7",
-      "titulo": "Abelardo De La Espriella anunció contundente golpe contra disidencias de las Farc",
+      "id": "36bbe9f56c27",
+      "titulo": "Exalcalde de Jamundí fue víctima de un atentado en su contra; murió su escolta",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-contundente-golpe-contra-disidencias-de-las-farc/202608/",
+      "url": "https://semana.com/nacion/articulo/exalcalde-de-jamundi-fue-victima-de-un-atentado-en-su-contra-murio-su-escolta/202636/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.735526+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "fb5f291c323e",
-      "titulo": "Atentado en Cali: Fuerte explosión en el Puente Nuevo deja dos policías heridos entre Córdoba y El Caney",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/atentado-en-cali-fuerte-explosion-en-el-puente-nuevo-deja-dos-policias-heridos-entre-cordoba-y-el-caney/202610/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.735488+00:00",
+      "fecha": "2026-10-17T13:50:39.294392+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,14 +116,14 @@
       ]
     },
     {
-      "id": "98cb332d8148",
-      "titulo": "Todo apunta a que el niño asesinado en El Carmen de Viboral cayó en medio de guerra entre Clan del Golfo y El Mesa",
+      "id": "837131a3efd1",
+      "titulo": "Así estarían construyendo su imperio en Europa el Clan del Golfo, el ELN y las disidencias de las Farc: SEMANA revela informe secreto",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/todo-apunta-a-que-nino-asesinado-en-el-carmen-de-viboral-cayo-en-medio-de-guerra-entre-clan-del-golfo-y-el-mesa/202632/",
+      "url": "https://semana.com/nacion/articulo/asi-estarian-construyendo-su-imperio-en-europa-el-clan-del-golfo-el-eln-y-las-disidencias-de-las-farc-semana-revela-informe-secreto/202607/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.735472+00:00",
+      "fecha": "2026-10-17T13:50:39.294273+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,14 +132,30 @@
       ]
     },
     {
-      "id": "482cf2efbf08",
-      "titulo": "Alcalde Alejandro Eder se pronunció tras atentado en Cali que dejó varios policías heridos",
+      "id": "e9142d6da05d",
+      "titulo": "ELN y sus ojos en Barranquilla: SEMANA revela detalles del presunto nexo con Los Costeños para cometer actos terroristas",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/alcalde-alejandro-eder-se-pronuncio-tras-atentado-en-cali-que-dejo-varios-policias-heridos/202645/",
+      "url": "https://semana.com/nacion/barranquilla/articulo/eln-y-sus-ojos-en-barranquilla-semana-revela-detalles-del-presunto-nexo-con-los-costenos-para-cometer-actos-terroristas/202608/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.735431+00:00",
+      "fecha": "2026-10-17T13:50:39.294250+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "75ec257fd7de",
+      "titulo": "Andrés Ramírez, exalcalde de Jamundí, Valle, reaccionó tras atentado en el que murió su escolta: “Estoy vivo de milagro”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/andres-ramirez-exalcalde-de-jamundi-valle-reacciono-tras-atentado-en-el-que-murio-su-escolta-estoy-vivo-de-milagro/202613/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-17T13:50:39.294161+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379504+00:00",
+      "fecha": "2026-10-17T13:50:38.813035+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379499+00:00",
+      "fecha": "2026-10-17T13:50:38.813026+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379496+00:00",
+      "fecha": "2026-10-17T13:50:38.813019+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379492+00:00",
+      "fecha": "2026-10-17T13:50:38.813010+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379489+00:00",
+      "fecha": "2026-10-17T13:50:38.813006+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379478+00:00",
+      "fecha": "2026-10-17T13:50:38.812984+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379476+00:00",
+      "fecha": "2026-10-17T13:50:38.812979+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379461+00:00",
+      "fecha": "2026-10-17T13:50:38.812956+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379458+00:00",
+      "fecha": "2026-10-17T13:50:38.812950+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379452+00:00",
+      "fecha": "2026-10-17T13:50:38.812944+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379449+00:00",
+      "fecha": "2026-10-17T13:50:38.812938+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-16T14:57:45.379422+00:00",
+      "fecha": "2026-10-17T13:50:38.812895+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -356,19 +356,35 @@
       ]
     },
     {
-      "id": "d498fc499652",
-      "titulo": "Premio Camina entregará $25 millones a una organización que apoye a sobrevivientes de minas antipersonal",
-      "resumen": "El reconocimiento busca fortalecer iniciativas locales que promuevan los derechos, la rehabilitación y la inclusión social de las víctimas.",
-      "url": "https://www.eltiempo.com/justicia/servicios/premio-camina-entregara-25-millones-a-una-organizacion-que-apoye-a-sobrevivientes-de-minas-antipersonal-3593831",
+      "id": "93b83814cab6",
+      "titulo": "El Ejército recuperó en el Meta a una menor que habría estado vinculada a las disidencias de alias Iván Mordisco",
+      "resumen": "La adolescente manifestó pertenecer a la estructura 44 ‘Antonio Ricaurte’, del Bloque Amazonas ‘Manuel Marulanda Vélez’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-ejercito-recupero-en-el-meta-a-una-menor-que-habria-estado-vinculada-a-las-disidencias-de-alias-ivan-mordisco-3594173",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-16T11:30:59+00:00",
+      "fecha": "2026-10-16T23:04:36+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "minas antipersonal"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "8b7142cc1dce",
+      "titulo": "Las torturas persiguen a Nicolás Maduro hasta su celda neoyorquina aunque las niegue",
+      "resumen": "Los terribles relatos de las víctimas del régimen chavista desmontan su \"inocencia\": descargas eléctricas por todo el cuerpo, en especial en los genitales, asfixia mecánica con bolsas de plástico, palizas sistemáticas  y espacios diseñados para el aislamiento y la tortura psicológica Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/16/6ad25ce3e4d4d8855a8b4583.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-16T20:38:54+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "tortura"
       ]
     },
     {
@@ -417,118 +433,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "8d98e76ef796",
-      "titulo": "El documento que revela los multimillonarios negocios criminales que alimentan el poder de los grupos armados en Colombia",
-      "resumen": "EL TIEMPO accedió a un análisis de inteligencia que evidencia cómo la minería, el contrabando, entre otros, sostienen la disputa en los territorios.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-documento-que-revela-los-multimillonarios-negocios-criminales-que-alimentan-el-poder-de-los-grupos-armados-en-colombia-3593443",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-15T12:09:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "0cbff4295569",
-      "titulo": "Rastreo a los celulares y antenas en la selva, la tecnología con la que se busca llegar hasta los escondites de los cabecillas de grupos armados",
-      "resumen": "La iniciativa hace parte de la estrategia para enfrentar a estructuras que suman más de 29.000 integrantes.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-operacion-tecnologica-con-la-que-el-gobierno-busca-llegar-hasta-los-escondites-de-los-cabecillas-3593524",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-15T02:09:40+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "14a6090369bb",
-      "titulo": "Ataque con drones cargados con explosivos atribuido al Eln deja nueve militares heridos en Chocó",
-      "resumen": "Uniformados pertenecen al Batallón de Ingenieros y fueron atacados en San José del Palmar. Ejército anunció que reforzará las operaciones en la zona.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-drones-cargados-con-explosivos-atribuido-al-eln-deja-nueve-militares-heridos-en-choco-3593609",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-14T22:36:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "b5bbdaf3142f",
-      "titulo": "El juicio por Nord Stream arranca con un intento de sabotaje jurídico: \"Tiene que defenderse con las manos atadas\"",
-      "resumen": "La defensa del acusado alega que no puede declarar sin permiso del Ejército ucraniano Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/14/6acf805be9cf4a32678b45a9.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-14T18:13:27+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ejercito ucraniano"
-      ]
-    },
-    {
-      "id": "5d691945317f",
-      "titulo": "La información de un disidente que se sometió a la justicia permitió descubrir un arsenal de ‘Iván Mordisco’ en Guaviare",
-      "resumen": "Tres señalados integrantes de la estructura Martín Villa abandonaron el grupo armado en Calamar.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-informacion-de-un-disidente-que-se-sometio-a-la-justicia-permitio-descubrir-un-arsenal-de-ivan-mordisco-en-guaviare-3593537",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-14T18:03:29+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
-      ]
-    },
-    {
-      "id": "b8ac1af47fe2",
-      "titulo": "Ejército abatió a presunto disidente en Tuluá y destruyó seis explosivos instalados en Jamundí",
-      "resumen": "Las acciones estuvieron dirigidas contra los frentes Yair Bermúdez y Jaime Martínez, dos estructuras que mantienen presencia en el Valle del Cauca.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-abatio-a-presunto-disidente-en-tulua-y-destruyo-seis-explosivos-instalados-en-jamundi-3593532",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-14T17:39:43+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "0a07c5e71b45",
-      "titulo": "Turquía redobla la presión contra medios opositores e interviene uno de los canales más vistos en plena emisión",
-      "resumen": "La redada, criticada por un eurodiputado y por organizaciones de derechos humanos, convierte al canal en el quinto gran medio turco que pasa a manos de un interventor Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/14/6acfaaa6fdddff5b568b4584.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-14T16:22:00+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
       ]
     },
     {
