@@ -1,10 +1,21 @@
 # Monitor Colombia — Conflicto armado, DDHH y DIH
 
-Prototipo funcional de una app móvil (PWA) que filtra y muestra a diario
-noticias sobre **conflicto armado, derechos humanos (DDHH) y Derecho
-Internacional Humanitario (DIH)** publicadas en los principales diarios
-colombianos: El Tiempo, El Espectador, Semana, El Colombiano, El País
-(Cali), La Opinión (Cúcuta) y Vanguardia (Bucaramanga).
+Prototipo funcional de una app móvil (PWA), parte del **Proyecto de
+investigación sobre redes de reclutamiento transnacional**, que filtra y
+muestra a diario noticias sobre **conflicto armado, derechos humanos
+(DDHH), Derecho Internacional Humanitario (DIH) y reclutamiento
+transnacional de ciudadanos colombianos**, cruzando tres niveles de
+fuentes:
+
+- **Nacionales** — El Tiempo, El Espectador, Semana, El Colombiano, El
+  País (Cali), La Opinión (Cúcuta) y Vanguardia (Bucaramanga).
+- **Internacionales** — Infobae, El Mundo, El Universal, La Nación y El
+  Comercio, filtradas solo por conflictos armados, derechos humanos,
+  DIH, mercenarios y la guerra en Ucrania.
+- **Especializadas** — INDEPAZ, Verdad Abierta, CINEP y el Sistema de
+  Alertas Tempranas de la Defensoría del Pueblo, filtradas
+  exclusivamente por reclutamiento transnacional de ciudadanos
+  colombianos para conflictos internacionales.
 
 ## Cómo funciona
 
