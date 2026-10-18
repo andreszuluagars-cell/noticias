@@ -1,54 +1,22 @@
 {
-  "generado_en": "2026-10-17T13:50:46.510395+00:00",
-  "total_revisadas": 264,
-  "total_relevantes": 31,
+  "generado_en": "2026-10-18T14:05:52.701412+00:00",
+  "total_revisadas": 266,
+  "total_relevantes": 39,
   "noticias": [
     {
-      "id": "29f478531d1a",
-      "titulo": "El papa pidió a Putin un alto el fuego en Oleshki, Ucrania",
+      "id": "f536b32533be",
+      "titulo": "Detienen a 2 presuntos implicados en el ataque armado a la diseñadora Elvis Guerra",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/el-papa-leon-xiv-pidio-a-vladimir-putin-un-alto-el-fuego-en-oleshki-ucrania-rusia-vaticano-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
+      "url": "https://oaxaca.eluniversal.com.mx/estatal/detienen-a-dos-de-los-presuntos-implicados-en-el-ataque-armado-a-la-disenadora-elvis-guerra/",
+      "fuente": "El Universal",
+      "seccion": "Mundo (México)",
       "region": "internacional",
-      "fecha": "2026-10-17T13:50:46.336445+00:00",
+      "fecha": "2026-10-18T14:05:51.534577+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
-      "id": "5c6a2e55313a",
-      "titulo": "Bombardean campamentos de las disidencias de las Farc en el Catatumbo",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/bombardean-campamentos-de-las-disidencias-de-las-farc-en-el-catatumbo",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-17T13:50:43.526072+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d1c036cf1467",
-      "titulo": "Bombardeo contra el frente 33 de las disidencias de las Farc: así fue la operación militar en el Catatumbo",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/bombardeo-contra-el-frente-33-de-las-disidencias-de-las-farc-asi-fue-la-operacion-militar",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-17T13:50:43.526043+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
+        "ataque armado"
       ]
     },
     {
@@ -59,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:43.525980+00:00",
+      "fecha": "2026-10-18T14:05:50.186695+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:42.749029+00:00",
+      "fecha": "2026-10-18T14:05:49.844909+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,67 +52,19 @@
       ]
     },
     {
-      "id": "93e9038468c0",
-      "titulo": "Disidente experto en drones murió al ser atacado por un dron del Clan del Golfo en Antioquia",
+      "id": "cfb5e31f5a48",
+      "titulo": "“No es cierto, categóricamente”: secretario de la JEP responde por los $56.000 millones en viáticos y viajes del tribunal",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/disidente-experto-en-drones-murio-al-ser-atacado-por-un-dron-del-clan-del-golfo-en-antioquia/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/secretario-jep-maria-clara-posada-entrevista-viajes-arriendos-PC42374469",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:39.294452+00:00",
+      "fecha": "2026-10-18T14:05:49.844705+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "36bbe9f56c27",
-      "titulo": "Exalcalde de Jamundí fue víctima de un atentado en su contra; murió su escolta",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/exalcalde-de-jamundi-fue-victima-de-un-atentado-en-su-contra-murio-su-escolta/202636/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-17T13:50:39.294392+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "837131a3efd1",
-      "titulo": "Así estarían construyendo su imperio en Europa el Clan del Golfo, el ELN y las disidencias de las Farc: SEMANA revela informe secreto",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-estarian-construyendo-su-imperio-en-europa-el-clan-del-golfo-el-eln-y-las-disidencias-de-las-farc-semana-revela-informe-secreto/202607/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-17T13:50:39.294273+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e9142d6da05d",
-      "titulo": "ELN y sus ojos en Barranquilla: SEMANA revela detalles del presunto nexo con Los Costeños para cometer actos terroristas",
-      "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/eln-y-sus-ojos-en-barranquilla-semana-revela-detalles-del-presunto-nexo-con-los-costenos-para-cometer-actos-terroristas/202608/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-17T13:50:39.294250+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "jep"
       ]
     },
     {
@@ -155,12 +75,140 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:39.294161+00:00",
+      "fecha": "2026-10-18T14:05:49.701388+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "atentado"
+      ]
+    },
+    {
+      "id": "0f824dc6b905",
+      "titulo": "Tres policías heridos tras ataque con explosivos en zona rural de Cali",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/dos-policias-heridos-tras-ataque-con-explosivos-en-zona-rural-de-cali/202647/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701363+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "ac5e17e7886f",
+      "titulo": "Bus fue incinerado por presuntos integrantes del ELN en Santander: esto se sabe",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/bus-fue-incinerado-por-presuntos-integrantes-del-eln-en-santander-esto-se-sabe/202630/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701353+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "434bc7275574",
+      "titulo": "“Exijo actuaciones inmediatas y resultados contundentes”: Gregorio Eljach tras atentado contra el exalcalde de Jamundí",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/exijo-actuaciones-inmediatas-y-resultados-contundentes-gregorio-eljach-tras-atentado-contra-el-exalcalde-de-jamundi/202649/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701332+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "9ea46f6d1c87",
+      "titulo": "Anuncian millonaria recompensa por información sobre responsables del atentado contra el exalcalde de Jamundí",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/anuncian-millonaria-recompensa-por-informacion-sobre-responsables-del-atentado-contra-el-exalcalde-de-jamundi/202612/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701313+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "128433221690",
+      "titulo": "Ejército incauta explosivos, armas y municiones tras combates contra la Segunda Marquetalia en Vichada",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/ejercito-incauta-explosivos-armas-y-municiones-tras-combates-contra-la-segunda-marquetalia-en-vichada/202643/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701267+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "f581c483b1f9",
+      "titulo": "La JEP responde a denuncias sobre supuesto uso indebido de recursos en viajes internacionales",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-jep-responde-a-denuncias-sobre-supuesto-uso-indebido-de-recursos-en-viajes-internacionales/202637/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701230+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "d6824ab07db2",
+      "titulo": "Protestas frente al Museo Nacional terminaron en enfrentamientos con el escuadrón antidisturbios",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/protestas-frente-al-museo-nacional-tras-decision-del-gobierno-terminan-con-intervencion-de-la-unidad-antidisturbios/202659/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701103+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "enfrentamientos"
+      ]
+    },
+    {
+      "id": "cfbcbb83eb78",
+      "titulo": "Soldado resultó herido en un ataque con explosivos, atribuido preliminarmente al ELN, en Arauca",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/soldado-resulto-herido-en-un-ataque-con-explosivos-atribuido-preliminarmente-al-eln-en-arauca/202645/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-18T14:05:49.701077+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -171,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.813035+00:00",
+      "fecha": "2026-10-18T14:05:49.453406+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.813026+00:00",
+      "fecha": "2026-10-18T14:05:49.453396+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.813019+00:00",
+      "fecha": "2026-10-18T14:05:49.453391+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.813010+00:00",
+      "fecha": "2026-10-18T14:05:49.453377+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.813006+00:00",
+      "fecha": "2026-10-18T14:05:49.453373+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812984+00:00",
+      "fecha": "2026-10-18T14:05:49.453353+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812979+00:00",
+      "fecha": "2026-10-18T14:05:49.453348+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812956+00:00",
+      "fecha": "2026-10-18T14:05:49.453327+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812950+00:00",
+      "fecha": "2026-10-18T14:05:49.453322+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812944+00:00",
+      "fecha": "2026-10-18T14:05:49.453317+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +379,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812938+00:00",
+      "fecha": "2026-10-18T14:05:49.453312+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,12 +395,109 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-17T13:50:38.812895+00:00",
+      "fecha": "2026-10-18T14:05:49.453278+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "cb22669c6df9",
+      "titulo": "'La JEP debe terminar su período': Iván Mauricio Lenis, presidente de la Corte Suprema",
+      "resumen": "El magistrado habla de la relación con el Gobierno, la reforma del sistema penal, el futuro de la JEP y un debate pensional ‘no popular’.",
+      "url": "https://www.eltiempo.com/justicia/cortes/la-jep-debe-terminar-su-periodo-ivan-mauricio-lenis-presidente-de-la-corte-suprema-3594323",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-18T10:01:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "a49d0f8e6c22",
+      "titulo": "Ejército capturó en Puerto Rico, Meta, a 'Junior Rojas', señalado como segundo cabecilla y jefe financiero de la estructura Marco Aurelio Buendía",
+      "resumen": "Las autoridades lo relacionan con extorsiones a comerciantes, producción de narcóticos y presunto reclutamiento de menores de edad.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-capturo-en-puerto-rico-meta-a-junior-rojas-senalado-como-segundo-cabecilla-y-jefe-financiero-de-la-estructura-marco-aurelio-buendia-3594378",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-18T07:34:28+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "edf757875246",
+      "titulo": "Ataque con explosivos contra infraestructura vial en Santander de Quilichao, Cauca, restringe la movilidad de más de 200 familias",
+      "resumen": "La Tercera División del Ejército señaló preliminarmente a la estructura Jaime Martínez y desplegó tropas para descartar nuevas amenazas en la zona.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-explosivos-contra-infraestructura-vial-en-santander-de-quilichao-cauca-restringe-la-movilidad-de-mas-de-200-familias-3594374",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-18T05:03:33+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "2e8bac92fa3f",
+      "titulo": "Alias El Señor, el narco que operaba laboratorios en el Catatumbo y enviaba tres toneladas de cocaína al mes a EE. UU.",
+      "resumen": "Fue capturado en Cúcuta durante una operación de la Policía y la DEA. Según las autoridades, tenía acuerdos con el Eln y ‘los Pachenca’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-el-senor-el-narco-que-operaba-laboratorios-en-el-catatumbo-y-enviaba-tres-toneladas-de-cocaina-al-mes-a-ee-uu-3594291",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-17T17:34:21+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "4ae84215d503",
+      "titulo": "Combate en zona rural de La Primavera, Vichada, deja armas, municiones y explosivos incautados",
+      "resumen": "El enfrentamiento se produjo entre tropas del Ejército y presuntos integrantes de la Subestructura 53 Édison Romaña, de la ‘Segunda Marquetalia’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/combate-en-zona-rural-de-la-primavera-vichada-deja-armas-municiones-y-explosivos-incautados-3594263",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-17T14:49:46+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "198a423e51bb",
+      "titulo": "Golpe a las finanzas del Eln: destruyen complejo cocalero con capacidad para producir tres toneladas de cocaína al mes en Norte de Santander",
+      "resumen": "Durante la operación fueron incautados 859 kilogramos de clorhidrato de cocaína, 160 kilogramos de base de coca, 660 galones de cocaína en suspensión.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-del-eln-destruyen-complejo-cocalero-con-capacidad-para-producir-tres-toneladas-de-cocaina-al-mes-en-norte-de-santander-3594254",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-17T14:17:38+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -401,22 +546,6 @@
       ],
       "palabras_clave": [
         "ejercito ucraniano"
-      ]
-    },
-    {
-      "id": "4dabbeca3bef",
-      "titulo": "Maduro y su mujer insisten en el tribunal de Nueva York en que las nuevas acusaciones por tortura son \"falsas\"",
-      "resumen": "El inicio del juicio se ha aplazado del 1 de junio al 14, después de la petición de ambas partes Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad10066fdddff60468b457e.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-15T16:40:51+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "tortura"
       ]
     },
     {
