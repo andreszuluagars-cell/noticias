@@ -27,6 +27,7 @@
     "DDHH": "tag-ddhh",
     "DIH": "tag-dih",
     "Internacional": "tag-internacional",
+    "Reclutamiento transnacional": "tag-reclutamiento",
     "General": "tag-general",
   };
 
@@ -35,6 +36,7 @@
     "DDHH": "var(--topic-ddhh)",
     "DIH": "var(--topic-dih)",
     "Internacional": "var(--topic-internacional)",
+    "Reclutamiento transnacional": "var(--topic-reclutamiento)",
     "General": "var(--topic-general)",
   };
 

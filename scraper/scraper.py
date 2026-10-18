@@ -28,7 +28,12 @@ import requests
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, os.path.dirname(__file__))
-from keywords import TOPIC_KEYWORDS, TOPIC_KEYWORDS_INTERNACIONAL, ALL_KEYWORDS
+from keywords import (
+    TOPIC_KEYWORDS,
+    TOPIC_KEYWORDS_INTERNACIONAL,
+    TOPIC_KEYWORDS_RECLUTAMIENTO,
+    ALL_KEYWORDS,
+)
 from sources import SOURCES
 
 HEADERS = {
@@ -230,14 +235,26 @@ def filtrar_y_clasificar(noticias: list) -> list:
 
     for n in noticias:
         texto_normalizado = normalizar(f"{n['titulo']} {n['resumen']}")
-        es_internacional = n.get("region") == "internacional"
+        region = n.get("region", "nacional")
 
-        # Las fuentes internacionales se clasifican SOLO contra la lista
-        # de mercenarismo/DICA — no contra las palabras de conflicto
-        # colombiano, que en un diario de otro país producirían muchísimo
-        # ruido (guerras, ejércitos y atentados de medio mundo que no
-        # tienen relación con Colombia).
-        topic_keywords = TOPIC_KEYWORDS_INTERNACIONAL if es_internacional else TOPIC_KEYWORDS
+        # Cada región se clasifica contra un diccionario de temas distinto:
+        # - "internacional": fuentes internacionales, SOLO contra la lista
+        #   de conflicto armado/DDHH/DIH/mercenarios/guerra en Ucrania a
+        #   nivel mundial — no contra las palabras de conflicto colombiano
+        #   específico (farc, eln, clan del golfo, etc.), que en un diario
+        #   de otro país producirían ruido.
+        # - "reclutamiento_transnacional": fuentes especializadas
+        #   (INDEPAZ, Verdad Abierta, CINEP, SAT), SOLO contra la lista
+        #   angosta de reclutamiento transnacional de colombianos — el
+        #   resto de su cobertura de conflicto/DDHH se descarta a propósito.
+        # - cualquier otra cosa (o ausente): fuentes nacionales, contra la
+        #   lista general de conflicto armado/DDHH/DIH en Colombia.
+        if region == "internacional":
+            topic_keywords = TOPIC_KEYWORDS_INTERNACIONAL
+        elif region == "reclutamiento_transnacional":
+            topic_keywords = TOPIC_KEYWORDS_RECLUTAMIENTO
+        else:
+            topic_keywords = TOPIC_KEYWORDS
         temas, encontradas = clasificar_tema(texto_normalizado, topic_keywords)
         relevante = bool(temas)
 

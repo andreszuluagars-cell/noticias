@@ -138,4 +138,59 @@ SOURCES = [
         "link_must_contain": "elcomercio.pe",
         "region": "internacional",
     },
+
+    # =======================================================================
+    # FUENTES ESPECIALIZADAS (region: "reclutamiento_transnacional")
+    #
+    # INDEPAZ, Verdad Abierta, CINEP y el Sistema de Alertas Tempranas de
+    # la Defensoría del Pueblo. A diferencia de las demás fuentes, estas
+    # NO se filtran con ninguna lista de conflicto/DDHH/DIH general — se
+    # filtran ÚNICAMENTE con la lista RECLUTAMIENTO_TRANSNACIONAL de
+    # keywords.py, para quedarnos solo con lo que tenga que ver
+    # exclusivamente con reclutamiento transnacional de ciudadanos
+    # colombianos para conflictos internacionales (el resto de su
+    # cobertura diaria de conflicto/DDHH en Colombia, aunque relevante en
+    # general, queda fuera de la app a propósito — ya está cubierta por
+    # las fuentes nacionales). Ver scraper.py.
+    # =======================================================================
+
+    {
+        "name": "INDEPAZ",
+        "type": "rss",
+        "url": "https://indepaz.org.co/feed/",
+        "section": "Instituto de Estudios para el Desarrollo y la Paz",
+        "region": "reclutamiento_transnacional",
+    },
+    {
+        "name": "Verdad Abierta",
+        "type": "rss",
+        "url": "https://verdadabierta.com/feed/",
+        "section": "Verdad Abierta",
+        "region": "reclutamiento_transnacional",
+    },
+    {
+        "name": "CINEP",
+        "type": "rss",
+        "url": "https://cinep.org.co/feed/",
+        "section": "Centro de Investigación y Educación Popular",
+        "region": "reclutamiento_transnacional",
+    },
+    {
+        # La Defensoría no es WordPress (corre en Liferay), así que no
+        # tiene un feed RSS estándar. Se scrapea la página de comunicados,
+        # donde se anuncian las Alertas Tempranas (ej. "Alerta Temprana
+        # 023 de 2026"), junto con comunicados de prensa generales — por
+        # eso es clave que el filtro de palabras clave sea estricto aquí.
+        # El selector genérico (h1-h4 a, article a) de scraper.py no se
+        # pudo verificar contra el markup real de este sitio (es un
+        # portal Liferay, con paginación por portlets); si tras la
+        # primera corrida real no trae resultados, puede que el selector
+        # necesite un ajuste específico para este sitio.
+        "name": "Defensoría del Pueblo (SAT)",
+        "type": "html",
+        "url": "https://www.defensoria.gov.co/comunicados",
+        "section": "Sistema de Alertas Tempranas",
+        "link_must_contain": "defensoria.gov.co",
+        "region": "reclutamiento_transnacional",
+    },
 ]
