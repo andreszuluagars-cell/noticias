@@ -1,38 +1,22 @@
 {
-  "generado_en": "2026-10-18T20:58:24.739865+00:00",
-  "total_revisadas": 305,
-  "total_relevantes": 36,
+  "generado_en": "2026-10-19T17:04:22.322709+00:00",
+  "total_revisadas": 319,
+  "total_relevantes": 32,
   "noticias": [
     {
-      "id": "1ed90e91f822",
-      "titulo": "Noche violenta en Cúcuta: un dragoneante del Inpec asesinado, un policía herido y explosivos en hechos aislados",
+      "id": "0cef402d64ff",
+      "titulo": "Trump defiende el alivio a las sanciones a Rusia para poner fin a la guerra en Ucrania",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/noche-violenta-en-cucuta-un-dragoneante-del-inpec-asesinado-un-policia-herido-y-explosivos",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-18T20:58:19.734625+00:00",
+      "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-defiende-el-alivio-a-las-sanciones-a-rusia-para-poner-fin-a-la-guerra-en-ucrania-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-19T17:04:19.951133+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "9b427e78fa23",
-      "titulo": "Golpe a las disidencias en Ituango: Ejército encontró explosivos, una granada y más de 60 detonadores",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/ejercito-halla-explosivos-detonadores-disidencias-farc-ituango-OE42316118",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.981793+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
+        "guerra en ucrania"
       ]
     },
     {
@@ -43,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.981571+00:00",
+      "fecha": "2026-10-19T17:04:16.890541+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,46 +36,14 @@
       ]
     },
     {
-      "id": "9ea46f6d1c87",
-      "titulo": "Anuncian millonaria recompensa por información sobre responsables del atentado contra el exalcalde de Jamundí",
+      "id": "e08414fc7644",
+      "titulo": "“Las cifras no me las inventé”: senadora Posada responde a JEP por gastos de $56.435 millones y anuncia nuevas denuncias",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/anuncian-millonaria-recompensa-por-informacion-sobre-responsables-del-atentado-contra-el-exalcalde-de-jamundi/202612/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/maria-clara-posada-responde-jep-gastos-viajes-56435-millones-DM42392414",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.731047+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "128433221690",
-      "titulo": "Ejército incauta explosivos, armas y municiones tras combates contra la Segunda Marquetalia en Vichada",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-incauta-explosivos-armas-y-municiones-tras-combates-contra-la-segunda-marquetalia-en-vichada/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.731006+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "combates"
-      ]
-    },
-    {
-      "id": "f581c483b1f9",
-      "titulo": "La JEP responde a denuncias sobre supuesto uso indebido de recursos en viajes internacionales",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-jep-responde-a-denuncias-sobre-supuesto-uso-indebido-de-recursos-en-viajes-internacionales/202637/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.730975+00:00",
+      "fecha": "2026-10-19T17:04:16.890504+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,51 +52,19 @@
       ]
     },
     {
-      "id": "d6824ab07db2",
-      "titulo": "Protestas frente al Museo Nacional terminaron en enfrentamientos con el escuadrón antidisturbios",
+      "id": "df19bbaa0140",
+      "titulo": "Alias Paciencia habría escapado con $10.000 millones de las disidencias de ‘Iván Mordisco’",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/protestas-frente-al-museo-nacional-tras-decision-del-gobierno-terminan-con-intervencion-de-la-unidad-antidisturbios/202659/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/alias-paciencia-escape-10-000-millones-disidencias-farc-ivan-mordisco-PD42415912",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.730875+00:00",
+      "fecha": "2026-10-19T17:04:16.890387+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "enfrentamientos"
-      ]
-    },
-    {
-      "id": "cfbcbb83eb78",
-      "titulo": "Soldado resultó herido en un ataque con explosivos, atribuido preliminarmente al ELN, en Arauca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/soldado-resulto-herido-en-un-ataque-con-explosivos-atribuido-preliminarmente-al-eln-en-arauca/202645/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.730850+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "eae3d1361c7a",
-      "titulo": "Ejército neutraliza atentado terrorista del ELN contra la vía férrea de El Cerrejón en La Guajira",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-neutraliza-atentado-terrorista-del-eln-contra-la-via-ferrea-de-el-cerrejon-en-la-guajira/202601/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.730826+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
@@ -155,12 +75,76 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.730743+00:00",
+      "fecha": "2026-10-19T17:04:13.813890+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "enfrentamientos"
+      ]
+    },
+    {
+      "id": "80e4e303ef10",
+      "titulo": "Ejército inspecciona artefacto explosivo entre El Estrecho-Rosas, Cauca, en la vía Panamericana",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/ejercito-inspecciona-artefacto-explosivo-entre-el-estrecho-rosas-cauca-en-la-via-panamericana/202649/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-19T17:04:13.813856+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "artefacto explosivo"
+      ]
+    },
+    {
+      "id": "4b6e0b344c93",
+      "titulo": "Capturan en Pailitas a alias El Compita, señalado de operar drones del ELN en el Cesar",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/capturan-en-pailitas-a-alias-el-compita-senalado-de-operar-drones-del-eln-en-el-cesar/202643/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-19T17:04:13.813780+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "7f745b47db5d",
+      "titulo": "Alias Maryuri, el otro eslabón en el acto de traición de los $10.000 millones en las disidencias de Mordisco",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/alias-maryuri-el-otro-eslabon-en-el-acto-de-traicion-de-los-10000-millones-en-las-disidencias-de-mordisco/202654/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-19T17:04:13.813756+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "4dcc81d1ab46",
+      "titulo": "Capitán de inteligencia del Ejército fue capturado por presuntos vínculos con disidencias de las Farc",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/capitan-de-inteligencia-del-ejercito-fue-capturado-por-presuntos-vinculos-con-disidencias-de-las-farc/202642/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-19T17:04:13.813629+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -171,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410677+00:00",
+      "fecha": "2026-10-19T17:04:13.434219+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410658+00:00",
+      "fecha": "2026-10-19T17:04:13.434209+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410651+00:00",
+      "fecha": "2026-10-19T17:04:13.434202+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410640+00:00",
+      "fecha": "2026-10-19T17:04:13.434181+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410635+00:00",
+      "fecha": "2026-10-19T17:04:13.434175+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410609+00:00",
+      "fecha": "2026-10-19T17:04:13.434149+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410603+00:00",
+      "fecha": "2026-10-19T17:04:13.434143+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410576+00:00",
+      "fecha": "2026-10-19T17:04:13.434117+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410570+00:00",
+      "fecha": "2026-10-19T17:04:13.434111+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410565+00:00",
+      "fecha": "2026-10-19T17:04:13.434104+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410557+00:00",
+      "fecha": "2026-10-19T17:04:13.434097+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-18T20:58:18.410503+00:00",
+      "fecha": "2026-10-19T17:04:13.434046+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -356,35 +340,51 @@
       ]
     },
     {
-      "id": "f38052fe2e72",
-      "titulo": "Cayó presunto ladrón que habría robado en varios bancos de Norte de Santander: decía que era guerrillero del Eln",
-      "resumen": "Melchisedek Ramírez es sindicado de cometer hurtos en los municipios de Cúcuta y Villa del Rosario. Se declaró inocente.",
-      "url": "https://www.eltiempo.com/justicia/delitos/cayo-presunto-ladron-que-habria-robado-en-varios-bancos-de-norte-de-santander-decia-que-era-guerrillero-del-eln-3594424",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-18T16:52:27+00:00",
+      "id": "81332a341ca6",
+      "titulo": "Reclutamiento forzado en redes: Gobierno de México reporta mil 800 páginas identificadas y mil en trámite de baja",
+      "resumen": "La presidenta Claudia Sheinbaum informó que alrededor de 800 cuentas ya fueron retiradas, mientras el Gobierno federal investiga el uso de plataformas digitales para captar jóvenes; también anunció la detención de tres presuntos responsables durante el fin de semana",
+      "url": "https://www.infobae.com/mexico/2026/10/19/reclutamiento-forzado-en-redes-gobierno-de-mexico-reporta-mil-800-paginas-identificadas-y-mil-en-tramite-de-baja/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-19T16:55:26+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "eln"
+        "reclutamiento"
       ]
     },
     {
-      "id": "cb22669c6df9",
-      "titulo": "'La JEP debe terminar su período': Iván Mauricio Lenis, presidente de la Corte Suprema",
-      "resumen": "El magistrado habla de la relación con el Gobierno, la reforma del sistema penal, el futuro de la JEP y un debate pensional ‘no popular’.",
-      "url": "https://www.eltiempo.com/justicia/cortes/la-jep-debe-terminar-su-periodo-ivan-mauricio-lenis-presidente-de-la-corte-suprema-3594323",
+      "id": "6cbfb7490ab2",
+      "titulo": "Así se convirtió Jamundí en núcleo de la violencia disidente del Valle",
+      "resumen": "El exalcalde Andrés Felipe Ramírez sobrevivió a un atentado sicarial. La ciudad lleva años tomada por disidencias de las Farc.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/asi-se-convirtio-jamundi-en-nucleo-de-la-violencia-disidente-del-valle-3594570",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-18T10:01:00+00:00",
+      "fecha": "2026-10-19T14:26:52+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "61a73ce94614",
+      "titulo": "En el Valle del Cauca fue capturado alias Majiño, segundo cabecilla del 'frente Yair Bermúdez' de las disidencias",
+      "resumen": "Michael Taicus fue detenido junto a otras ocho personas que integrarían el grupo ilegal con presencia en el suroccidente del país.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/en-el-valle-del-cauca-fue-capturado-alias-manijo-segundo-cabecilla-del-frente-yair-bermudez-de-las-disidencias-3594473",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-19T00:02:14+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -453,54 +453,6 @@
       ]
     },
     {
-      "id": "198a423e51bb",
-      "titulo": "Golpe a las finanzas del Eln: destruyen complejo cocalero con capacidad para producir tres toneladas de cocaína al mes en Norte de Santander",
-      "resumen": "Durante la operación fueron incautados 859 kilogramos de clorhidrato de cocaína, 160 kilogramos de base de coca, 660 galones de cocaína en suspensión.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-finanzas-del-eln-destruyen-complejo-cocalero-con-capacidad-para-producir-tres-toneladas-de-cocaina-al-mes-en-norte-de-santander-3594254",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-17T14:17:38+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "93b83814cab6",
-      "titulo": "El Ejército recuperó en el Meta a una menor que habría estado vinculada a las disidencias de alias Iván Mordisco",
-      "resumen": "La adolescente manifestó pertenecer a la estructura 44 ‘Antonio Ricaurte’, del Bloque Amazonas ‘Manuel Marulanda Vélez’.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-ejercito-recupero-en-el-meta-a-una-menor-que-habria-estado-vinculada-a-las-disidencias-de-alias-ivan-mordisco-3594173",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-16T23:04:36+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "8b7142cc1dce",
-      "titulo": "Las torturas persiguen a Nicolás Maduro hasta su celda neoyorquina aunque las niegue",
-      "resumen": "Los terribles relatos de las víctimas del régimen chavista desmontan su \"inocencia\": descargas eléctricas por todo el cuerpo, en especial en los genitales, asfixia mecánica con bolsas de plástico, palizas sistemáticas  y espacios diseñados para el aislamiento y la tortura psicológica Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/16/6ad25ce3e4d4d8855a8b4583.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-16T20:38:54+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "tortura"
-      ]
-    },
-    {
       "id": "a26f04b34379",
       "titulo": "Gobierno del presidente De La Espriella atribuye a la administración Petro la ejecución más baja del acuerdo de paz: apenas el 4,66 %",
       "resumen": "El director del Dapre, Carlos Andrés Ríos, entregó cifras del Plan Marco de Implementación.",
@@ -562,22 +514,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "bf7ee1da48ce",
-      "titulo": "ONU Derechos Humanos llamó a garantizar los derechos de las víctimas y de sus comunidades",
-      "resumen": "La petición es que tanto en la reconstrucción tras el terremoto como en el Plan Nacional de Desarrollo se incluya a las comunidades más marginadas.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/onu-derechos-humanos-llamo-a-garantizar-los-derechos-de-las-victimas-y-de-sus-comunidades-3592422",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-09T11:51:05+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
       ]
     }
   ]
