@@ -1,17 +1,33 @@
 {
-  "generado_en": "2026-10-19T17:04:22.322709+00:00",
-  "total_revisadas": 319,
+  "generado_en": "2026-10-20T15:16:35.954600+00:00",
+  "total_revisadas": 314,
   "total_relevantes": 32,
   "noticias": [
     {
-      "id": "0cef402d64ff",
-      "titulo": "Trump defiende el alivio a las sanciones a Rusia para poner fin a la guerra en Ucrania",
+      "id": "7ec08a0c2479",
+      "titulo": "Trump está dispuesto a reunirse con Putin y Xi para negociar fin de la guerra de Ucrania",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-defiende-el-alivio-a-las-sanciones-a-rusia-para-poner-fin-a-la-guerra-en-ucrania-ultimas-noticia/",
+      "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-dispuesto-a-reunirse-con-putin-y-xi-para-negociar-fin-de-la-guerra-de-ucrania-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-10-19T17:04:19.951133+00:00",
+      "fecha": "2026-10-20T15:16:34.027250+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra de ucrania"
+      ]
+    },
+    {
+      "id": "246df7229239",
+      "titulo": "Guerra en Ucrania: Zelensky dice que las limitaciones en el sistema satelital Starshield obstaculizan a sus tropas",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-volodymyr-zelensky-dice-que-las-limitaciones-en-el-sistema-satelital-starshield-obstaculizan-a-sus-tropas-vladimir-putin-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-20T15:16:34.027215+00:00",
       "temas": [
         "Internacional"
       ],
@@ -20,35 +36,35 @@
       ]
     },
     {
-      "id": "cfb5e31f5a48",
-      "titulo": "“No es cierto, categóricamente”: secretario de la JEP responde por los $56.000 millones en viáticos y viajes del tribunal",
+      "id": "a4cacc0ab1fa",
+      "titulo": "Una noche tranquila en Francia gracias a las medidas de toque de queda, según Lecornu",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/secretario-jep-maria-clara-posada-entrevista-viajes-arriendos-PC42374469",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-19T17:04:16.890541+00:00",
+      "url": "https://elcomercio.pe/mundo/europa/una-noche-tranquila-en-francia-gracias-a-las-medidas-de-toque-de-queda-segun-sebastien-lecornu-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-20T15:16:34.027167+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "jep"
+        "toque de queda"
       ]
     },
     {
-      "id": "e08414fc7644",
-      "titulo": "“Las cifras no me las inventé”: senadora Posada responde a JEP por gastos de $56.435 millones y anuncia nuevas denuncias",
+      "id": "f2a5b2b93adb",
+      "titulo": "Violencia en Francia.Qué se sabe de los disturbios y el toque de queda hoy, 20 de octubre",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/maria-clara-posada-responde-jep-gastos-viajes-56435-millones-DM42392414",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-19T17:04:16.890504+00:00",
+      "url": "https://lanacion.com.ar/el-mundo/violencia-en-francia-que-se-sabe-de-los-disturbios-y-el-toque-de-queda-hoy-20-de-octubre-nid20102026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-20T15:16:33.767139+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "jep"
+        "toque de queda"
       ]
     },
     {
@@ -59,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:16.890387+00:00",
+      "fecha": "2026-10-20T15:16:31.082281+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,62 +84,30 @@
       ]
     },
     {
-      "id": "dcbd5c176a08",
-      "titulo": "Protestas en el Museo Nacional terminan nuevamente en enfrentamientos entre manifestantes y el escuadrón antidisturbios",
+      "id": "e7167d1c75d1",
+      "titulo": "Capturan a Everth Hawkins, exgobernador de San Andrés, por presunta extorsión y secuestro a contratistas",
       "resumen": "",
-      "url": "https://semana.com/nacion/bogota/articulo/protestas-en-el-museo-nacional-terminan-nuevamente-en-enfrentamientos-entre-manifestantes-y-el-escuadron-antidisturbios/202601/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/everth-hawkins-capturan-exgobernador-san-andres-secuestro-extorsion-EG42449269",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.813890+00:00",
+      "fecha": "2026-10-20T15:16:31.082053+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "enfrentamientos"
+        "secuestro"
       ]
     },
     {
-      "id": "80e4e303ef10",
-      "titulo": "Ejército inspecciona artefacto explosivo entre El Estrecho-Rosas, Cauca, en la vía Panamericana",
+      "id": "19291b23d2b7",
+      "titulo": "Cae peligroso cabecilla de las disidencias en el sur de Bolívar: presidente De La Espriella dio detalles",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/ejercito-inspecciona-artefacto-explosivo-entre-el-estrecho-rosas-cauca-en-la-via-panamericana/202649/",
+      "url": "https://semana.com/nacion/cartagena/articulo/cae-peligroso-cabecilla-de-las-disidencias-en-el-sur-de-bolivar-presidente-de-la-espriella-dio-detalles/202645/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.813856+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "artefacto explosivo"
-      ]
-    },
-    {
-      "id": "4b6e0b344c93",
-      "titulo": "Capturan en Pailitas a alias El Compita, señalado de operar drones del ELN en el Cesar",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/capturan-en-pailitas-a-alias-el-compita-senalado-de-operar-drones-del-eln-en-el-cesar/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.813780+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "7f745b47db5d",
-      "titulo": "Alias Maryuri, el otro eslabón en el acto de traición de los $10.000 millones en las disidencias de Mordisco",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/alias-maryuri-el-otro-eslabon-en-el-acto-de-traicion-de-los-10000-millones-en-las-disidencias-de-mordisco/202654/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.813756+00:00",
+      "fecha": "2026-10-20T15:16:30.811363+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,14 +116,30 @@
       ]
     },
     {
-      "id": "4dcc81d1ab46",
-      "titulo": "Capitán de inteligencia del Ejército fue capturado por presuntos vínculos con disidencias de las Farc",
+      "id": "9d1f04208935",
+      "titulo": "Dos militares muertos y uno herido tras hecho de intolerancia en Batallón de Sogamoso, en Boyacá: el Ejército entregó detalles",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/capitan-de-inteligencia-del-ejercito-fue-capturado-por-presuntos-vinculos-con-disidencias-de-las-farc/202642/",
+      "url": "https://semana.com/nacion/articulo/dos-militares-muertos-y-uno-herido-tras-hecho-de-intolerancia-en-batallon-de-sogamoso-en-boyaca-el-ejercito-entrego-detalles/202602/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.813629+00:00",
+      "fecha": "2026-10-20T15:16:30.811316+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "militares muertos"
+      ]
+    },
+    {
+      "id": "f33737f40357",
+      "titulo": "El explosivo que las disidencias colocaron en el Cauca: 400 familias estuvieron en riesgo",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/el-explosivo-que-las-disidencias-colocaron-en-el-cauca-400-familias-estuvieron-en-riesgo/202608/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-20T15:16:30.811256+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434219+00:00",
+      "fecha": "2026-10-20T15:16:30.444496+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434209+00:00",
+      "fecha": "2026-10-20T15:16:30.444490+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434202+00:00",
+      "fecha": "2026-10-20T15:16:30.444487+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434181+00:00",
+      "fecha": "2026-10-20T15:16:30.444466+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434175+00:00",
+      "fecha": "2026-10-20T15:16:30.444462+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434149+00:00",
+      "fecha": "2026-10-20T15:16:30.444447+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434143+00:00",
+      "fecha": "2026-10-20T15:16:30.444443+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434117+00:00",
+      "fecha": "2026-10-20T15:16:30.444424+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434111+00:00",
+      "fecha": "2026-10-20T15:16:30.444419+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434104+00:00",
+      "fecha": "2026-10-20T15:16:30.444413+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434097+00:00",
+      "fecha": "2026-10-20T15:16:30.444407+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-19T17:04:13.434046+00:00",
+      "fecha": "2026-10-20T15:16:30.444356+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -340,116 +340,115 @@
       ]
     },
     {
-      "id": "81332a341ca6",
-      "titulo": "Reclutamiento forzado en redes: Gobierno de México reporta mil 800 páginas identificadas y mil en trámite de baja",
-      "resumen": "La presidenta Claudia Sheinbaum informó que alrededor de 800 cuentas ya fueron retiradas, mientras el Gobierno federal investiga el uso de plataformas digitales para captar jóvenes; también anunció la detención de tres presuntos responsables durante el fin de semana",
-      "url": "https://www.infobae.com/mexico/2026/10/19/reclutamiento-forzado-en-redes-gobierno-de-mexico-reporta-mil-800-paginas-identificadas-y-mil-en-tramite-de-baja/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
+      "id": "a532fe933b06",
+      "titulo": "Los detalles del choque en la JEP entre Sigifredo López y la magistrada Julieta Lemaitre tras la intervención de la delegada de la Procuraduría",
+      "resumen": "La difusión de un video de 2022 reabrió la polémica sobre el trato de la JEP a las víctimas de las Farc.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/los-detalles-del-choque-en-la-jep-entre-sigifredo-lopez-y-la-magistrada-julieta-lemaitre-tras-la-intervencion-de-la-delegada-de-la-procuraduria-3594885",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-20T14:29:02+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "6f817beb5071",
+      "titulo": "Hollman Morris habló sobre el Pacto de Valledupar y presuntas presiones a 'exparas'; aseguró que no hubo participación de RTVC: 'Investigarse a fondo'",
+      "resumen": "El exdirector del medio aseguró que buscaba entrevistar a Jorge 40 durante el encuentro con exjefes paramilitares en Valledupar. Esto dijo.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/hollman-morris-hablo-sobre-el-pacto-de-valledupar-y-presuntas-presiones-a-exparas-aseguro-que-no-hubo-participacion-de-rtvc-investigarse-a-fondo-3594872",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-10-20T14:09:09+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitares"
+      ]
+    },
+    {
+      "id": "77b82765456f",
+      "titulo": "La UE presenta su estrategia para el Ártico ante la amenaza creciente de Rusia y China: \"Una vez termine la guerra de Ucrania, será el próximo foco de atención\"",
+      "resumen": "Bruselas quiere aumentar su presencia militar e influencia económica sobre una zona en la que Moscú y Pekín hace tiempo que ya pusieron sus ojos, y en la que también Trump tiene grandes intereses Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/20/6ad764e3fdddff19358b4590.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
       "region": "internacional",
-      "fecha": "2026-10-19T16:55:26+00:00",
+      "fecha": "2026-10-20T13:48:55+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "reclutamiento"
+        "guerra de ucrania"
       ]
     },
     {
-      "id": "6cbfb7490ab2",
-      "titulo": "Así se convirtió Jamundí en núcleo de la violencia disidente del Valle",
-      "resumen": "El exalcalde Andrés Felipe Ramírez sobrevivió a un atentado sicarial. La ciudad lleva años tomada por disidencias de las Farc.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/asi-se-convirtio-jamundi-en-nucleo-de-la-violencia-disidente-del-valle-3594570",
+      "id": "7afba3d9fdf5",
+      "titulo": "Historias de desaparición: El abrazo de una madre con la hija que el conflicto armado le arrebató hace 33 años",
+      "resumen": "Luego de ser separadas por el conflicto, Rosa y María volvieron a abrazarse en Barrancabermeja gracias a labores de la Unidad de Búsqueda.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/historias-de-desaparicion-el-abrazo-de-una-madre-con-la-hija-que-el-conflicto-armado-le-arrebato-hace-33-anos-3594838",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-19T14:26:52+00:00",
+      "fecha": "2026-10-20T12:00:17+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "conflicto armado"
       ]
     },
     {
-      "id": "61a73ce94614",
-      "titulo": "En el Valle del Cauca fue capturado alias Majiño, segundo cabecilla del 'frente Yair Bermúdez' de las disidencias",
-      "resumen": "Michael Taicus fue detenido junto a otras ocho personas que integrarían el grupo ilegal con presencia en el suroccidente del país.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/en-el-valle-del-cauca-fue-capturado-alias-manijo-segundo-cabecilla-del-frente-yair-bermudez-de-las-disidencias-3594473",
+      "id": "365433835483",
+      "titulo": "¿Quién es el hijo de ‘Tirofijo’ señalado por María Claudia Tarazona de coordinar el asesinato de Miguel Uribe Turbay?",
+      "resumen": "Creció en los campamentos de las Farc bajo el cuidado de Sandra Ramírez y perteneció al Bloque Oriental de esa guerrilla. Esto se sabe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/quien-es-el-hijo-de-tirofijo-senalado-por-maria-claudia-tarazona-de-coordinar-el-asesinato-de-miguel-uribe-turbay-3594795",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-19T00:02:14+00:00",
+      "fecha": "2026-10-20T11:16:48+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "farc"
       ]
     },
     {
-      "id": "a49d0f8e6c22",
-      "titulo": "Ejército capturó en Puerto Rico, Meta, a 'Junior Rojas', señalado como segundo cabecilla y jefe financiero de la estructura Marco Aurelio Buendía",
-      "resumen": "Las autoridades lo relacionan con extorsiones a comerciantes, producción de narcóticos y presunto reclutamiento de menores de edad.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-capturo-en-puerto-rico-meta-a-junior-rojas-senalado-como-segundo-cabecilla-y-jefe-financiero-de-la-estructura-marco-aurelio-buendia-3594378",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-18T07:34:28+00:00",
+      "id": "56c725de7389",
+      "titulo": "El papa León XIV habla con Zelenski por teléfono sobre una tregua para permitir la llegada de la ayuda humanitaria a Oleshki",
+      "resumen": "El pontífice ha manifestado su esperanza de que la cooperación entre ambas partes permita la llegada de alimentos y ayuda médica Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/20/6ad6975efc6c83ec1f8b4589.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-19T22:19:13+00:00",
       "temas": [
-        "Conflicto armado",
-        "DIH"
+        "Internacional"
       ],
       "palabras_clave": [
-        "reclutamiento de menores"
+        "ayuda humanitaria"
       ]
     },
     {
-      "id": "edf757875246",
-      "titulo": "Ataque con explosivos contra infraestructura vial en Santander de Quilichao, Cauca, restringe la movilidad de más de 200 familias",
-      "resumen": "La Tercera División del Ejército señaló preliminarmente a la estructura Jaime Martínez y desplegó tropas para descartar nuevas amenazas en la zona.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-explosivos-contra-infraestructura-vial-en-santander-de-quilichao-cauca-restringe-la-movilidad-de-mas-de-200-familias-3594374",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-18T05:03:33+00:00",
+      "id": "3e4c7526a73c",
+      "titulo": "Trump se muestra dispuesto a reunirse con Putin y Xi para poner fin a la guerra de Ucrania y cuestiona a Zelenski como negociador",
+      "resumen": "El líder estadounidense ha sugerido que el presidente ucraniano, Volodimir Zelenski, debería delegar en otra persona la negociación con Moscú Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/19/6ad6745efc6c83a26e8b457f.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-19T19:53:30+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "2e8bac92fa3f",
-      "titulo": "Alias El Señor, el narco que operaba laboratorios en el Catatumbo y enviaba tres toneladas de cocaína al mes a EE. UU.",
-      "resumen": "Fue capturado en Cúcuta durante una operación de la Policía y la DEA. Según las autoridades, tenía acuerdos con el Eln y ‘los Pachenca’.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-el-senor-el-narco-que-operaba-laboratorios-en-el-catatumbo-y-enviaba-tres-toneladas-de-cocaina-al-mes-a-ee-uu-3594291",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-17T17:34:21+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "4ae84215d503",
-      "titulo": "Combate en zona rural de La Primavera, Vichada, deja armas, municiones y explosivos incautados",
-      "resumen": "El enfrentamiento se produjo entre tropas del Ejército y presuntos integrantes de la Subestructura 53 Édison Romaña, de la ‘Segunda Marquetalia’.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/combate-en-zona-rural-de-la-primavera-vichada-deja-armas-municiones-y-explosivos-incautados-3594263",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-17T14:49:46+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
+        "guerra de ucrania"
       ]
     },
     {
