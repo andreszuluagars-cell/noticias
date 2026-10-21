@@ -1,33 +1,33 @@
 {
-  "generado_en": "2026-10-20T15:16:35.954600+00:00",
-  "total_revisadas": 314,
-  "total_relevantes": 32,
+  "generado_en": "2026-10-21T15:29:24.620856+00:00",
+  "total_revisadas": 315,
+  "total_relevantes": 40,
   "noticias": [
     {
-      "id": "7ec08a0c2479",
-      "titulo": "Trump está dispuesto a reunirse con Putin y Xi para negociar fin de la guerra de Ucrania",
+      "id": "d80146be4956",
+      "titulo": "Putin anuncia la liberación del estadounidense Stephen Hubbard, condenado por combatir como mercenario en Ucrania",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-dispuesto-a-reunirse-con-putin-y-xi-para-negociar-fin-de-la-guerra-de-ucrania-noticia/",
+      "url": "https://elcomercio.pe/mundo/europa/putin-anuncia-la-liberacion-del-estadounidense-stephen-hubbard-condenado-por-combatir-como-mercenario-en-ucrania-rusia-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-10-20T15:16:34.027250+00:00",
+      "fecha": "2026-10-21T15:29:22.720043+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "guerra de ucrania"
+        "mercenario"
       ]
     },
     {
-      "id": "246df7229239",
-      "titulo": "Guerra en Ucrania: Zelensky dice que las limitaciones en el sistema satelital Starshield obstaculizan a sus tropas",
+      "id": "027ab34c2e13",
+      "titulo": "Steve Witkoff, emisario de Trump, presenta “ideas” a Putin para terminar con la guerra en Ucrania",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-volodymyr-zelensky-dice-que-las-limitaciones-en-el-sistema-satelital-starshield-obstaculizan-a-sus-tropas-vladimir-putin-ultimas-noticia/",
+      "url": "https://elcomercio.pe/mundo/europa/steve-witkoff-emisario-de-trump-presenta-ideas-a-putin-para-terminar-con-la-guerra-en-ucrania-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-10-20T15:16:34.027215+00:00",
+      "fecha": "2026-10-21T15:29:22.720035+00:00",
       "temas": [
         "Internacional"
       ],
@@ -36,19 +36,35 @@
       ]
     },
     {
-      "id": "a4cacc0ab1fa",
-      "titulo": "Una noche tranquila en Francia gracias a las medidas de toque de queda, según Lecornu",
+      "id": "85cc2418e1fe",
+      "titulo": "Zelensky propone “congelar” el frente con Rusia como primer paso para las negociaciones de alto el fuego",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/una-noche-tranquila-en-francia-gracias-a-las-medidas-de-toque-de-queda-segun-sebastien-lecornu-ultimas-noticia/",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-volodymyr-zelensky-propone-congelar-el-frente-con-moscu-como-primer-paso-para-las-negociaciones-de-alto-el-fuego-vladimir-putin-ultimas-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-10-20T15:16:34.027167+00:00",
+      "fecha": "2026-10-21T15:29:22.719919+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "toque de queda"
+        "alto el fuego"
+      ]
+    },
+    {
+      "id": "beb8cdc95ab3",
+      "titulo": "“Humanitario”.El polémico elogio a Putin del enviado de Trump en una reunión clave por la guerra en Ucrania",
+      "resumen": "",
+      "url": "https://lanacion.com.ar/el-mundo/putin-libera-a-un-prisionero-estadounidense-y-abre-la-puerta-a-nuevas-conversaciones-de-paz-nid21102026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-10-21T15:29:22.159657+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
       ]
     },
     {
@@ -59,7 +75,7 @@
       "fuente": "La Nación",
       "seccion": "El Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-10-20T15:16:33.767139+00:00",
+      "fecha": "2026-10-21T15:29:22.159647+00:00",
       "temas": [
         "Internacional"
       ],
@@ -68,30 +84,78 @@
       ]
     },
     {
-      "id": "df19bbaa0140",
-      "titulo": "Alias Paciencia habría escapado con $10.000 millones de las disidencias de ‘Iván Mordisco’",
+      "id": "34257daf5773",
+      "titulo": "Destruyen complejo del Eln que producía cocaína en Sardinata",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-paciencia-escape-10-000-millones-disidencias-farc-ivan-mordisco-PD42415912",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/destruyen-complejo-del-eln-que-producia-cocaina-en-sardinata",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:31.082281+00:00",
+      "fecha": "2026-10-21T15:29:19.578888+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "eln"
       ]
     },
     {
-      "id": "e7167d1c75d1",
-      "titulo": "Capturan a Everth Hawkins, exgobernador de San Andrés, por presunta extorsión y secuestro a contratistas",
+      "id": "87f549c9c4d6",
+      "titulo": "Video | Campesino de El Carmen sacó un cilindro de gas abandonado con insignias del ELN y lo paseó por la calle",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/everth-hawkins-capturan-exgobernador-san-andres-secuestro-extorsion-EG42449269",
+      "url": "https://elcolombiano.com/colombia/habitante-de-calle-el-carmen-retira-cilindro-insignias-eln-que-paso-GF42478394",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:31.082053+00:00",
+      "fecha": "2026-10-21T15:29:18.791212+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "c39355ed4b91",
+      "titulo": "Ataque con drones explosivos en Pelaya, Cesar, dejó seis policías heridos; dos están graves",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-pelaya-cesar-seis-policias-heridos-CB42529685",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-21T15:29:18.790916+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "b6429a0171aa",
+      "titulo": "Dieron de baja a alias Resorte, jefe de finanzas del ELN en Cúcuta",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/alias-resorte-asesinaron-jefe-financiero-eln-cucuta-DA42533246",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-21T15:29:18.790867+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "f122b9008a45",
+      "titulo": "Las pruebas contra el exgobernador de San Andrés por extorsión y secuestro: “Lo vi en una videollamada”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/las-pruebas-en-contra-del-exgobernador-de-san-andres-por-extorsion-y-secuestro-lo-vi-en-una-videollamada/202612/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-21T15:29:15.216423+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,30 +164,14 @@
       ]
     },
     {
-      "id": "19291b23d2b7",
-      "titulo": "Cae peligroso cabecilla de las disidencias en el sur de Bolívar: presidente De La Espriella dio detalles",
+      "id": "ea50623bb787",
+      "titulo": "Ejército se pronunció sobre tragedia que deja dos militares muertos en Batallón de Artillería en Boyacá",
       "resumen": "",
-      "url": "https://semana.com/nacion/cartagena/articulo/cae-peligroso-cabecilla-de-las-disidencias-en-el-sur-de-bolivar-presidente-de-la-espriella-dio-detalles/202645/",
+      "url": "https://semana.com/nacion/articulo/ejercito-se-pronuncio-sobre-tragedia-que-deja-dos-militares-muertos-en-batallon-de-artilleria-en-boyaca/202606/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.811363+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "9d1f04208935",
-      "titulo": "Dos militares muertos y uno herido tras hecho de intolerancia en Batallón de Sogamoso, en Boyacá: el Ejército entregó detalles",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/dos-militares-muertos-y-uno-herido-tras-hecho-de-intolerancia-en-batallon-de-sogamoso-en-boyaca-el-ejercito-entrego-detalles/202602/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.811316+00:00",
+      "fecha": "2026-10-21T15:29:15.216388+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,19 +180,51 @@
       ]
     },
     {
-      "id": "f33737f40357",
-      "titulo": "El explosivo que las disidencias colocaron en el Cauca: 400 familias estuvieron en riesgo",
+      "id": "29b31c0941d5",
+      "titulo": "Abelardo De La Espriella anuncia nuevo golpe contra el ELN y publica fotos de lo que hizo el Ejército: “Se les acabó la fiesta”",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/el-explosivo-que-las-disidencias-colocaron-en-el-cauca-400-familias-estuvieron-en-riesgo/202608/",
+      "url": "https://semana.com/politica/articulo/abelardo-de-la-espriella-anuncia-nuevo-golpe-contra-el-eln-y-publica-fotos-de-lo-que-hizo-el-ejercito-se-les-acabo-la-fiesta/202628/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.811256+00:00",
+      "fecha": "2026-10-21T15:29:15.216322+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "eln"
+      ]
+    },
+    {
+      "id": "c564021f85b8",
+      "titulo": "Fredy Eduardo pidió un carro por aplicación para irse a su casa, pero apareció muerto en Bogotá: tenía signos de tortura",
+      "resumen": "",
+      "url": "https://semana.com/nacion/bogota/articulo/fredy-eduardo-pidio-un-carro-por-aplicacion-para-irse-a-su-casa-pero-aparecio-muerto-en-bogota-tenia-signos-de-tortura/202616/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-21T15:29:15.216276+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "tortura"
+      ]
+    },
+    {
+      "id": "9ccc29d00b82",
+      "titulo": "Anuncian millonaria recompensa tras grave ataque con drones que dejó seis policías heridos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/anuncian-millonaria-recompensa-tras-grave-ataque-con-drones-que-dejo-seis-policias-heridos/202615/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-21T15:29:15.216265+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque con drones"
       ]
     },
     {
@@ -155,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444496+00:00",
+      "fecha": "2026-10-21T15:29:14.971212+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444490+00:00",
+      "fecha": "2026-10-21T15:29:14.971205+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444487+00:00",
+      "fecha": "2026-10-21T15:29:14.971201+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444466+00:00",
+      "fecha": "2026-10-21T15:29:14.971181+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444462+00:00",
+      "fecha": "2026-10-21T15:29:14.971177+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444447+00:00",
+      "fecha": "2026-10-21T15:29:14.971173+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444443+00:00",
+      "fecha": "2026-10-21T15:29:14.971169+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444424+00:00",
+      "fecha": "2026-10-21T15:29:14.971142+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444419+00:00",
+      "fecha": "2026-10-21T15:29:14.971137+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +379,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444413+00:00",
+      "fecha": "2026-10-21T15:29:14.971128+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +395,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444407+00:00",
+      "fecha": "2026-10-21T15:29:14.971125+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +411,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T15:16:30.444356+00:00",
+      "fecha": "2026-10-21T15:29:14.971108+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -340,19 +420,131 @@
       ]
     },
     {
-      "id": "a532fe933b06",
-      "titulo": "Los detalles del choque en la JEP entre Sigifredo López y la magistrada Julieta Lemaitre tras la intervención de la delegada de la Procuraduría",
-      "resumen": "La difusión de un video de 2022 reabrió la polémica sobre el trato de la JEP a las víctimas de las Farc.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/los-detalles-del-choque-en-la-jep-entre-sigifredo-lopez-y-la-magistrada-julieta-lemaitre-tras-la-intervencion-de-la-delegada-de-la-procuraduria-3594885",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "id": "7eebc95f1db4",
+      "titulo": "Finanzas cortas y diálogos difíciles: las tormentas que asume el nuevo presidente de la JEP",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/finanzas-cortas-y-dialogos-dificiles-las-tormentas-que-asume-el-nuevo-presidente-de-la-jep/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-20T14:29:02+00:00",
+      "fecha": "2026-10-21T15:29:14.971103+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "jep"
+      ]
+    },
+    {
+      "id": "82f13c6d50fe",
+      "titulo": "Muere en combate alias Resorte, señalado jefe de finanzas del Eln vinculado con secuestros y homicidios en Norte de Santander",
+      "resumen": "Lo relacionaban con el secuestro de comerciantes, periodistas y ganaderos, y el manejo de recursos de extorsiones y narcotráfico en la frontera.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/muere-en-combate-alias-resorte-senalado-jefe-de-finanzas-del-eln-vinculado-con-secuestros-y-homicidios-en-norte-de-santander-3595140",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-21T13:55:35+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "dc5799ece21f",
+      "titulo": "Captura de ‘Brayan Veneco’: los crímenes que le atribuyen al cabecilla de las disidencias de ‘Mordisco’ en el Magdalena Medio",
+      "resumen": "Es señalado como cabecilla del Frente 4 del grupo armado. Fue capturado mientras recibía atención médica en Bolívar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/captura-de-brayan-veneco-los-crimenes-que-le-atribuyen-al-cabecilla-de-las-disidencias-de-mordisco-en-el-magdalena-medio-3595139",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-21T13:46:27+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "87c7974de5a3",
+      "titulo": "Corte Suprema debatirá sobre restitución de tierras, propiedad y patrimonio en conversatorio nacional en Rionegro",
+      "resumen": "El encuentro reunirá a jueces, académicos y expertos internacionales en Antioquia, los días 22 y 23 de octubre.",
+      "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-debatira-sobre-restitucion-de-tierras-propiedad-y-patrimonio-en-conversatorio-nacional-en-rionegro-3595138",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-21T13:42:44+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "restitucion de tierras"
+      ]
+    },
+    {
+      "id": "0ac5d911ca78",
+      "titulo": "Fiscalía reveló primeras pruebas tras captura del exgobernador de San Andrés, Everth Hawkins: lo habrían identificado durante secuestro",
+      "resumen": "Durante las audiencias preliminares el ente investigador sustenta la captura de exmandatario regional Hawkins, vinculado a delicado proceso judicial.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/fiscalia-revelo-primeras-pruebas-tras-captura-del-exgobernador-de-san-andres-everth-hawkins-lo-habrian-identificado-en-llamada-extorsiva-3595117",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-21T12:38:11+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "8658e3ca4840",
+      "titulo": "Seguimiento con dron permitió golpear finanzas del ‘clan del Golfo’ en Chocó: destruyen maquinaria usada para extraer 12 kilos de oro al mes",
+      "resumen": "Una operación del Ejército, la Armada y la Policía en zona rural de Quibdó permitió ubicar 14 unidades vinculadas con la minería ilegal.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/seguimiento-con-dron-permitio-golpear-finanzas-del-clan-del-golfo-en-choco-destruyen-maquinaria-usada-para-extraer-12-kilos-de-oro-al-mes-3594988",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-20T19:33:18+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "ae17dff89d16",
+      "titulo": "Cae explosivista de las disidencias de ‘Calarcá’ que estaría planeando ataques contra la Fuerza Pública en Caquetá",
+      "resumen": "Luis Eduardo Rondón Reyes, alias ‘Negro Antonio’, había sido vinculado con dos ataques contra la Policía en 2019.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-explosivista-de-las-disidencias-de-calarca-que-estaria-planeando-ataques-contra-la-fuerza-publica-en-caqueta-3594981",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-20T19:03:27+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "b9d92ceac2af",
+      "titulo": "Primicia | El plan del Eln para expandirse hacia Casanare y Boyacá para sacar a las disidencias: se ventiló en consejo de seguridad en Arauca",
+      "resumen": "Información de inteligencia conocida por EL TIEMPO señala que la guerrilla contempla la creación de un frente para extender su presencia en la región.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/primicia-el-plan-del-eln-para-expandirse-hacia-casanare-y-boyaca-para-sacar-a-las-disidencias-se-ventilo-en-consejo-de-seguridad-en-arauca-3594927",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-20T15:55:16+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -388,22 +580,6 @@
       ]
     },
     {
-      "id": "7afba3d9fdf5",
-      "titulo": "Historias de desaparición: El abrazo de una madre con la hija que el conflicto armado le arrebató hace 33 años",
-      "resumen": "Luego de ser separadas por el conflicto, Rosa y María volvieron a abrazarse en Barrancabermeja gracias a labores de la Unidad de Búsqueda.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/historias-de-desaparicion-el-abrazo-de-una-madre-con-la-hija-que-el-conflicto-armado-le-arrebato-hace-33-anos-3594838",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-20T12:00:17+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "conflicto armado"
-      ]
-    },
-    {
       "id": "365433835483",
       "titulo": "¿Quién es el hijo de ‘Tirofijo’ señalado por María Claudia Tarazona de coordinar el asesinato de Miguel Uribe Turbay?",
       "resumen": "Creció en los campamentos de las Farc bajo el cuidado de Sandra Ramírez y perteneció al Bloque Oriental de esa guerrilla. Esto se sabe.",
@@ -417,38 +593,6 @@
       ],
       "palabras_clave": [
         "farc"
-      ]
-    },
-    {
-      "id": "56c725de7389",
-      "titulo": "El papa León XIV habla con Zelenski por teléfono sobre una tregua para permitir la llegada de la ayuda humanitaria a Oleshki",
-      "resumen": "El pontífice ha manifestado su esperanza de que la cooperación entre ambas partes permita la llegada de alimentos y ayuda médica Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/20/6ad6975efc6c83ec1f8b4589.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-19T22:19:13+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "ayuda humanitaria"
-      ]
-    },
-    {
-      "id": "3e4c7526a73c",
-      "titulo": "Trump se muestra dispuesto a reunirse con Putin y Xi para poner fin a la guerra de Ucrania y cuestiona a Zelenski como negociador",
-      "resumen": "El líder estadounidense ha sugerido que el presidente ucraniano, Volodimir Zelenski, debería delegar en otra persona la negociación con Moscú Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/19/6ad6745efc6c83a26e8b457f.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-19T19:53:30+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra de ucrania"
       ]
     },
     {
@@ -492,22 +636,6 @@
       "seccion": "Política / Proceso de paz",
       "region": "nacional",
       "fecha": "2026-10-13T22:45:22+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "750236a56ebb",
-      "titulo": "Las frases más contundentes del canciller Omar Bula en su intervención ante el Consejo de Seguridad: habló de promoción ideológica del acuerdo de paz",
-      "resumen": "El jefe de la diplomacia se dirigió por primera vez a esta instancia en medio de la presentación del informe trimestral de la Misión de Verificación.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/las-frases-mas-contundentes-del-canciller-omar-bula-en-su-intervencion-ante-el-consejo-de-seguridad-hablo-de-promocion-ideologica-del-acuerdo-de-paz-3593026",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-12T21:37:09+00:00",
       "temas": [
         "Conflicto armado"
       ],
