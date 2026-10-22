@@ -1,0 +1,68 @@
+{
+  "id": "base-2026-h1",
+  "titulo": "Informe base — Mercenarismo (enero a junio de 2026)",
+  "categoria": "Mercenarismo",
+  "desde": "2026-01-01",
+  "hasta": "2026-06-30",
+  "generado_en": "2026-10-22T00:00:00+00:00",
+  "nota_metodologica": "Este informe base no proviene del scraper automático (los feeds RSS/HTML de las fuentes solo exponen noticias recientes, no un archivo de 6 meses atrás). Se construyó mediante investigación manual en la web, verificando fecha y contenido de cada artículo, para servir de punto de partida histórico a los informes semanales automáticos que empiezan a generarse desde octubre de 2026 en adelante. Puede no ser exhaustivo.",
+  "total": 8,
+  "noticias": [
+    {
+      "medio": "Infobae Colombia",
+      "fecha": "2026-02-22T00:00:00+00:00",
+      "titulo": "Así funcionaría la red de reclutamiento de exmilitares colombianos para combatir en Rusia: dos coroneles serían los dueños del \"negocio\"",
+      "resumen": "Según documentos y testimonios recabados por El Espectador, la empresa Global Qowa Al Basheria SAS (constituida en Bogotá en 2012), liderada por dos coroneles retirados, habría ofrecido empleo en Medio Oriente a exmilitares colombianos que terminaron desviados hacia Rusia y combatiendo en Ucrania. Cifras oficiales citadas estiman entre 300 y 550 muertos y entre 1.500 y 2.500 exmilitares colombianos combatiendo hasta finales de 2025.",
+      "url": "https://www.infobae.com/colombia/2026/02/22/asi-funcionaria-la-red-de-reclutamiento-de-exmilitares-colombianos-para-combatir-en-rusia-dos-coroneles-serian-los-duenos-del-negocio/"
+    },
+    {
+      "medio": "Cancillería de Colombia (Diario Oficial)",
+      "fecha": "2026-03-17T00:00:00+00:00",
+      "titulo": "Ley 2569 de 2026: Colombia aprueba la Convención Internacional contra el Reclutamiento, la Utilización, la Financiación y el Entrenamiento de Mercenarios",
+      "resumen": "El Estado colombiano aprobó mediante ley la convención de la ONU de 1989 contra el mercenarismo, comprometiéndose a prohibir y sancionar el reclutamiento, financiación, entrenamiento y utilización de mercenarios, y a cooperar judicialmente con otros países. Publicada en el Diario Oficial No. 53.431.",
+      "url": "https://cancilleria.gov.co/normograma/compilacion/docs/ley_2569_2026.htm"
+    },
+    {
+      "medio": "Euronews (en español)",
+      "fecha": "2026-03-27T00:00:00+00:00",
+      "titulo": "La ONU estima que más de 10.000 colombianos han sido reclutados como mercenarios en todo el mundo",
+      "resumen": "La Oficina de Derechos Humanos de la ONU advirtió que más de 10.000 colombianos han sido reclutados para conflictos armados y empresas de seguridad privada en el exterior, un fenómeno que calificó de creciente. La alerta surge de un Grupo de Trabajo de la ONU sobre mercenarios, tras su visita a Colombia.",
+      "url": "https://es.euronews.com/2026/03/27/onu-estima-10000-colombianos-reclutado-mercenarios-mundo"
+    },
+    {
+      "medio": "Vanguardia",
+      "fecha": "2026-03-27T00:00:00+00:00",
+      "titulo": "Engaños, redes sociales y guerra: así reclutan a colombianos como mercenarios",
+      "resumen": "Según el Grupo de Trabajo de la ONU sobre mercenarios, la mayoría de los más de 10.000 colombianos reclutados —en su mayoría exmilitares— son captados por Facebook, Instagram, Telegram, TikTok y WhatsApp, a través de empresas de seguridad e intermediarios que ofrecen entre 2.000 y 6.000 dólares mensuales para combatir en conflictos como los de Ucrania y Sudán, muchas veces con contratos poco claros y riesgo de explotación laboral o trata.",
+      "url": "https://www.vanguardia.com/colombia/2026/03/27/enganos-redes-sociales-y-guerra-asi-reclutan-a-colombianos-como-mercenarios/"
+    },
+    {
+      "medio": "El País (Cali)",
+      "fecha": "2026-03-27T00:00:00+00:00",
+      "titulo": "Entre el dinero y el engaño: así están reclutando colombianos para guerras en el mundo",
+      "resumen": "Un informe preliminar del Grupo de Trabajo sobre Mercenarios de la ONU, tras su visita a Colombia, documenta que más de 10.000 colombianos han sido reclutados como mercenarios en los últimos 11 años para conflictos en RD Congo, Rusia, Somalia, Sudán, Ucrania y Yemen, así como para crimen organizado en México y Brasil y servicios de seguridad en Ecuador, Perú y Haití. El informe final se presentará ante el Consejo de Derechos Humanos de la ONU en septiembre de 2026.",
+      "url": "https://www.elpais.com.co/colombia/entre-el-dinero-y-el-engano-asi-estan-reclutando-colombianos-para-guerras-en-el-mundo-2709.html"
+    },
+    {
+      "medio": "Jurist",
+      "fecha": "2026-03-28T00:00:00+00:00",
+      "titulo": "UN experts welcome anti-mercenary law in Colombia",
+      "resumen": "Expertos de la ONU celebraron la ratificación, por parte del presidente Gustavo Petro, de la Convención de 1989 contra el reclutamiento y uso de mercenarios y el paquete legislativo antimercenarismo de Colombia, al tiempo que señalaron que el problema requiere cooperación regional y global para resolverse.",
+      "url": "https://www.jurist.org/news/2026/03/un-experts-welcome-anti-mercenary-law-in-colombia/"
+    },
+    {
+      "medio": "Infobae Colombia",
+      "fecha": "2026-05-20T00:00:00+00:00",
+      "titulo": "Este es el perfil de los mercenarios colombianos en la guerra entre Rusia y Ucrania, según el gobierno de Moscú",
+      "resumen": "Según un enviado especial de la cancillería rusa citado por Sputnik Mundo, la salida de combatientes europeos ha abierto espacio a reclutas latinoamericanos —principalmente colombianos y nicaragüenses— captados por empresas de reclutamiento occidentales en América Latina. El artículo recoge también el testimonio de un exmilitar colombiano capturado por tropas rusas en 2024, que denunció un punto de reclutamiento en el barrio Kennedy de Bogotá.",
+      "url": "https://www.infobae.com/colombia/2026/05/20/el-perfil-de-los-mercenarios-en-ucrania-cambia-y-crece-la-presencia-latinoamericana/"
+    },
+    {
+      "medio": "Asuntos Legales",
+      "fecha": "2026-05-26T00:00:00+00:00",
+      "titulo": "Agencia local y firma emiratí reclutaron exmilitares colombianos para la guerra en Sudán",
+      "resumen": "Human Rights Watch reveló que la empresa emiratí de seguridad Global Security Services Group, junto con la agencia colombiana A4SI como primer contacto, reclutó exmilitares colombianos para combatir junto a las Fuerzas de Apoyo Rápido en Sudán mediante supuestas ofertas de empleo. Al menos 300 colombianos habrían sido desplegados; la organización pidió a las autoridades colombianas tipificar e investigar penalmente este tipo de reclutamiento.",
+      "url": "https://www.asuntoslegales.com.co/actualidad/agencia-local-y-firma-emirati-reclutaron-exmilitares-colombianos-para-la-guerra-en-sudan-4400944"
+    }
+  ]
+}

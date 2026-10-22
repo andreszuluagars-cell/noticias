@@ -1,0 +1,14 @@
+{
+  "informes": [
+    {
+      "id": "base-2026-h1",
+      "titulo": "Informe base — Mercenarismo (enero a junio de 2026)",
+      "tipo": "base",
+      "desde": "2026-01-01",
+      "hasta": "2026-06-30",
+      "generado_en": "2026-10-22T00:00:00+00:00",
+      "total": 8,
+      "archivo": "informe-base-2026-h1.json"
+    }
+  ]
+}

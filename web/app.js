@@ -20,6 +20,17 @@
     sourceSelect: document.getElementById("source-select"),
     chips: Array.from(document.querySelectorAll(".chip")),
     offlineBanner: document.getElementById("offline-banner"),
+    informesBtn: document.getElementById("informes-btn"),
+    informesOverlay: document.getElementById("informes-overlay"),
+    informesClose: document.getElementById("informes-close"),
+    informesListaView: document.getElementById("informes-lista-view"),
+    informesLista: document.getElementById("informes-lista"),
+    informesVacio: document.getElementById("informes-vacio"),
+    informesDetalleView: document.getElementById("informes-detalle-view"),
+    informesVolver: document.getElementById("informes-volver"),
+    informesDetalleTitulo: document.getElementById("informes-detalle-titulo"),
+    informesDetalleMeta: document.getElementById("informes-detalle-meta"),
+    informesDetalleLista: document.getElementById("informes-detalle-lista"),
   };
 
   const TAG_CLASS = {
@@ -27,7 +38,7 @@
     "DDHH": "tag-ddhh",
     "DIH": "tag-dih",
     "Internacional": "tag-internacional",
-    "Reclutamiento transnacional": "tag-reclutamiento",
+    "Mercenarismo": "tag-mercenarismo",
     "General": "tag-general",
   };
 
@@ -36,7 +47,7 @@
     "DDHH": "var(--topic-ddhh)",
     "DIH": "var(--topic-dih)",
     "Internacional": "var(--topic-internacional)",
-    "Reclutamiento transnacional": "var(--topic-reclutamiento)",
+    "Mercenarismo": "var(--topic-mercenarismo)",
     "General": "var(--topic-general)",
   };
 
@@ -186,6 +197,122 @@
     state.generadoEn = datos.generado_en || null;
     poblarSelectFuentes(state.noticias);
     render();
+  }
+
+  function formatFechaLarga(fechaISO) {
+    try {
+      return new Date(fechaISO).toLocaleDateString("es-CO", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      });
+    } catch (e) {
+      return fechaISO;
+    }
+  }
+
+  let informesIndexCache = null;
+
+  async function cargarInformesIndex() {
+    if (informesIndexCache) return informesIndexCache;
+    try {
+      const resp = await fetch("data/informes/index.json?_=" + Date.now(), { cache: "no-store" });
+      if (!resp.ok) return null;
+      informesIndexCache = await resp.json();
+      return informesIndexCache;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function renderInformesLista(data) {
+    els.informesLista.innerHTML = "";
+    const informes = (data && data.informes) || [];
+    els.informesVacio.classList.toggle("hidden", informes.length > 0);
+    informes.forEach((inf) => {
+      const li = document.createElement("li");
+      const btn = document.createElement("button");
+      btn.className = "informe-item";
+      btn.innerHTML = `
+        <span class="informe-item-titulo">${escapeHtml(inf.titulo)}</span>
+        <span class="informe-item-meta">${escapeHtml(inf.desde)} → ${escapeHtml(inf.hasta)} · ${inf.total} noticia(s)</span>
+      `;
+      btn.addEventListener("click", () => abrirInforme(inf));
+      li.appendChild(btn);
+      els.informesLista.appendChild(li);
+    });
+  }
+
+  async function abrirInforme(infMeta) {
+    let informe = null;
+    try {
+      const resp = await fetch("data/informes/" + infMeta.archivo + "?_=" + Date.now(), { cache: "no-store" });
+      if (resp.ok) informe = await resp.json();
+    } catch (e) {
+      informe = null;
+    }
+    if (!informe) return;
+
+    els.informesDetalleTitulo.textContent = informe.titulo;
+    els.informesDetalleMeta.textContent = `${informe.desde} → ${informe.hasta} · ${informe.total} noticia(s) · generado ${formatFechaLarga(informe.generado_en)}`;
+    els.informesDetalleLista.innerHTML = "";
+
+    const frag = document.createDocumentFragment();
+    (informe.noticias || []).forEach((n) => {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.className = "news-card";
+      a.href = n.url;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      a.style.setProperty("--card-accent", "var(--topic-mercenarismo)");
+
+      const meta = document.createElement("div");
+      meta.className = "card-meta";
+      meta.innerHTML = `<span class="source-name">${escapeHtml(n.medio)}</span><span class="dot">·</span><span class="time-ago">${escapeHtml((n.fecha || "").slice(0, 10))}</span>`;
+
+      const titulo = document.createElement("p");
+      titulo.className = "card-title";
+      titulo.textContent = n.titulo;
+
+      const resumen = document.createElement("p");
+      resumen.className = "informe-item-resumen";
+      resumen.textContent = n.resumen || "";
+
+      a.appendChild(meta);
+      a.appendChild(titulo);
+      if (n.resumen) a.appendChild(resumen);
+      li.appendChild(a);
+      frag.appendChild(li);
+    });
+    els.informesDetalleLista.appendChild(frag);
+
+    els.informesListaView.classList.add("hidden");
+    els.informesDetalleView.classList.remove("hidden");
+  }
+
+  async function abrirInformes() {
+    els.informesOverlay.classList.remove("hidden");
+    els.informesListaView.classList.remove("hidden");
+    els.informesDetalleView.classList.add("hidden");
+    const data = await cargarInformesIndex();
+    renderInformesLista(data);
+  }
+
+  function cerrarInformes() {
+    els.informesOverlay.classList.add("hidden");
+  }
+
+  if (els.informesBtn) {
+    els.informesBtn.addEventListener("click", abrirInformes);
+    els.informesClose.addEventListener("click", cerrarInformes);
+    els.informesOverlay.addEventListener("click", (e) => {
+      if (e.target === els.informesOverlay) cerrarInformes();
+    });
+    els.informesVolver.addEventListener("click", () => {
+      els.informesDetalleView.classList.add("hidden");
+      els.informesListaView.classList.remove("hidden");
+    });
   }
 
   els.chips.forEach((chip) => {

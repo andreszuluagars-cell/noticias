@@ -27,8 +27,8 @@
   --topic-general-bg:   rgba(114,138,126,0.14);
   --topic-internacional:    #8b5cf6;
   --topic-internacional-bg: rgba(139,92,246,0.14);
-  --topic-reclutamiento:    #e0475f;
-  --topic-reclutamiento-bg: rgba(224,71,95,0.14);
+  --topic-mercenarismo:    #e0475f;
+  --topic-mercenarismo-bg: rgba(224,71,95,0.14);
 
   --mono: "IBM Plex Mono", "Share Tech Mono", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -369,9 +369,9 @@ main {
   background: var(--topic-internacional-bg);
   border-style: dashed; /* distinción extra además del color, por si dos colores se confunden */
 }
-.tag-reclutamiento {
-  color: var(--topic-reclutamiento);
-  background: var(--topic-reclutamiento-bg);
+.tag-mercenarismo {
+  color: var(--topic-mercenarismo);
+  background: var(--topic-mercenarismo-bg);
   border-style: dotted; /* distinción extra además del color */
 }
 
@@ -417,6 +417,116 @@ main {
   line-height: 1.6;
   max-width: 480px;
   margin: 0 auto;
+}
+
+/* --- Panel de Informes semanales (Mercenarismo) ------------------------ */
+.informes-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+@media (min-width: 640px) {
+  .informes-overlay { align-items: center; }
+}
+
+.informes-panel {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-bottom: none;
+  border-radius: 12px 12px 0 0;
+  width: 100%;
+  max-width: 640px;
+  max-height: 86vh;
+  overflow-y: auto;
+  padding: 16px;
+  box-shadow: 0 -8px 30px rgba(0,0,0,0.5);
+}
+@media (min-width: 640px) {
+  .informes-panel { border-radius: 12px; border-bottom: 1px solid var(--border); max-height: 80vh; }
+}
+
+.informes-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.informes-header h2 {
+  font-family: var(--mono);
+  font-size: 14px;
+  letter-spacing: 0.04em;
+  color: var(--topic-mercenarismo);
+  margin: 0;
+}
+
+.informes-intro {
+  color: var(--text-secondary);
+  font-size: 12.5px;
+  line-height: 1.5;
+  margin: 0 0 14px;
+}
+
+.informes-vacio {
+  color: var(--text-muted);
+  font-family: var(--mono);
+  font-size: 12.5px;
+}
+
+.informes-lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.informe-item {
+  width: 100%;
+  text-align: left;
+  background: var(--bg-surface-2);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--topic-mercenarismo);
+  border-radius: 6px;
+  padding: 10px 12px;
+  color: var(--text-primary);
+  font-family: var(--sans);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.informe-item:active { background: var(--bg-input); }
+.informe-item-titulo { font-size: 13.5px; font-weight: 600; }
+.informe-item-meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.informe-item-resumen {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.informes-volver {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-family: var(--mono);
+  font-size: 12px;
+  padding: 0 0 12px;
+  cursor: pointer;
+}
+
+#informes-detalle-titulo {
+  font-size: 14px;
+  margin: 0 0 4px;
+  color: var(--text-primary);
 }
 
 .offline-banner {

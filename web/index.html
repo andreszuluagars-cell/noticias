@@ -38,6 +38,9 @@
           <p class="subtitle">CONFLICTO ARMADO · DDHH · DIH · INTL</p>
         </div>
       </div>
+      <button id="informes-btn" class="icon-btn" aria-label="Ver informes semanales" title="Informes">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="16" y2="17"/></svg>
+      </button>
       <button id="refresh-btn" class="icon-btn" aria-label="Actualizar noticias" title="Actualizar">
         <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
       </button>
@@ -54,7 +57,7 @@
       <button class="chip" data-topic="DDHH" role="tab" aria-selected="false">DDHH</button>
       <button class="chip" data-topic="DIH" role="tab" aria-selected="false">DIH</button>
       <button class="chip" data-topic="Internacional" role="tab" aria-selected="false">INTERNACIONAL</button>
-      <button class="chip" data-topic="Reclutamiento transnacional" role="tab" aria-selected="false">RECLUTAMIENTO&nbsp;TRANSNACIONAL</button>
+      <button class="chip" data-topic="Mercenarismo" role="tab" aria-selected="false">MERCENARISMO</button>
     </div>
 
     <div class="source-row">
@@ -75,11 +78,33 @@
 
   <footer class="footer">
     <p class="footer-tag">FUENTE ABIERTA — NO CLASIFICADO</p>
-    <p>Fuentes nacionales: El Tiempo, El Espectador, Semana, El Colombiano, El País, La Opinión y Vanguardia. Fuentes internacionales (categoría INTERNACIONAL — conflictos armados, derechos humanos, DIH, mercenarios y guerra en Ucrania): Infobae, El Mundo, El Universal, La Nación y El Comercio. Fuentes especializadas (categoría RECLUTAMIENTO TRANSNACIONAL — exclusivamente reclutamiento transnacional de ciudadanos colombianos para conflictos internacionales): INDEPAZ, Verdad Abierta, CINEP y el Sistema de Alertas Tempranas de la Defensoría del Pueblo. Clasificación automática por palabras clave — verifica siempre la noticia original antes de citarla.</p>
+    <p>Fuentes nacionales: El Tiempo, El Espectador, Semana, El Colombiano, El País, La Opinión y Vanguardia. Fuentes internacionales (categoría INTERNACIONAL — conflictos armados, derechos humanos, DIH, mercenarios y guerra en Ucrania): Infobae, El Mundo, El Universal, La Nación y El Comercio. Fuentes especializadas (categoría MERCENARISMO — redes de reclutamiento, mercenarios, empresas militares de seguridad privada, reclutamiento transnacional, colombianos en guerras externas y reclutamiento de exmilitares): INDEPAZ, Verdad Abierta, CINEP y el Sistema de Alertas Tempranas de la Defensoría del Pueblo. Clasificación automática por palabras clave — verifica siempre la noticia original antes de citarla.</p>
     <p class="footer-credit">Proyecto de investigación sobre redes de reclutamiento transnacional<br />APP creada por Andrés M. Zuluaga</p>
   </footer>
 
   <div id="offline-banner" class="offline-banner hidden">⚠ SIN CONEXIÓN — mostrando la última copia local.</div>
+
+  <div id="informes-overlay" class="informes-overlay hidden">
+    <div class="informes-panel" role="dialog" aria-modal="true" aria-label="Informes semanales de Mercenarismo">
+      <div class="informes-header">
+        <h2>INFORMES · MERCENARISMO</h2>
+        <button id="informes-close" class="icon-btn" aria-label="Cerrar informes" title="Cerrar">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+      <div id="informes-lista-view">
+        <p class="informes-intro">Informe semanal (y base) de la categoría Mercenarismo: redes de reclutamiento, mercenarios, empresas militares de seguridad privada, reclutamiento transnacional, colombianos en guerras externas y reclutamiento de exmilitares.</p>
+        <ul id="informes-lista" class="informes-lista"></ul>
+        <p id="informes-vacio" class="informes-vacio hidden">Todavía no se ha generado ningún informe.</p>
+      </div>
+      <div id="informes-detalle-view" class="hidden">
+        <button id="informes-volver" class="informes-volver">‹ VOLVER A LA LISTA</button>
+        <h3 id="informes-detalle-titulo"></h3>
+        <p id="informes-detalle-meta" class="informes-intro"></p>
+        <ul id="informes-detalle-lista" class="news-list"></ul>
+      </div>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>
