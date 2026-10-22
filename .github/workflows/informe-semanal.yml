@@ -1,0 +1,42 @@
+name: Informe semanal de mercenarismo
+
+on:
+  schedule:
+    # 12:00 UTC = 07:00 a.m. hora de Colombia (UTC-5), los lunes.
+    # Corre después del scraper diario (10:30 UTC) para que el historial
+    # ya incluya la actualización del lunes.
+    - cron: "0 12 * * 1"
+  workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  informe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generar informe semanal y enviar por correo
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scraper/informe_semanal.py
+
+      - name: Publicar el informe generado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/informes/
+          if git diff --cached --quiet; then
+            echo "Sin informes nuevos, no se hace commit."
+          else
+            git commit -m "Informe semanal de mercenarismo $(date -u +'%Y-%m-%d')"
+            git push
+          fi
