@@ -14,8 +14,32 @@ fuentes:
   DIH, mercenarios y la guerra en Ucrania.
 - **Especializadas** — INDEPAZ, Verdad Abierta, CINEP y el Sistema de
   Alertas Tempranas de la Defensoría del Pueblo, filtradas
-  exclusivamente por reclutamiento transnacional de ciudadanos
-  colombianos para conflictos internacionales.
+  exclusivamente por la categoría **Mercenarismo**: redes de
+  reclutamiento, mercenarios, empresas militares de seguridad privada,
+  reclutamiento transnacional, colombianos en guerras externas y
+  reclutamiento de exmilitares.
+
+## Informe semanal de Mercenarismo
+
+Cada lunes en la mañana (hora Colombia), un workflow separado
+(`.github/workflows/informe-semanal.yml`, script
+`scraper/informe_semanal.py`) genera un informe con las noticias de la
+categoría Mercenarismo de los últimos 7 días (medio, fecha, título,
+resumen y link), lo guarda en `web/data/informes/` para que se pueda
+consultar desde el botón **"Informes"** de la app, y lo envía por correo
+a la dirección configurada (por defecto `andres.zuluagar@esdeg.edu.co`).
+
+El envío de correo usa Gmail SMTP con una cuenta y una "contraseña de
+aplicación" que debes configurar como secretos del repositorio
+(**Settings → Secrets and variables → Actions**):
+
+- `GMAIL_USER`: la cuenta de Gmail remitente.
+- `GMAIL_APP_PASSWORD`: la contraseña de aplicación de esa cuenta (no la
+  contraseña normal — se genera en la configuración de seguridad de
+  Google, con la verificación en dos pasos activada).
+
+Si esos secretos no están configurados, el informe se genera igual y
+queda disponible en la app, pero el envío de correo se omite.
 
 ## Cómo funciona
 
