@@ -144,44 +144,64 @@ INTERNACIONAL = (
     + MERCENARIOS + GUERRA_UCRANIA
 )
 
-# --- Categoría "Reclutamiento transnacional" ------------------------------
+# --- Categoría "Mercenarismo" ---------------------------------------------
 # Se usa SOLO para las fuentes especializadas de sources.py (region:
-# "reclutamiento_transnacional": INDEPAZ, Verdad Abierta, CINEP y el
-# Sistema de Alertas Tempranas de la Defensoría del Pueblo). A diferencia
-# de las fuentes nacionales e internacionales, estas 4 fuentes NO se
-# filtran con ninguna de las listas de arriba — se filtran ÚNICAMENTE con
-# esta lista, deliberadamente angosta, para quedarse solo con lo que
-# tenga que ver EXCLUSIVAMENTE con reclutamiento transnacional de
-# ciudadanos colombianos para conflictos internacionales (y no con el
-# resto de la cobertura de conflicto/DDHH en Colombia que estas 4
-# organizaciones publican a diario, que quedaría fuera de la app aunque
-# sea relevante en términos generales — ese es el punto: aquí solo
-# interesa la señal específica de reclutamiento transnacional).
-RECLUTAMIENTO_TRANSNACIONAL = [
-    "reclutamiento transnacional", "redes de reclutamiento transnacional",
-    "red de reclutamiento transnacional",
-    "reclutamiento de colombianos", "colombianos reclutados",
-    "reclutamiento de excombatientes", "reclutamiento de exmilitares",
-    "reclutamiento de mercenarios colombianos",
-    "colombianos reclutados para la guerra",
-    "colombianos reclutados para combatir",
-    "colombianos reclutados como mercenarios",
-    "colombianos enviados a combatir",
-    "trafico de colombianos para la guerra",
-    "captacion de colombianos", "captacion de excombatientes",
-    "reclutamiento para conflictos internacionales",
-    "reclutamiento para combatir en el extranjero",
-    "reclutamiento ilegal de colombianos",
-    "trata de personas con fines de reclutamiento militar",
-    "colombianos mercenarios", "mercenarios colombianos",
-    "excombatientes colombianos reclutados",
-    "exmilitares colombianos reclutados",
-    "reclutamiento de veteranos colombianos",
+# "mercenarismo": INDEPAZ, Verdad Abierta, CINEP y el Sistema de Alertas
+# Tempranas de la Defensoría del Pueblo). A diferencia de las fuentes
+# nacionales e internacionales, estas 4 fuentes NO se filtran con ninguna
+# de las listas de arriba — se filtran ÚNICAMENTE con esta lista,
+# deliberadamente angosta, para quedarse solo con lo que tenga que ver
+# EXCLUSIVAMENTE con los 6 temas pedidos el 22-oct-2026 (y no con el resto
+# de la cobertura de conflicto/DDHH en Colombia que estas 4 organizaciones
+# publican a diario, que queda fuera de la app a propósito):
+#   1) Redes de reclutamiento
+#   2) Mercenarios
+#   3) Empresas militares de seguridad privada
+#   4) Reclutamiento transnacional
+#   5) Colombianos en guerras externas
+#   6) Reclutamiento de exmilitares
+MERCENARISMO = [
+    # 1) Redes de reclutamiento
     "red de reclutamiento", "redes de reclutamiento",
+    "red de reclutamiento transnacional", "redes de reclutamiento transnacional",
+    "captacion de colombianos", "captacion de excombatientes",
+    "captacion de personas para combatir",
+    # 2) Mercenarios
+    "mercenario", "mercenarios", "mercenarismo", "mercenarismo colombiano",
+    "mercenario colombiano", "mercenarios colombianos",
+    "colombianos mercenarios", "colombianos como mercenarios",
+    "colombianos reclutados como mercenarios",
+    "reclutamiento de mercenarios colombianos",
+    # 3) Empresas militares de seguridad privada
+    "empresa militar de seguridad privada", "empresas militares de seguridad privada",
+    "empresa militar privada", "empresas militares privadas",
+    "compañia militar privada", "compania militar privada",
+    "companias militares privadas", "compañias militares privadas",
+    "contratista militar", "contratistas militares", "contratistas colombianos",
+    "grupo wagner", "mercenarios de wagner", "wagner colombianos", "colombianos wagner",
+    # 4) Reclutamiento transnacional
+    "reclutamiento transnacional", "reclutamiento para conflictos internacionales",
+    "reclutamiento para combatir en el extranjero", "reclutamiento ilegal de colombianos",
+    "trafico de colombianos para la guerra",
+    "trata de personas con fines de reclutamiento militar",
+    "reclutamiento de colombianos", "colombianos reclutados",
+    # 5) Colombianos en guerras externas
+    "colombianos en guerras externas", "colombianos combatiendo en el exterior",
+    "colombianos en la guerra de ucrania", "colombianos en ucrania",
+    "colombianos en rusia", "colombianos en sudan", "colombianos en yemen",
+    "colombianos en medio oriente", "colombianos en emiratos",
+    "colombianos reclutados para la guerra", "colombianos reclutados para combatir",
+    "colombianos enviados a combatir", "soldados colombianos en",
+    # 6) Reclutamiento de exmilitares
+    "reclutamiento de exmilitares", "reclutamiento de excombatientes",
+    "reclutamiento de veteranos colombianos",
+    "exmilitares colombianos reclutados", "excombatientes colombianos reclutados",
+    "exmilitar colombiano", "exmilitares colombianos",
+    "veteranos colombianos", "excombatientes colombianos",
 ]
 
-TOPIC_KEYWORDS_RECLUTAMIENTO = {
-    "Reclutamiento transnacional": RECLUTAMIENTO_TRANSNACIONAL,
+TOPIC_KEYWORDS_MERCENARISMO = {
+    "Mercenarismo": MERCENARISMO,
 }
 
 

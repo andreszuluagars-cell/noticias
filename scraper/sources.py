@@ -140,18 +140,18 @@ SOURCES = [
     },
 
     # =======================================================================
-    # FUENTES ESPECIALIZADAS (region: "reclutamiento_transnacional")
+    # FUENTES ESPECIALIZADAS (region: "mercenarismo")
     #
     # INDEPAZ, Verdad Abierta, CINEP y el Sistema de Alertas Tempranas de
     # la Defensoría del Pueblo. A diferencia de las demás fuentes, estas
     # NO se filtran con ninguna lista de conflicto/DDHH/DIH general — se
-    # filtran ÚNICAMENTE con la lista RECLUTAMIENTO_TRANSNACIONAL de
-    # keywords.py, para quedarnos solo con lo que tenga que ver
-    # exclusivamente con reclutamiento transnacional de ciudadanos
-    # colombianos para conflictos internacionales (el resto de su
+    # filtran ÚNICAMENTE con la lista MERCENARISMO de keywords.py (6
+    # temas: redes de reclutamiento, mercenarios, empresas militares de
+    # seguridad privada, reclutamiento transnacional, colombianos en
+    # guerras externas, reclutamiento de exmilitares). El resto de su
     # cobertura diaria de conflicto/DDHH en Colombia, aunque relevante en
     # general, queda fuera de la app a propósito — ya está cubierta por
-    # las fuentes nacionales). Ver scraper.py.
+    # las fuentes nacionales. Ver scraper.py.
     # =======================================================================
 
     {
@@ -159,21 +159,21 @@ SOURCES = [
         "type": "rss",
         "url": "https://indepaz.org.co/feed/",
         "section": "Instituto de Estudios para el Desarrollo y la Paz",
-        "region": "reclutamiento_transnacional",
+        "region": "mercenarismo",
     },
     {
         "name": "Verdad Abierta",
         "type": "rss",
         "url": "https://verdadabierta.com/feed/",
         "section": "Verdad Abierta",
-        "region": "reclutamiento_transnacional",
+        "region": "mercenarismo",
     },
     {
         "name": "CINEP",
         "type": "rss",
         "url": "https://cinep.org.co/feed/",
         "section": "Centro de Investigación y Educación Popular",
-        "region": "reclutamiento_transnacional",
+        "region": "mercenarismo",
     },
     {
         # La Defensoría no es WordPress (corre en Liferay), así que no
@@ -191,6 +191,6 @@ SOURCES = [
         "url": "https://www.defensoria.gov.co/comunicados",
         "section": "Sistema de Alertas Tempranas",
         "link_must_contain": "defensoria.gov.co",
-        "region": "reclutamiento_transnacional",
+        "region": "mercenarismo",
     },
 ]

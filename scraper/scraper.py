@@ -31,7 +31,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from keywords import (
     TOPIC_KEYWORDS,
     TOPIC_KEYWORDS_INTERNACIONAL,
-    TOPIC_KEYWORDS_RECLUTAMIENTO,
+    TOPIC_KEYWORDS_MERCENARISMO,
     ALL_KEYWORDS,
 )
 from sources import SOURCES
@@ -52,6 +52,22 @@ OUTPUT_PATH = os.path.join(
     "data",
     "noticias.json",
 )
+
+# Historial acumulado (solo tema "Mercenarismo"), usado por
+# informe_semanal.py para armar el informe de la semana aunque las
+# fuentes RSS/HTML ya hayan rotado esas noticias fuera de su página
+# principal para cuando corre el informe.
+HISTORIAL_MERCENARISMO_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "web",
+    "data",
+    "historial_mercenarismo.json",
+)
+
+# Cuántos días de historial conservar como máximo (evita que el archivo
+# crezca indefinidamente; 90 días da margen de sobra para informes
+# semanales y para reconstruir uno atrasado si hiciera falta).
+HISTORIAL_DIAS_MAX = 90
 
 
 def normalizar(texto: str) -> str:
@@ -76,6 +92,58 @@ def _patron_palabra(palabra: str) -> re.Pattern:
     match cuando la keyword aparece como palabra (o frase) completa.
     """
     return re.compile(r"\b" + re.escape(palabra) + r"\b")
+
+
+def cargar_historial_mercenarismo() -> list:
+    if not os.path.exists(HISTORIAL_MERCENARISMO_PATH):
+        return []
+    try:
+        with open(HISTORIAL_MERCENARISMO_PATH, "r", encoding="utf-8") as f:
+            return json.load(f).get("noticias", [])
+    except Exception as e:
+        print(f"[WARN] No se pudo leer el historial de mercenarismo: {e}")
+        return []
+
+
+def actualizar_historial_mercenarismo(noticias_mercenarismo: list) -> None:
+    """Agrega al historial las noticias nuevas del tema "Mercenarismo" de
+    esta corrida (dedup por id), y recorta lo más viejo que
+    HISTORIAL_DIAS_MAX. Así informe_semanal.py siempre tiene a mano la
+    última semana completa, aunque una fuente ya haya rotado esa noticia
+    fuera de su RSS/página principal.
+    """
+    from datetime import timedelta
+
+    existentes = cargar_historial_mercenarismo()
+    por_id = {n["id"]: n for n in existentes}
+    for n in noticias_mercenarismo:
+        por_id[n["id"]] = n
+
+    limite = datetime.now(timezone.utc) - timedelta(days=HISTORIAL_DIAS_MAX)
+    vigentes = []
+    for n in por_id.values():
+        try:
+            fecha = datetime.fromisoformat(n["fecha"])
+            if fecha.tzinfo is None:
+                fecha = fecha.replace(tzinfo=timezone.utc)
+        except Exception:
+            fecha = datetime.now(timezone.utc)
+        if fecha >= limite:
+            vigentes.append(n)
+
+    vigentes.sort(key=lambda x: x["fecha"], reverse=True)
+
+    os.makedirs(os.path.dirname(HISTORIAL_MERCENARISMO_PATH), exist_ok=True)
+    with open(HISTORIAL_MERCENARISMO_PATH, "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "actualizado_en": datetime.now(timezone.utc).isoformat(),
+                "noticias": vigentes,
+            },
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
 
 
 def clasificar_tema(texto_normalizado: str, topic_keywords: dict = None):
@@ -243,16 +311,16 @@ def filtrar_y_clasificar(noticias: list) -> list:
         #   nivel mundial — no contra las palabras de conflicto colombiano
         #   específico (farc, eln, clan del golfo, etc.), que en un diario
         #   de otro país producirían ruido.
-        # - "reclutamiento_transnacional": fuentes especializadas
-        #   (INDEPAZ, Verdad Abierta, CINEP, SAT), SOLO contra la lista
-        #   angosta de reclutamiento transnacional de colombianos — el
-        #   resto de su cobertura de conflicto/DDHH se descarta a propósito.
+        # - "mercenarismo": fuentes especializadas (INDEPAZ, Verdad
+        #   Abierta, CINEP, SAT), SOLO contra la lista angosta de los 6
+        #   temas de mercenarismo/reclutamiento transnacional — el resto
+        #   de su cobertura de conflicto/DDHH se descarta a propósito.
         # - cualquier otra cosa (o ausente): fuentes nacionales, contra la
         #   lista general de conflicto armado/DDHH/DIH en Colombia.
         if region == "internacional":
             topic_keywords = TOPIC_KEYWORDS_INTERNACIONAL
-        elif region == "reclutamiento_transnacional":
-            topic_keywords = TOPIC_KEYWORDS_RECLUTAMIENTO
+        elif region == "mercenarismo":
+            topic_keywords = TOPIC_KEYWORDS_MERCENARISMO
         else:
             topic_keywords = TOPIC_KEYWORDS
         temas, encontradas = clasificar_tema(texto_normalizado, topic_keywords)
@@ -289,6 +357,9 @@ def filtrar_y_clasificar(noticias: list) -> list:
 def main():
     crudas = recolectar()
     filtradas = filtrar_y_clasificar(crudas)
+
+    mercenarismo_hoy = [n for n in filtradas if "Mercenarismo" in n["temas"]]
+    actualizar_historial_mercenarismo(mercenarismo_hoy)
 
     salida = {
         "generado_en": datetime.now(timezone.utc).isoformat(),
