@@ -6,7 +6,16 @@ on:
     # Corre después del scraper diario (10:30 UTC) para que el historial
     # ya incluya la actualización del lunes.
     - cron: "0 12 * * 1"
-  workflow_dispatch: {}  # permite correrlo manualmente desde la pestaña Actions
+  workflow_dispatch:  # permite correrlo manualmente desde la pestaña Actions
+    inputs:
+      modo:
+        description: "Tipo de informe a enviar"
+        required: false
+        default: "semanal"
+        type: choice
+        options:
+          - semanal
+          - base
 
 permissions:
   contents: write
@@ -27,7 +36,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python scraper/informe_semanal.py
+        run: python scraper/informe_semanal.py --modo ${{ github.event.inputs.modo || 'semanal' }}
 
       - name: Publicar el informe generado
         run: |
