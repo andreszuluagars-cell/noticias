@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-10-22T15:28:43.074207+00:00",
-  "total_revisadas": 314,
-  "total_relevantes": 39,
+  "generado_en": "2026-10-22T19:09:48.163972+00:00",
+  "total_revisadas": 313,
+  "total_relevantes": 33,
   "noticias": [
-    {
-      "id": "d063c9447051",
-      "titulo": "La Corte Penal Internacional gana el premio Sájarov a la libertad de conciencia de la Eurocámara",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/la-corte-penal-internacional-gana-el-premio-sajarov-a-la-libertad-de-conciencia-de-la-eurocamara-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-22T15:28:40.602871+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "corte penal internacional"
-      ]
-    },
     {
       "id": "34257daf5773",
       "titulo": "Destruyen complejo del Eln que producía cocaína en Sardinata",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:36.621547+00:00",
+      "fecha": "2026-10-22T19:09:43.786538+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.952331+00:00",
+      "fecha": "2026-10-22T19:09:43.110306+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.951847+00:00",
+      "fecha": "2026-10-22T19:09:43.109968+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,92 +59,12 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.951764+00:00",
+      "fecha": "2026-10-22T19:09:43.109912+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "31403f4a8a2b",
-      "titulo": "Cerco a los responsables del ataque con drones: Gobernación del Cesar anuncia fuertes medidas",
-      "resumen": "",
-      "url": "https://semana.com/nacion/valledupar/articulo/cerco-a-los-responsables-del-ataque-con-drones-gobernacion-del-cesar-anuncia-fuertes-medidas/202601/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.451784+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque con drones"
-      ]
-    },
-    {
-      "id": "40c304786227",
-      "titulo": "Policías capturados por la muerte de Donovan Balanta no aceptaron cargos. Fiscalía imputó homicidio y tortura",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/policias-capturados-por-la-muerte-de-donovan-balanta-no-aceptaron-cargos-fiscalia-imputo-homicidio-y-tortura/202602/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.451760+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "tortura"
-      ]
-    },
-    {
-      "id": "71cd0cedb440",
-      "titulo": "Envían a prisión a dos señalados por secuestro y robo a pasajeras de un taxi: vivieron tres horas de terror",
-      "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/envian-a-prision-a-dos-senalados-ladrones-por-secuestro-y-robo-a-pasajeras-de-un-taxi-vivieron-tres-horas-de-terror/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.451717+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "e8182d33f942",
-      "titulo": "En libertad el exgobernador de San Andrés investigado por extorsión y secuestro",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/en-libertad-el-exgobernador-de-san-andres-investigado-por-extorsion-y-secuestro/202622/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.451690+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "d079fb994c51",
-      "titulo": "Casa de abuelos fue destruida con un dron en Linares, Nariño; combates tienen a la población en grave condición humanitaria",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/casa-de-abuelos-fue-destruida-con-un-dron-en-linares-narino-combates-tienen-a-la-poblacion-en-grave-condicion-humanitaria/202659/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.451662+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "combates"
       ]
     },
     {
@@ -171,7 +75,41 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.451478+00:00",
+      "fecha": "2026-10-22T19:09:42.703836+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "1dcfdb93f9bc",
+      "titulo": "JEP condenó a seis años de prisión al coronel (r) Juan Carlos Figueroa Suárez por 38 falsos positivos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/jep-condeno-a-seis-anos-de-prision-al-coronel-r-juan-carlos-figueroa-suarez-por-38-falsos-positivos/202636/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-22T19:09:42.703729+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "falsos positivos",
+        "jep"
+      ]
+    },
+    {
+      "id": "5c07df8e2040",
+      "titulo": "Tres bloques, 500 hombres y dos compañías: así es el Frente de Guerra Suroccidental del ELN bombardeado por la Fuerza Aérea",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/frente-jose-maria-becerra-del-eln-bajo-el-mando-de-alias-marcos-pacifico-seria-el-blanco-del-bombardeo-de-las-ff-mm/202630/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-22T19:09:42.703607+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +125,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117113+00:00",
+      "fecha": "2026-10-22T19:09:42.349123+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +141,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117102+00:00",
+      "fecha": "2026-10-22T19:09:42.349114+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +157,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117097+00:00",
+      "fecha": "2026-10-22T19:09:42.349110+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +173,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117086+00:00",
+      "fecha": "2026-10-22T19:09:42.349101+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117078+00:00",
+      "fecha": "2026-10-22T19:09:42.349095+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117073+00:00",
+      "fecha": "2026-10-22T19:09:42.349090+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117052+00:00",
+      "fecha": "2026-10-22T19:09:42.349086+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117013+00:00",
+      "fecha": "2026-10-22T19:09:42.349043+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.117006+00:00",
+      "fecha": "2026-10-22T19:09:42.349037+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.116999+00:00",
+      "fecha": "2026-10-22T19:09:42.349030+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.116988+00:00",
+      "fecha": "2026-10-22T19:09:42.349020+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.116968+00:00",
+      "fecha": "2026-10-22T19:09:42.349002+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.116961+00:00",
+      "fecha": "2026-10-22T19:09:42.348993+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T15:28:35.116917+00:00",
+      "fecha": "2026-10-22T19:09:42.348950+00:00",
       "temas": [
         "DDHH"
       ],
@@ -404,19 +342,53 @@
       ]
     },
     {
-      "id": "2bc30c8c1c4a",
-      "titulo": "Una pareja dominicana es condenada a 30 años de cárcel por tortura y asesinato de una niña",
-      "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/10/22/una-pareja-dominicana-es-condenada-a-30-anos-de-carcel-por-tortura-y-asesinato-de-una-nina/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-10-22T15:16:37+00:00",
+      "id": "70f8bda604be",
+      "titulo": "JEP condenó a seis años de prisión al coronel (r) Juan Carlos Figueroa por 38 'falsos positivos' en Valledupar",
+      "resumen": "También deberá participar en la búsqueda e identificación de desaparecidos, y entregar el rango, las medallas y el escudo de armas que recibió.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-condeno-a-seis-anos-de-prision-al-coronel-r-juan-carlos-figueroa-por-38-falsos-positivos-en-valledupar-3595485",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-22T16:13:20+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado",
+        "DDHH"
       ],
       "palabras_clave": [
-        "tortura"
+        "falsos positivos",
+        "jep"
+      ]
+    },
+    {
+      "id": "45d78e6f618b",
+      "titulo": "Los detalles del quinto bombardeo del gobierno De La Espriella: este es el cabecilla del Eln que habría caído en la operación aérea",
+      "resumen": "EL TIEMPO conoció que la ofensiva llevaba cuatro semanas de planificación y contó con apoyo de inteligencia estadounidense.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-detalles-del-quinto-bombardeo-del-gobierno-de-la-espriella-este-es-el-cabecilla-del-eln-que-habria-caido-en-la-operacion-aerea-3595475",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-22T15:50:02+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "ae32385d1290",
+      "titulo": "Gobierno de Abelardo de la Espriella lanzó su quinto bombardeo contra el Eln en Nariño: van 8 muertos",
+      "resumen": "La operación aérea se desarrolló en horas de la madrugada. Esto es lo que se sabe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-de-abelardo-de-la-espriella-lanzo-su-quinto-bombardeo-contra-el-eln-en-narino-van-8-muertos-3595414",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-22T15:49:50+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -428,38 +400,6 @@
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
       "fecha": "2026-10-22T14:23:36+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "e677d42e204a",
-      "titulo": "Defensoría alerta por nombramientos de hombres vinculados a casos de violencia de género en el Gobierno: '¿Qué mensaje reciben las mujeres?'",
-      "resumen": "La entidad se refirió a los episodios de Coljuegos y el Ministerio de Culturas, así como de la posible vinculación del general Zapateiro a Ecopetrol.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/defensoria-alerta-por-nombramientos-de-hombres-vinculados-a-casos-de-violencia-de-genero-en-el-gobierno-que-mensaje-reciben-las-mujeres-3595421",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-22T13:58:15+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "violencia de genero"
-      ]
-    },
-    {
-      "id": "ae32385d1290",
-      "titulo": "Gobierno de Abelardo De La Espriella lanzó su quinto bombardeo contra el Eln en Nariño: van 8 muertos",
-      "resumen": "La operación aérea se desarrolló en horas de la madrugada. Esto es lo que se sabe.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-de-abelardo-de-la-espriella-lanzo-su-quinto-bombardeo-contra-el-eln-en-narino-van-8-muertos-3595414",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-22T13:43:26+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -481,22 +421,6 @@
       ],
       "palabras_clave": [
         "corte penal internacional"
-      ]
-    },
-    {
-      "id": "481658afb928",
-      "titulo": "Judicializan al exgobernador de San Andrés, Everth Julio Hawkins, por presunta extorsión a contratistas y secuestro: detalles del proceso en su contra",
-      "resumen": "Hawkins Sjogreen fue reconocido mediante una videollamada por la sobrina de un empresario retenida en un vehículo por hombres armados en la isla.",
-      "url": "https://www.eltiempo.com/justicia/delitos/judicializan-al-exgobernador-de-san-andres-everth-julio-hawkins-por-presunta-extorsion-a-contratistas-y-secuestro-de-una-familiar-de-una-victima-3595377",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-22T09:36:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
       ]
     },
     {
@@ -545,22 +469,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "dc5799ece21f",
-      "titulo": "Captura de ‘Brayan Veneco’: los crímenes que le atribuyen al cabecilla de las disidencias de ‘Mordisco’ en el Magdalena Medio",
-      "resumen": "Es señalado como cabecilla del Frente 4 del grupo armado. Fue capturado mientras recibía atención médica en Bolívar.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/captura-de-brayan-veneco-los-crimenes-que-le-atribuyen-al-cabecilla-de-las-disidencias-de-mordisco-en-el-magdalena-medio-3595139",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-21T13:46:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
