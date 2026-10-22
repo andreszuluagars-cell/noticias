@@ -10,6 +10,7 @@ si hay credenciales configuradas, se envía por correo.
 
 Uso:
     python informe_semanal.py
+    python informe_semanal.py --modo base   (reenvía el informe base ya generado, para pruebas)
 
 Variables de entorno opcionales/requeridas para el envío de correo:
     GMAIL_USER           cuenta de Gmail remitente (ej. monitor.colombia@gmail.com)
@@ -196,7 +197,29 @@ def enviar_correo(informe: dict) -> bool:
         return False
 
 
+def cargar_informe_existente(informe_id: str) -> dict:
+    ruta = os.path.join(INFORMES_DIR, f"informe-{informe_id}.json")
+    with open(ruta, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
 def main():
+    modo = "semanal"
+    if "--modo" in sys.argv:
+        modo = sys.argv[sys.argv.index("--modo") + 1]
+
+    if modo == "base":
+        # Reenvía por correo un informe ya generado (p. ej. el informe base
+        # del primer semestre de 2026), sin crear un informe nuevo ni tocar
+        # el índice — sirve para probar el envío de correo bajo demanda.
+        informe = cargar_informe_existente("base-2026-h1")
+        enviar_correo(informe)
+        print(
+            f"\nInforme base reenviado por correo: {informe['total']} noticias "
+            f"({informe['desde']} a {informe['hasta']})."
+        )
+        return
+
     ahora = datetime.now(timezone.utc)
     hasta = ahora
     desde = ahora - timedelta(days=DIAS_VENTANA)
