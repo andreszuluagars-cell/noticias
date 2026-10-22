@@ -1,6 +1,16 @@
 {
   "informes": [
     {
+      "id": "2026-10-22",
+      "titulo": "Informe semanal — Mercenarismo (2026-10-15 a 2026-10-22)",
+      "tipo": "semanal",
+      "desde": "2026-10-15",
+      "hasta": "2026-10-22",
+      "generado_en": "2026-10-22T20:02:41.060902+00:00",
+      "total": 0,
+      "archivo": "informe-2026-10-22.json"
+    },
+    {
       "id": "base-2026-h1",
       "titulo": "Informe base — Mercenarismo (enero a junio de 2026)",
       "tipo": "base",
