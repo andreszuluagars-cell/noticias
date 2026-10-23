@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-10-22T19:09:48.163972+00:00",
-  "total_revisadas": 313,
-  "total_relevantes": 33,
+  "generado_en": "2026-10-23T15:21:07.720236+00:00",
+  "total_revisadas": 319,
+  "total_relevantes": 36,
   "noticias": [
     {
       "id": "34257daf5773",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:43.786538+00:00",
+      "fecha": "2026-10-23T15:21:01.099369+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,101 +20,133 @@
       ]
     },
     {
-      "id": "87f549c9c4d6",
-      "titulo": "Video | Campesino de El Carmen sacó un cilindro de gas abandonado con insignias del ELN y lo paseó por la calle",
+      "id": "9d81ef9cd1e8",
+      "titulo": "Cayeron sospechosos de masacre en El Carmen de Viboral donde murió líder social",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/habitante-de-calle-el-carmen-retira-cilindro-insignias-eln-que-paso-GF42478394",
+      "url": "https://elcolombiano.com/antioquia/capturados-sospechosos-masacre-carmen-de-viboral-antioquia-asesinato-lider-andres-giraldo-OA42608547",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:43.110306+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "c39355ed4b91",
-      "titulo": "Ataque con drones explosivos en Pelaya, Cesar, dejó seis policías heridos; dos están graves",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-drones-explosivos-pelaya-cesar-seis-policias-heridos-CB42529685",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-22T19:09:43.109968+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "b6429a0171aa",
-      "titulo": "Dieron de baja a alias Resorte, jefe de finanzas del ELN en Cúcuta",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-resorte-asesinaron-jefe-financiero-eln-cucuta-DA42533246",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-22T19:09:43.109912+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "c63c9be5d7d5",
-      "titulo": "Nuevo bombardeo de las FF. MM. contra el ELN en Nariño. Se verifica número de muertos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/nuevo-bombardeo-de-las-ff-mm-contra-el-eln-en-narino-se-verifica-numero-de-muertos/202632/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.703836+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "1dcfdb93f9bc",
-      "titulo": "JEP condenó a seis años de prisión al coronel (r) Juan Carlos Figueroa Suárez por 38 falsos positivos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/jep-condeno-a-seis-anos-de-prision-al-coronel-r-juan-carlos-figueroa-suarez-por-38-falsos-positivos/202636/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.703729+00:00",
+      "fecha": "2026-10-23T15:21:00.217931+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
       ],
       "palabras_clave": [
-        "falsos positivos",
-        "jep"
+        "lider social",
+        "masacre"
       ]
     },
     {
-      "id": "5c07df8e2040",
-      "titulo": "Tres bloques, 500 hombres y dos compañías: así es el Frente de Guerra Suroccidental del ELN bombardeado por la Fuerza Aérea",
+      "id": "b3b853119654",
+      "titulo": "Alias Marcos Pacífico del ELN, el objetivo de alto valor detrás del quinto bombardeo del gobierno De la Espriella contra grupos armados",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/frente-jose-maria-becerra-del-eln-bajo-el-mando-de-alias-marcos-pacifico-seria-el-blanco-del-bombardeo-de-las-ff-mm/202630/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/marcos-pacifico-del-eln-habria-muerto-en-bombardeo-de-las-fuerzas-militares-AB42613434",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.703607+00:00",
+      "fecha": "2026-10-23T15:21:00.217814+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
+      ]
+    },
+    {
+      "id": "ea3f018ffc29",
+      "titulo": "Capturan a alias Kevin Masacre, señalado sucesor de Bendito Menor en las Autodefensas Conquistadoras",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/capturan-alias-kevin-sucesor-bendito-menor-acsn-JB42619734",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-23T15:21:00.217762+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
+      ]
+    },
+    {
+      "id": "12fb44bb6bde",
+      "titulo": "Alias Mocho Olmedo, cabecilla del Frente 33 de las disidencias, fue extraditado a Estados Unidos",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/alias-mocho-olmedo-extraditado-estados-unidos-cabecilla-frente-33-disidencias-LE42643822",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-23T15:21:00.217405+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "9590eb35910e",
+      "titulo": "Informe forense revela escabrosos detalles del crimen del periodista Mateo Pérez Rueda a manos de las disidencias en Antioquia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/informe-forense-revela-escabrosos-detalles-del-crimen-del-periodista-mateo-perez-rueda-a-manos-de-las-disidencias-en-antioquia/202630/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-23T15:20:55.499216+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "73162c55780a",
+      "titulo": "Cuatro heridos tras atentado terrorista en peaje de Casanare",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/cuatro-heridos-tras-atentado-terrorista-en-peaje-de-casanare/202647/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-23T15:20:55.499069+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "e78679d785e2",
+      "titulo": "Defensoría alerta: 126 líderes sociales asesinados y 94 masacres en Colombia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/defensoria-alerta-126-lideres-sociales-asesinados-y-94-masacres-en-colombia/202656/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-23T15:20:55.498981+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lideres sociales"
+      ]
+    },
+    {
+      "id": "46c6d641d800",
+      "titulo": "Extraditan a EE. UU. a alias Mocho Olmedo, cabecilla de las disidencias de las Farc y exvocero de paz durante el gobierno Petro",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/extraditan-a-ee-uu-a-alias-mocho-olmedo-cabecilla-de-las-disidencias-de-las-farc-y-ex-vocero-de-paz-durante-el-gobierno-petro/202613/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-23T15:20:55.498918+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -125,7 +157,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349123+00:00",
+      "fecha": "2026-10-23T15:20:54.716038+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -141,7 +173,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349114+00:00",
+      "fecha": "2026-10-23T15:20:54.716027+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -157,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349110+00:00",
+      "fecha": "2026-10-23T15:20:54.716021+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -173,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349101+00:00",
+      "fecha": "2026-10-23T15:20:54.715994+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -189,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349095+00:00",
+      "fecha": "2026-10-23T15:20:54.715989+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -205,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349090+00:00",
+      "fecha": "2026-10-23T15:20:54.715984+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -221,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349086+00:00",
+      "fecha": "2026-10-23T15:20:54.715977+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349043+00:00",
+      "fecha": "2026-10-23T15:20:54.715959+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349037+00:00",
+      "fecha": "2026-10-23T15:20:54.715934+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349030+00:00",
+      "fecha": "2026-10-23T15:20:54.715927+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349020+00:00",
+      "fecha": "2026-10-23T15:20:54.715920+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.349002+00:00",
+      "fecha": "2026-10-23T15:20:54.715896+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.348993+00:00",
+      "fecha": "2026-10-23T15:20:54.715889+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-22T19:09:42.348950+00:00",
+      "fecha": "2026-10-23T15:20:54.715875+00:00",
       "temas": [
         "DDHH"
       ],
@@ -342,21 +374,99 @@
       ]
     },
     {
-      "id": "70f8bda604be",
-      "titulo": "JEP condenó a seis años de prisión al coronel (r) Juan Carlos Figueroa por 38 'falsos positivos' en Valledupar",
-      "resumen": "También deberá participar en la búsqueda e identificación de desaparecidos, y entregar el rango, las medallas y el escudo de armas que recibió.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-condeno-a-seis-anos-de-prision-al-coronel-r-juan-carlos-figueroa-por-38-falsos-positivos-en-valledupar-3595485",
+      "id": "bc9432a1508b",
+      "titulo": "Melania Trump ayuda a lograr un alto el fuego en la ciudad ucraniana de Oleshki, ocupada por Rusia, según la Casa Blanca",
+      "resumen": "La tregua comenzaría el 29 de octubre y su objetivo es permitir la llegada de ayuda humanitaria y la evacuación de civiles Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/23/6adb705121efa0187a8b45ad.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-23T14:34:35+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "alto el fuego"
+      ]
+    },
+    {
+      "id": "07bbd2ec8ef9",
+      "titulo": "Primicia: Alias Mocho Olmedo, otro capo de la 'paz total', extraditado a Estados Unidos",
+      "resumen": "Willinton Henao Gutiérrez, uno de los cabecillas del Frente 33 de las disidencias, fue entregado a Estados Unidos. Hace unas semanas salió 'Araña'.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/primicia-alias-mocho-olmedo-cabecilla-negociador-de-la-paz-total-se-va-extraditado-a-estados-unidos-3595743",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-22T16:13:20+00:00",
+      "fecha": "2026-10-23T14:22:26+00:00",
       "temas": [
-        "Conflicto armado",
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "353f9535abcc",
+      "titulo": "Las rutas secretas del Caribe que los narcos revivieron para llevar cocaína a Europa",
+      "resumen": "Una investigación internacional revela cómo el 'clan del Golfo' y otras organizaciones criminales recuperaron corredores utilizados hace 4 décadas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-rutas-secretas-del-caribe-que-los-narcos-revivieron-para-llevar-cocaina-a-europa-3595748",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-23T13:54:01+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "dfc4db7c7fe6",
+      "titulo": "Caso Juan Felipe Rincón: aplazan por tercera vez la preclusión a favor de Camilo Sotelo y el 30 de octubre será la acusación por tortura",
+      "resumen": "La audiencia quedó para enero, mientras que el 30 de octubre será la audiencia de acusación por tortura contra Sotelo y otros cuatro procesados.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/caso-juan-felipe-rincon-aplazan-por-tercera-vez-la-preclusion-a-favor-de-camilo-sotelo-y-el-30-de-octubre-sera-la-acusacion-por-tortura-3595706",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-23T11:11:59+00:00",
+      "temas": [
         "DDHH"
       ],
       "palabras_clave": [
-        "falsos positivos",
-        "jep"
+        "tortura"
+      ]
+    },
+    {
+      "id": "f84cd393b8a8",
+      "titulo": "Así fue la operación contra alias Marcos Pacífico, el cabecilla del Eln objetivo del quinto bombardeo del Gobierno",
+      "resumen": "El presidente De la Espriella reportó nueve integrantes del Eln muertos en la operación aérea, entre ellos, de manera preliminar, el jefe guerrillero.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-fue-la-operacion-contra-alias-marcos-pacifico-el-cabecilla-del-eln-objetivo-del-quinto-bombardeo-del-gobierno-3595592",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-23T02:39:15+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "5e66ea6eb4dd",
+      "titulo": "Eln pretendía comercializar en Europa y Asia 10 toneladas de coltán incautadas en Vichada",
+      "resumen": "El mineral, avaluado en cerca de $ 16.000 millones en los mercados internacionales, fue identificado por inteligencia militar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-pretendia-comercializar-en-europa-y-asia-10-toneladas-de-coltan-incautadas-en-vichada-3595434",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-23T02:38:25+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -367,7 +477,7 @@
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-22T15:50:02+00:00",
+      "fecha": "2026-10-22T22:13:58+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -392,22 +502,6 @@
       ]
     },
     {
-      "id": "5e66ea6eb4dd",
-      "titulo": "Eln pretendía comercializar en Europa y Asia 10 toneladas de coltán incautadas en Vichada",
-      "resumen": "El mineral, avaluado en cerca de $ 16.000 millones en los mercados internacionales, fue identificado por inteligencia militar.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-pretendia-comercializar-en-europa-y-asia-10-toneladas-de-coltan-incautadas-en-vichada-3595434",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-22T14:23:36+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
       "id": "1dfe82fc70ce",
       "titulo": "La Corte Penal Internacional, Premio Sájarov a la libertad de conciencia del Parlamento Europeo",
       "resumen": "El Gobierno norteamericano anunció nuevas sanciones contra el TPI justo después de que el comité del Nobel de la Paz le otorgara el premio a una ex jueza de ese organismo Leer",
@@ -421,54 +515,6 @@
       ],
       "palabras_clave": [
         "corte penal internacional"
-      ]
-    },
-    {
-      "id": "fbc46ea4f18a",
-      "titulo": "La tierra, otro botín de los grupos armados: más de 7.300 casos de invasión y usurpación desde 2020",
-      "resumen": "Autoridades advierten que detrás de algunas ocupaciones ilegales estarían estructuras criminales que buscan apropiarse de territorios estratégicos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-tierra-otro-botin-de-los-grupos-armados-mas-de-7-300-casos-de-invasion-y-usurpacion-desde-3595197",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-22T02:16:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "ccfd2315290d",
-      "titulo": "La ruta del Eln para enviar cocaína desde el Catatumbo hasta Estados Unidos que quedó al descubierto tras una operación",
-      "resumen": "Un laboratorio ubicado en Sardinata, Norte de Santander, tenía capacidad para producir hasta cuatro toneladas de cocaína al mes.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-ruta-del-eln-para-enviar-cocaina-desde-el-catatumbo-hasta-estados-unidos-que-quedo-al-descubierto-tras-una-operacion-3595237",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-21T19:37:45+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "82f13c6d50fe",
-      "titulo": "Muere en combate alias Resorte, señalado jefe de finanzas del Eln vinculado con secuestros y homicidios en Norte de Santander",
-      "resumen": "Lo relacionaban con el secuestro de comerciantes, periodistas y ganaderos, y el manejo de recursos de extorsiones y narcotráfico en la frontera.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/muere-en-combate-alias-resorte-senalado-jefe-de-finanzas-del-eln-vinculado-con-secuestros-y-homicidios-en-norte-de-santander-3595140",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-21T13:55:35+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
       ]
     },
     {
