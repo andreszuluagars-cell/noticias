@@ -1,56 +1,8 @@
 {
-  "generado_en": "2026-10-24T14:05:00.032829+00:00",
-  "total_revisadas": 303,
-  "total_relevantes": 41,
+  "generado_en": "2026-10-25T14:28:49.209416+00:00",
+  "total_revisadas": 308,
+  "total_relevantes": 42,
   "noticias": [
-    {
-      "id": "5489af8b88f7",
-      "titulo": "Kremlin confirma un alto el fuego local con Ucrania para evacuación de civiles de Oleshki",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-kremlin-confirma-un-alto-el-fuego-local-con-ucrania-para-evacuacion-de-civiles-de-oleshki-volodymyr-zelensky-vladimir-putin-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-24T14:04:58.041824+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
-      "id": "525ab8a76f58",
-      "titulo": "El alto el fuego en Oleshki entrará en vigor el 27 de octubre, según Estado Mayor ruso",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-el-alto-el-fuego-en-oleshki-entrara-en-vigor-el-27-de-octubre-segun-estado-mayor-ruso-volodymyr-zelesnky-vladimir-putin-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-24T14:04:58.041766+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
-      "id": "071f8523a033",
-      "titulo": "“Una zona de guerra”.El relato de un argentino que presenció los disturbios en París y el temor por lo que puede ocurrir el fin de semana",
-      "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/una-zona-de-guerra-el-crudo-relato-de-un-argentino-que-presencio-los-disturbios-en-paris-y-el-temor-nid23102026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-10-24T14:04:57.712354+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "zona de guerra"
-      ]
-    },
     {
       "id": "7562ce2c895d",
       "titulo": "Ejército frustró un atentado terrorista en el Cauca",
@@ -59,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:55.117994+00:00",
+      "fecha": "2026-10-25T14:28:44.268305+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:55.117936+00:00",
+      "fecha": "2026-10-25T14:28:44.268250+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
@@ -86,32 +38,14 @@
       ]
     },
     {
-      "id": "9d81ef9cd1e8",
-      "titulo": "Cayeron sospechosos de masacre en El Carmen de Viboral donde murió líder social",
+      "id": "3c500fba5b1b",
+      "titulo": "En Chinácota, Norte de Santander, dan de baja a alias Resorte, señalado integrante del Eln",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/capturados-sospechosos-masacre-carmen-de-viboral-antioquia-asesinato-lider-andres-giraldo-OA42608547",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/en-chinacota-norte-de-santander-dan-de-baja-alias-resorte-senalado-integrante-del-eln",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.321091+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "lider social",
-        "masacre"
-      ]
-    },
-    {
-      "id": "b3b853119654",
-      "titulo": "Alias Marcos Pacífico del ELN, el objetivo de alto valor detrás del quinto bombardeo del gobierno De la Espriella contra grupos armados",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/marcos-pacifico-del-eln-habria-muerto-en-bombardeo-de-las-fuerzas-militares-AB42613434",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.321001+00:00",
+      "fecha": "2026-10-25T14:28:44.268231+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -120,67 +54,99 @@
       ]
     },
     {
-      "id": "ea3f018ffc29",
-      "titulo": "Capturan a alias Kevin Masacre, señalado sucesor de Bendito Menor en las Autodefensas Conquistadoras",
+      "id": "64e8590a3207",
+      "titulo": "Autoridades verifican muerte de guerrilleros en el Catatumbo tras enfrentamientos entre el Eln y las disidencias de las Farc",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/capturan-alias-kevin-sucesor-bendito-menor-acsn-JB42619734",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/autoridades-verifican-muerte-de-guerrilleros-en-el-catatumbo-tras-enfrentamientos-entre-el",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.320942+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "12fb44bb6bde",
-      "titulo": "Alias Mocho Olmedo, cabecilla del Frente 33 de las disidencias, fue extraditado a Estados Unidos",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-mocho-olmedo-extraditado-estados-unidos-cabecilla-frente-33-disidencias-LE42643822",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.320625+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "faf4c03c3e2e",
-      "titulo": "Secuestro de Diana Ospina: casi tres décadas de cárcel tendrán que pagar los responsables del paseo millonario",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/secuestro-de-diana-ospina-casi-tres-decadas-de-carcel-tendran-que-pagar-los-responsables-del-paseo-millonario/202658/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.178823+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "4360b6fea9d6",
-      "titulo": "Enfrentamientos en Guachacá entre el Ejército y las Autodefensas Conquistadoras de la Sierra Nevada: videos registran lo ocurrido",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/enfrentamientos-en-guachaca-entre-el-ejercito-y-las-autodefensas-conquistadoras-de-la-sierra-nevada/202631/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.178752+00:00",
+      "fecha": "2026-10-25T14:28:44.268221+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "enfrentamientos"
+      ]
+    },
+    {
+      "id": "f6643c2aee5d",
+      "titulo": "Un soldado desapareció tras ataque con drones cargados de explosivos en zona rural de Segovia, Antioquia",
+      "resumen": "",
+      "url": "https://elcolombiano.com/antioquia/soldado-desaparecido-ataque-drones-explosivos-segovia-antioquia-HE42649583",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-25T14:28:43.087616+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "4f4700cba3ff",
+      "titulo": "Defensoría alerta que 126 líderes sociales y 12 firmantes de paz han sido asesinados en 2026",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/defensoria-alerta-126-lideres-sociales-12-firmantes-de-paz-han-sido-asesinados-2026-JE42649077",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-25T14:28:43.087585+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lideres sociales"
+      ]
+    },
+    {
+      "id": "8119cccd2c3c",
+      "titulo": "Atentado en Santa Marta dejó un soldado muerto y estudiantes atrapados en medio de los disparos",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/ataque-guachaca-santa-marta-soldado-muerto-estudiantes-atrapados-disparos-HG42662702",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-25T14:28:43.087443+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "9719f58b263e",
+      "titulo": "Defensora del Pueblo respalda a magistrada Lemaitre de la JEP, pero senadora Posada no se retracta",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/defensora-iris-marin-magistrada-lemaitre-jep-senadora-posada-GB42706220",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-25T14:28:43.087267+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "49008857b110",
+      "titulo": "Hallan con vida al soldado que había desaparecido tras un ataque con drones en Segovia, nordeste antioqueño",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/hallan-con-vida-soldado-desaparecido-segovia-antioquia-CA42710147",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-25T14:28:43.087219+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "ataque con drones"
       ]
     },
     {
@@ -191,7 +157,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.178625+00:00",
+      "fecha": "2026-10-25T14:28:42.919627+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -207,7 +173,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.178507+00:00",
+      "fecha": "2026-10-25T14:28:42.919547+00:00",
       "temas": [
         "DDHH"
       ],
@@ -223,7 +189,7 @@
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:54.178478+00:00",
+      "fecha": "2026-10-25T14:28:42.919535+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -232,19 +198,19 @@
       ]
     },
     {
-      "id": "d063e50031f8",
-      "titulo": "Minas antipersonales: el confinamiento que persiste en las comunidades",
+      "id": "98387fae39ca",
+      "titulo": "“El golpe más duro de los últimos ocho años contra el ELN”: Abelardo De La Espriella anunció operación militar en Cauca",
       "resumen": "",
-      "url": "https://www.elespectador.com/colombia-20/minas-antipersonales-el-confinamiento-que-persiste-en-las-comunidades/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/bogota/articulo/el-golpe-mas-duro-de-los-ultimos-ocho-anos-contra-el-eln-abelardo-de-la-espriella-anuncio-operacion-militar-en-cauca/202643/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544724+00:00",
+      "fecha": "2026-10-25T14:28:42.919322+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "confinamiento"
+        "eln"
       ]
     },
     {
@@ -255,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544714+00:00",
+      "fecha": "2026-10-25T14:28:42.504340+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -271,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544709+00:00",
+      "fecha": "2026-10-25T14:28:42.504335+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -287,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544700+00:00",
+      "fecha": "2026-10-25T14:28:42.504326+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -303,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544695+00:00",
+      "fecha": "2026-10-25T14:28:42.504322+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -319,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544690+00:00",
+      "fecha": "2026-10-25T14:28:42.504317+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -335,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544685+00:00",
+      "fecha": "2026-10-25T14:28:42.504313+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -351,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544668+00:00",
+      "fecha": "2026-10-25T14:28:42.504298+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -367,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544663+00:00",
+      "fecha": "2026-10-25T14:28:42.504277+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -383,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544638+00:00",
+      "fecha": "2026-10-25T14:28:42.504272+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -399,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544633+00:00",
+      "fecha": "2026-10-25T14:28:42.504267+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -415,7 +381,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544594+00:00",
+      "fecha": "2026-10-25T14:28:42.504229+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -431,7 +397,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544588+00:00",
+      "fecha": "2026-10-25T14:28:42.504223+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -447,7 +413,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544575+00:00",
+      "fecha": "2026-10-25T14:28:42.504207+00:00",
       "temas": [
         "DDHH"
       ],
@@ -463,7 +429,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T14:04:53.544528+00:00",
+      "fecha": "2026-10-25T14:28:42.504190+00:00",
       "temas": [
         "DDHH"
       ],
@@ -472,19 +438,133 @@
       ]
     },
     {
-      "id": "be29f40f2ee6",
-      "titulo": "Fiscalía abrió investigación contra Julio César González Quiceno, conocido como 'Matador', por posible hostigamiento a primera dama Ana Lucía Pineda",
-      "resumen": "La entidad atendió solicitudes ciudadanas tras una publicación realizada en la red social X el pasado 11 de octubre de 2026.",
-      "url": "https://www.eltiempo.com/justicia/delitos/fiscalia-abrio-investigacion-contra-julio-cesar-gonzalez-quiceno-conocido-como-matador-por-hostigamiento-a-la-primera-dama-ana-lucia-pineda-3596007",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "id": "5897dae440e0",
+      "titulo": "De la Espriella designó a Ricardo Arias Macías en consejería de Derechos Humanos: ¿quién es?",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/ricardo-arias-llega-a-la-consejeria-de-derechos-humanos-de-la-presidencia-de-de-la-espriella/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-24T13:51:08+00:00",
+      "fecha": "2026-10-25T14:28:42.504149+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "eedecb814a8e",
+      "titulo": "Operación Ónix deja 10 integrantes del Eln neutralizados en el departamento del Cauca, así lo anunció el presidente Abelardo De La Espriella",
+      "resumen": "Las Fuerzas Militares abatieron a dos principales cabecillas del Frente de Guerra Suroccidental.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-onix-deja-10-integrantes-del-eln-neutralizados-en-el-departamento-del-cauca-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella-3596142",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-25T14:14:03+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "hostigamiento"
+        "eln"
+      ]
+    },
+    {
+      "id": "3a662f63df0f",
+      "titulo": "Ministerio de Defensa rechazó ataque con dron de las disidencias de las Farc en Guapi, Cauca, que dejó un infante de Marina muerto y cuatro heridos",
+      "resumen": "La entidad anunció el fortalecimiento de las acciones militares en el litoral Pacífico y expresó su solidaridad con los familiares del uniformado.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ministerio-de-defensa-rechazo-ataque-con-dron-de-las-disidencias-de-las-farc-en-guapi-cauca-que-dejo-un-infante-de-marina-muerto-y-cuatro-heridos-3596127",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-25T03:55:24+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "b630604684d4",
+      "titulo": "Soldado desapareció tras un ataque con drones explosivos en Antioquia y fue hallado con vida seis días después",
+      "resumen": "El Ejército perdió el rastro del soldado profesional Andrés Casterbondo Macías durante un ataque contra tropas en zona rural de Segovia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/soldado-desaparecio-tras-un-ataque-con-drones-explosivos-en-antioquia-y-fue-hallado-con-vida-seis-dias-despues-3596095",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-25T00:20:25+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "1604a63e482b",
+      "titulo": "Ucrania ataca un centro logístico en la ciudad siberiana de Omsk",
+      "resumen": "Las autoridades del país anuncia que el alto el fuego temporal en Oleshki empezará el 27 de octubre Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/24/6adcefb3e9cf4a523f8b4575.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-24T17:50:24+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "alto el fuego"
+      ]
+    },
+    {
+      "id": "f090d54a11bc",
+      "titulo": "Las fotografías, los tatuajes y la captura que destaparon el presunto reclutamiento de menores venezolanos por las disidencias de 'Calarcá'",
+      "resumen": "La captura de alias Brayan Veneco, en el sur de Bolívar, permitió a las autoridades avanzar en la investigación. Estos son los detalles.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-fotografias-los-tatuajes-y-la-captura-que-destaparon-el-presunto-reclutamiento-de-menores-venezolanos-por-las-disidencias-de-calarca-3596042",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-24T17:40:41+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "disidencias",
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "fa0c27427eb5",
+      "titulo": "Defensoría solicitó a senadores rectificar sus afirmaciones sobre la magistrada Lemaitre de la JEP; la senadora Posada dice que mantendrá denuncias",
+      "resumen": "El pronunciamiento se dio por la difusión de audiencias de la JEP. La defensora Marín indicó que hay una \"campaña de desprestigio y desinformación\".",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/defensoria-solicito-a-senadores-rectificar-sus-afirmaciones-sobre-la-magistrada-lemaitre-de-la-jep-la-senadora-posada-dice-que-mantendra-denuncias-3596024",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-24T16:06:02+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "0913558dfd23",
+      "titulo": "Golpe a la estructura de alias Jhon Fiera en el sur de Bolívar: cuatro capturados y una menor aprehendida",
+      "resumen": "La operación contra las disidencias de las Farc se desarrolló en Santa Rosa del Sur y dejó la incautación de armas, municiones y explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-la-estructura-de-alias-jhon-fiera-en-el-sur-de-bolivar-cuatro-capturados-y-una-menor-aprehendida-3596019",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-24T15:21:29+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -520,22 +600,6 @@
       ]
     },
     {
-      "id": "cfd40d85c597",
-      "titulo": "Estos son los otros seis extraditados junto al ‘Mocho Olmedo’, capo de la 'paz total': hay un financiador del 'clan del Golfo'",
-      "resumen": "También aparecen un exempleado del aeropuerto de Cali vinculado con el 'Tren de Aragua' y ‘La Inmaculada’, y tres investigados por lavado de activos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estos-son-los-otros-seis-extraditados-junto-al-mocho-olmedo-capo-de-la-paz-total-hay-un-financiador-del-clan-del-golfo-3595864",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-23T22:10:26+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
       "id": "2e3fc501de56",
       "titulo": "Ataque con explosivos lanzados desde un dron contra una embarcación de la Armada deja un militar muerto y cuatro heridos en Cauca",
       "resumen": "El caso se registró en el río Guapi. Los heridos fueron trasladados para recibir atención médica.",
@@ -549,54 +613,6 @@
       ],
       "palabras_clave": [
         "explosivos"
-      ]
-    },
-    {
-      "id": "88d858a47550",
-      "titulo": "Disidencias de ‘Iván Mordisco’ estarían pagando hasta $5 millones por ataques con drones contra la Fuerza Pública en Nariño",
-      "resumen": "El Ejército encontró un depósito con 35 granadas de fabricación artesanal en zona rural de El Peñol.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/disidencias-de-ivan-mordisco-estarian-pagando-hasta-5-millones-por-ataques-con-drones-contra-la-fuerza-publica-en-narino-3595807",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-23T16:24:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d01440114880",
-      "titulo": "Elver Alfonso Sanabria, el coronel que busca llegar a general tras una carrera contra el crimen organizado",
-      "resumen": "El actual director de la Dijín acumula una trayectoria en investigación criminal, lucha contra el secuestro y la extorsión.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/elver-alfonso-sanabria-el-coronel-que-busca-llegar-a-general-tras-una-carrera-contra-el-crimen-organizado-3595793",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-23T15:56:20+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "bc9432a1508b",
-      "titulo": "Melania Trump ayuda a lograr un alto el fuego en la ciudad ucraniana de Oleshki, ocupada por Rusia, según la Casa Blanca",
-      "resumen": "La tregua comenzaría el 29 de octubre y su objetivo es permitir la llegada de ayuda humanitaria y la evacuación de civiles Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/23/6adb705121efa0187a8b45ad.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-23T14:34:35+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
       ]
     },
     {
