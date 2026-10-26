@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-10-25T14:28:49.209416+00:00",
-  "total_revisadas": 308,
-  "total_relevantes": 42,
+  "generado_en": "2026-10-26T16:52:08.635791+00:00",
+  "total_revisadas": 319,
+  "total_relevantes": 34,
   "noticias": [
-    {
-      "id": "7562ce2c895d",
-      "titulo": "Ejército frustró un atentado terrorista en el Cauca",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/ejercito-frustro-un-atentado-terrorista-en-el-cauca",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-25T14:28:44.268305+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
     {
       "id": "05f0ea3c8ae0",
       "titulo": "Las víctimas de Morrocoy y Yhan: presuntos integrantes del Eln capturados por crimen de un policía y un líder social en Ocaña",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:44.268250+00:00",
+      "fecha": "2026-10-26T16:52:03.590975+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
@@ -45,7 +29,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:44.268231+00:00",
+      "fecha": "2026-10-26T16:52:03.590955+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -61,7 +45,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:44.268221+00:00",
+      "fecha": "2026-10-26T16:52:03.590944+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -70,35 +54,35 @@
       ]
     },
     {
-      "id": "f6643c2aee5d",
-      "titulo": "Un soldado desapareció tras ataque con drones cargados de explosivos en zona rural de Segovia, Antioquia",
+      "id": "805b5245b8b9",
+      "titulo": "El recorrido criminal de alias Resorte, pasó por tres grupos armados antes de ser abatido en Chinácota",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/soldado-desaparecido-ataque-drones-explosivos-segovia-antioquia-HE42649583",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/el-recorrido-criminal-de-alias-resorte-paso-por-tres-grupos-armados-antes-de-ser-abatido",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:43.087616+00:00",
+      "fecha": "2026-10-26T16:52:03.590914+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "grupos armados"
       ]
     },
     {
-      "id": "4f4700cba3ff",
-      "titulo": "Defensoría alerta que 126 líderes sociales y 12 firmantes de paz han sido asesinados en 2026",
+      "id": "1996f6a73080",
+      "titulo": "Artefacto explosivo en Puerto Santander iba dirigido contra la Policía",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/defensoria-alerta-126-lideres-sociales-12-firmantes-de-paz-han-sido-asesinados-2026-JE42649077",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/artefacto-explosivo-en-puerto-santander-iba-dirigido-contra-la-policia",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:43.087585+00:00",
+      "fecha": "2026-10-26T16:52:03.590879+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "lideres sociales"
+        "artefacto explosivo"
       ]
     },
     {
@@ -109,7 +93,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:43.087443+00:00",
+      "fecha": "2026-10-26T16:52:03.160644+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -125,7 +109,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:43.087267+00:00",
+      "fecha": "2026-10-26T16:52:03.160488+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -141,7 +125,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:43.087219+00:00",
+      "fecha": "2026-10-26T16:52:03.160456+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -150,14 +134,14 @@
       ]
     },
     {
-      "id": "d9a67199ba39",
-      "titulo": "Así fue vigilado por Estados Unidos el campamento de alias Marcos Pacífico de ELN, abatido tras bombardeo de las Fuerza Militares",
+      "id": "6af079edccb2",
+      "titulo": "Operación Ónix deja diez muertos del ELN en el Cauca: abatieron a dos señalados cabecillas",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-fue-vigilado-por-estados-unidos-el-campamento-de-alias-marcos-pacifico-de-eln-abatido-tras-bombardeo-de-las-fuerza-militares/202600/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/operacion-onix-muertos-del-eln-cauca-IA42712758",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.919627+00:00",
+      "fecha": "2026-10-26T16:52:03.160421+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -166,67 +150,19 @@
       ]
     },
     {
-      "id": "e219afc44350",
-      "titulo": "Defensoría del Pueblo señaló una campaña de desprestigio contra la magistrada Julieta Lemaitre Ripoll",
+      "id": "a6477862caf6",
+      "titulo": "Atentado contra líder indígena en Cauca: hombres armados dispararon contra su vehículo en la vía Panamericana",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-senalo-una-campana-de-desprestigio-contra-la-magistrada-julieta-lemaitre-ripoll/202629/",
+      "url": "https://semana.com/nacion/cali/articulo/atentado-contra-lider-indigena-en-cauca-hombres-armados-dispararon-contra-su-vehiculo-en-la-via-panamericana/202609/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.919547+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "eb9db99fe27b",
-      "titulo": "Ejército golpea a estructuras de Iván Mordisco en Cajibío, Cauca: hallaron explosivos destinados a ataques con drones",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-golpea-a-estructuras-de-ivan-mordisco-en-cajibio-cauca-hallaron-explosivos-destinados-a-ataques-con-drones/202620/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.919535+00:00",
+      "fecha": "2026-10-26T16:52:03.026141+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "98387fae39ca",
-      "titulo": "“El golpe más duro de los últimos ocho años contra el ELN”: Abelardo De La Espriella anunció operación militar en Cauca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/bogota/articulo/el-golpe-mas-duro-de-los-ultimos-ocho-anos-contra-el-eln-abelardo-de-la-espriella-anuncio-operacion-militar-en-cauca/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.919322+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "743d454aeb89",
-      "titulo": "Uribe y De la Calle reflexionaron sobre los 10 años del plebiscito: tiraron pulla a la JEP",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/uribe-y-de-la-calle-reflexionaron-sobre-los-10-anos-del-plebiscito-tiraron-pulla-a-la-jep/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504340+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
+        "atentado"
       ]
     },
     {
@@ -237,7 +173,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504335+00:00",
+      "fecha": "2026-10-26T16:52:02.662001+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504326+00:00",
+      "fecha": "2026-10-26T16:52:02.661992+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504322+00:00",
+      "fecha": "2026-10-26T16:52:02.661987+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504317+00:00",
+      "fecha": "2026-10-26T16:52:02.661983+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504313+00:00",
+      "fecha": "2026-10-26T16:52:02.661978+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504298+00:00",
+      "fecha": "2026-10-26T16:52:02.661964+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504277+00:00",
+      "fecha": "2026-10-26T16:52:02.661960+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -349,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504272+00:00",
+      "fecha": "2026-10-26T16:52:02.661955+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -365,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504267+00:00",
+      "fecha": "2026-10-26T16:52:02.661950+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -381,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504229+00:00",
+      "fecha": "2026-10-26T16:52:02.661915+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -397,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504223+00:00",
+      "fecha": "2026-10-26T16:52:02.661909+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -413,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504207+00:00",
+      "fecha": "2026-10-26T16:52:02.661897+00:00",
       "temas": [
         "DDHH"
       ],
@@ -429,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504190+00:00",
+      "fecha": "2026-10-26T16:52:02.661875+00:00",
       "temas": [
         "DDHH"
       ],
@@ -445,7 +381,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-25T14:28:42.504149+00:00",
+      "fecha": "2026-10-26T16:52:02.661853+00:00",
       "temas": [
         "DDHH"
       ],
@@ -454,165 +390,101 @@
       ]
     },
     {
+      "id": "251a55fc3401",
+      "titulo": "Procuraduría anunció investigación disciplinaria tras denuncia de Deyci Jiménez por presunta red de mujeres instrumentalizadas durante gobierno Petro",
+      "resumen": "La indagación será para funcionarios por hechos relacionados con 'presunta extralimitación en el ejercicio de funciones, acoso y violencia de género'.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-anuncio-investigacion-disciplinaria-tras-denuncia-de-deyci-jimenez-por-presunta-red-de-mujeres-instrumentalizadas-durante-gobierno-petro-3596394",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-26T16:50:01+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "violencia de genero"
+      ]
+    },
+    {
+      "id": "a8364fc2d1bf",
+      "titulo": "Cae en Cesar alias Muco, señalado de ordenar homicidios de líderes sociales y firmantes de paz en el Magdalena Medio",
+      "resumen": "El presunto integrante de la estructura 33 de las disidencias de las Farc figuraba en el cartel de los más buscados de Norte de Santander.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-en-cesar-a-alias-muco-senalado-de-ordenar-homicidios-de-lideres-sociales-y-firmantes-de-paz-en-el-magdalena-medio-3596316",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-26T13:49:55+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "disidencias",
+        "lideres sociales"
+      ]
+    },
+    {
+      "id": "e1a6c35deefc",
+      "titulo": "Ejército destruyó 13 artefactos explosivos en Caquetá que estarían listos para atentar contra tropas y civiles",
+      "resumen": "Los dispositivos fueron hallados en zona rural de La Montañita y Solano. Serían de la estructura Rodrigo Cadete, del ala de 'Calarcá'.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruyo-13-artefactos-explosivos-en-caqueta-que-estarian-listos-para-atentar-contra-tropas-y-civiles-3596304",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-26T13:34:22+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "d6bbc7322635",
+      "titulo": "Lorent Saleh, activista y ex preso político venezolano: \"La presencia de Machado devuelve a los ciudadanos el protagonismo\"",
+      "resumen": "Pasó más de cuatro años en las mazmorras chavistas y en 2017 se convirtió en Premio Sájarov. Hoy, desde el exilio, es un referente en la defensa de los derechos humanos Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/26/6ade6939e85eced8468b457a.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-26T09:27:58+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "701b701efd14",
+      "titulo": "Tierras raras: Estado, con la mira en el negocio del Eln y las disidencias de la 'Segunda Marquetalia'",
+      "resumen": "Mientras el país apenas empieza a conocer su potencial en esta materia, los grupos ilegales llevan años alimentando sus rentas criminales.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tierras-raras-estado-con-la-mira-en-el-negocio-del-eln-y-las-disidencias-de-la-segunda-marquetalia-3596192",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-26T03:40:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
       "id": "eedecb814a8e",
-      "titulo": "Operación Ónix deja 10 integrantes del Eln neutralizados en el departamento del Cauca, así lo anunció el presidente Abelardo De La Espriella",
+      "titulo": "Operación Ónix da de baja a dos principales cabecillas del Eln en el departamento del Cauca: 'El golpe más duro en los últimos 8 años'",
       "resumen": "Las Fuerzas Militares abatieron a dos principales cabecillas del Frente de Guerra Suroccidental.",
       "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-onix-deja-10-integrantes-del-eln-neutralizados-en-el-departamento-del-cauca-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella-3596142",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-25T14:14:03+00:00",
+      "fecha": "2026-10-25T14:35:14+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "3a662f63df0f",
-      "titulo": "Ministerio de Defensa rechazó ataque con dron de las disidencias de las Farc en Guapi, Cauca, que dejó un infante de Marina muerto y cuatro heridos",
-      "resumen": "La entidad anunció el fortalecimiento de las acciones militares en el litoral Pacífico y expresó su solidaridad con los familiares del uniformado.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ministerio-de-defensa-rechazo-ataque-con-dron-de-las-disidencias-de-las-farc-en-guapi-cauca-que-dejo-un-infante-de-marina-muerto-y-cuatro-heridos-3596127",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-25T03:55:24+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "b630604684d4",
-      "titulo": "Soldado desapareció tras un ataque con drones explosivos en Antioquia y fue hallado con vida seis días después",
-      "resumen": "El Ejército perdió el rastro del soldado profesional Andrés Casterbondo Macías durante un ataque contra tropas en zona rural de Segovia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/soldado-desaparecio-tras-un-ataque-con-drones-explosivos-en-antioquia-y-fue-hallado-con-vida-seis-dias-despues-3596095",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-25T00:20:25+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "1604a63e482b",
-      "titulo": "Ucrania ataca un centro logístico en la ciudad siberiana de Omsk",
-      "resumen": "Las autoridades del país anuncia que el alto el fuego temporal en Oleshki empezará el 27 de octubre Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/24/6adcefb3e9cf4a523f8b4575.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-24T17:50:24+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
-      "id": "f090d54a11bc",
-      "titulo": "Las fotografías, los tatuajes y la captura que destaparon el presunto reclutamiento de menores venezolanos por las disidencias de 'Calarcá'",
-      "resumen": "La captura de alias Brayan Veneco, en el sur de Bolívar, permitió a las autoridades avanzar en la investigación. Estos son los detalles.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-fotografias-los-tatuajes-y-la-captura-que-destaparon-el-presunto-reclutamiento-de-menores-venezolanos-por-las-disidencias-de-calarca-3596042",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-24T17:40:41+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "disidencias",
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "fa0c27427eb5",
-      "titulo": "Defensoría solicitó a senadores rectificar sus afirmaciones sobre la magistrada Lemaitre de la JEP; la senadora Posada dice que mantendrá denuncias",
-      "resumen": "El pronunciamiento se dio por la difusión de audiencias de la JEP. La defensora Marín indicó que hay una \"campaña de desprestigio y desinformación\".",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/defensoria-solicito-a-senadores-rectificar-sus-afirmaciones-sobre-la-magistrada-lemaitre-de-la-jep-la-senadora-posada-dice-que-mantendra-denuncias-3596024",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-24T16:06:02+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "0913558dfd23",
-      "titulo": "Golpe a la estructura de alias Jhon Fiera en el sur de Bolívar: cuatro capturados y una menor aprehendida",
-      "resumen": "La operación contra las disidencias de las Farc se desarrolló en Santa Rosa del Sur y dejó la incautación de armas, municiones y explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-la-estructura-de-alias-jhon-fiera-en-el-sur-de-bolivar-cuatro-capturados-y-una-menor-aprehendida-3596019",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-24T15:21:29+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "c8e5c5f94328",
-      "titulo": "Golpe a las redes de extorsión de las disidencias de alias Calarcá en Antioquia: dos capturados y armas incautadas",
-      "resumen": "Seis allanamientos realizados en el municipio de Gómez Plata permitieron la captura de presuntos integrantes de la estructura 36.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-las-redes-de-extorsion-de-las-disidencias-de-alias-calarca-en-antioquia-dos-capturados-y-armas-incautadas-3595929",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-23T23:04:54+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "c3cd36d72d99",
-      "titulo": "Ejército destruyó 26 explosivos del Eln en Arauca: estarían destinados a ataques contra la población y la Fuerza Pública",
-      "resumen": "Los artefactos fueron encontrados en un depósito clandestino ubicado en Tame. Según el Ejército, pertenecían al frente Domingo Laín Sáenz.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruyo-26-explosivos-del-eln-en-arauca-estarian-destinados-a-ataques-contra-la-poblacion-y-la-fuerza-publica-3595917",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-23T22:24:11+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "2e3fc501de56",
-      "titulo": "Ataque con explosivos lanzados desde un dron contra una embarcación de la Armada deja un militar muerto y cuatro heridos en Cauca",
-      "resumen": "El caso se registró en el río Guapi. Los heridos fueron trasladados para recibir atención médica.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-con-explosivos-lanzados-desde-un-dron-contra-una-embarcacion-de-la-armada-deja-un-militar-muerto-y-cuatro-heridos-en-cauca-3595875",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-23T20:25:41+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
       ]
     },
     {
