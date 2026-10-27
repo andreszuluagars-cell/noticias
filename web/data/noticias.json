@@ -1,72 +1,70 @@
 {
-  "generado_en": "2026-10-26T16:52:08.635791+00:00",
+  "generado_en": "2026-10-27T15:56:45.561553+00:00",
   "total_revisadas": 319,
-  "total_relevantes": 34,
+  "total_relevantes": 37,
   "noticias": [
     {
-      "id": "05f0ea3c8ae0",
-      "titulo": "Las víctimas de Morrocoy y Yhan: presuntos integrantes del Eln capturados por crimen de un policía y un líder social en Ocaña",
+      "id": "3965714f3da7",
+      "titulo": "Amnistía Internacional denunciará a Milei en CIDH y ONU por atacar a periodistas que informaron del caso LIBRA",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/las-victimas-de-morrocoy-y-yhan-presuntos-integrantes-del-eln-capturados-por-crimen-de-un",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.590975+00:00",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/argentina-amnistia-internacional-denunciara-a-javier-milei-en-cidh-y-onu-por-atacar-a-periodistas-que-informaron-del-caso-libra-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-27T15:56:43.354597+00:00",
       "temas": [
-        "Conflicto armado",
-        "DDHH"
+        "Internacional"
       ],
       "palabras_clave": [
-        "eln",
-        "lider social"
+        "cidh"
       ]
     },
     {
-      "id": "3c500fba5b1b",
-      "titulo": "En Chinácota, Norte de Santander, dan de baja a alias Resorte, señalado integrante del Eln",
+      "id": "56385691fdb3",
+      "titulo": "Comienza tregua humanitaria en ciudad ucraniana de Oleshky ocupada por Rusia",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/en-chinacota-norte-de-santander-dan-de-baja-alias-resorte-senalado-integrante-del-eln",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.590955+00:00",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-comienza-tregua-humanitaria-en-ciudad-ucraniana-de-oleshky-ocupada-por-rusia-vladimir-putin-volodymyr-zelensky-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-27T15:56:43.354533+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "eln"
+        "tregua humanitaria"
       ]
     },
     {
-      "id": "64e8590a3207",
-      "titulo": "Autoridades verifican muerte de guerrilleros en el Catatumbo tras enfrentamientos entre el Eln y las disidencias de las Farc",
+      "id": "e699d142c470",
+      "titulo": "Putin acusa a la Unión Europea y la OTAN de prolongar la guerra en Ucrania",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/autoridades-verifican-muerte-de-guerrilleros-en-el-catatumbo-tras-enfrentamientos-entre-el",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.590944+00:00",
+      "url": "https://elcomercio.pe/mundo/europa/vladimir-putin-acusa-a-la-union-europea-y-la-otan-de-prolongar-la-guerra-en-ucrania-rusia-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-27T15:56:43.354457+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "enfrentamientos"
+        "guerra en ucrania"
       ]
     },
     {
-      "id": "805b5245b8b9",
-      "titulo": "El recorrido criminal de alias Resorte, pasó por tres grupos armados antes de ser abatido en Chinácota",
+      "id": "70534d296899",
+      "titulo": "Construcción de prisiones: prevenir violaciones de derechos humanos",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/el-recorrido-criminal-de-alias-resorte-paso-por-tres-grupos-armados-antes-de-ser-abatido",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.590914+00:00",
+      "url": "https://eluniversal.com.mx/opinion/articulista-invitado/construccion-de-prisiones-prevenir-violaciones-de-derechos-humanos/",
+      "fuente": "El Universal",
+      "seccion": "Mundo (México)",
+      "region": "internacional",
+      "fecha": "2026-10-27T15:56:42.267848+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "derechos humanos"
       ]
     },
     {
@@ -77,60 +75,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.590879+00:00",
+      "fecha": "2026-10-27T15:56:40.299296+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "artefacto explosivo"
-      ]
-    },
-    {
-      "id": "8119cccd2c3c",
-      "titulo": "Atentado en Santa Marta dejó un soldado muerto y estudiantes atrapados en medio de los disparos",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-guachaca-santa-marta-soldado-muerto-estudiantes-atrapados-disparos-HG42662702",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.160644+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "9719f58b263e",
-      "titulo": "Defensora del Pueblo respalda a magistrada Lemaitre de la JEP, pero senadora Posada no se retracta",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/defensora-iris-marin-magistrada-lemaitre-jep-senadora-posada-GB42706220",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.160488+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "49008857b110",
-      "titulo": "Hallan con vida al soldado que había desaparecido tras un ataque con drones en Segovia, nordeste antioqueño",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/hallan-con-vida-soldado-desaparecido-segovia-antioquia-CA42710147",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.160456+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque con drones"
       ]
     },
     {
@@ -141,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.160421+00:00",
+      "fecha": "2026-10-27T15:56:39.679183+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -150,14 +100,94 @@
       ]
     },
     {
-      "id": "a6477862caf6",
-      "titulo": "Atentado contra líder indígena en Cauca: hombres armados dispararon contra su vehículo en la vía Panamericana",
+      "id": "47a090ad0c1e",
+      "titulo": "Capturado alias Muco, uno de los disidentes más buscados y señalado como terror de los líderes sociales",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/atentado-contra-lider-indigena-en-cauca-hombres-armados-dispararon-contra-su-vehiculo-en-la-via-panamericana/202609/",
+      "url": "https://elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-captura-alias-muco-OF42741924",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-10-27T15:56:39.679126+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lideres sociales"
+      ]
+    },
+    {
+      "id": "a5036f093b66",
+      "titulo": "“Ya van por el matoneo”: presidente de la JEP rechaza críticas a magistradas por situación en audiencia con Timochenko",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/ya-van-por-el-matoneo-presidente-de-la-jep-rechaza-criticas-a-magistradas-por-situacion-en-audiencia-con-timochenko/202629/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:03.026141+00:00",
+      "fecha": "2026-10-27T15:56:39.425815+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "f4bd633bd853",
+      "titulo": "Exparamilitares alias Don Berna y Julián Bolívar, citados en proceso contra el expresidente Álvaro Uribe por la masacre de El Aro",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/exparamilitares-alias-don-berna-y-julian-bolivar-citados-en-proceso-contra-el-expresidente-alvaro-uribe-por-la-masacre-de-el-aro/202605/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-27T15:56:39.425794+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
+      ]
+    },
+    {
+      "id": "5d235aa0fa95",
+      "titulo": "Esta es la escalofriante historia detrás de la masacre en Suaza, Huila: hay seis muertos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/esta-es-la-escalofriante-historia-tras-la-masacre-en-suaza-huila-hay-seis-muertos/202631/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-27T15:56:39.425753+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
+      ]
+    },
+    {
+      "id": "2c496b642974",
+      "titulo": "Policía confirma versión de masacre de Suaza: campesinos se defendieron de disidentes que los extorsionaban",
+      "resumen": "",
+      "url": "https://semana.com/nacion/florencia/articulo/policia-confirma-version-de-masacre-de-suaza-campesinos-se-defendieron-de-disidentes-que-los-extorsionaban/202637/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-27T15:56:39.425712+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
+      ]
+    },
+    {
+      "id": "35842a29c750",
+      "titulo": "Atentado terrorista en Cúcuta deja varios heridos, entre ellos, policías",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cucuta/articulo/atentado-con-explosivo-en-cucuta-cerca-de-la-frontera-entre-colombia-y-venezuela-hay-tres-heridos/202653/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-27T15:56:39.425641+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -173,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.662001+00:00",
+      "fecha": "2026-10-27T15:56:39.068738+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -189,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661992+00:00",
+      "fecha": "2026-10-27T15:56:39.068731+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -205,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661987+00:00",
+      "fecha": "2026-10-27T15:56:39.068727+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -221,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661983+00:00",
+      "fecha": "2026-10-27T15:56:39.068722+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661978+00:00",
+      "fecha": "2026-10-27T15:56:39.068719+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661964+00:00",
+      "fecha": "2026-10-27T15:56:39.068706+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661960+00:00",
+      "fecha": "2026-10-27T15:56:39.068697+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661955+00:00",
+      "fecha": "2026-10-27T15:56:39.068693+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661950+00:00",
+      "fecha": "2026-10-27T15:56:39.068688+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661915+00:00",
+      "fecha": "2026-10-27T15:56:39.068658+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661909+00:00",
+      "fecha": "2026-10-27T15:56:39.068653+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -349,7 +379,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661897+00:00",
+      "fecha": "2026-10-27T15:56:39.068642+00:00",
       "temas": [
         "DDHH"
       ],
@@ -365,7 +395,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661875+00:00",
+      "fecha": "2026-10-27T15:56:39.068623+00:00",
       "temas": [
         "DDHH"
       ],
@@ -381,7 +411,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-26T16:52:02.661853+00:00",
+      "fecha": "2026-10-27T15:56:39.068604+00:00",
       "temas": [
         "DDHH"
       ],
@@ -390,19 +420,51 @@
       ]
     },
     {
-      "id": "251a55fc3401",
-      "titulo": "Procuraduría anunció investigación disciplinaria tras denuncia de Deyci Jiménez por presunta red de mujeres instrumentalizadas durante gobierno Petro",
-      "resumen": "La indagación será para funcionarios por hechos relacionados con 'presunta extralimitación en el ejercicio de funciones, acoso y violencia de género'.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/procuraduria-anuncio-investigacion-disciplinaria-tras-denuncia-de-deyci-jimenez-por-presunta-red-de-mujeres-instrumentalizadas-durante-gobierno-petro-3596394",
+      "id": "fa6938643569",
+      "titulo": "Los líderes de Finlandia y Noruega hablan por teléfono con Vladimir Putin",
+      "resumen": "Un alto el fuego local entre Ucrania y Rusia entró en vigor el martes en la madrugada Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/27/6ae077c3fc6c83125a8b4586.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-27T10:14:55+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "alto el fuego"
+      ]
+    },
+    {
+      "id": "bdb436e06d6d",
+      "titulo": "JEP entra al debate por retiro de piezas del Museo Nacional: le ordena al Gobierno De La Espriella responder por las obras retiradas",
+      "resumen": "Ministerio de Cultura y el Museo deben entregar un inventario completo, con órdenes, correos y fotografías.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/primicia-la-jep-le-ordena-al-gobierno-de-la-espriella-responder-por-las-piezas-retiradas-del-museo-nacional-en-bogota-3596457",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-26T16:50:01+00:00",
+      "fecha": "2026-10-26T23:25:00+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "violencia de genero"
+        "jep"
+      ]
+    },
+    {
+      "id": "f8cd01f7f278",
+      "titulo": "Capturan a dos disidentes de las Farc señalados de participar en el asesinato de un intendente de la Policía en Cauca",
+      "resumen": "Alias May y ‘Joselito’, presuntos integrantes de la 'Jaime Martínez', habrían participado en la planeación del crimen en diciembre de 2025.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-disidentes-de-las-farc-senalados-de-participar-en-el-asesinato-de-un-intendente-de-la-policia-en-cauca-3596480",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-26T21:45:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
       ]
     },
     {
@@ -469,22 +531,6 @@
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "eedecb814a8e",
-      "titulo": "Operación Ónix da de baja a dos principales cabecillas del Eln en el departamento del Cauca: 'El golpe más duro en los últimos 8 años'",
-      "resumen": "Las Fuerzas Militares abatieron a dos principales cabecillas del Frente de Guerra Suroccidental.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/operacion-onix-deja-10-integrantes-del-eln-neutralizados-en-el-departamento-del-cauca-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella-3596142",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-25T14:35:14+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
       ]
     },
     {
