@@ -1,198 +1,102 @@
 {
-  "generado_en": "2026-10-27T15:56:45.561553+00:00",
-  "total_revisadas": 319,
-  "total_relevantes": 37,
+  "generado_en": "2026-10-28T16:45:28.198959+00:00",
+  "total_revisadas": 315,
+  "total_relevantes": 28,
   "noticias": [
     {
-      "id": "3965714f3da7",
-      "titulo": "Amnistía Internacional denunciará a Milei en CIDH y ONU por atacar a periodistas que informaron del caso LIBRA",
+      "id": "cb220960c136",
+      "titulo": "¡Chulos devoran cuerpos en el Catatumbo! Guerra entre disidencias de las Farc y Eln se recrudece",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/argentina-amnistia-internacional-denunciara-a-javier-milei-en-cidh-y-onu-por-atacar-a-periodistas-que-informaron-del-caso-libra-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-27T15:56:43.354597+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "cidh"
-      ]
-    },
-    {
-      "id": "56385691fdb3",
-      "titulo": "Comienza tregua humanitaria en ciudad ucraniana de Oleshky ocupada por Rusia",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-comienza-tregua-humanitaria-en-ciudad-ucraniana-de-oleshky-ocupada-por-rusia-vladimir-putin-volodymyr-zelensky-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-27T15:56:43.354533+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "tregua humanitaria"
-      ]
-    },
-    {
-      "id": "e699d142c470",
-      "titulo": "Putin acusa a la Unión Europea y la OTAN de prolongar la guerra en Ucrania",
-      "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/vladimir-putin-acusa-a-la-union-europea-y-la-otan-de-prolongar-la-guerra-en-ucrania-rusia-ultimas-noticia/",
-      "fuente": "El Comercio",
-      "seccion": "Mundo (Perú)",
-      "region": "internacional",
-      "fecha": "2026-10-27T15:56:43.354457+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra en ucrania"
-      ]
-    },
-    {
-      "id": "70534d296899",
-      "titulo": "Construcción de prisiones: prevenir violaciones de derechos humanos",
-      "resumen": "",
-      "url": "https://eluniversal.com.mx/opinion/articulista-invitado/construccion-de-prisiones-prevenir-violaciones-de-derechos-humanos/",
-      "fuente": "El Universal",
-      "seccion": "Mundo (México)",
-      "region": "internacional",
-      "fecha": "2026-10-27T15:56:42.267848+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "1996f6a73080",
-      "titulo": "Artefacto explosivo en Puerto Santander iba dirigido contra la Policía",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/artefacto-explosivo-en-puerto-santander-iba-dirigido-contra-la-policia",
+      "url": "https://laopinion.co/judicial/chulos-devoran-cuerpos-en-el-catatumbo-guerra-entre-disidencias-de-las-farc-y-eln-se",
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:40.299296+00:00",
+      "fecha": "2026-10-28T16:45:23.176306+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "artefacto explosivo"
+        "disidencias"
       ]
     },
     {
-      "id": "6af079edccb2",
-      "titulo": "Operación Ónix deja diez muertos del ELN en el Cauca: abatieron a dos señalados cabecillas",
+      "id": "d3d23969379e",
+      "titulo": "¿Quién era ‘Primo Sangre’, el señalado jefe de las disidencias que murió en megaoperativo en San Cristóbal, Medellín?",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/operacion-onix-muertos-del-eln-cauca-IA42712758",
+      "url": "https://elcolombiano.com/antioquia/alias-primo-sangre-muerte-megaoperativo-antioquia-quien-era-KP42810903",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.679183+00:00",
+      "fecha": "2026-10-28T16:45:22.218467+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
-      "id": "47a090ad0c1e",
-      "titulo": "Capturado alias Muco, uno de los disidentes más buscados y señalado como terror de los líderes sociales",
+      "id": "56ccae9a3ba9",
+      "titulo": "JEP estudia sometimiento de ‘Kiko’ Gómez a cambio de hablar de sus nexos con paramilitares",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-captura-alias-muco-OF42741924",
+      "url": "https://elcolombiano.com/colombia/jep-kiko-gomez-nexos-paramilitares-aporte-verdad-HP42816450",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.679126+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "lideres sociales"
-      ]
-    },
-    {
-      "id": "a5036f093b66",
-      "titulo": "“Ya van por el matoneo”: presidente de la JEP rechaza críticas a magistradas por situación en audiencia con Timochenko",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ya-van-por-el-matoneo-presidente-de-la-jep-rechaza-criticas-a-magistradas-por-situacion-en-audiencia-con-timochenko/202629/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.425815+00:00",
+      "fecha": "2026-10-28T16:45:22.218440+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "paramilitares"
       ]
     },
     {
-      "id": "f4bd633bd853",
-      "titulo": "Exparamilitares alias Don Berna y Julián Bolívar, citados en proceso contra el expresidente Álvaro Uribe por la masacre de El Aro",
+      "id": "3c6353819fc7",
+      "titulo": "Una granada explotó cerca de la cárcel de mujeres en Bucaramanga: esto se sabe del atentado",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/exparamilitares-alias-don-berna-y-julian-bolivar-citados-en-proceso-contra-el-expresidente-alvaro-uribe-por-la-masacre-de-el-aro/202605/",
+      "url": "https://semana.com/nacion/bucaramanga/articulo/una-granada-exploto-cerca-de-la-carcel-de-mujeres-en-bucaramanga-esto-se-sabe-del-atentado/202649/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.425794+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "5d235aa0fa95",
-      "titulo": "Esta es la escalofriante historia detrás de la masacre en Suaza, Huila: hay seis muertos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/esta-es-la-escalofriante-historia-tras-la-masacre-en-suaza-huila-hay-seis-muertos/202631/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.425753+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "2c496b642974",
-      "titulo": "Policía confirma versión de masacre de Suaza: campesinos se defendieron de disidentes que los extorsionaban",
-      "resumen": "",
-      "url": "https://semana.com/nacion/florencia/articulo/policia-confirma-version-de-masacre-de-suaza-campesinos-se-defendieron-de-disidentes-que-los-extorsionaban/202637/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.425712+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "35842a29c750",
-      "titulo": "Atentado terrorista en Cúcuta deja varios heridos, entre ellos, policías",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/atentado-con-explosivo-en-cucuta-cerca-de-la-frontera-entre-colombia-y-venezuela-hay-tres-heridos/202653/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.425641+00:00",
+      "fecha": "2026-10-28T16:45:21.819427+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "atentado"
+      ]
+    },
+    {
+      "id": "cf5842fb2e9f",
+      "titulo": "Policía frustra atentado con granada de una banda de extorsionistas en Barranquilla: hay un capturado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/barranquilla/articulo/policia-frustra-atentado-con-granada-de-una-banda-de-extorsionistas-en-barranquilla-hay-un-capturado/202655/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-28T16:45:21.819419+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "38f14636c769",
+      "titulo": "Yako, el disidente de las Farc implicado en el magnicidio de Miguel Uribe Turbay, perdió el beneficio otorgado por la JEP",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/yako-el-disidente-de-las-farc-implicado-en-el-magnicidio-de-miguel-uribe-turbay-perdio-el-beneficio-otorgado-por-al-jep/202601/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-28T16:45:21.819383+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
       ]
     },
     {
@@ -203,7 +107,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068738+00:00",
+      "fecha": "2026-10-28T16:45:21.173102+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068731+00:00",
+      "fecha": "2026-10-28T16:45:21.173093+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068727+00:00",
+      "fecha": "2026-10-28T16:45:21.173090+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068722+00:00",
+      "fecha": "2026-10-28T16:45:21.173086+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068719+00:00",
+      "fecha": "2026-10-28T16:45:21.173083+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068706+00:00",
+      "fecha": "2026-10-28T16:45:21.173072+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068697+00:00",
+      "fecha": "2026-10-28T16:45:21.173069+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068693+00:00",
+      "fecha": "2026-10-28T16:45:21.173066+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068688+00:00",
+      "fecha": "2026-10-28T16:45:21.173061+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068658+00:00",
+      "fecha": "2026-10-28T16:45:21.173036+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068653+00:00",
+      "fecha": "2026-10-28T16:45:21.173032+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068642+00:00",
+      "fecha": "2026-10-28T16:45:21.173014+00:00",
       "temas": [
         "DDHH"
       ],
@@ -395,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068623+00:00",
+      "fecha": "2026-10-28T16:45:21.172997+00:00",
       "temas": [
         "DDHH"
       ],
@@ -411,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-27T15:56:39.068604+00:00",
+      "fecha": "2026-10-28T16:45:21.172982+00:00",
       "temas": [
         "DDHH"
       ],
@@ -420,85 +324,53 @@
       ]
     },
     {
-      "id": "fa6938643569",
-      "titulo": "Los líderes de Finlandia y Noruega hablan por teléfono con Vladimir Putin",
-      "resumen": "Un alto el fuego local entre Ucrania y Rusia entró en vigor el martes en la madrugada Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/27/6ae077c3fc6c83125a8b4586.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-27T10:14:55+00:00",
+      "id": "581763710607",
+      "titulo": "Tribunal de Bogotá tumbó fallo que imponía restricciones a bombardeos militares por presencia de menores",
+      "resumen": "La decisión revocó las medidas de protección reforzada que un juzgado había ordenado aplicar en operaciones aéreas contra grupos armados.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tribunal-de-bogota-tumbo-fallo-que-imponia-restricciones-a-bombardeos-militares-por-presencia-de-menores-3596931",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-28T15:58:50+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "alto el fuego"
+        "grupos armados"
       ]
     },
     {
-      "id": "bdb436e06d6d",
-      "titulo": "JEP entra al debate por retiro de piezas del Museo Nacional: le ordena al Gobierno De La Espriella responder por las obras retiradas",
-      "resumen": "Ministerio de Cultura y el Museo deben entregar un inventario completo, con órdenes, correos y fotografías.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/primicia-la-jep-le-ordena-al-gobierno-de-la-espriella-responder-por-las-piezas-retiradas-del-museo-nacional-en-bogota-3596457",
+      "id": "1f1f99e755fb",
+      "titulo": "Defensoría del Pueblo emite alerta en Dagua, Valle, por el escalonamiento de la guerra entre disidencias y Eln",
+      "resumen": "La entidad dirigida por Iris Marín Ortiz pide garantías para los pobladores del municipio vallecaucano.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/defensoria-del-pueblo-emite-alerta-en-dagua-valle-por-el-escalonamiento-de-la-guerra-entre-disidencias-y-eln-3596898",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-10-26T23:25:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "f8cd01f7f278",
-      "titulo": "Capturan a dos disidentes de las Farc señalados de participar en el asesinato de un intendente de la Policía en Cauca",
-      "resumen": "Alias May y ‘Joselito’, presuntos integrantes de la 'Jaime Martínez', habrían participado en la planeación del crimen en diciembre de 2025.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-disidentes-de-las-farc-senalados-de-participar-en-el-asesinato-de-un-intendente-de-la-policia-en-cauca-3596480",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-26T21:45:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "a8364fc2d1bf",
-      "titulo": "Cae en Cesar alias Muco, señalado de ordenar homicidios de líderes sociales y firmantes de paz en el Magdalena Medio",
-      "resumen": "El presunto integrante de la estructura 33 de las disidencias de las Farc figuraba en el cartel de los más buscados de Norte de Santander.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-en-cesar-a-alias-muco-senalado-de-ordenar-homicidios-de-lideres-sociales-y-firmantes-de-paz-en-el-magdalena-medio-3596316",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-26T13:49:55+00:00",
+      "fecha": "2026-10-28T14:34:49+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
       ],
       "palabras_clave": [
-        "disidencias",
-        "lideres sociales"
+        "defensoria del pueblo",
+        "disidencias"
       ]
     },
     {
-      "id": "e1a6c35deefc",
-      "titulo": "Ejército destruyó 13 artefactos explosivos en Caquetá que estarían listos para atentar contra tropas y civiles",
-      "resumen": "Los dispositivos fueron hallados en zona rural de La Montañita y Solano. Serían de la estructura Rodrigo Cadete, del ala de 'Calarcá'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruyo-13-artefactos-explosivos-en-caqueta-que-estarian-listos-para-atentar-contra-tropas-y-civiles-3596304",
+      "id": "6e079cdbd924",
+      "titulo": "Alias Contador: el narcotraficante que regresó deportado de EE. UU. y fue capturado en El Dorado",
+      "resumen": "En el país, las autoridades lo vinculan con antiguas estructuras de las Farc y con el control de corredores del narcotráfico en el sur del territorio.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-contador-el-narcotraficante-que-regreso-deportado-de-ee-uu-y-fue-capturado-en-el-dorado-3596795",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-10-26T13:34:22+00:00",
+      "fecha": "2026-10-28T00:24:41+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "farc"
       ]
     },
     {
@@ -515,22 +387,6 @@
       ],
       "palabras_clave": [
         "derechos humanos"
-      ]
-    },
-    {
-      "id": "701b701efd14",
-      "titulo": "Tierras raras: Estado, con la mira en el negocio del Eln y las disidencias de la 'Segunda Marquetalia'",
-      "resumen": "Mientras el país apenas empieza a conocer su potencial en esta materia, los grupos ilegales llevan años alimentando sus rentas criminales.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tierras-raras-estado-con-la-mira-en-el-negocio-del-eln-y-las-disidencias-de-la-segunda-marquetalia-3596192",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-26T03:40:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
