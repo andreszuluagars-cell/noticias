@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-10-28T16:45:28.198959+00:00",
-  "total_revisadas": 315,
-  "total_relevantes": 28,
+  "generado_en": "2026-10-29T17:01:35.329971+00:00",
+  "total_revisadas": 309,
+  "total_relevantes": 33,
   "noticias": [
     {
       "id": "cb220960c136",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:23.176306+00:00",
+      "fecha": "2026-10-29T17:01:30.686040+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,14 +20,30 @@
       ]
     },
     {
-      "id": "d3d23969379e",
-      "titulo": "¿Quién era ‘Primo Sangre’, el señalado jefe de las disidencias que murió en megaoperativo en San Cristóbal, Medellín?",
+      "id": "2370ab516f73",
+      "titulo": "Abatido alias Cali, señalado cabecilla financiero del Eln, en Sardinata, Norte de Santander",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/alias-primo-sangre-muerte-megaoperativo-antioquia-quien-era-KP42810903",
+      "url": "https://laopinion.co/judicial/abatido-alias-cali-senalado-cabecilla-financiero-del-eln-en-sardinata-norte-de-santander",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-10-29T17:01:30.686028+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "fb9ff290363d",
+      "titulo": "¡Dos veces en un mes! Otro rayo detonó explosivos que disidencias de Farc instalaron en Cauca",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/rayo-detona-explosivos-segunda-vez-disidencias-farc-cauca-NJ42872348",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:22.218467+00:00",
+      "fecha": "2026-10-29T17:01:29.872787+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,99 +52,51 @@
       ]
     },
     {
-      "id": "56ccae9a3ba9",
-      "titulo": "JEP estudia sometimiento de ‘Kiko’ Gómez a cambio de hablar de sus nexos con paramilitares",
+      "id": "1912e3fb5fa7",
+      "titulo": "¿Se acercaría el fin de la JEP? Aprueban en primer debate iniciativa que limita su duración hasta 2028",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-kiko-gomez-nexos-paramilitares-aporte-verdad-HP42816450",
+      "url": "https://elcolombiano.com/colombia/politica/jep-senado-aprueba-primer-debate-iniciativa-le-pone-fin-IN42928404",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:22.218440+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitares"
-      ]
-    },
-    {
-      "id": "3c6353819fc7",
-      "titulo": "Una granada explotó cerca de la cárcel de mujeres en Bucaramanga: esto se sabe del atentado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/bucaramanga/articulo/una-granada-exploto-cerca-de-la-carcel-de-mujeres-en-bucaramanga-esto-se-sabe-del-atentado/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.819427+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "cf5842fb2e9f",
-      "titulo": "Policía frustra atentado con granada de una banda de extorsionistas en Barranquilla: hay un capturado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/barranquilla/articulo/policia-frustra-atentado-con-granada-de-una-banda-de-extorsionistas-en-barranquilla-hay-un-capturado/202655/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.819419+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "38f14636c769",
-      "titulo": "Yako, el disidente de las Farc implicado en el magnicidio de Miguel Uribe Turbay, perdió el beneficio otorgado por la JEP",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/yako-el-disidente-de-las-farc-implicado-en-el-magnicidio-de-miguel-uribe-turbay-perdio-el-beneficio-otorgado-por-al-jep/202601/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.819383+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "2d0438259615",
-      "titulo": "Confinamiento en el conflicto armado: una crisis silenciosa que deja muchas víctimas",
-      "resumen": "",
-      "url": "https://www.elespectador.com/colombia-20/confinamiento-en-el-conflicto-armado-una-crisis-silenciosa-que-deja-muchas-victimas/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173102+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "conflicto armado"
-      ]
-    },
-    {
-      "id": "761d32ce7395",
-      "titulo": "Se abre polémica por declaraciones de Rodrigo Londoño ante la JEP: tribunal respondió",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/se-abre-polemica-por-declaraciones-de-rodrigo-londono-ante-la-jep-tribunal-respondio/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173093+00:00",
+      "fecha": "2026-10-29T17:01:29.872705+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "jep"
+      ]
+    },
+    {
+      "id": "95b3dd8d9891",
+      "titulo": "Abelardo De La Espriella confirmó que bombardeo contra el Clan del Golfo dejó, por lo menos, seis presuntos delincuentes muertos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/abelardo-de-la-espriella-confirmo-que-bombardeo-contra-el-clan-del-golfo-dejo-por-lo-menos-seis-presuntos-delincuentes-muertos/202609/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-29T17:01:29.476626+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "e6820ab8c420",
+      "titulo": "Golpe a las disidencias en el Valle: cinco capturados, entre ellos, varios cabecillas. Presidente De La Epriella dio balance",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/golpe-a-las-disidencias-cinco-capturados-entre-ellos-cabecillas-anuncio-el-presidente-de-la-espriella/202649/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-10-29T17:01:29.476403+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -139,7 +107,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173090+00:00",
+      "fecha": "2026-10-29T17:01:28.939950+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -155,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173086+00:00",
+      "fecha": "2026-10-29T17:01:28.939947+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173083+00:00",
+      "fecha": "2026-10-29T17:01:28.939944+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173072+00:00",
+      "fecha": "2026-10-29T17:01:28.939935+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173069+00:00",
+      "fecha": "2026-10-29T17:01:28.939932+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173066+00:00",
+      "fecha": "2026-10-29T17:01:28.939930+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173061+00:00",
+      "fecha": "2026-10-29T17:01:28.939927+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173036+00:00",
+      "fecha": "2026-10-29T17:01:28.939909+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173032+00:00",
+      "fecha": "2026-10-29T17:01:28.939906+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.173014+00:00",
+      "fecha": "2026-10-29T17:01:28.939887+00:00",
       "temas": [
         "DDHH"
       ],
@@ -299,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.172997+00:00",
+      "fecha": "2026-10-29T17:01:28.939875+00:00",
       "temas": [
         "DDHH"
       ],
@@ -315,12 +283,174 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-28T16:45:21.172982+00:00",
+      "fecha": "2026-10-29T17:01:28.939859+00:00",
       "temas": [
         "DDHH"
       ],
       "palabras_clave": [
         "derechos humanos"
+      ]
+    },
+    {
+      "id": "ba671fec7c53",
+      "titulo": "Expresidente Santos defiende el Acuerdo de Paz en el exterior durante su décimo aniversario",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/expresidente-santos-defiende-el-acuerdo-de-paz-en-el-exterior-durante-su-decimo-aniversario/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-29T17:01:28.939851+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "aad4344074cf",
+      "titulo": "Proyecto que busca la terminación de la JEP en 2028 pasa primer debate en Senado",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/proyecto-que-busca-la-terminacion-de-la-jep-en-2028-pasa-primer-debate-en-senado/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-29T17:01:28.939846+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "6c8712cc4949",
+      "titulo": "“Generó una división política que aún está presente”: Santos sobre Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/genero-una-division-politica-que-aun-esta-presente-santos-sobre-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-29T17:01:28.939812+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "a38f75208db0",
+      "titulo": "Capturan en Tuluá a alias Brayan y ‘Sebastián’, señalados cabecillas del frente 57 de las disidencias",
+      "resumen": "Otros tres presuntos integrantes de la estructura ‘Yair Bermúdez’ también fueron detenidos durante una operación del Ejército y la FAC.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-tulua-a-alias-brayan-y-sebastian-senalados-cabecillas-del-frente-57-de-las-disidencias-3597208",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-29T16:29:24+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "61617e81d55e",
+      "titulo": "JEP imputa crímenes de guerra y de lesa humanidad a Pablo Catatumbo y a ocho ex-Farc por 468 hechos en Tolima, Huila y Quindío",
+      "resumen": "La Sala de Reconocimiento documentó 94 incursiones armadas del Comando Conjunto Central, la estructura de Farc con más tomas guerrilleras del país.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputa-crimenes-de-guerra-y-de-lesa-humanidad-a-pablo-catatumbo-y-a-ocho-ex-farc-por-468-hechos-en-tolima-huila-y-quindio-3597203",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-29T16:15:20+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra",
+        "farc"
+      ]
+    },
+    {
+      "id": "1474e4dacc8d",
+      "titulo": "Tras los pasos de ‘Silvana Guerrero’: la cabecilla del Eln que estaría huyendo hacia la Amazonía venezolana",
+      "resumen": "Organismos de inteligencia siguen los movimientos de la guerrillera, señalada de dinamizar la violencia en la frontera.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tras-los-pasos-de-silvana-guerrero-la-cabecilla-del-eln-que-estaria-huyendo-hacia-la-amazonia-venezolana-3597169",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-29T14:43:08+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "e44e5eb63c28",
+      "titulo": "El negocio criminal que estaría llevando al ‘clan del Golfo’ a las ciudades a través de bandas delincuenciales",
+      "resumen": "Investigan cómo los grupos armados están utilizando organizaciones locales para obtener ganancias del microtráfico, extorsiones y secuestros.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-negocio-criminal-que-estaria-llevando-al-clan-del-golfo-a-las-ciudades-a-traves-de-bandas-delincuenciales-3597147",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-29T13:30:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "4a4e2ba75204",
+      "titulo": "Capturan en Barranquilla a alias La Patrona y alias Pau, señalados de ser el enlace entre el Cartel Jalisco Nueva Generación y el Clan del Golfo",
+      "resumen": "Las dos personas fueron detenidas en medio de la operación 'Lanza Roja'. Son acusadas de enviar cargamentos de cocaína a Estados Unidos y Europa.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-barranquilla-a-alias-la-patrona-y-alias-pau-senaladas-de-ser-enlaces-entre-el-cartel-jalisco-nueva-generacion-y-el-clan-del-golfo-3597068",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-29T01:02:30+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "b44b43f5dee5",
+      "titulo": "Incautan más de tres toneladas de marihuana que pertenecerían al Eln en Arauca",
+      "resumen": "El cargamento, avaluado en 1.800 millones de pesos, fue encontrado en un camión abandonado durante un operativo del Ejército y la Policía.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-mas-de-tres-toneladas-de-marihuana-que-pertenecerian-al-eln-en-arauca-3597063",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-28T23:07:28+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "e3900f692f30",
+      "titulo": "Cae alias Cachaco, el jefe de sicarios del ‘clan del Golfo’ detrás del asesinato de dos patrulleros en Simití, sur de Bolívar",
+      "resumen": "Se escondía como campesino en Barranco de Loba, lejos de su zona de influencia, tras liderar el ‘plan pistola’ contra la Fuerza Pública.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-alias-cachaco-el-jefe-de-sicarios-del-clan-del-golfo-detras-del-asesinato-de-dos-patrulleros-en-simiti-sur-de-bolivar-3597019",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-28T21:05:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
       ]
     },
     {
@@ -337,56 +467,6 @@
       ],
       "palabras_clave": [
         "grupos armados"
-      ]
-    },
-    {
-      "id": "1f1f99e755fb",
-      "titulo": "Defensoría del Pueblo emite alerta en Dagua, Valle, por el escalonamiento de la guerra entre disidencias y Eln",
-      "resumen": "La entidad dirigida por Iris Marín Ortiz pide garantías para los pobladores del municipio vallecaucano.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/defensoria-del-pueblo-emite-alerta-en-dagua-valle-por-el-escalonamiento-de-la-guerra-entre-disidencias-y-eln-3596898",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-28T14:34:49+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo",
-        "disidencias"
-      ]
-    },
-    {
-      "id": "6e079cdbd924",
-      "titulo": "Alias Contador: el narcotraficante que regresó deportado de EE. UU. y fue capturado en El Dorado",
-      "resumen": "En el país, las autoridades lo vinculan con antiguas estructuras de las Farc y con el control de corredores del narcotráfico en el sur del territorio.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-contador-el-narcotraficante-que-regreso-deportado-de-ee-uu-y-fue-capturado-en-el-dorado-3596795",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-28T00:24:41+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "d6bbc7322635",
-      "titulo": "Lorent Saleh, activista y ex preso político venezolano: \"La presencia de Machado devuelve a los ciudadanos el protagonismo\"",
-      "resumen": "Pasó más de cuatro años en las mazmorras chavistas y en 2017 se convirtió en Premio Sájarov. Hoy, desde el exilio, es un referente en la defensa de los derechos humanos Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/26/6ade6939e85eced8468b457a.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-26T09:27:58+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
       ]
     },
     {
