@@ -1,8 +1,24 @@
 {
-  "generado_en": "2026-10-29T17:01:35.329971+00:00",
-  "total_revisadas": 309,
+  "generado_en": "2026-10-30T16:46:32.539807+00:00",
+  "total_revisadas": 318,
   "total_relevantes": 33,
   "noticias": [
+    {
+      "id": "ab1abeb66886",
+      "titulo": "París decreta toque de queda en dos zonas del centro antes nuevas protestas en Francia",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/protestas-en-francia-paris-decreta-toque-de-queda-en-dos-zonas-del-centro-antes-nuevas-manifestaciones-emmanuel-macron-halloween-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-10-30T16:46:30.245750+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "toque de queda"
+      ]
+    },
     {
       "id": "cb220960c136",
       "titulo": "¡Chulos devoran cuerpos en el Catatumbo! Guerra entre disidencias de las Farc y Eln se recrudece",
@@ -11,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:30.686040+00:00",
+      "fecha": "2026-10-30T16:46:26.611526+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,12 +43,28 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:30.686028+00:00",
+      "fecha": "2026-10-30T16:46:26.611506+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
+      ]
+    },
+    {
+      "id": "ab998fdaac3a",
+      "titulo": "Se sometió a la justicia alias Flecha, señalado como uno de los cabecillas del frente 33 de las disidencias de las Farc en el Catatumbo",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/se-sometio-la-justicia-alias-flecha-senalado-como-uno-de-los-cabecillas-del-frente-33-de",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-10-30T16:46:26.611416+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -43,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:29.872787+00:00",
+      "fecha": "2026-10-30T16:46:26.080071+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:29.872705+00:00",
+      "fecha": "2026-10-30T16:46:26.079926+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,30 +100,14 @@
       ]
     },
     {
-      "id": "95b3dd8d9891",
-      "titulo": "Abelardo De La Espriella confirmó que bombardeo contra el Clan del Golfo dejó, por lo menos, seis presuntos delincuentes muertos",
+      "id": "b6c6fbf5b7fa",
+      "titulo": "De la Espriella anuncia golpe a las disidencias en Tuluá que dejó 5 capturados, entre ellos 2 presuntos cabecillas",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/abelardo-de-la-espriella-confirmo-que-bombardeo-contra-el-clan-del-golfo-dejo-por-lo-menos-seis-presuntos-delincuentes-muertos/202609/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/de-la-espriella-captura-disidencias-tulua-cabecillas-frente-57-IL42943865",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:29.476626+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e6820ab8c420",
-      "titulo": "Golpe a las disidencias en el Valle: cinco capturados, entre ellos, varios cabecillas. Presidente De La Epriella dio balance",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/golpe-a-las-disidencias-cinco-capturados-entre-ellos-cabecillas-anuncio-el-presidente-de-la-espriella/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-10-29T17:01:29.476403+00:00",
+      "fecha": "2026-10-30T16:46:26.079772+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,14 +116,14 @@
       ]
     },
     {
-      "id": "67778c2ef572",
-      "titulo": "Crece controversia por recursos y vigencia de la JEP: ¿cuál es el nuevo capítulo?",
+      "id": "6b70d78b2b41",
+      "titulo": "JEP imputó a Pablo Catatumbo y otros ocho exFarc por masacres y tomas guerrilleras en Tolima, Huila y Quindío",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/polemica-entre-gobierno-y-jep-crece-por-presupuesto-y-acciones-de-rodrigo-londono/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://elcolombiano.com/colombia/jep-imputacion-pablo-catatumbo-exfarc-tolima-huila-quindio-MK42953843",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939950+00:00",
+      "fecha": "2026-10-30T16:46:26.079732+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,14 +132,14 @@
       ]
     },
     {
-      "id": "744ba5cf0fb3",
-      "titulo": "Senadora María Posada y ex-Farc Rodrigo Londoño chocan por videos filtrados de la JEP",
+      "id": "e6fec8b9463c",
+      "titulo": "Pablo Catatumbo, excomandante de las Farc y excongresista, a imputación de cargos ante la JEP",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/rodrigo-londono-timochenko-jep-video-filtrado-maria-clara-posada-secuestrados/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/pablo-catatumbo-excomandante-de-las-farc-y-excongresista-a-imputacion-de-cargos-ante-la-jep/202639/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939947+00:00",
+      "fecha": "2026-10-30T16:46:25.663871+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,19 +148,19 @@
       ]
     },
     {
-      "id": "f75f1fcb12c1",
-      "titulo": "Comunes perdió su personería jurídica por decisión del CNE tras 10 años del Acuerdo de Paz",
+      "id": "25a09f49efa8",
+      "titulo": "General (r) Mario Montoya, a imputación de cargos ante la JEP por operación Orión y desapariciones en La Escombrera",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/comunes-perdio-su-personeria-juridica-por-decision-del-cne-tras-10-anos-del-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/general-r-mario-montoya-a-imputacion-de-cargos-ante-la-jep-por-operacion-orion-y-desapariciones-en-la-escombrera/202628/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939944+00:00",
+      "fecha": "2026-10-30T16:46:25.663606+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "jep"
       ]
     },
     {
@@ -155,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939935+00:00",
+      "fecha": "2026-10-30T16:46:25.326322+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939932+00:00",
+      "fecha": "2026-10-30T16:46:25.326318+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939930+00:00",
+      "fecha": "2026-10-30T16:46:25.326313+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939927+00:00",
+      "fecha": "2026-10-30T16:46:25.326309+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939909+00:00",
+      "fecha": "2026-10-30T16:46:25.326297+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939906+00:00",
+      "fecha": "2026-10-30T16:46:25.326293+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939887+00:00",
+      "fecha": "2026-10-30T16:46:25.326282+00:00",
       "temas": [
         "DDHH"
       ],
@@ -267,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939875+00:00",
+      "fecha": "2026-10-30T16:46:25.326237+00:00",
       "temas": [
         "DDHH"
       ],
@@ -283,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939859+00:00",
+      "fecha": "2026-10-30T16:46:25.326218+00:00",
       "temas": [
         "DDHH"
       ],
@@ -299,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939851+00:00",
+      "fecha": "2026-10-30T16:46:25.326203+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939846+00:00",
+      "fecha": "2026-10-30T16:46:25.326198+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,12 +347,142 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-10-29T17:01:28.939812+00:00",
+      "fecha": "2026-10-30T16:46:25.326191+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "168addbeb228",
+      "titulo": "Estos fueron los senadores que aprobaron el proyecto para ponerle límite a la JEP en 2028",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/estos-fueron-los-senadores-que-aprobaron-el-proyecto-para-ponerle-limite-a-la-jep-en-2028/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-30T16:46:25.326184+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "4fb63f098261",
+      "titulo": "Masacres y pueblos arrasados: los horrores de las Farc en Tolima, Huila y Quindío",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/masacres-y-pueblos-arrasados-los-horrores-de-las-farc-en-tolima-huila-y-quindio/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-10-30T16:46:25.326175+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "926bff27ceed",
+      "titulo": "JEP imputa crímenes de guerra y de lesa humanidad al general (r) Mario Montoya por hechos en la Comuna 13",
+      "resumen": "El excomandante del Ejército es señalado como máximo responsable por omisión de graves violaciones a DD. HH. ocurridas entre 2001 y 2004 en Medellín.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputa-crimenes-de-guerra-y-de-lesa-humanidad-al-general-r-mario-montoya-por-hechos-en-la-comuna-3597474",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-10-30T16:09:09+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra",
+        "jep"
+      ]
+    },
+    {
+      "id": "3ded2c27898d",
+      "titulo": "Golpe a red que habría robado un millón de galones de combustible para financiar al Eln, ‘clan del Golfo’ y ‘los Pachenca’",
+      "resumen": "La organización usaba conexiones ilegales en un poliducto para extraer hidrocarburos. Contaba con información suministrada por funcionarios públicos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpe-a-red-que-habria-robado-un-millon-de-galones-de-combustible-para-financiar-al-eln-clan-del-golfo-y-los-pachenca-3597444",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-30T14:25:24+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "e5e83a3a0c2e",
+      "titulo": "Estados Unidos, entre las amenazas antisemitas y la batalla por la palabra genocidio",
+      "resumen": "La comunidad judía de Miami vive protegida por voluntarios para prevenir ataques Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/30/6ae372bce9cf4a51408b45af.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-30T08:48:05+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "genocidio"
+      ]
+    },
+    {
+      "id": "e1f4fdb4adde",
+      "titulo": "Alias Alex, el cabecilla del ‘clan del Golfo’ que habría muerto en el sexto bombardeo ordenado por De La Espriella",
+      "resumen": "Yeisón Arley García Atehortúa, señalado como uno de los principales jefes de la subestructura Edwin Guzmán Martínez.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-alex-el-cabecilla-del-clan-del-golfo-que-habria-muerto-en-el-sexto-bombardeo-ordenado-por-de-la-espriella-3597359",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-30T00:49:11+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "104fffdf173d",
+      "titulo": "Esta es la estructura del ‘clan del Golfo’ y el municipio de Chocó donde se registró el sexto bombardeo del Gobierno De La Espriella",
+      "resumen": "Entre los seis neutralizados habría un objetivo de alto valor. Se espera que el presidente entregue detalles de la operación.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/esta-es-la-estructura-del-clan-del-golfo-y-el-municipio-de-choco-donde-se-registro-el-sexto-bombardeo-del-gobierno-de-la-espriella-3597281",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-10-29T22:37:29+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "eb02cbf012b9",
+      "titulo": "Al menos 69 presos muertos en Rusia por la represión desde el inicio de la guerra de Ucrania",
+      "resumen": "Memorial denuncia que la mayoría fallecieron por enfermedades o falta de atención médica y vincula al menos 20 muertes con presuntas torturas y sus consecuencias Leer",
+      "url": "https://www.elmundo.es/internacional/2026/10/29/6ae39b1321efa006478b457a.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-10-29T19:15:26+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra de ucrania"
       ]
     },
     {
@@ -353,120 +499,6 @@
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "61617e81d55e",
-      "titulo": "JEP imputa crímenes de guerra y de lesa humanidad a Pablo Catatumbo y a ocho ex-Farc por 468 hechos en Tolima, Huila y Quindío",
-      "resumen": "La Sala de Reconocimiento documentó 94 incursiones armadas del Comando Conjunto Central, la estructura de Farc con más tomas guerrilleras del país.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputa-crimenes-de-guerra-y-de-lesa-humanidad-a-pablo-catatumbo-y-a-ocho-ex-farc-por-468-hechos-en-tolima-huila-y-quindio-3597203",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-10-29T16:15:20+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "crimenes de guerra",
-        "farc"
-      ]
-    },
-    {
-      "id": "1474e4dacc8d",
-      "titulo": "Tras los pasos de ‘Silvana Guerrero’: la cabecilla del Eln que estaría huyendo hacia la Amazonía venezolana",
-      "resumen": "Organismos de inteligencia siguen los movimientos de la guerrillera, señalada de dinamizar la violencia en la frontera.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tras-los-pasos-de-silvana-guerrero-la-cabecilla-del-eln-que-estaria-huyendo-hacia-la-amazonia-venezolana-3597169",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-29T14:43:08+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "e44e5eb63c28",
-      "titulo": "El negocio criminal que estaría llevando al ‘clan del Golfo’ a las ciudades a través de bandas delincuenciales",
-      "resumen": "Investigan cómo los grupos armados están utilizando organizaciones locales para obtener ganancias del microtráfico, extorsiones y secuestros.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-negocio-criminal-que-estaria-llevando-al-clan-del-golfo-a-las-ciudades-a-traves-de-bandas-delincuenciales-3597147",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-29T13:30:04+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "4a4e2ba75204",
-      "titulo": "Capturan en Barranquilla a alias La Patrona y alias Pau, señalados de ser el enlace entre el Cartel Jalisco Nueva Generación y el Clan del Golfo",
-      "resumen": "Las dos personas fueron detenidas en medio de la operación 'Lanza Roja'. Son acusadas de enviar cargamentos de cocaína a Estados Unidos y Europa.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-barranquilla-a-alias-la-patrona-y-alias-pau-senaladas-de-ser-enlaces-entre-el-cartel-jalisco-nueva-generacion-y-el-clan-del-golfo-3597068",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-29T01:02:30+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "b44b43f5dee5",
-      "titulo": "Incautan más de tres toneladas de marihuana que pertenecerían al Eln en Arauca",
-      "resumen": "El cargamento, avaluado en 1.800 millones de pesos, fue encontrado en un camión abandonado durante un operativo del Ejército y la Policía.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-mas-de-tres-toneladas-de-marihuana-que-pertenecerian-al-eln-en-arauca-3597063",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-28T23:07:28+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "e3900f692f30",
-      "titulo": "Cae alias Cachaco, el jefe de sicarios del ‘clan del Golfo’ detrás del asesinato de dos patrulleros en Simití, sur de Bolívar",
-      "resumen": "Se escondía como campesino en Barranco de Loba, lejos de su zona de influencia, tras liderar el ‘plan pistola’ contra la Fuerza Pública.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cae-alias-cachaco-el-jefe-de-sicarios-del-clan-del-golfo-detras-del-asesinato-de-dos-patrulleros-en-simiti-sur-de-bolivar-3597019",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-28T21:05:04+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "581763710607",
-      "titulo": "Tribunal de Bogotá tumbó fallo que imponía restricciones a bombardeos militares por presencia de menores",
-      "resumen": "La decisión revocó las medidas de protección reforzada que un juzgado había ordenado aplicar en operaciones aéreas contra grupos armados.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tribunal-de-bogota-tumbo-fallo-que-imponia-restricciones-a-bombardeos-militares-por-presencia-de-menores-3596931",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-28T15:58:50+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
       ]
     },
     {
@@ -494,38 +526,6 @@
       "seccion": "Política / Proceso de paz",
       "region": "nacional",
       "fecha": "2026-10-15T14:26:34+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "a36700ee2fdd",
-      "titulo": "Las implicaciones que tendría retirar a la ONU de la observación de la reforma rural integral del Acuerdo de Paz",
-      "resumen": "El Consejo de Seguridad tendrá poco más de dos semanas para discutir la propuesta de Colombia, que ya cuenta con el guiño de Estados Unidos.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/las-implicaciones-que-tendria-retirar-a-la-onu-de-la-observacion-de-la-reforma-rural-integral-del-acuerdo-de-paz-3593157",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-14T01:59:17+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "c373397e7b4e",
-      "titulo": "'Sin seguridad no hay paz, pero sin desarrollo rural tampoco': el llamado de Juan C. Restrepo ante posible retiro de verificación a la reforma rural",
-      "resumen": "El exministro dice que la propuesta del Gobierno de excluir a la ONU del punto 1 del Acuerdo de Paz pone en duda su voluntad de cumplirlo a cabalidad.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/sin-seguridad-no-hay-paz-pero-sin-desarrollo-rural-tampoco-el-llamado-de-juan-c-restrepo-ante-posible-retiro-de-verificacion-a-la-reforma-rural-3593313",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-13T22:45:22+00:00",
       "temas": [
         "Conflicto armado"
       ],
