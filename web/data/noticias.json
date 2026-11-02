@@ -1,22 +1,22 @@
 {
-  "generado_en": "2026-11-01T16:53:01.331710+00:00",
-  "total_revisadas": 317,
-  "total_relevantes": 37,
+  "generado_en": "2026-11-02T20:27:45.984378+00:00",
+  "total_revisadas": 315,
+  "total_relevantes": 39,
   "noticias": [
     {
-      "id": "ab998fdaac3a",
-      "titulo": "Se sometió a la justicia alias Flecha, señalado como uno de los cabecillas del frente 33 de las disidencias de las Farc en el Catatumbo",
+      "id": "64f4586f33dd",
+      "titulo": "Rusia bombardea una escuela que distribuía ayuda humanitaria en Ucrania y deja al menos 18 muertos",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/se-sometio-la-justicia-alias-flecha-senalado-como-uno-de-los-cabecillas-del-frente-33-de",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-01T16:52:56.328075+00:00",
+      "url": "https://elcomercio.pe/mundo/europa/rusia-bombardea-un-pueblo-del-sureste-de-ucrania-y-deja-al-menos-18-muertos-volodymyr-zelensky-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-11-02T20:27:43.780603+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "disidencias"
+        "ayuda humanitaria"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:56.328050+00:00",
+      "fecha": "2026-11-02T20:27:36.332814+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -43,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:56.327995+00:00",
+      "fecha": "2026-11-02T20:27:36.332789+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,35 +52,19 @@
       ]
     },
     {
-      "id": "b6c6fbf5b7fa",
-      "titulo": "De la Espriella anuncia golpe a las disidencias en Tuluá que dejó 5 capturados, entre ellos 2 presuntos cabecillas",
+      "id": "f9425a86f2d0",
+      "titulo": "Ataque con dron cargado de explosivos deja tres heridos en El Tarra, Norte de Santander",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/de-la-espriella-captura-disidencias-tulua-cabecillas-frente-57-IL42943865",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/ataque-con-dron-cargado-de-explosivos-deja-tres-heridos-en-el-tarra-norte-de-santander",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.529056+00:00",
+      "fecha": "2026-11-02T20:27:36.332771+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "6b70d78b2b41",
-      "titulo": "JEP imputó a Pablo Catatumbo y otros ocho exFarc por masacres y tomas guerrilleras en Tolima, Huila y Quindío",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-imputacion-pablo-catatumbo-exfarc-tolima-huila-quindio-MK42953843",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.529035+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
+        "explosivos"
       ]
     },
     {
@@ -91,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.528976+00:00",
+      "fecha": "2026-11-02T20:27:35.837873+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.528929+00:00",
+      "fecha": "2026-11-02T20:27:35.837840+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,14 +100,30 @@
       ]
     },
     {
-      "id": "520f7d538e1b",
-      "titulo": "“El Cauca es una prioridad para el Gobierno”: ministra de Transporte Elsa Noguera responde tras atentado en peaje El Mango",
+      "id": "0a70d2afc090",
+      "titulo": "Golpe a las disidencias de Iván Mordisco: capturan a principal cabecilla de la compañía Eiber González en el Valle",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-cauca-es-una-prioridad-para-el-gobierno-ministra-de-transporte-elsa-noguera-responde-tras-atentado-en-peaje-el-mango/202619/",
+      "url": "https://semana.com/nacion/articulo/golpe-a-las-disidencias-de-ivan-mordisco-capturan-a-principal-cabecilla-de-la-compania-eiber-gonzalez-en-el-valle/202636/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.139344+00:00",
+      "fecha": "2026-11-02T20:27:35.672809+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "c2f916de9c7a",
+      "titulo": "Atentado en Planadas, Tolima, deja cuatro personas muertas: entre las víctimas hay una bebé de dos meses",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/atentado-en-planadas-tolima-deja-cuatro-personas-muertas-entre-las-victimas-hay-una-bebe-de-dos-meses/202645/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-02T20:27:35.672756+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,46 +132,14 @@
       ]
     },
     {
-      "id": "fd068d11300e",
-      "titulo": "No fue un falso positivo: JEP precluye investigación a 29 militares por muerte en Córdoba",
+      "id": "5681bdc4aec8",
+      "titulo": "Nuevo atentado en Cauca: motocicleta con explosivos fue activada en Balboa",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/no-fue-un-falso-positivo-jep-precluye-investigacion-a-29-militares-por-muerte-en-cordoba/202615/",
+      "url": "https://semana.com/nacion/articulo/nuevo-atentado-en-cauca-motocicleta-con-explosivos-fue-activada-en-balboa/202652/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.139300+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "f9393992ed6a",
-      "titulo": "Golpe al Clan del Golfo en Chocó: siete abatidos, incluido alias Alex, en operativo militar",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-al-clan-del-golfo-en-choco-siete-abatidos-incluido-alias-alex-en-operativo-militar/202642/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.139221+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e63bf0a411eb",
-      "titulo": "Atentado con explosivos en Algeciras, Huila, deja tres policías heridos y civiles afectados: autoridades investigan lo ocurrido",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/atentado-con-explosivos-en-algeciras-huila-deja-tres-policias-heridos-y-civiles-afectados-autoridades-investigan-lo-ocurrido/202631/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.139189+00:00",
+      "fecha": "2026-11-02T20:27:35.672744+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -180,14 +148,14 @@
       ]
     },
     {
-      "id": "91c875520ab5",
-      "titulo": "Procurador Gregorio Eljach condena atentado terrorista en Algeciras, Huila: “El terrorismo no nos va a intimidar”",
+      "id": "a5a534c5e095",
+      "titulo": "Revelan video del momento exacto del atentado en Planadas, Tolima: explosivos impactaron contra un hospital y varias viviendas",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/procurador-gregorio-eljach-condena-atentado-terrorista-en-algeciras-huila-el-terrorismo-no-nos-va-a-intimidar/202612/",
+      "url": "https://semana.com/nacion/articulo/revelan-video-del-momento-exacto-del-atentado-en-planadas-tolima-explosivos-impactaron-contra-un-hospital-y-varias-viviendas/202619/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.139138+00:00",
+      "fecha": "2026-11-02T20:27:35.672725+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -196,14 +164,14 @@
       ]
     },
     {
-      "id": "121361148a52",
-      "titulo": "“A los asesinos los vamos a perseguir″, presidente Abelardo De La Espriella reacciona al atentado terrorista en Algeciras",
+      "id": "c3890c41f5d1",
+      "titulo": "“Una acción criminal que atenta contra la vida”: Ejército se pronuncia tras atentado terrorista en Balboa, Cauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/a-los-asesinos-los-vamos-a-perseguir-presidente-abelardo-de-la-espriella-reacciona-al-atentado-terrorista-en-algeciras/202657/",
+      "url": "https://semana.com/nacion/articulo/una-accion-criminal-que-atenta-contra-la-vida-ejercito-se-pronuncia-tras-atentado-terrorista-en-balboa-cauca/202613/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:55.139107+00:00",
+      "fecha": "2026-11-02T20:27:35.672715+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -212,67 +180,99 @@
       ]
     },
     {
-      "id": "22a24e1dc8fd",
-      "titulo": "ONU advierte “incertidumbre” sobre implementación de enfoque de género del Acuerdo de Paz",
+      "id": "f0a9865d6afa",
+      "titulo": "MinSalud hace llamado urgente tras atentado en Planadas, Tolima: “Es inaceptable”",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/onu-advierte-incertidumbre-sobre-implementacion-de-enfoque-de-genero-del-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/minsalud-lanzo-urgente-llamado-tras-atentado-en-planadas-tolima-es-inaceptable/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868605+00:00",
+      "fecha": "2026-11-02T20:27:35.672682+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "atentado"
       ]
     },
     {
-      "id": "bf450818e6c8",
-      "titulo": "¿Se ha cumplido con la reforma rural del Acuerdo de Paz? Este es el balance 10 años después",
+      "id": "f81026c91b67",
+      "titulo": "Fuerzas Militares intensifican operaciones en Tolima tras atentado terrorista en Planadas",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/se-ha-cumplido-con-la-reforma-rural-del-acuerdo-de-paz-este-es-el-balance-10-anos-despues/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/fuerzas-militares-intensifican-operaciones-en-tolima-tras-atentado-terrorista-en-planadas/202613/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868602+00:00",
+      "fecha": "2026-11-02T20:27:35.672670+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "atentado"
       ]
     },
     {
-      "id": "966cebba1497",
-      "titulo": "Pérdida de personería de Comunes refuerza rezagos en implementación de Acuerdo de Paz",
+      "id": "4348caf359dc",
+      "titulo": "Las hipótesis detrás del atentado en Tolima que dejó cuatro muertos: disidencias de Mordisco serían las responsables",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/acuerdo-de-paz-con-las-farc-enfrenta-rezagos-en-el-punto-dos-y-la-perdida-de-personeria-de-comunes-sacude-su-implementacion/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/las-hipotesis-detras-del-atentado-en-tolima-que-dejo-cuatro-muertos-disidencias-de-mordisco-serian-las-responsables/202654/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868598+00:00",
+      "fecha": "2026-11-02T20:27:35.672655+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "disidencias"
       ]
     },
     {
-      "id": "07c6e8fd3e0d",
-      "titulo": "Gobierno pide excluir reforma rural de Misión de Verificación de la ONU al Acuerdo de Paz",
+      "id": "58f6fa713c96",
+      "titulo": "“Pierden la vida por culpa del terrorismo”: habitantes de Planadas relatan el horror del atentado ocurrido en Tolima",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/gobierno-pide-excluir-reforma-rural-de-mision-de-verificacion-de-la-onu-al-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/pierden-la-vida-por-culpa-del-terrorismo-habitantes-de-planadas-relatan-el-horror-del-atentado-ocurrido-en-tolima/202652/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868595+00:00",
+      "fecha": "2026-11-02T20:27:35.672622+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "atentado"
+      ]
+    },
+    {
+      "id": "ae15180200fe",
+      "titulo": "Frustran atentado en vías de Nariño: detectan vehículo con 78 artefactos explosivos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/frustran-atentado-en-vias-de-narino-detectan-vehiculo-con-78-artefactos-explosivos/202607/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-02T20:27:35.672611+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "a7ce5adf84f3",
+      "titulo": "Defensoría del Pueblo alerta por desplazamiento de 500 indígenas en Nuquí y advierte nuevos riesgos",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-alerta-por-desplazamiento-de-500-indigenas-en-nuqui-y-advierte-nuevos-riesgos/202651/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-02T20:27:35.672586+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "defensoria del pueblo"
       ]
     },
     {
@@ -283,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868585+00:00",
+      "fecha": "2026-11-02T20:27:35.366176+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868582+00:00",
+      "fecha": "2026-11-02T20:27:35.366171+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868575+00:00",
+      "fecha": "2026-11-02T20:27:35.366162+00:00",
       "temas": [
         "DDHH"
       ],
@@ -331,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868563+00:00",
+      "fecha": "2026-11-02T20:27:35.366147+00:00",
       "temas": [
         "DDHH"
       ],
@@ -347,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868531+00:00",
+      "fecha": "2026-11-02T20:27:35.366126+00:00",
       "temas": [
         "DDHH"
       ],
@@ -363,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868521+00:00",
+      "fecha": "2026-11-02T20:27:35.366115+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +379,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868511+00:00",
+      "fecha": "2026-11-02T20:27:35.366074+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +395,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868506+00:00",
+      "fecha": "2026-11-02T20:27:35.366069+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -411,7 +411,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868502+00:00",
+      "fecha": "2026-11-02T20:27:35.366063+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -427,12 +427,28 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868495+00:00",
+      "fecha": "2026-11-02T20:27:35.366056+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "farc"
+      ]
+    },
+    {
+      "id": "82485f6090d1",
+      "titulo": "\"El Acuerdo de Paz no es un modelo para el mundo”: Gaona ante las Naciones Unidas",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/el-acuerdo-de-paz-no-es-un-modelo-para-el-mundo-gaona-ante-la-naciones-unidas/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-02T20:27:35.366041+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
       ]
     },
     {
@@ -443,7 +459,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-01T16:52:54.868449+00:00",
+      "fecha": "2026-11-02T20:27:35.366022+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -452,19 +468,83 @@
       ]
     },
     {
-      "id": "3e231350668f",
-      "titulo": "Ecuador inició el cuarto toque de queda del año en medio de la lucha contra el crimen organizado",
-      "resumen": "La restricción de movilidad, que incluye a Guayaquil, regirá en cinco provincias entre la medianoche y las 5.00 de la mañana hasta el próximo 10 de noviembre. En ese horario, las fuerzas de seguridad realizarán “operaciones especiales” contra las bandas delictivas",
-      "url": "https://www.infobae.com/america/america-latina/2026/11/01/ecuador-inicio-el-cuarto-toque-de-queda-del-ano-en-medio-de-la-lucha-contra-el-crimen-organizado/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
+      "id": "70af30ea1cc2",
+      "titulo": "Oficialismo respalda postura de Gobierno De la Espriella ante la ONU sobre Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/oficialismo-respalda-postura-de-gobierno-de-la-espriella-ante-la-onu-sobre-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-02T20:27:35.366014+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "e05117511d35",
+      "titulo": "El giro de la ofensiva de Caracas contra el Eln: el bombardeo inédito contra un campamento en la frontera con Colombia que dejó 19 muertos",
+      "resumen": "El apoyo de inteligencia de Washington y la operación de Caracas contra el Eln marcan un nuevo capítulo contra las redes criminales en la frontera.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-giro-de-la-ofensiva-de-caracas-contra-el-eln-el-bombardeo-inedito-contra-un-campamento-en-la-frontera-con-colombia-que-dejo-19-muertos-3597936",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-02T18:36:56+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "21eebf8b49d6",
+      "titulo": "Seis ataques en tres meses en el sur del Tolima: la secuencia de hechos violentos que terminó con una volqueta bomba en Planadas y cuatro muertos",
+      "resumen": "En la noche de este domingo las disidencias de las Farc detonaron una volqueta con explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/seis-ataques-en-tres-meses-en-el-sur-del-tolima-la-secuencia-de-hechos-violentos-que-termino-con-una-volqueta-bomba-en-planadas-y-cuatro-muertos-3597933",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-02T16:21:09+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "c4ce7230e62e",
+      "titulo": "Estructura Gerónimo Galeano de Iván Mordisco, señalada del ataque con explosivos que dejó muertos y heridos en Planadas, Tolima",
+      "resumen": "En respuesta a la situación de seguridad, el Ministerio de Defensa envió dos pelotones a la zona.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estructura-geronimo-galeano-de-ivan-mordisco-senalada-del-ataque-con-explosivos-que-dejo-muertos-y-heridos-en-planadas-tolima-3597919",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-02T15:30:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "539ab1466d02",
+      "titulo": "Una legión de amputados: la herida sangrante de la guerra de Ucrania",
+      "resumen": "En una clínica de la fundación estadounidense Protez, soldados que han perdido piernas y brazos estrenan prótesis y firman nuevos contratos para volver al frente Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/01/6ae75f14e4d4d8b8638b456f.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
       "region": "internacional",
-      "fecha": "2026-11-01T16:37:01+00:00",
+      "fecha": "2026-11-01T21:43:54+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "toque de queda"
+        "guerra de ucrania"
       ]
     },
     {
@@ -500,22 +580,6 @@
       ]
     },
     {
-      "id": "0d81a43176a5",
-      "titulo": "Los civiles ucranianos evacuados de Oleshky llegan a una zona segura: \"Comíamos lo que había disponible\"",
-      "resumen": "La salida de civiles de la localidad asediada por Rusia ha sido posible gracias a un alto el fuego pactado con la mediación de Melania Trump Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/31/6ae62107fc6c83eb538b45a5.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-31T17:24:25+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "alto el fuego"
-      ]
-    },
-    {
       "id": "3ded2c27898d",
       "titulo": "Golpe a red que habría robado un millón de galones de combustible para financiar al Eln, ‘clan del Golfo’ y ‘los Pachenca’",
       "resumen": "La organización usaba conexiones ilegales en un poliducto para extraer hidrocarburos. Contaba con información suministrada por funcionarios públicos.",
@@ -524,38 +588,6 @@
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
       "fecha": "2026-10-30T14:25:24+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e5e83a3a0c2e",
-      "titulo": "Estados Unidos, entre las amenazas antisemitas y la batalla por la palabra genocidio",
-      "resumen": "La comunidad judía de Miami vive protegida por voluntarios para prevenir ataques Leer",
-      "url": "https://www.elmundo.es/internacional/2026/10/30/6ae372bce9cf4a51408b45af.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-10-30T08:48:05+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "genocidio"
-      ]
-    },
-    {
-      "id": "e1f4fdb4adde",
-      "titulo": "Alias Alex, el cabecilla del ‘clan del Golfo’ que habría muerto en el sexto bombardeo ordenado por De La Espriella",
-      "resumen": "Yeisón Arley García Atehortúa, señalado como uno de los principales jefes de la subestructura Edwin Guzmán Martínez.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-alex-el-cabecilla-del-clan-del-golfo-que-habria-muerto-en-el-sexto-bombardeo-ordenado-por-de-la-espriella-3597359",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-10-30T00:49:11+00:00",
       "temas": [
         "Conflicto armado"
       ],
