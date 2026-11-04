@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-11-03T17:58:19.538087+00:00",
-  "total_revisadas": 306,
-  "total_relevantes": 29,
+  "generado_en": "2026-11-04T18:09:41.529444+00:00",
+  "total_revisadas": 317,
+  "total_relevantes": 41,
   "noticias": [
-    {
-      "id": "524c79a92c96",
-      "titulo": "Odontólogo apareció muerto en Cúcuta tras 10 meses de secuestro; su suegra sigue desaparecida",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/odontologo-aparecio-muerto-en-cucuta-tras-10-meses-de-secuestro-su-suegra-sigue",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-03T17:58:15.269642+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
     {
       "id": "f9425a86f2d0",
       "titulo": "Ataque con dron cargado de explosivos deja tres heridos en El Tarra, Norte de Santander",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:15.269624+00:00",
+      "fecha": "2026-11-04T18:09:36.901197+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,30 +20,78 @@
       ]
     },
     {
-      "id": "188423b49bac",
-      "titulo": "Metro de Medellín también estaría, junto a EPM, en la mira de las Farc: “Es una declaración de guerra”, dice congresista",
+      "id": "a645d02cb4cb",
+      "titulo": "Los hallazgos de la JEP en Medellín que enredaron a los generales Montoya y Gallego",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/epm-denuncia-extorsion-hidroituango-en-antioquia-por-farc-clan-del-golfo-metro-de-medellin-NA43078599",
+      "url": "https://elcolombiano.com/medellin/jep-imputa-mario-montoya-leonardo-gallego-operacion-orion-comuna-13-FP43087471",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.975216+00:00",
+      "fecha": "2026-11-04T18:09:36.437385+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "jep"
       ]
     },
     {
-      "id": "f6d34575dc06",
-      "titulo": "Así fue el momento en que Álvaro Uribe disparó una metralleta durante un ataque del ELN en 1997",
+      "id": "c13ec39650b4",
+      "titulo": "“El embajador Gaona está confundido”: Santos defiende el Acuerdo de Paz tras críticas ante la ONU",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/alvaro-uribe-velez-de-quien-era-la-metralleta-que-disparo-el-exgobernador-IA43074194",
+      "url": "https://elcolombiano.com/colombia/santos-responde-gaona-onu-defiende-acuerdo-de-paz-2016-IO43096806",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.975067+00:00",
+      "fecha": "2026-11-04T18:09:36.437355+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "92d47d547f3e",
+      "titulo": "Cierran vía al Catatumbo en Ocaña por reporte de posibles explosivos en puente El Líbano",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/via-catatumbo-ocana-reporte-explosivos-puente-libano-estado-movilidad-JG43102658",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.437292+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "771ce5607fee",
+      "titulo": "Sandra Ramírez pide aplazar su versión ante la JEP por reclutamiento y abusos contra menores: víctimas rechazan solicitud",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/sandra-ramirez-pide-aplazar-version-jep-abusos-menores-BE43120010",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.437229+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "reclutamiento"
+      ]
+    },
+    {
+      "id": "2392715e8e68",
+      "titulo": "Un mes de preparación, drones y helicópteros artillados: así fue el bombardeo al ELN en Venezuela que habría apoyado EE. UU.",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/drones-asi-fue-el-ataque-aereo-en-venezuela-contra-eln-OF43130608",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.437164+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,51 +100,118 @@
       ]
     },
     {
-      "id": "99088eca2648",
-      "titulo": "Defensoría alerta desplazamiento de 500 indígenas en Nuquí por disputas entre grupos armados",
+      "id": "15dabe23ff40",
+      "titulo": "Atentado terrorista en el Valle del Cauca: hombres en motocicleta lanzaron explosivo contra un peaje",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/defensoria-desplazamiento-500-indigenas-nuqui-CP43082154",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.974971+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "4714d4f9bd85",
-      "titulo": "Estos serían los dos cabecillas de las disidencias detrás del atentado que dejó cuatro muertos y 17 heridos en Tolima",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/estos-serian-los-dos-cabecillas-de-las-disidencias-detras-del-atentado-que-dejo-cuatro-muertos-y-17-heridos-en-tolima/202615/",
+      "url": "https://semana.com/nacion/cali/articulo/atentado-terrorista-en-el-valle-del-cauca-hombres-en-motocicleta-lanzaron-explosivo-contra-un-peaje/202609/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.802267+00:00",
+      "fecha": "2026-11-04T18:09:36.024300+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "atentado"
       ]
     },
     {
-      "id": "a34335c45694",
-      "titulo": "“El que menos ejecutó fue el gobierno Petro”: dardo sobre implementación del Acuerdo de Paz",
+      "id": "c7579939c3be",
+      "titulo": "Sandra Ramírez no se salió con la suya. Deberá presentarse ante la JEP para declarar por el reclutamiento de menores",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/gobierno-de-de-la-espriella-habla-de-la-deuda-de-la-administracion-petro-con-la-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/sandra-ramirez-no-se-salio-con-la-suya-debera-presentarse-ante-la-jep-para-declarar-por-el-reclutamiento-de-menores/202646/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553538+00:00",
+      "fecha": "2026-11-04T18:09:36.024260+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "6298f67aeb43",
+      "titulo": "Víctimas cuestionan decisión de la JEP en el proceso contra Sandra Ramírez. No les pondrá la cara",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/victimas-cuestionan-decision-de-la-jep-en-el-proceso-contra-sandra-ramirez/202613/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.024229+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "jep"
+      ]
+    },
+    {
+      "id": "e391e3638773",
+      "titulo": "La JEP convocó a Timochenko y otros seis exjefes de las Farc para que reconozcan responsabilidad en reclutamiento de menores",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-jep-convoco-a-timochenko-y-otros-seis-exjefes-de-las-farc-para-que-reconozcan-responsabilidad-en-reclutamiento-de-menores/202627/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.024178+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "farc",
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "1b52bf7e54ec",
+      "titulo": "Nuevo atentado sobre la vía Panamericana; volqueta bomba fue activada en El Estrecho, cerca de una estación de Policía",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/nuevo-atentado-sobre-la-via-panamericana-volqueta-bomba-fue-activada-en-el-estrecho-cerca-de-una-estacion-de-policia/202625/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.024107+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "51b91fe09fd6",
+      "titulo": "María Clara Posada reaccionó a decisión de la JEP de llamar a audiencia pública al exsecretariado de las Farc",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/maria-clara-posada-reacciono-a-decision-de-la-jep-de-llamar-a-audiencia-publica-al-exsecretariado-de-las-farc/202621/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.024094+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "6569f0346079",
+      "titulo": "JEP confirma que la exsenadora Sandra Ramírez tiene “riesgo de seguridad extremo”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/jep-confirma-que-la-exsenadora-sandra-ramirez-tiene-riesgo-de-seguridad-extremo/202637/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:36.024073+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
       ]
     },
     {
@@ -123,7 +222,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553533+00:00",
+      "fecha": "2026-11-04T18:09:35.538454+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -139,7 +238,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553525+00:00",
+      "fecha": "2026-11-04T18:09:35.538446+00:00",
       "temas": [
         "DDHH"
       ],
@@ -155,7 +254,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553512+00:00",
+      "fecha": "2026-11-04T18:09:35.538433+00:00",
       "temas": [
         "DDHH"
       ],
@@ -171,7 +270,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553498+00:00",
+      "fecha": "2026-11-04T18:09:35.538420+00:00",
       "temas": [
         "DDHH"
       ],
@@ -187,7 +286,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553473+00:00",
+      "fecha": "2026-11-04T18:09:35.538411+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +302,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553468+00:00",
+      "fecha": "2026-11-04T18:09:35.538406+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +318,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553440+00:00",
+      "fecha": "2026-11-04T18:09:35.538401+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +334,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553436+00:00",
+      "fecha": "2026-11-04T18:09:35.538397+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +350,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553430+00:00",
+      "fecha": "2026-11-04T18:09:35.538374+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +366,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553414+00:00",
+      "fecha": "2026-11-04T18:09:35.538359+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +382,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553398+00:00",
+      "fecha": "2026-11-04T18:09:35.538338+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +398,23 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553392+00:00",
+      "fecha": "2026-11-04T18:09:35.538333+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "8af08cfc6495",
+      "titulo": "Diez años del Acuerdo de Paz: excombatientes asesinados y una reincorporación en riesgo",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/diez-anos-del-acuerdo-de-paz-excombatientes-asesinados-y-una-reincorporacion-en-riesgo/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:35.538321+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +430,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-03T17:58:14.553357+00:00",
+      "fecha": "2026-11-04T18:09:35.538314+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -324,14 +439,94 @@
       ]
     },
     {
-      "id": "f3eabb52928b",
-      "titulo": "Grupos armados recrudecen sus ataques mientras los objetivos de alto valor siguen fuera del alcance de la estrategia de seguridad",
-      "resumen": "Este fin de semana, una cadena de atentados en Tolima, Cauca, Huila y Chocó dejó siete muertos y más de 20 heridos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/grupos-armados-recrudecen-sus-ataques-mientras-los-objetivos-de-alto-valor-siguen-fuera-del-alcance-de-la-estrategia-de-seguridad-3598076",
+      "id": "fb92c80a16a2",
+      "titulo": "Acuerdo de Paz: admiración desde afuera y rechazo desde adentro (Opinión)",
+      "resumen": "",
+      "url": "https://www.elespectador.com/colombia-20/acuerdo-de-paz-admiracion-desde-afuera-y-rechazo-desde-adentro-opinion/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-04T18:09:35.538287+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "2d42f1f025bf",
+      "titulo": "“La cortan toda”: el nuevo video del triple crimen muestra a “Pequeño J” mientras tortura a la víctima de 15 años",
+      "resumen": "Así lo aseguraron fuentes del caso a este medio. La autopsia reveló que Lara Gutiérrez sufrió la amputación de cinco dedos antes de ser degollada. Qué dijo “Pequeño J” de la víctima en su primera entrevista",
+      "url": "https://www.infobae.com/sociedad/policiales/2026/11/04/la-corta-toda-el-nuevo-video-del-triple-crimen-muestra-a-pequeno-j-mientras-tortura-a-la-victima-de-15-anos/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-04T18:03:22+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "tortura"
+      ]
+    },
+    {
+      "id": "f9085fde3757",
+      "titulo": "Capturan en Cundinamarca a alias Cristóbal Pérez, segundo cabecilla de la estructura Teófilo Forero de la ‘Segunda Marquetalia’",
+      "resumen": "Wilmer Castillo Duarte llevaba nueve años vinculado a las disidencias de las Farc. Se le vincula con le crimen de Miguel Uribe.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-cundinamarca-a-alias-cristobal-perez-segundo-cabecilla-de-la-estructura-teofilo-forero-de-la-segunda-marquetalia-3598416",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-03T14:33:24+00:00",
+      "fecha": "2026-11-04T17:08:21+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "5b6665a75a91",
+      "titulo": "JEP imputó a nueve exmandos de las Farc por torturas, fusilamientos y abortos forzados contra niños reclutados",
+      "resumen": "En paralelo se citó al último secretariado de las Farc a audiencia pública para responder por 18.000 casos de reclutamiento forzado.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputo-a-nueve-exmandos-de-las-farc-por-torturas-fusilamientos-y-abortos-forzados-contra-ninos-reclutados-3598409",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-04T16:45:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "3a97327b35ac",
+      "titulo": "JEP citó a audiencia pública a ‘Timochenko’ y al último secretariado de las Farc para responder por más de 18.000 casos de reclutamiento forzado",
+      "resumen": "La diligencia, que marcará el inicio de la fase restaurativa del proceso, se realizará en abril del próximo año.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-cito-a-audiencia-publica-a-seis-exjefes-de-las-farc-por-reclutar-ninos-y-someterlos-a-torturas-y-otros-crimenes-dentro-de-sus-filas-3598380",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-04T15:18:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "fee5eda2b2dc",
+      "titulo": "El fin de las negociaciones políticas con grupos armados: ¿qué viene tras la aprobación de la ley de sometimiento de Abelardo De La Espriella?",
+      "resumen": "El gobierno cierra un ciclo de más de 30 años y establece el sometimiento a la justicia como única alternativa para estas estructuras.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/el-fin-de-las-negociaciones-politicas-con-grupos-armados-que-viene-tras-la-aprobacion-de-la-ley-de-sometimiento-de-abelardo-de-la-espriella-3598319",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-04T14:41:38+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -340,30 +535,14 @@
       ]
     },
     {
-      "id": "0cbf789287c9",
-      "titulo": "Dos soldados profesionales murieron y otros cinco resultaron heridos en ataques con drones del Eln contra tropas del Ejército en Chocó",
-      "resumen": "La Décima Quinta Brigada activó protocolos institucionales y dispuso acompañamiento integral para los familiares de las víctimas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-soldados-profesionales-murieron-y-otros-cinco-resultaron-heridos-en-ataques-con-drones-del-eln-contra-tropas-del-ejercito-en-choco-3598015",
+      "id": "897f62f79646",
+      "titulo": "Ocho integrantes de las disidencias de ‘Iván Mordisco’, incluido un cabecilla, se sometieron a la justicia en Cauca",
+      "resumen": "Entre los sometidos se encuentra alias Pantalón, señalado de manejar las finanzas de una comisión armada de la estructura 30.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ocho-integrantes-de-las-disidencias-de-ivan-mordisco-incluido-un-cabecilla-se-sometieron-a-la-justicia-en-cauca-3598350",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-03T12:10:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "67e66a5a9cd9",
-      "titulo": "Alias Amazonas, ‘Yamaha’ y ‘Chapolo’, los señalados cabecillas de las disidencias de ‘Mordisco’ detrás del atentado en Planadas",
-      "resumen": "Los tres aparecen en informes de inteligencia por ataques contra la Fuerza Pública, extorsiones y control territorial en el sur del Tolima.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-amazonas-yamaha-y-chapolo-los-senalados-cabecillas-de-las-disidencias-de-mordisco-detras-del-atentado-en-planadas-3598032",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-03T11:10:47+00:00",
+      "fecha": "2026-11-04T14:13:27+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -372,46 +551,31 @@
       ]
     },
     {
-      "id": "e05117511d35",
-      "titulo": "El giro de la ofensiva de Caracas contra el Eln: el bombardeo inédito contra un campamento en la frontera con Colombia que dejó 19 muertos",
-      "resumen": "El apoyo de inteligencia de Washington y la operación de Caracas contra el Eln marcan un nuevo capítulo contra las redes criminales en la frontera.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-giro-de-la-ofensiva-de-caracas-contra-el-eln-el-bombardeo-inedito-contra-un-campamento-en-la-frontera-con-colombia-que-dejo-19-muertos-3597936",
+      "id": "a47d11996a84",
+      "titulo": "JEP cambia a virtual la indagatoria de Sandra Ramírez por reclutamiento de menores y violencia sexual: estas son las razones",
+      "resumen": "La defensa de las víctimas solicitó que la audiencia sea pública.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-cambia-a-virtual-la-indagatoria-de-sandra-ramirez-por-reclutamiento-de-menores-y-violencia-sexual-estas-son-las-razones-3598339",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-11-02T22:38:00+00:00",
+      "fecha": "2026-11-04T13:56:19+00:00",
       "temas": [
-        "Conflicto armado"
+        "Conflicto armado",
+        "DIH"
       ],
       "palabras_clave": [
-        "eln"
+        "reclutamiento de menores"
       ]
     },
     {
-      "id": "539ab1466d02",
-      "titulo": "Una legión de amputados: la herida sangrante de la guerra de Ucrania",
-      "resumen": "En una clínica de la fundación estadounidense Protez, soldados que han perdido piernas y brazos estrenan prótesis y firman nuevos contratos para volver al frente Leer",
-      "url": "https://www.elmundo.es/internacional/2026/11/01/6ae75f14e4d4d8b8638b456f.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-11-02T18:58:49+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra de ucrania"
-      ]
-    },
-    {
-      "id": "21eebf8b49d6",
-      "titulo": "Seis ataques en tres meses en el sur del Tolima: la secuencia de hechos violentos que terminó con una volqueta bomba en Planadas y cuatro muertos",
-      "resumen": "En la noche de este domingo las disidencias de las Farc detonaron una volqueta con explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/seis-ataques-en-tres-meses-en-el-sur-del-tolima-la-secuencia-de-hechos-violentos-que-termino-con-una-volqueta-bomba-en-planadas-y-cuatro-muertos-3597933",
+      "id": "b25880b7a8a3",
+      "titulo": "La disputa por una veta de oro, detrás de la desaparición y muerte de varias personas en Ataco, Tolima: ¿qué está pasando?",
+      "resumen": "Investigaciones apuntan al presunto robo de un millonario cargamento de oro y a la intervención de una estructura de las disidencias de 'Mordisco'.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-disputa-por-una-veta-de-oro-detras-de-la-desaparicion-y-muerte-de-varias-personas-en-ataco-tolima-que-esta-pasando-3598327",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-02T18:01:00+00:00",
+      "fecha": "2026-11-04T13:24:11+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -420,19 +584,51 @@
       ]
     },
     {
-      "id": "c4ce7230e62e",
-      "titulo": "Estructura Gerónimo Galeano de Iván Mordisco, señalada del ataque con explosivos que dejó muertos y heridos en Planadas, Tolima",
-      "resumen": "En respuesta a la situación de seguridad, el Ministerio de Defensa envió dos pelotones a la zona.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/estructura-geronimo-galeano-de-ivan-mordisco-senalada-del-ataque-con-explosivos-que-dejo-muertos-y-heridos-en-planadas-tolima-3597919",
+      "id": "57686811b1be",
+      "titulo": "Bombardeo contra el Eln en Venezuela: los otros detalles desconocidos de la operación contra esa guerrilla",
+      "resumen": "EL TIEMPO conoció que, tras el ataque, se han detectado movimientos de armados dentro del territorio venezolano, pero no hacia Colombia.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/bombardeo-contra-el-eln-en-venezuela-los-otros-detalles-desconocidos-de-la-operacion-contra-esa-guerrilla-3598257",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-02T18:01:00+00:00",
+      "fecha": "2026-11-04T00:29:22+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "40dc512e4d20",
+      "titulo": "Ejércitos de Colombia y Estados Unidos realizaron un simulacro de evacuación de soldados heridos en combate",
+      "resumen": "El ejercicio militar ‘Vanguardia del Sur’ puso a prueba los protocolos de atención, estabilización y traslado de militares afectados por explosivos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercitos-de-colombia-y-estados-unidos-realizaron-un-simulacro-de-evacuacion-de-soldados-heridos-en-combate-3598185",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-03T20:16:12+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "explosivos"
+      ]
+    },
+    {
+      "id": "8f9e488026b4",
+      "titulo": "La guerra las prefiere niñas: las violencias de género en las filas ilegales",
+      "resumen": "En el marco del reclutamiento forzado ha surgido un patrón silencioso: las niñas menores de 13 años son reclutadas cada vez más en Cauca.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-guerra-las-prefiere-ninas-las-violencias-de-genero-en-las-filas-ilegales-3597604",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-03T20:10:54+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "reclutamiento forzado"
       ]
     },
     {
