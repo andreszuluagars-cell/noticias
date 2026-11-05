@@ -1,17 +1,35 @@
 {
-  "generado_en": "2026-11-04T18:09:41.529444+00:00",
-  "total_revisadas": 317,
-  "total_relevantes": 41,
+  "generado_en": "2026-11-05T18:10:47.543109+00:00",
+  "total_revisadas": 318,
+  "total_relevantes": 35,
   "noticias": [
     {
-      "id": "f9425a86f2d0",
-      "titulo": "Ataque con dron cargado de explosivos deja tres heridos en El Tarra, Norte de Santander",
+      "id": "9884e84da71e",
+      "titulo": "JEP imputó a Timochenko, Alape y otros exjefes de las Farc por crímenes de guerra y lesa humanidad",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/ataque-con-dron-cargado-de-explosivos-deja-tres-heridos-en-el-tarra-norte-de-santander",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
+      "url": "https://elcolombiano.com/colombia/atentado-alvaro-uribe-barranquilla-2002-jep-imputacion-farc-PD43159215",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.901197+00:00",
+      "fecha": "2026-11-05T18:10:41.995596+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra",
+        "farc"
+      ]
+    },
+    {
+      "id": "67a1cb45864e",
+      "titulo": "Atención | Una volqueta con explosivos estalló junto a subestación policial en El Patía, Cauca",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/volqueta-con-explosivos-estallo-junto-a-subestacion-policial-en-el-patia-cauca-LB43171785",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.995532+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,177 +38,14 @@
       ]
     },
     {
-      "id": "a645d02cb4cb",
-      "titulo": "Los hallazgos de la JEP en Medellín que enredaron a los generales Montoya y Gallego",
+      "id": "6e92313b4bf2",
+      "titulo": "“Me tuvieron que sacar la matriz”: los duros testimonios de mujeres violadas y torturadas por las Farc",
       "resumen": "",
-      "url": "https://elcolombiano.com/medellin/jep-imputa-mario-montoya-leonardo-gallego-operacion-orion-comuna-13-FP43087471",
+      "url": "https://elcolombiano.com/colombia/violencia-sexual-farc-estremecedores-testimonios-mujeres-victimas-documento-jep-AB43175858",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.437385+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "c13ec39650b4",
-      "titulo": "“El embajador Gaona está confundido”: Santos defiende el Acuerdo de Paz tras críticas ante la ONU",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/santos-responde-gaona-onu-defiende-acuerdo-de-paz-2016-IO43096806",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.437355+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "92d47d547f3e",
-      "titulo": "Cierran vía al Catatumbo en Ocaña por reporte de posibles explosivos en puente El Líbano",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/via-catatumbo-ocana-reporte-explosivos-puente-libano-estado-movilidad-JG43102658",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.437292+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "771ce5607fee",
-      "titulo": "Sandra Ramírez pide aplazar su versión ante la JEP por reclutamiento y abusos contra menores: víctimas rechazan solicitud",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/sandra-ramirez-pide-aplazar-version-jep-abusos-menores-BE43120010",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.437229+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "reclutamiento"
-      ]
-    },
-    {
-      "id": "2392715e8e68",
-      "titulo": "Un mes de preparación, drones y helicópteros artillados: así fue el bombardeo al ELN en Venezuela que habría apoyado EE. UU.",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/drones-asi-fue-el-ataque-aereo-en-venezuela-contra-eln-OF43130608",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.437164+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "15dabe23ff40",
-      "titulo": "Atentado terrorista en el Valle del Cauca: hombres en motocicleta lanzaron explosivo contra un peaje",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/atentado-terrorista-en-el-valle-del-cauca-hombres-en-motocicleta-lanzaron-explosivo-contra-un-peaje/202609/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024300+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "c7579939c3be",
-      "titulo": "Sandra Ramírez no se salió con la suya. Deberá presentarse ante la JEP para declarar por el reclutamiento de menores",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/sandra-ramirez-no-se-salio-con-la-suya-debera-presentarse-ante-la-jep-para-declarar-por-el-reclutamiento-de-menores/202646/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024260+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "6298f67aeb43",
-      "titulo": "Víctimas cuestionan decisión de la JEP en el proceso contra Sandra Ramírez. No les pondrá la cara",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/victimas-cuestionan-decision-de-la-jep-en-el-proceso-contra-sandra-ramirez/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024229+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "e391e3638773",
-      "titulo": "La JEP convocó a Timochenko y otros seis exjefes de las Farc para que reconozcan responsabilidad en reclutamiento de menores",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-jep-convoco-a-timochenko-y-otros-seis-exjefes-de-las-farc-para-que-reconozcan-responsabilidad-en-reclutamiento-de-menores/202627/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024178+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "farc",
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "1b52bf7e54ec",
-      "titulo": "Nuevo atentado sobre la vía Panamericana; volqueta bomba fue activada en El Estrecho, cerca de una estación de Policía",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/nuevo-atentado-sobre-la-via-panamericana-volqueta-bomba-fue-activada-en-el-estrecho-cerca-de-una-estacion-de-policia/202625/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024107+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "51b91fe09fd6",
-      "titulo": "María Clara Posada reaccionó a decisión de la JEP de llamar a audiencia pública al exsecretariado de las Farc",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/maria-clara-posada-reacciono-a-decision-de-la-jep-de-llamar-a-audiencia-publica-al-exsecretariado-de-las-farc/202621/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024094+00:00",
+      "fecha": "2026-11-05T18:10:41.995501+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -199,14 +54,78 @@
       ]
     },
     {
-      "id": "6569f0346079",
-      "titulo": "JEP confirma que la exsenadora Sandra Ramírez tiene “riesgo de seguridad extremo”",
+      "id": "6dbb6b7a56fc",
+      "titulo": "Gobernación de Arauca exige al ELN liberar a subteniente del Ejército secuestrada en Saravena: “Ninguna causa lo justifica”",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/jep-confirma-que-la-exsenadora-sandra-ramirez-tiene-riesgo-de-seguridad-extremo/202637/",
+      "url": "https://semana.com/nacion/articulo/gobernacion-de-arauca-exige-al-eln-liberar-a-subteniente-del-ejercito-secuestrada-en-saravena-ninguna-causa-lo-justifica/202639/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:36.024073+00:00",
+      "fecha": "2026-11-05T18:10:41.699283+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "fda7fede6ac9",
+      "titulo": "Señalan a presunto integrante de Conquistadores de la Sierra por secuestro de dos comerciantes en Santa Marta",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/senalan-a-presunto-integrante-de-conquistadores-de-la-sierra-por-secuestro-de-dos-comerciantes-en-santa-marta/202645/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.699240+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "d9bc0e6e5053",
+      "titulo": "Reportan fuertes combates entre el Ejército y las disidencias en Timba, Valle del Cauca",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/reportan-fuertes-combates-entre-el-ejercito-y-las-disidencias-en-buenos-aires-cauca/202615/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.699221+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "combates"
+      ]
+    },
+    {
+      "id": "6c491f4f715c",
+      "titulo": "ELN pretendería llevar a Venezuela a subteniente del Ejército secuestrada en Arauca",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/eln-pretenderia-lleva-a-venezuela-a-subteniente-del-ejercito-secuestrada-en-arauca/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.699178+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "b255fea3e131",
+      "titulo": "Nuevo presidente de la JEP anuncia reducción de esquemas de seguridad para magistrados y la entrega del edificio",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/nuevo-presidente-de-la-jep-anuncia-reduccion-de-esquemas-de-seguridad-para-magistrados-y-la-entrega-del-edificio/202659/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.699135+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -215,35 +134,35 @@
       ]
     },
     {
-      "id": "7eebc95f1db4",
-      "titulo": "Finanzas cortas y diálogos difíciles: las tormentas que asume el nuevo presidente de la JEP",
+      "id": "5dd083bca505",
+      "titulo": "Terror en Chocó: dos muertos, un desaparecido y 258 desplazados por enfrentamientos entre ELN y Clan del Golfo",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/finanzas-cortas-y-dialogos-dificiles-las-tormentas-que-asume-el-nuevo-presidente-de-la-jep/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/terror-en-choco-dos-muertos-un-desaparecido-y-258-desplazados-por-enfrentamientos-entre-eln-y-clan-del-golfo/202650/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538454+00:00",
+      "fecha": "2026-11-05T18:10:41.699085+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "enfrentamientos"
       ]
     },
     {
-      "id": "718cdcfa9355",
-      "titulo": "Condenan al coronel (r) Juan Carlos Figueroa a seis años de prisión por 38 falsos positivos",
+      "id": "a8691bb953f4",
+      "titulo": "Más de 500 hombres tiene el frente del ELN autor del secuestro de la subteniente Camila Pantoja",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/condenan-al-coronel-r-juan-carlos-figueroa-a-seis-anos-de-prision-por-38-falsos-positivos/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/mas-de-500-hombres-tiene-el-frente-del-eln-autor-del-secuestro-de-la-subteniente-camila-pantoja/202650/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538446+00:00",
+      "fecha": "2026-11-05T18:10:41.699042+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "falsos positivos"
+        "eln"
       ]
     },
     {
@@ -254,7 +173,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538433+00:00",
+      "fecha": "2026-11-05T18:10:41.310224+00:00",
       "temas": [
         "DDHH"
       ],
@@ -270,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538420+00:00",
+      "fecha": "2026-11-05T18:10:41.310212+00:00",
       "temas": [
         "DDHH"
       ],
@@ -286,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538411+00:00",
+      "fecha": "2026-11-05T18:10:41.310203+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -302,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538406+00:00",
+      "fecha": "2026-11-05T18:10:41.310199+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -318,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538401+00:00",
+      "fecha": "2026-11-05T18:10:41.310195+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -334,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538397+00:00",
+      "fecha": "2026-11-05T18:10:41.310191+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -350,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538374+00:00",
+      "fecha": "2026-11-05T18:10:41.310186+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -366,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538359+00:00",
+      "fecha": "2026-11-05T18:10:41.310171+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -382,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538338+00:00",
+      "fecha": "2026-11-05T18:10:41.310134+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -398,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538333+00:00",
+      "fecha": "2026-11-05T18:10:41.310128+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -414,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538321+00:00",
+      "fecha": "2026-11-05T18:10:41.310113+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -430,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538314+00:00",
+      "fecha": "2026-11-05T18:10:41.310108+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -446,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-04T18:09:35.538287+00:00",
+      "fecha": "2026-11-05T18:10:41.310102+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -455,30 +374,78 @@
       ]
     },
     {
-      "id": "2d42f1f025bf",
-      "titulo": "“La cortan toda”: el nuevo video del triple crimen muestra a “Pequeño J” mientras tortura a la víctima de 15 años",
-      "resumen": "Así lo aseguraron fuentes del caso a este medio. La autopsia reveló que Lara Gutiérrez sufrió la amputación de cinco dedos antes de ser degollada. Qué dijo “Pequeño J” de la víctima en su primera entrevista",
-      "url": "https://www.infobae.com/sociedad/policiales/2026/11/04/la-corta-toda-el-nuevo-video-del-triple-crimen-muestra-a-pequeno-j-mientras-tortura-a-la-victima-de-15-anos/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-04T18:03:22+00:00",
+      "id": "dc96a87a3724",
+      "titulo": "Una década del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/colombia-20/una-decada-del-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.310096+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "tortura"
+        "acuerdo de paz"
       ]
     },
     {
-      "id": "f9085fde3757",
-      "titulo": "Capturan en Cundinamarca a alias Cristóbal Pérez, segundo cabecilla de la estructura Teófilo Forero de la ‘Segunda Marquetalia’",
-      "resumen": "Wilmer Castillo Duarte llevaba nueve años vinculado a las disidencias de las Farc. Se le vincula con le crimen de Miguel Uribe.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-cundinamarca-a-alias-cristobal-perez-segundo-cabecilla-de-la-estructura-teofilo-forero-de-la-segunda-marquetalia-3598416",
+      "id": "7aa696e0d938",
+      "titulo": "Abortos forzados y fusilamientos: los crímenes por los que la JEP imputó a nueve exfarc",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/abortos-forzados-y-fusilamientos-los-crimenes-por-los-que-la-jep-imputo-a-nueve-exfarc/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.310088+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "bb565bcf5c10",
+      "titulo": "Santos asegura que gobierno de De la Espriella quiere \"deslegitimar el Acuerdo de Paz\"",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/santos-asegura-que-gobierno-de-de-la-espriella-quiere-deslegitimar-el-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-05T18:10:41.310055+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "c69d24ce4dc4",
+      "titulo": "Cambio de edificio, menos esquemas de seguridad y terminación masiva de contratos: así afectará el recorte presupuestal a la JEP",
+      "resumen": "El nuevo presidente de la JEP, Danilo Rojas, anunció que a partir de 2027 la entidad afrontará profundos rezagos que afectarán a las víctimas.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/cambio-de-edificio-menos-esquemas-de-seguridad-y-terminacion-masiva-de-contratos-asi-afectara-el-recorte-presupuestal-a-la-jep-3598741",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-05T17:22:44+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "1a36e30efbca",
+      "titulo": "Alias Jonás, hombre cercano a ‘John Mechas’ y delegado en diálogos de paz, se sometió a la justicia en el Catatumbo",
+      "resumen": "El señalado cabecilla de las disidencias de las Farc llevaba 19 años en la organización y estaba encargado de las finanzas de la estructura 33.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-jonas-hombre-cercano-a-john-mechas-y-delegado-en-dialogos-de-paz-se-sometio-a-la-justicia-en-el-catatumbo-3598738",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-04T17:08:21+00:00",
+      "fecha": "2026-11-05T17:22:32+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -487,14 +454,30 @@
       ]
     },
     {
-      "id": "5b6665a75a91",
-      "titulo": "JEP imputó a nueve exmandos de las Farc por torturas, fusilamientos y abortos forzados contra niños reclutados",
-      "resumen": "En paralelo se citó al último secretariado de las Farc a audiencia pública para responder por 18.000 casos de reclutamiento forzado.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputo-a-nueve-exmandos-de-las-farc-por-torturas-fusilamientos-y-abortos-forzados-contra-ninos-reclutados-3598409",
+      "id": "56c68e37b806",
+      "titulo": "Magistrado Danilo Alfonso Rojas se posesiona oficialmente como presidente de la JEP: 'Cumpliremos nuestra responsabilidad'",
+      "resumen": "Danilo Rojas es abogado de la Universidad Libre, con especialización, maestría y doctorado en Derecho por la Universidad Nacional.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/magistrado-danilo-alfonso-rojas-se-posesiona-oficialmente-como-presidente-de-la-jep-cumpliremos-nuestra-responsabilidad-3598651",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-11-04T16:45:41+00:00",
+      "fecha": "2026-11-05T16:42:55+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "d6d5a47f8927",
+      "titulo": "‘Mi amigo me sonrió y yo entre llanto pedí que lo fusilaran’: los desgarradores relatos ante la JEP de niños reclutados por las Farc",
+      "resumen": "Los testimonios revelan fusilamientos, torturas, castigos y amenazas que marcaron la vida de quienes fueron llevados a la guerra siendo niños.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/mi-amigo-me-sonrio-y-yo-entre-llanto-pedi-que-lo-fusilaran-los-desgarradores-relatos-ante-la-jep-de-ninos-reclutados-por-las-farc-3598637",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-05T13:53:50+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -503,19 +486,19 @@
       ]
     },
     {
-      "id": "3a97327b35ac",
-      "titulo": "JEP citó a audiencia pública a ‘Timochenko’ y al último secretariado de las Farc para responder por más de 18.000 casos de reclutamiento forzado",
-      "resumen": "La diligencia, que marcará el inicio de la fase restaurativa del proceso, se realizará en abril del próximo año.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-cito-a-audiencia-publica-a-seis-exjefes-de-las-farc-por-reclutar-ninos-y-someterlos-a-torturas-y-otros-crimenes-dentro-de-sus-filas-3598380",
+      "id": "3579ab2cc1c1",
+      "titulo": "Presidente De La Espriella rechazó y condenó el secuestro de la subteniente María Camila Pantoja a manos del Eln: exigió su liberación inmediata",
+      "resumen": "La oficial fue interceptada por dos hombres armados en Saravena, Arauca, y el mandatario ordenó desplegar a toda la Fuerza Pública para hallarla.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-de-la-espriella-rechazo-y-condeno-el-secuestro-de-la-subteniente-maria-camila-pantoja-a-manos-del-eln-exigio-su-liberacion-inmediata-3598596",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-04T15:18:41+00:00",
+      "fecha": "2026-11-05T13:35:47+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "eln"
       ]
     },
     {
@@ -526,7 +509,7 @@
       "fuente": "El Tiempo",
       "seccion": "Política / Proceso de paz",
       "region": "nacional",
-      "fecha": "2026-11-04T14:41:38+00:00",
+      "fecha": "2026-11-05T11:26:56+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -535,63 +518,14 @@
       ]
     },
     {
-      "id": "897f62f79646",
-      "titulo": "Ocho integrantes de las disidencias de ‘Iván Mordisco’, incluido un cabecilla, se sometieron a la justicia en Cauca",
-      "resumen": "Entre los sometidos se encuentra alias Pantalón, señalado de manejar las finanzas de una comisión armada de la estructura 30.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ocho-integrantes-de-las-disidencias-de-ivan-mordisco-incluido-un-cabecilla-se-sometieron-a-la-justicia-en-cauca-3598350",
+      "id": "2d7789317654",
+      "titulo": "Ejército despliega operación militar en Arauca para rescatar a la subteniente María Camila Pantoja, quien estaría secuestrada por el Eln",
+      "resumen": "La subteniente María Camila Pantoja Hernández habría sido interceptada por dos hombres armados en Saravena.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-despliega-operacion-en-arauca-por-secuestro-de-una-oficial-estaria-en-poder-del-eln-3598565",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-04T14:13:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "a47d11996a84",
-      "titulo": "JEP cambia a virtual la indagatoria de Sandra Ramírez por reclutamiento de menores y violencia sexual: estas son las razones",
-      "resumen": "La defensa de las víctimas solicitó que la audiencia sea pública.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-cambia-a-virtual-la-indagatoria-de-sandra-ramirez-por-reclutamiento-de-menores-y-violencia-sexual-estas-son-las-razones-3598339",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-04T13:56:19+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "b25880b7a8a3",
-      "titulo": "La disputa por una veta de oro, detrás de la desaparición y muerte de varias personas en Ataco, Tolima: ¿qué está pasando?",
-      "resumen": "Investigaciones apuntan al presunto robo de un millonario cargamento de oro y a la intervención de una estructura de las disidencias de 'Mordisco'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-disputa-por-una-veta-de-oro-detras-de-la-desaparicion-y-muerte-de-varias-personas-en-ataco-tolima-que-esta-pasando-3598327",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-04T13:24:11+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "57686811b1be",
-      "titulo": "Bombardeo contra el Eln en Venezuela: los otros detalles desconocidos de la operación contra esa guerrilla",
-      "resumen": "EL TIEMPO conoció que, tras el ataque, se han detectado movimientos de armados dentro del territorio venezolano, pero no hacia Colombia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/bombardeo-contra-el-eln-en-venezuela-los-otros-detalles-desconocidos-de-la-operacion-contra-esa-guerrilla-3598257",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-04T00:29:22+00:00",
+      "fecha": "2026-11-05T02:50:29+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -600,35 +534,19 @@
       ]
     },
     {
-      "id": "40dc512e4d20",
-      "titulo": "Ejércitos de Colombia y Estados Unidos realizaron un simulacro de evacuación de soldados heridos en combate",
-      "resumen": "El ejercicio militar ‘Vanguardia del Sur’ puso a prueba los protocolos de atención, estabilización y traslado de militares afectados por explosivos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercitos-de-colombia-y-estados-unidos-realizaron-un-simulacro-de-evacuacion-de-soldados-heridos-en-combate-3598185",
+      "id": "b9ce9bac5f40",
+      "titulo": "Rescatan a dos menores secuestrados en Antioquia y capturan a dos presuntos integrantes del 'clan del Golfo'",
+      "resumen": "El operativo fue adelantado por el Gaula Militar y el CTI de la Fiscalía en Rionegro. Durante el allanamiento fueron incautadas 12 armas de fuego.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/rescatan-a-dos-menores-secuestrados-en-antioquia-y-capturan-a-dos-presuntos-integrantes-del-clan-del-golfo-3598472",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-03T20:16:12+00:00",
+      "fecha": "2026-11-04T20:00:50+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "8f9e488026b4",
-      "titulo": "La guerra las prefiere niñas: las violencias de género en las filas ilegales",
-      "resumen": "En el marco del reclutamiento forzado ha surgido un patrón silencioso: las niñas menores de 13 años son reclutadas cada vez más en Cauca.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-guerra-las-prefiere-ninas-las-violencias-de-genero-en-las-filas-ilegales-3597604",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-03T20:10:54+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "reclutamiento forzado"
+        "clan del golfo"
       ]
     },
     {
@@ -645,22 +563,6 @@
       ],
       "palabras_clave": [
         "paramilitares"
-      ]
-    },
-    {
-      "id": "a26f04b34379",
-      "titulo": "Gobierno del presidente De La Espriella atribuye a la administración Petro la ejecución más baja del acuerdo de paz: apenas el 4,66 %",
-      "resumen": "El director del Dapre, Carlos Andrés Ríos, entregó cifras del Plan Marco de Implementación.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-del-presidente-de-la-espriella-atribuye-a-la-administracion-petro-la-ejecucion-mas-baja-del-acuerdo-de-paz-4-3593712",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-15T14:26:34+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     }
   ]
