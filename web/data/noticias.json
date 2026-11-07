@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-11-06T17:38:06.284600+00:00",
-  "total_revisadas": 318,
-  "total_relevantes": 32,
+  "generado_en": "2026-11-07T16:34:44.766884+00:00",
+  "total_revisadas": 317,
+  "total_relevantes": 34,
   "noticias": [
     {
       "id": "8e8916192193",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:41.645134+00:00",
+      "fecha": "2026-11-07T16:34:39.957021+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,67 +20,19 @@
       ]
     },
     {
-      "id": "67a1cb45864e",
-      "titulo": "Atención | Una volqueta con explosivos estalló junto a subestación policial en El Patía, Cauca",
+      "id": "d0be8e520be6",
+      "titulo": "Adolescente que había sido reclutado por las disidencias de las Farc se entregó a las autoridades en el Catatumbo",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/volqueta-con-explosivos-estallo-junto-a-subestacion-policial-en-el-patia-cauca-LB43171785",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/adolescente-que-habia-sido-reclutado-por-las-disidencias-de-las-farc-se-entrego-las",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.893897+00:00",
+      "fecha": "2026-11-07T16:34:39.957003+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "6e92313b4bf2",
-      "titulo": "“Me tuvieron que sacar la matriz”: los duros testimonios de mujeres violadas y torturadas por las Farc",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/violencia-sexual-farc-estremecedores-testimonios-mujeres-victimas-documento-jep-AB43175858",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.893879+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "5db4cb624e0c",
-      "titulo": "Cúpula de exFarc torturaba a menores reclutados hasta por comerse una panela sin permiso, según imputación de la JEP",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/timochenko-cupula-de-exfarc-torturaba-a-menores-en-sus-filas-EF43205818",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.893820+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "ed5ac5b52132",
-      "titulo": "Duro golpe al Clan del Golfo en el Oriente antioqueño: rescataron a dos menores secuestrados y le quitaron arsenal",
-      "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/liberan-dos-menores-clan-del-golfo-rionegro-decomisan-arsenal-noviembre-2026-OF43206945",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.893802+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
+        "disidencias"
       ]
     },
     {
@@ -91,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.893699+00:00",
+      "fecha": "2026-11-07T16:34:39.031524+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,14 +52,30 @@
       ]
     },
     {
-      "id": "e668e2d3fe16",
-      "titulo": "Habla el papá de la subteniente María Camila Pantoja, secuestrada por el ELN: hizo llamado urgente al Gobierno De La Espriella",
+      "id": "58bf4b599295",
+      "titulo": "Además de alias Tom, estos son los otros cabecillas de la mesa de paz urbana que ya están libres: van nueve",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/habla-el-papa-de-la-subintendente-maria-camila-pantoja-secuestrada-por-el-eln-hizo-llamado-urgente-al-gobierno-de-la-espriella/202640/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/medellin/alias-tom-los-chatas-cabecillas-libres-mesa-paz-urbana-medellin-KD43264871",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.665817+00:00",
+      "fecha": "2026-11-07T16:34:39.031419+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "mesa de paz"
+      ]
+    },
+    {
+      "id": "9256b968b820",
+      "titulo": "Quién es “la Abuela”, la cabecilla del ELN cuyo campamento fue bombardeado en Venezuela",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/emilse-oviedo-sierra-alias-la-abuela-eln-bombardeo-venezuela-LD43262999",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-07T16:34:39.031383+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,14 +84,14 @@
       ]
     },
     {
-      "id": "c36e35a28f82",
-      "titulo": "Estos serían los dos cabecillas del ELN que estarían detrás del secuestro de una oficial del Ejército en Arauca",
+      "id": "02cdf82cf1b8",
+      "titulo": "Golpe al ELN: cae alias Carrito, cabecilla y hombre de confianza del máximo jefe de la organización",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/estos-serian-los-dos-cabecillas-del-eln-que-estarian-detras-del-secuestro-de-una-oficial-del-ejercito-en-arauca/202631/",
+      "url": "https://semana.com/nacion/articulo/golpe-al-eln-cae-alias-carrito-cabecilla-y-hombre-de-confianza-del-maximo-jefe-de-la-organizacion/202606/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.665811+00:00",
+      "fecha": "2026-11-07T16:34:38.772428+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,14 +100,30 @@
       ]
     },
     {
-      "id": "d2e63f1df691",
-      "titulo": "Golpe al Clan del Golfo en Cesar: tres muertos, un capturado y un poderoso arsenal incautado durante operación Agamenón",
+      "id": "685b3385310d",
+      "titulo": "Masacre en el norte del Valle: hombres armados asesinaron a tres mujeres en el municipio de Toro",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-al-clan-del-golfo-en-cesar-tres-muertos-un-capturado-y-un-poderoso-arsenal-incautado-durante-operacion-agamenon/202658/",
+      "url": "https://semana.com/nacion/cali/articulo/masacre-en-el-norte-del-valle-hombres-armados-asesinaron-a-tres-mujeres-en-el-municipio-de-toro/202646/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.665800+00:00",
+      "fecha": "2026-11-07T16:34:38.772421+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "masacre"
+      ]
+    },
+    {
+      "id": "ec7818b35d8e",
+      "titulo": "Ejército dio de baja a otros dos señalados delincuentes en Yarumal: la operación confirma alianza del Clan del Golfo y disidencias",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/ejercito-dio-de-baja-a-otros-dos-senalados-delincuentes-en-yarumal-la-operacion-confirma-alianza-del-clan-del-golfo-y-disidencias/202633/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-07T16:34:38.772402+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -148,35 +132,53 @@
       ]
     },
     {
-      "id": "16fd095a49b3",
-      "titulo": "“Sí es un éxito”: Miroslav Jenča de la ONU responde a la polémica por el acuerdo de paz con las Farc",
+      "id": "d41f52b11464",
+      "titulo": "Defensoría del Pueblo advierte sobre escuelas de reclutamiento del Clan del Golfo en el Oriente antioqueño",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/si-es-un-exito-miroslav-jenca-de-la-onu-responde-a-la-polemica-por-el-acuerdo-de-paz-con-las-farc/202634/",
+      "url": "https://semana.com/nacion/medellin/articulo/defensoria-del-pueblo-advierte-sobre-escuelas-de-reclutamiento-del-clan-del-golfo-en-el-oriente-antioqueno/202622/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.665731+00:00",
+      "fecha": "2026-11-07T16:34:38.772337+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "clan del golfo",
+        "defensoria del pueblo"
+      ]
+    },
+    {
+      "id": "6ef2baea022b",
+      "titulo": "Guerrilleros del ELN, refugiados en Venezuela, escapan a Colombia: SEMANA revela el plan de expansión del grupo ilegal",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/guerrilleros-del-eln-refugiados-en-venezuela-escapan-a-colombia-semana-revela-el-plan-de-expansion-del-grupo-ilegal/202603/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-07T16:34:38.772308+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "eln"
       ]
     },
     {
-      "id": "80f7028a60b1",
-      "titulo": "Los falsos positivos en el Batallón La Popa por los que condenaron al coronel (r) Figueroa",
+      "id": "bb5e170e08e8",
+      "titulo": "Otro ataque a un peaje en el Cauca: delincuentes lanzaron explosivos",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/los-falsos-positivos-en-el-batallon-la-popa-por-los-que-condenaron-al-coronel-r-figueroa/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/cali/articulo/otro-ataque-a-un-peaje-en-el-cauca-delincuentes-lanzaron-explosivos/202606/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222823+00:00",
+      "fecha": "2026-11-07T16:34:38.772280+00:00",
       "temas": [
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "falsos positivos"
+        "explosivos"
       ]
     },
     {
@@ -187,7 +189,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222814+00:00",
+      "fecha": "2026-11-07T16:34:38.333542+00:00",
       "temas": [
         "DDHH"
       ],
@@ -203,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222809+00:00",
+      "fecha": "2026-11-07T16:34:38.333537+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222807+00:00",
+      "fecha": "2026-11-07T16:34:38.333534+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222804+00:00",
+      "fecha": "2026-11-07T16:34:38.333531+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222801+00:00",
+      "fecha": "2026-11-07T16:34:38.333528+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222798+00:00",
+      "fecha": "2026-11-07T16:34:38.333525+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222792+00:00",
+      "fecha": "2026-11-07T16:34:38.333519+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222767+00:00",
+      "fecha": "2026-11-07T16:34:38.333508+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222763+00:00",
+      "fecha": "2026-11-07T16:34:38.333505+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222751+00:00",
+      "fecha": "2026-11-07T16:34:38.333485+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222747+00:00",
+      "fecha": "2026-11-07T16:34:38.333482+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222743+00:00",
+      "fecha": "2026-11-07T16:34:38.333477+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +381,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222739+00:00",
+      "fecha": "2026-11-07T16:34:38.333470+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +397,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222735+00:00",
+      "fecha": "2026-11-07T16:34:38.333467+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -411,7 +413,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-06T17:37:38.222729+00:00",
+      "fecha": "2026-11-07T16:34:38.333463+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -420,19 +422,67 @@
       ]
     },
     {
-      "id": "1fc908782a52",
-      "titulo": "Corte Suprema niega tutela a Santiago Uribe y le cierra la vía para presentar otra casación contra su condena por 'los 12 Apóstoles'",
-      "resumen": "El hermano del expresidente Álvaro Uribe fue sentenciado a 28 años de cárcel por integrar el grupo paramilitar en Antioquia.",
-      "url": "https://www.eltiempo.com/justicia/cortes/corte-suprema-niega-tutela-a-santiago-uribe-y-le-cierra-la-via-para-presentar-otra-casacion-contra-su-condena-por-los-12-apostoles-3599010",
+      "id": "420d2eb06c75",
+      "titulo": "Ejército destruyó 75 explosivos improvisados y dos depósitos ilegales en zona rural de Florencia, Caquetá",
+      "resumen": "También había 22 cilindros de aproximadamente 20 libras, operados mediante cable de mando, y 400 metros de cable dúplex.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruyo-75-explosivos-improvisados-y-dos-depositos-ilegales-en-zona-rural-de-florencia-caqueta-3599244",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-06T16:42:17+00:00",
+      "fecha": "2026-11-07T16:22:46+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "paramilitar"
+        "explosivos"
+      ]
+    },
+    {
+      "id": "7462296b9d94",
+      "titulo": "Ejército reporta 63 afectaciones a grupos armados en Arauca y golpes a las finanzas del Eln",
+      "resumen": "Las operaciones militares dejan 51 capturas, 10 menores recuperados y más de 7.500 municiones incautadas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-reporta-63-afectaciones-a-grupos-armados-en-arauca-y-golpes-a-las-finanzas-del-eln-3599171",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-07T00:54:30+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "62dfffd4cba7",
+      "titulo": "Torturas inventadas, tensiones reales: el montaje con el que Rusia quiere boicotear la defensa de Ucrania",
+      "resumen": "Una movilización contra el reclutamiento con agitadores fake en Kiev es utilizada por Moscú para boicotear la defensa de Ucrania Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/07/6aee072ce4d4d87e3b8b45c6.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-11-07T00:11:02+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "reclutamiento"
+      ]
+    },
+    {
+      "id": "e5eb683b2573",
+      "titulo": "Nuevos detalles del bombardeo contra el Eln en Venezuela: guerrilleros estarían buscando médicos en Colombia para atender a los heridos",
+      "resumen": "El ataque ocurrió cuando integrantes del grupo sostenían un encuentro con narcotraficantes mexicanos. La cifra de muertos habría subido a 45.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nuevos-detalles-del-bombardeo-contra-el-eln-en-venezuela-guerrilleros-estarian-buscando-medicos-en-colombia-para-atender-a-los-heridos-3599158",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-07T00:05:33+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -465,22 +515,6 @@
       ],
       "palabras_clave": [
         "disidencias"
-      ]
-    },
-    {
-      "id": "b4e2b1a1c7ca",
-      "titulo": "Dos muertos en operación militar contra alianza entre disidencias de ‘Calarcá’ y ‘Clan del Golfo’ en Antioquia",
-      "resumen": "Entre los muertos estaría ‘el Flaco’, señalado de liderar un plan de expansión criminal desde Briceño hacia Yarumal para controlar la minería ilegal.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/dos-muertos-en-operacion-militar-contra-alianza-entre-disidencias-de-calarca-y-clan-del-golfo-en-antioquia-3598839",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-05T22:16:55+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
       ]
     },
     {
