@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-11-07T16:34:44.766884+00:00",
-  "total_revisadas": 317,
-  "total_relevantes": 34,
+  "generado_en": "2026-11-08T16:45:04.802243+00:00",
+  "total_revisadas": 315,
+  "total_relevantes": 37,
   "noticias": [
-    {
-      "id": "8e8916192193",
-      "titulo": "Una bebé de dos meses entre los cuatro muertos que dejó atentado en Planadas, Tolima",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/una-bebe-de-dos-meses-entre-los-cuatro-muertos-que-dejo-atentado-en-planadas-tolima",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-07T16:34:39.957021+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
     {
       "id": "d0be8e520be6",
       "titulo": "Adolescente que había sido reclutado por las disidencias de las Farc se entregó a las autoridades en el Catatumbo",
@@ -27,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:39.957003+00:00",
+      "fecha": "2026-11-08T16:44:59.807075+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,19 +20,19 @@
       ]
     },
     {
-      "id": "a3bbe8a76d0c",
-      "titulo": "Combates en el norte de Antioquia dejan dos presuntos delincuentes muertos, ¿quiénes son?",
+      "id": "d90634d52a98",
+      "titulo": "¿Por qué se están entregando? Cabecilla del frente 33 de las disidencias de las Farc se sometió a las autoridades en el Catatumbo",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/combates-norte-antioquia-dos-presuntos-delincuentes-muertos-operativo-EG43236507",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/por-que-se-estan-entregando-cabecilla-del-frente-33-de-las-disidencias-de-las-farc-se",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:39.031524+00:00",
+      "fecha": "2026-11-08T16:44:59.806998+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "disidencias"
       ]
     },
     {
@@ -59,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:39.031419+00:00",
+      "fecha": "2026-11-08T16:44:58.916778+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:39.031383+00:00",
+      "fecha": "2026-11-08T16:44:58.916729+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,101 +68,119 @@
       ]
     },
     {
-      "id": "02cdf82cf1b8",
-      "titulo": "Golpe al ELN: cae alias Carrito, cabecilla y hombre de confianza del máximo jefe de la organización",
+      "id": "e05cf7c501b0",
+      "titulo": "De la Espriella condenó atentado contra militares en Bolívar: “No vamos a ceder un centímetro”",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-al-eln-cae-alias-carrito-cabecilla-y-hombre-de-confianza-del-maximo-jefe-de-la-organizacion/202606/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/atentado-bolivar-gobierno-abelardo-de-la-espriella-muertos-IF43315591",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.772428+00:00",
+      "fecha": "2026-11-08T16:44:58.916570+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "atentado"
       ]
     },
     {
-      "id": "685b3385310d",
-      "titulo": "Masacre en el norte del Valle: hombres armados asesinaron a tres mujeres en el municipio de Toro",
+      "id": "c8febae08df5",
+      "titulo": "Atacan con drones cargados de explosivos a cantón militar en Santa Rosa, sur de Bolívar",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/masacre-en-el-norte-del-valle-hombres-armados-asesinaron-a-tres-mujeres-en-el-municipio-de-toro/202646/",
+      "url": "https://semana.com/nacion/cartagena/articulo/atacan-con-drones-cargados-de-explosivos-a-canton-militar-en-santa-rosa-sur-de-bolivar/202625/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.772421+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
-      ]
-    },
-    {
-      "id": "ec7818b35d8e",
-      "titulo": "Ejército dio de baja a otros dos señalados delincuentes en Yarumal: la operación confirma alianza del Clan del Golfo y disidencias",
-      "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/ejercito-dio-de-baja-a-otros-dos-senalados-delincuentes-en-yarumal-la-operacion-confirma-alianza-del-clan-del-golfo-y-disidencias/202633/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.772402+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "d41f52b11464",
-      "titulo": "Defensoría del Pueblo advierte sobre escuelas de reclutamiento del Clan del Golfo en el Oriente antioqueño",
-      "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/defensoria-del-pueblo-advierte-sobre-escuelas-de-reclutamiento-del-clan-del-golfo-en-el-oriente-antioqueno/202622/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.772337+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "clan del golfo",
-        "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "6ef2baea022b",
-      "titulo": "Guerrilleros del ELN, refugiados en Venezuela, escapan a Colombia: SEMANA revela el plan de expansión del grupo ilegal",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/guerrilleros-del-eln-refugiados-en-venezuela-escapan-a-colombia-semana-revela-el-plan-de-expansion-del-grupo-ilegal/202603/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.772308+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "bb5e170e08e8",
-      "titulo": "Otro ataque a un peaje en el Cauca: delincuentes lanzaron explosivos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/otro-ataque-a-un-peaje-en-el-cauca-delincuentes-lanzaron-explosivos/202606/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.772280+00:00",
+      "fecha": "2026-11-08T16:44:58.560478+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "explosivos"
+      ]
+    },
+    {
+      "id": "2e85caaf4223",
+      "titulo": "Rechazo unánime tras el ataque con drones en el sur de Bolívar: “Es una grave vulneración al DIH”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/rechazo-unanime-tras-el-ataque-con-drones-en-el-sur-de-bolivar-es-una-grave-vulneracion-al-dih/202626/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-08T16:44:58.560444+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "ataque con drones",
+        "dih"
+      ]
+    },
+    {
+      "id": "46b6ea337455",
+      "titulo": "Defensoría del Pueblo exige protección urgente para Caracol Televisión tras alertas de atentado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-exige-proteccion-urgente-para-caracol-television-tras-alertas-de-atentado/202634/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-08T16:44:58.560331+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "atentado",
+        "defensoria del pueblo"
+      ]
+    },
+    {
+      "id": "f5e697ee3754",
+      "titulo": "Caracol Radio también fue alertado por amenaza de atentado contra sus instalaciones",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/caracol-radio-tambien-fue-alertado-por-amenaza-de-atentado-contra-sus-instalaciones/202622/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-08T16:44:58.560315+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "e23581ea97e7",
+      "titulo": "De La Espriella anuncia ofensiva con drones contra grupos armados y arremete contra el gobierno Petro: “¡Mentira!”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/de-la-espriella-anuncia-ofensiva-con-drones-contra-grupos-armados-y-arremete-contra-el-gobierno-petro-mentira/202634/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-08T16:44:58.560272+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "feaf812387fd",
+      "titulo": "MinDefensa anuncia protección a medios de comunicación y envía fuerte mensaje al ELN: “Desplegaremos las capacidades necesarias”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/mindefensa-anuncia-proteccion-a-medios-de-comunicacion-y-envia-fuerte-mensaje-al-eln-desplegaremos-las-capacidades-necesarias/202602/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-08T16:44:58.560263+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
       ]
     },
     {
@@ -189,7 +191,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333542+00:00",
+      "fecha": "2026-11-08T16:44:58.254529+00:00",
       "temas": [
         "DDHH"
       ],
@@ -205,7 +207,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333537+00:00",
+      "fecha": "2026-11-08T16:44:58.254521+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -221,7 +223,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333534+00:00",
+      "fecha": "2026-11-08T16:44:58.254517+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -237,7 +239,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333531+00:00",
+      "fecha": "2026-11-08T16:44:58.254511+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -253,7 +255,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333528+00:00",
+      "fecha": "2026-11-08T16:44:58.254506+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -269,7 +271,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333525+00:00",
+      "fecha": "2026-11-08T16:44:58.254500+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +287,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333519+00:00",
+      "fecha": "2026-11-08T16:44:58.254488+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +303,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333508+00:00",
+      "fecha": "2026-11-08T16:44:58.254462+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +319,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333505+00:00",
+      "fecha": "2026-11-08T16:44:58.254455+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +335,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333485+00:00",
+      "fecha": "2026-11-08T16:44:58.254414+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -349,7 +351,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333482+00:00",
+      "fecha": "2026-11-08T16:44:58.254405+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -365,7 +367,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333477+00:00",
+      "fecha": "2026-11-08T16:44:58.254398+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -381,7 +383,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333470+00:00",
+      "fecha": "2026-11-08T16:44:58.254386+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -397,7 +399,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333467+00:00",
+      "fecha": "2026-11-08T16:44:58.254379+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -413,12 +415,110 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-07T16:34:38.333463+00:00",
+      "fecha": "2026-11-08T16:44:58.254372+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "8c83920216b8",
+      "titulo": "Ejército anuncia ofensiva en el sur de Bolívar tras atentado con dron que dejó tres militares muertos y 16 heridos",
+      "resumen": "El comandante de la institución, general José Bertulfo Soto Sánchez, se desplazó hasta Santa Rosa para evaluar los daños en el cantón militar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-anuncia-ofensiva-en-el-sur-de-bolivar-tras-atentado-con-dron-que-dejo-tres-militares-muertos-y-16-heridos-3599382",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-08T15:45:50+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "1e90615461da",
+      "titulo": "Tortura, abortos y fusilamientos: dosier del horror de las Farc contra menores",
+      "resumen": "Víctimas relataron ante la JEP cómo fueron violentadas, obligadas a abortar y amenazadas con la muerte en las filas. ExFarc, a responder en audiencia.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/tortura-abortos-y-fusilamientos-dosier-del-horror-de-las-farc-contra-menores-3599302",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-08T03:40:42+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "farc",
+        "tortura"
+      ]
+    },
+    {
+      "id": "e63b51afb7a1",
+      "titulo": "‘Hemos visto un aumento del reclutamiento de niños de un 300 % en los últimos 5 años’: representante especial de la ONU",
+      "resumen": "Vanessa Frazier habló sobre los retos frente a esta violación de los derechos y resaltó el compromiso del Gobierno con la problemática.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hemos-visto-un-aumento-del-reclutamiento-de-ninos-de-un-300-en-los-ultimos-5-anos-representante-especial-de-la-onu-3599051",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-08T03:30:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "reclutamiento"
+      ]
+    },
+    {
+      "id": "fcc804a105fa",
+      "titulo": "Ejército reporta 3 militares asesinados y 8 heridos en atentado con drones explosivos en el cantón de Santa Rosa, Bolívar",
+      "resumen": "La institución condenó el ataque terrorista en el sur del departamento. El presidente De La Espriella condenó lo sucedido.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-reporta-3-militares-asesinados-y-8-heridos-en-atentado-con-drones-explosivos-en-canton-de-santa-rosa-bolivar-3599274",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-08T00:56:42+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "55e01673e90d",
+      "titulo": "Primera hipótesis del atentado terrorista con drones contra base militar de Santa Rosa lleva al Eln: ¿por qué?",
+      "resumen": "Otras 35 personas resultaron heridas por el ataque con drones cargos de explosivos. El presidente De La Espriella lamentó lo sucedido.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/primera-hipotesis-del-atentado-terrorista-con-drones-contra-base-militar-de-santa-rosa-lleva-al-eln-por-que-3599291",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-07T21:54:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "62dfffd4cba7",
+      "titulo": "Torturas inventadas, tensiones reales: el montaje con el que Rusia quiere boicotear la defensa de Ucrania",
+      "resumen": "Una movilización contra el reclutamiento con agitadores fake en Kiev es utilizada por Moscú para boicotear la defensa de Ucrania Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/07/6aee072ce4d4d87e3b8b45c6.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-11-07T19:29:47+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "reclutamiento"
       ]
     },
     {
@@ -454,22 +554,6 @@
       ]
     },
     {
-      "id": "62dfffd4cba7",
-      "titulo": "Torturas inventadas, tensiones reales: el montaje con el que Rusia quiere boicotear la defensa de Ucrania",
-      "resumen": "Una movilización contra el reclutamiento con agitadores fake en Kiev es utilizada por Moscú para boicotear la defensa de Ucrania Leer",
-      "url": "https://www.elmundo.es/internacional/2026/11/07/6aee072ce4d4d87e3b8b45c6.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-11-07T00:11:02+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "reclutamiento"
-      ]
-    },
-    {
       "id": "e5eb683b2573",
       "titulo": "Nuevos detalles del bombardeo contra el Eln en Venezuela: guerrilleros estarían buscando médicos en Colombia para atender a los heridos",
       "resumen": "El ataque ocurrió cuando integrantes del grupo sostenían un encuentro con narcotraficantes mexicanos. La cifra de muertos habría subido a 45.",
@@ -483,38 +567,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "5b48bc551828",
-      "titulo": "Eln confirma el secuestro de la subteniente del Ejército María Camila Pantoja: continúa el operativo en la zona rural de Arauca para encontrarla",
-      "resumen": "Mediante un video publicado en la página web del grupo delincuencial, la guerrilla se pronunció sobre el caso.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/eln-confirma-el-secuestro-de-la-subteniente-del-ejercito-maria-camila-pantoja-continua-el-operativo-en-la-zona-rural-para-encontrarla-3598853",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-05T23:21:14+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "71274b7f2d3c",
-      "titulo": "Este era alias Pincher, cabecilla de las disidencias de ‘Iván Mordisco’ señalado de ordenar atentados en Cali que murió en operación militar",
-      "resumen": "El presidente confirmó la operación contra el integrante de la estructura ‘Jaime Martínez’ en Timba, Valle del Cauca.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/este-era-alias-pincher-cabecilla-de-las-disidencias-de-ivan-mordisco-senalado-de-ordenar-atentados-en-cali-que-murio-en-operacion-militar-3598850",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-05T22:33:45+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
