@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-11-09T20:56:20.704151+00:00",
-  "total_revisadas": 303,
-  "total_relevantes": 30,
+  "generado_en": "2026-11-10T18:03:53.507535+00:00",
+  "total_revisadas": 314,
+  "total_relevantes": 31,
   "noticias": [
-    {
-      "id": "d90634d52a98",
-      "titulo": "¿Por qué se están entregando? Cabecilla del frente 33 de las disidencias de las Farc se sometió a las autoridades en el Catatumbo",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/por-que-se-estan-entregando-cabecilla-del-frente-33-de-las-disidencias-de-las-farc-se",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-09T20:56:16.313029+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
     {
       "id": "20c836c78136",
       "titulo": "Sobrevivió a un secuestro, pero no una persecución mortal en la vía Los Patios-Chinácota",
@@ -27,60 +11,12 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:16.313014+00:00",
+      "fecha": "2026-11-10T18:03:48.738859+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "secuestro"
-      ]
-    },
-    {
-      "id": "58bf4b599295",
-      "titulo": "Además de alias Tom, estos son los otros cabecillas de la mesa de paz urbana que ya están libres: van nueve",
-      "resumen": "",
-      "url": "https://elcolombiano.com/medellin/alias-tom-los-chatas-cabecillas-libres-mesa-paz-urbana-medellin-KD43264871",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-09T20:56:15.858866+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "mesa de paz"
-      ]
-    },
-    {
-      "id": "9256b968b820",
-      "titulo": "Quién es “la Abuela”, la cabecilla del ELN cuyo campamento fue bombardeado en Venezuela",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/emilse-oviedo-sierra-alias-la-abuela-eln-bombardeo-venezuela-LD43262999",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-09T20:56:15.858819+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "e05cf7c501b0",
-      "titulo": "De la Espriella condenó atentado contra militares en Bolívar: “No vamos a ceder un centímetro”",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/atentado-bolivar-gobierno-abelardo-de-la-espriella-muertos-IF43315591",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-09T20:56:15.858670+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
       ]
     },
     {
@@ -91,7 +27,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:15.858618+00:00",
+      "fecha": "2026-11-10T18:03:47.965757+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,14 +36,30 @@
       ]
     },
     {
-      "id": "2e36e6da7219",
-      "titulo": "15 militares asesinados, 220 ataques y 250 heridos; la cruda radiografía de ataques con drones con explosivos este año",
+      "id": "bd18823a3c28",
+      "titulo": "En video | Con bomba firmada y bendecida por De la Espriella atacan guarida de Farc: 4 muertos y 6 capturados",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/15-militares-asesinados-220-ataques-y-250-heridos-la-cruda-radiografia-de-ataques-con-drones-con-explosivos-este-ano/202626/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/bombardeo-frente-33-farc-tibu-cuatro-muertos-seis-capturados-FB43359581",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:15.736223+00:00",
+      "fecha": "2026-11-10T18:03:47.965638+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "86732c165117",
+      "titulo": "Interceptación de llamada entre guerrilleros reveló que usaban mulas para mover explosivos en Antioquia",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/mulas-transporte-explosivos-antioquia-anori-interceptacion-llamada-MM43380480",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-10T18:03:47.965586+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,19 +68,51 @@
       ]
     },
     {
-      "id": "b1b86dace444",
-      "titulo": "ELN se pronunció sobre la supuesta muerte en un bombardeo en Venezuela de la cabecilla Silvana Guerrero",
+      "id": "d2a1c6131f6a",
+      "titulo": "Ejército arrebató a un menor de las garras de las disidencias de Iván Mordisco en el Cauca y tuvo que proteger a su familia",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/eln-se-pronuncio-sobre-la-supuesta-muerte-en-un-bombardeo-en-venezuela-de-la-cabecilla-silvana-guerrero/202615/",
+      "url": "https://semana.com/nacion/cali/articulo/ejercito-arrebato-a-un-menor-de-las-garras-de-las-disidencias-de-ivan-mordisco-en-el-cauca-y-tuvo-que-proteger-a-su-familia/202612/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:15.736149+00:00",
+      "fecha": "2026-11-10T18:03:47.590818+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "99674b5e2edb",
+      "titulo": "Ejército interceptó llamada del ELN y se llevó sorpresa por lo que estaban cargando en mulas: situación generó alerta en Antioquia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/ejercito-intercepto-llamada-del-eln-y-se-llevo-sorpresa-por-lo-que-estaban-cargando-en-mulas-situacion-genero-alerta-en-antioquia/202635/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-10T18:03:47.590730+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
+      ]
+    },
+    {
+      "id": "15a66f43af00",
+      "titulo": "Fusiles, miniuzi y munición, el arsenal que fue decomisado a un enlace de las disidencias de Calarcá",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/fusiles-miniuzi-y-municion-el-arsenal-que-fue-decomisado-a-un-enlace-de-las-disidencias-de-calarca/202649/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-10T18:03:47.590708+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -139,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545859+00:00",
+      "fecha": "2026-11-10T18:03:47.330525+00:00",
       "temas": [
         "DDHH"
       ],
@@ -155,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545852+00:00",
+      "fecha": "2026-11-10T18:03:47.330520+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545848+00:00",
+      "fecha": "2026-11-10T18:03:47.330517+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545844+00:00",
+      "fecha": "2026-11-10T18:03:47.330514+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545841+00:00",
+      "fecha": "2026-11-10T18:03:47.330512+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545837+00:00",
+      "fecha": "2026-11-10T18:03:47.330510+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545829+00:00",
+      "fecha": "2026-11-10T18:03:47.330504+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545815+00:00",
+      "fecha": "2026-11-10T18:03:47.330495+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545811+00:00",
+      "fecha": "2026-11-10T18:03:47.330493+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545784+00:00",
+      "fecha": "2026-11-10T18:03:47.330474+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545779+00:00",
+      "fecha": "2026-11-10T18:03:47.330471+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545774+00:00",
+      "fecha": "2026-11-10T18:03:47.330464+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545765+00:00",
+      "fecha": "2026-11-10T18:03:47.330459+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545760+00:00",
+      "fecha": "2026-11-10T18:03:47.330452+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-09T20:56:14.545755+00:00",
+      "fecha": "2026-11-10T18:03:47.330449+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -372,21 +356,83 @@
       ]
     },
     {
-      "id": "22e26417a6ff",
-      "titulo": "Masacre de Sonsón llega a la justicia internacional: CIDH admite caso de incursión paramilitar con ayuda de miembros del Ejército",
-      "resumen": "La población víctima afirma que la incursión contó con el apoyo del Batallón Granaderos de la Cuarta Brigada, bajo el mando del mayor Jesús Clavijo.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/masacre-de-sonson-llega-a-la-justicia-internacional-cidh-admite-caso-de-incursion-paramilitar-con-ayuda-de-miembros-del-ejercito-3599638",
+      "id": "58dc9015d545",
+      "titulo": "¿Qué ha pasado con la reincorporación tras una década de la firma del Acuerdo de Paz?",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/como-se-negocio-la-paz-con-las-farc-y-que-ha-pasado-tras-una-decada-de-reincorporacion/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-10T18:03:47.330398+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "d4f6ee81e57a",
+      "titulo": "JEP imputó a 11 integrantes de la Armada y la Policía por la masacre de El Salado y otros 31 crímenes en Montes de María",
+      "resumen": "Los hechos ocurrieron entre 1999 y 2001. Además hay 1.219 víctimas acreditadas ante la JEP.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputo-a-11-integrantes-de-la-armada-y-la-policia-por-la-masacre-de-el-salado-y-otros-31-crimenes-en-montes-de-maria-3599914",
       "fuente": "El Tiempo",
       "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-11-09T17:41:49+00:00",
+      "fecha": "2026-11-10T16:56:48+00:00",
       "temas": [
-        "Conflicto armado",
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "cidh",
-        "paramilitar"
+        "masacre"
+      ]
+    },
+    {
+      "id": "fd0926f9f1ca",
+      "titulo": "EE. UU. con sus drones reaper participaron en el séptimo bombardeo de De La Espriella contra las disidencias en el Catatumbo",
+      "resumen": "La operación, desarrollada en zona rural de Tibú, se enmarca en los objetivos de cooperación del Escudo de las Américas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ee-uu-con-sus-drones-reaper-participaron-en-el-septimo-bombardeo-de-de-la-espriella-contra-las-disidencias-en-el-catatumbo-3599860",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-10T15:04:51+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "85ce05e75d48",
+      "titulo": "Cumbre clave del Órgano de Gobierno de la Jurisdicción Especial para la Paz",
+      "resumen": "Hay ruidos en la Jurisdicción frente al recorte de $ 181.402 millones para 2027.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/cumbre-clave-del-organo-de-gobierno-de-la-jurisdiccion-especial-para-la-paz-3599772",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-10T13:06:01+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jurisdiccion especial para la paz"
+      ]
+    },
+    {
+      "id": "ba0baaf7189f",
+      "titulo": "Se alista el primer remezón de generales en el Ejército durante el gobierno de Abelardo De La Espriella",
+      "resumen": "Tres oficiales serían llamados a calificar servicios por cuestionamientos a su gestión frente a situaciones de orden público en Arauca y Nariño.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/se-alista-el-primer-remezon-de-generales-en-el-ejercito-durante-el-gobierno-de-abelardo-de-la-espriella-3599774",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-10T02:30:38+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "orden publico"
       ]
     },
     {
@@ -403,38 +449,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "6d46b3fd07d3",
-      "titulo": "Más de 3.000 capturas y 1.975 artefactos explosivos incautados, cifras de la Fuerza Pública en lo que va del gobierno de De La Espriella",
-      "resumen": "Operaciones contra grupos armados, el narcotráfico y la minería ilegal dejaron 209 capturas y la incautación de más de 106 toneladas de cocaína.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mas-de-3-000-capturas-y-1-975-artefactos-explosivos-incautados-cifras-de-la-fuerza-publica-en-lo-que-va-del-gobierno-de-de-la-espriella-3599525",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-09T13:20:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "5edc456d190c",
-      "titulo": "Ejército reforzó seguridad en Santa Rosa tras ataque con drones que dejó 3 muertos: hay pistas que apuntan a los responsables",
-      "resumen": "Autoridades indagan si el ataque con drones cargados con explosivos se debió a una retaliación contra las Fuerzas Militares.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-reforzo-seguridad-en-santa-rosa-tras-ataque-con-drones-que-dejo-3-muertos-hay-pistas-que-apuntan-a-los-responsables-3599422",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-09T02:30:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
       ]
     },
     {
