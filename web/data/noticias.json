@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-11-11T17:58:58.304423+00:00",
-  "total_revisadas": 316,
-  "total_relevantes": 34,
+  "generado_en": "2026-11-12T18:29:48.020369+00:00",
+  "total_revisadas": 318,
+  "total_relevantes": 37,
   "noticias": [
     {
       "id": "3aee4bb4c47e",
@@ -11,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:52.871846+00:00",
+      "fecha": "2026-11-12T18:29:44.272527+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "id": "bd18823a3c28",
-      "titulo": "En video | Con bomba firmada y bendecida por De la Espriella atacan guarida de Farc: 4 muertos y 6 capturados",
+      "id": "550dc3b725de",
+      "titulo": "¿Le llevaba un cargamento a la disidencia de las Farc? Hombre cayó con media tonelada de cocaína y balas de fusil en San Cayetano",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/bombardeo-frente-33-farc-tibu-cuatro-muertos-seis-capturados-FB43359581",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/le-llevaba-un-cargamento-la-disidencia-de-las-farc-hombre-cayo-con-media-tonelada-de",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:52.341782+00:00",
+      "fecha": "2026-11-12T18:29:44.272508+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,19 +36,19 @@
       ]
     },
     {
-      "id": "86732c165117",
-      "titulo": "Interceptación de llamada entre guerrilleros reveló que usaban mulas para mover explosivos en Antioquia",
+      "id": "406536af8bd8",
+      "titulo": "Bombardeo contra disidencias de las Farc en el Catatumbo dejó cuatro muertos y seis capturados",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/mulas-transporte-explosivos-antioquia-anori-interceptacion-llamada-MM43380480",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/bombardeo-contra-disidencias-de-las-farc-en-el-catatumbo-dejo-cuatro-muertos-y-seis",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:52.341683+00:00",
+      "fecha": "2026-11-12T18:29:44.272472+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "disidencias"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:52.341544+00:00",
+      "fecha": "2026-11-12T18:29:43.949194+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:52.341507+00:00",
+      "fecha": "2026-11-12T18:29:43.949162+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:52.341468+00:00",
+      "fecha": "2026-11-12T18:29:43.949131+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -100,115 +100,101 @@
       ]
     },
     {
-      "id": "662efda84147",
-      "titulo": "Presidente De La Espriella rechaza atentado terrorista contra RCN en Cali: “La prensa se respeta”",
+      "id": "2656e427a571",
+      "titulo": "Los dardos entre Santos y Duque en evento por los 10 años del Acuerdo con las Farc: así fue el cara a cara",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/presidente-de-la-espriella-rechaza-atentado-terrorista-contra-rcn-en-cali-la-prensa-se-respeta/202642/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/ivan-duque-juan-manuel-santos-acuerdo-paz-jep-defensoria-GE43477405",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.910612+00:00",
+      "fecha": "2026-11-12T18:29:43.948971+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "farc"
       ]
     },
     {
-      "id": "7ab1ed430806",
-      "titulo": "Alcaldía de Cali ofrece $20 millones por responsables del atentado contra RCN Radio",
+      "id": "91e9b89d743c",
+      "titulo": "Secuestro agrava crisis de seguridad en La Guajira y hay zozobra por atentados en Cali y otras zonas del país",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/alcaldia-de-cali-ofrece-20-millones-por-responsables-del-atentado-contra-rcn-radio/202646/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/secuestro-primera-dama-guajira-uribia-terrorismo-cali-casanare-cauca-AK43492174",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.910545+00:00",
+      "fecha": "2026-11-12T18:29:43.948884+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "secuestro"
       ]
     },
     {
-      "id": "31a530f6a2d3",
-      "titulo": "Dilian Francisca Toro lanza fuerte mensaje tras atentado contra RCN en Cali: “No pueden callar a quienes informan”",
+      "id": "8710ff8a2f0e",
+      "titulo": "Ejército frustra atentado con explosivo en contra de un líder social en Antioquia",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/dilian-francisca-toro-lanza-fuerte-mensaje-tras-atentado-contra-rcn-en-cali-no-pueden-callar-a-quienes-informan/202611/",
+      "url": "https://semana.com/nacion/medellin/articulo/ejercito-frustra-atentado-con-explosivo-en-contra-de-un-lider-social-en-antioquia/202602/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.910521+00:00",
+      "fecha": "2026-11-12T18:29:43.808022+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "atentado",
+        "lider social"
+      ]
+    },
+    {
+      "id": "06a5ba134adf",
+      "titulo": "Secuestro de Nancy Gómez Sánchez: aparece video de la camioneta en la que fue plagiada escapando a toda velocidad",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/secuestro-de-nancy-gomez-sanchez-aparece-video-de-la-camioneta-en-la-que-fue-plagiada-escapando-a-toda-velocidad/202631/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-12T18:29:43.807963+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "secuestro"
       ]
     },
     {
-      "id": "023270232700",
-      "titulo": "Masacre en Bogotá: hombre descendió de un taxi y asesinó a tres personas",
+      "id": "051123722c0b",
+      "titulo": "Fuerte discusión entre ministro Alejandro Ordóñez y el magistrado de la JEP Gustavo Salazar: “Le pido respeto”",
       "resumen": "",
-      "url": "https://semana.com/nacion/bogota/articulo/masacre-en-bogota-hombre-descendio-de-un-taxi-y-asesino-a-tres-personas/202639/",
+      "url": "https://semana.com/nacion/articulo/fuerte-discusion-entre-ministro-alejandro-ordonez-y-el-magistrado-de-la-jep-gustavo-salazar-le-pido-respeto/202632/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.910493+00:00",
+      "fecha": "2026-11-12T18:29:43.807950+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "masacre"
+        "jep"
       ]
     },
     {
-      "id": "5046d6c7b097",
-      "titulo": "Secuestro de Nancy Gómez y las reacciones que se han conocido: ELN estaría detrás del plagio en Uribia, La Guajira",
+      "id": "9307af4ca5f6",
+      "titulo": "ELN libera a dos agentes del CTI secuestrados en Arauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/secuestro-de-nancy-gomez-y-las-reacciones-que-se-han-conocido-eln-estaria-detras-del-plagio-en-uribia-la-guajira/202646/",
+      "url": "https://semana.com/nacion/articulo/eln-libera-a-dos-agentes-del-cti-secuestrados-en-arauca/202603/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.910234+00:00",
+      "fecha": "2026-11-12T18:29:43.807937+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "aad4344074cf",
-      "titulo": "Proyecto que busca la terminación de la JEP en 2028 pasa primer debate en Senado",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/proyecto-que-busca-la-terminacion-de-la-jep-en-2028-pasa-primer-debate-en-senado/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710708+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "6c8712cc4949",
-      "titulo": "“Generó una división política que aún está presente”: Santos sobre Acuerdo de Paz",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/genero-una-division-politica-que-aun-esta-presente-santos-sobre-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710704+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     },
     {
@@ -219,7 +205,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710697+00:00",
+      "fecha": "2026-11-12T18:29:43.503829+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +221,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710692+00:00",
+      "fecha": "2026-11-12T18:29:43.503825+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710680+00:00",
+      "fecha": "2026-11-12T18:29:43.503816+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710667+00:00",
+      "fecha": "2026-11-12T18:29:43.503800+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710663+00:00",
+      "fecha": "2026-11-12T18:29:43.503795+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710652+00:00",
+      "fecha": "2026-11-12T18:29:43.503786+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710647+00:00",
+      "fecha": "2026-11-12T18:29:43.503782+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710642+00:00",
+      "fecha": "2026-11-12T18:29:43.503776+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -347,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710616+00:00",
+      "fecha": "2026-11-12T18:29:43.503771+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710611+00:00",
+      "fecha": "2026-11-12T18:29:43.503767+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710605+00:00",
+      "fecha": "2026-11-12T18:29:43.503735+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +381,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-11T17:58:51.710565+00:00",
+      "fecha": "2026-11-12T18:29:43.503701+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -404,19 +390,149 @@
       ]
     },
     {
-      "id": "68a79f30bd7a",
-      "titulo": "Juan Manuel Santos criticó a Abelardo de la Espriella por caminar entre cadáveres y Alejandro Ordóñez le respondió: “No se preocupó por entregarle el país a las Farc”",
-      "resumen": "En su primera intervención como ministro del Interior en el Senado, el también exprocurador General replicó a los cuestionamientos del exmandatario sobre las acciones de seguridad y defendió el mensaje dirigido a los grupos armados por parte del Gobierno",
-      "url": "https://www.infobae.com/colombia/2026/11/11/juan-manuel-santos-critico-a-abelardo-de-la-espriella-por-caminar-entre-cadaveres-y-alejandro-ordonez-le-respondio-no-se-preocupo-por-entregarle-el-pais-a-las-farc/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
+      "id": "8efda3e3e774",
+      "titulo": "Santos salió en defensa del Acuerdo con las Farc: así lo ven sus protagonistas tras 10 años",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/santos-salio-en-defensa-del-acuerdo-con-las-farc-asi-lo-ven-sus-protagonistas-tras-10-anos/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-12T18:29:43.503683+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "d382abfac28b",
+      "titulo": "Santos responde a críticas de Ordóñez por Acuerdo de Paz: Uribe también se pronunció",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/santos-responde-a-criticas-de-ordonez-por-acuerdo-de-paz-uribe-tambien-se-pronuncio/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-12T18:29:43.503644+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "199c69881904",
+      "titulo": "Atención: Eln liberó a los dos agentes de la Fiscalía que tenía secuestrados en Arauca",
+      "resumen": "El ente acusador ya fue informado del procedimiento de liberación, en el cual participó una comisión humanitaria.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-eln-libero-a-los-agentes-de-la-fiscalia-que-tenia-secuestrados-en-arauca-3600526",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-12T17:43:30+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "3939be6800d7",
+      "titulo": "'Sincerar las cifras' y conocer el avance real de indicadores: Morales presentó la ruta del Gobierno frente a la implementación del Acuerdo de Paz",
+      "resumen": "La consejera comisionada de Paz y directora (e) de la Unidad de Implementación debutó como responsable de paz en el Congreso.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/sincerar-las-cifras-y-conocer-el-avance-real-de-indicadores-morales-presento-la-ruta-del-gobierno-frente-a-la-implementacion-del-acuerdo-de-paz-3600523",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-12T17:31:32+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "36d47aa7dbc8",
+      "titulo": "Este es alias Chapolo, el enemigo número uno del Tolima que se sometió a la justicia tras 14 años en las disidencias",
+      "resumen": "Jhan Carlos Rodríguez Masmela era uno de los hombres más buscados del departamento. La Gobernación ofrecía $300 millones por su paradero.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/este-es-alias-chapolo-el-enemigo-numero-uno-del-tolima-que-se-sometio-a-la-justicia-tras-14-anos-en-las-disidencias-3600534",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-12T17:26:10+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "79cbf6c16892",
+      "titulo": "Diez años después del Acuerdo, 533 firmantes han sido asesinados: Mininterior y Mindefensa responden en audiencia de la JEP",
+      "resumen": "La Defensoría del Pueblo advirtió que el 67 % de los homicidios ocurrió en territorios donde ya se habían emitido alertas tempranas.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/diez-anos-despues-del-acuerdo-533-firmantes-han-sido-asesinados-mininterior-y-mindefensa-responden-en-audiencia-de-la-jep-3600488",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-12T16:20:00+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "defensoria del pueblo",
+        "jep"
+      ]
+    },
+    {
+      "id": "af0dff0703dd",
+      "titulo": "El angustioso llamado por el traslado de un subintendente de la Policía herido en atentado en Casanare",
+      "resumen": "Sus familiares piden que sea trasladado en una ambulancia aérea a Bogotá. En el mismo ataque fue asesinado el patrullero Juan Quintero Caldas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-angustioso-llamado-por-el-traslado-de-un-subintendente-de-la-policia-herido-en-atentado-en-casanare-3600444",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-12T13:50:04+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "ff0e2203aedd",
+      "titulo": "¿Quién es alias 'Tom'? El señalado sucesor de Pablo Escobar que quedó en libertad y que fundó Los Chatas, en Bello",
+      "resumen": "'Tom' fue vocero de las bandas en la mesa de paz de Petro y se subió al ‘tarimazo’ de La Alpujarra. Hoy sale de La Picota con libertad condicional.",
+      "url": "https://www.eltiempo.com/justicia/delitos/quien-es-alias-tom-el-senalado-sucesor-de-pablo-escobar-que-quedo-en-libertad-y-que-fundo-los-chatas-en-bello-3600425",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-12T13:04:10+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "mesa de paz"
+      ]
+    },
+    {
+      "id": "448b79606c7f",
+      "titulo": "Muere un coronel ruso en un atentado con dinamita contra su automóvil en San Petersburgo",
+      "resumen": "Tras el comienzo de la guerra en Ucrania varios militares rusos, incluyendo oficiales de alto rango, han muerto a consecuencia de atentados con dinamita, atribuidos a los servicios de inteligencia ucranianos Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/12/6af56590e9cf4ae9478b4579.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
       "region": "internacional",
-      "fecha": "2026-11-11T17:55:20+00:00",
+      "fecha": "2026-11-12T09:14:33+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "grupos armados"
+        "guerra en ucrania"
       ]
     },
     {
@@ -449,70 +565,6 @@
       ],
       "palabras_clave": [
         "clan del golfo"
-      ]
-    },
-    {
-      "id": "f94bda236324",
-      "titulo": "Defensora Iris Marín: ‘La violencia no es responsabilidad del Acuerdo de Paz, sino del lento avance en su implementación’",
-      "resumen": "Marín aprovechó la conmemoración de los diez años del Acuerdo para defenderlo, recordar cifras relacionadas y pedir al presidente que lo cumpla.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/defensora-iris-marin-la-violencia-no-es-responsabilidad-del-acuerdo-de-paz-sino-del-lento-avance-en-su-implementacion-3600162",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-11T15:12:46+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "77938220e114",
-      "titulo": "Este es el mapa de los grupos armados en Colombia que las Fuerzas Militares le presentaron a Estados Unidos",
-      "resumen": "EL TIEMPO conoció una actualización oficial del ‘conteo del enemigo’, que registra 29.062 integrantes distribuidos en 165 estructuras.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/este-es-el-mapa-de-los-grupos-armados-en-colombia-que-las-fuerzas-militares-le-presentaron-a-estados-unidos-3600097",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-11T11:45:28+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
-      "id": "9bed97ad967d",
-      "titulo": "Exclusivo: lo que le reveló el comandante de las FF. MM. al máximo jefe militar de Estados Unidos durante su visita clave a Colombia",
-      "resumen": "EL TIEMPO conoció detalles de la conversación entre los generales Erik Rodríguez y Dan Caine. Drones con explosivos, una de las preocupaciones.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/exclusivo-lo-que-le-revelo-el-comandante-de-las-ff-mm-al-maximo-jefe-militar-de-estados-unidos-durante-su-visita-clave-a-colombia-3600034",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-10T23:44:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "48f2e2f50235",
-      "titulo": "Ejército desarticula a ‘Los Chinos’, red señalada de secuestros y extorsiones al servicio de las disidencias de ‘Iván Mordisco’ en Cauca",
-      "resumen": "La organización estaría vinculada a la estructura 'Carlos Patiño' y sería responsable del hurto de vehículos de alta gama.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-desarticula-a-los-chinos-red-senalada-de-secuestros-y-extorsiones-al-servicio-de-las-disidencias-de-ivan-mordisco-en-cauca-3599999",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-10T21:56:02+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
       ]
     },
     {
