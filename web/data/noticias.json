@@ -1,40 +1,8 @@
 {
-  "generado_en": "2026-11-13T17:57:33.700877+00:00",
-  "total_revisadas": 317,
-  "total_relevantes": 41,
+  "generado_en": "2026-11-14T16:40:31.317263+00:00",
+  "total_revisadas": 310,
+  "total_relevantes": 43,
   "noticias": [
-    {
-      "id": "3aee4bb4c47e",
-      "titulo": "Tres alertas por explosivos encendieron las alarmas en Norte de Santander",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/tres-alertas-por-explosivos-encendieron-las-alarmas-en-norte-de-santander",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.926633+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "550dc3b725de",
-      "titulo": "¿Le llevaba un cargamento a la disidencia de las Farc? Hombre cayó con media tonelada de cocaína y balas de fusil en San Cayetano",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/le-llevaba-un-cargamento-la-disidencia-de-las-farc-hombre-cayo-con-media-tonelada-de",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.926615+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
     {
       "id": "406536af8bd8",
       "titulo": "Bombardeo contra disidencias de las Farc en el Catatumbo dejó cuatro muertos y seis capturados",
@@ -43,7 +11,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.926597+00:00",
+      "fecha": "2026-11-14T16:40:28.268876+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,142 +20,14 @@
       ]
     },
     {
-      "id": "d281dcab4461",
-      "titulo": "Santos aprovechó los 10 años del Acuerdo de Paz para cuestionar a De la Espriella por “pasearse entre cadáveres”",
+      "id": "4848cbb3c0c4",
+      "titulo": "Atención: ELN liberó a los dos agentes del CTI que tenía secuestrados desde mayo de 2025",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/politica/santos-critica-de-la-espriella-pasearse-cadaveres-orgullo-firmar-bombas-BC43418911",
+      "url": "https://elcolombiano.com/colombia/eln-libera-dos-secuestrados-cti-arauca-MD43513593",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.248872+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "19eba2079688",
-      "titulo": "Corte Constitucional fija ruta al Gobierno para fortalecer la implementación del Acuerdo de Paz: ¿de qué se trata?",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/implementacion-acuerdo-paz-corte-constitucional-hace-recomendaciones-y-da-indicaciones-IB43422758",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.248843+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "de39b7a9ee2f",
-      "titulo": "JEP pidió a la Corte detalles de la presunta participación de Sandra Ramírez en el magnicidio de Miguel Uribe",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-pide-corte-suprema-detalles-participacion-sandra-ramirez-magnicidio-miguel-uribe-NA43430368",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.248813+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "2656e427a571",
-      "titulo": "Los dardos entre Santos y Duque en evento por los 10 años del Acuerdo con las Farc: así fue el cara a cara",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ivan-duque-juan-manuel-santos-acuerdo-paz-jep-defensoria-GE43477405",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.248661+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "91e9b89d743c",
-      "titulo": "Secuestro agrava crisis de seguridad en La Guajira y hay zozobra por atentados en Cali y otras zonas del país",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/secuestro-primera-dama-guajira-uribia-terrorismo-cali-casanare-cauca-AK43492174",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:27.248585+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "d9ea457b9f2a",
-      "titulo": "Esto es lo que se sabe de un atentado terrorista contra una patrulla de la Policía en Cali",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/esto-es-lo-que-se-sabe-de-un-atentado-terrorista-contra-una-patrulla-de-la-policia-en-cali/202654/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998717+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "c8ad59a9e96e",
-      "titulo": "“Muere en 24 horas”: la aterradora amenaza contra Norma Vera Salazar, defensora de derechos humanos en Santa Marta",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/muere-en-24-horas-la-aterradora-amenaza-contra-norma-vera-salazar-defensora-de-derechos-humanos-en-santa-marta/202611/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998668+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "b4f47db00db9",
-      "titulo": "Alcalde Alejandro Eder rechaza atentado contra patrulla del GOES: “En Cali no vamos a ceder ante el terrorismo”",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/alcalde-alejandro-eder-rechaza-atentado-contra-patrulla-del-goes-en-cali-no-vamos-a-ceder-ante-el-terrorismo/202607/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998646+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "bc06ee34c29e",
-      "titulo": "Esta es la prueba de supervivencia de la subteniente del Ejército, Camila Pantoja, secuestrada por el ELN",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/esta-es-la-prueba-de-supervivencia-de-la-subteniente-del-ejercito-camila-pantoja-secuestrada-por-el-eln/202652/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998623+00:00",
+      "fecha": "2026-11-14T16:40:27.820415+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -196,14 +36,14 @@
       ]
     },
     {
-      "id": "aaefd4eb6abb",
-      "titulo": "Un soldado muerto y otro herido en Saravena, Arauca: uniformados cayeron en un área llena de explosivos",
+      "id": "f6ed72371b0b",
+      "titulo": "Ataque de drones explosivos dejó cuatro soldados muertos y otros heridos en Tibú: se habrían enviado desde Venezuela",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/un-soldado-muerto-y-otro-herido-en-saravena-arauca-uniformados-cayeron-en-un-area-llena-de-explosivos/202646/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/ataque-drones-granadas-explosivos-soldados-muertos-tibu-FA43523512",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998612+00:00",
+      "fecha": "2026-11-14T16:40:27.820395+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -212,53 +52,181 @@
       ]
     },
     {
-      "id": "6558d19ba8cf",
-      "titulo": "Revelan detalles de la caída de El Zorro, señalado narco con pasado paramilitar en las AUC de Carlos Castaño y Salvatore Mancuso",
+      "id": "97a78d082f2d",
+      "titulo": "VIDEO | Alerta en Cali por atentado contra patrulla de la Policía en el sector de Siloé: van dos amenazas en 48 horas",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/revelan-detalles-de-la-caida-de-el-zorro-senalado-narco-con-pasado-paramilitar-en-las-auc-de-carlos-castano-y-salvatore-mancuso/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/alerta-cali-atentado-patrulla-policia-en-siloe-van-dos-amenazas-en-48-horas-BG43541606",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998533+00:00",
+      "fecha": "2026-11-14T16:40:27.820343+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "paramilitar"
+        "atentado"
       ]
     },
     {
-      "id": "b77625ad61b9",
-      "titulo": "La JEP condenó a cinco exmilitares por 35 falsos positivos en Dabeiba, Antioquia",
+      "id": "2c809b292e94",
+      "titulo": "ELN publica prueba de supervivencia de la subteniente Camila Pantoja secuestrada en Arauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-jep-condeno-a-cinco-exmilitares-por-35-falsos-positivos-en-dabeiba-antioquia/202637/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/eln-publica-prueba-supervivencia-subteniente-maria-camila-pantoja-secuestrada-arauca-DH43553189",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.998501+00:00",
+      "fecha": "2026-11-14T16:40:27.820275+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "3ad4ef69bdaa",
+      "titulo": "“Esta incertidumbre todos los días fue agotadora y muy dolorosa”: el conmovedor relato del hijo de funcionario de la Fiscalía liberado por el ELN",
+      "resumen": "",
+      "url": "https://elcolombiano.com/colombia/funcionario-fiscalia-liberado-testimonio-hijo-secuestro-eln-NE43564911",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.820229+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "935bed6cd697",
+      "titulo": "Frustran atentado contra líder social de Briceño, Antioquia: le habían dejado bomba de 10 kilos junto a su casa",
+      "resumen": "",
+      "url": "https://elcolombiano.com/antioquia/atentado-contra-lider-social-briceno-antioquia-explosivos-KL43591218",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.820139+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
       ],
       "palabras_clave": [
-        "falsos positivos",
-        "jep"
+        "atentado",
+        "lider social"
       ]
     },
     {
-      "id": "82485f6090d1",
-      "titulo": "\"El Acuerdo de Paz no es un modelo para el mundo”: Gaona ante las Naciones Unidas",
+      "id": "e02e67e9e0e2",
+      "titulo": "“Le tiraron dos bombazos al Ejército”: así reportó una persona el atentado de esta tarde en Curumaní",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/el-acuerdo-de-paz-no-es-un-modelo-para-el-mundo-gaona-ante-la-naciones-unidas/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/barranquilla/articulo/le-tiraron-dos-bombazos-al-ejercito-asi-reporto-una-persona-el-atentado-de-esta-tarde-en-curumani/202621/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336458+00:00",
+      "fecha": "2026-11-14T16:40:27.743030+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "atentado"
+      ]
+    },
+    {
+      "id": "d84fef2cbbaa",
+      "titulo": "Hora cero para que las Farc reconozcan el intento de asesinato contra Álvaro Uribe en Barranquilla cuando era candidato",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/hora-cero-para-que-las-farc-reconozcan-el-intento-de-asesinato-contra-alvaro-uribe-en-barranquilla-cuando-era-candidato/202610/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.742947+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "ccb8cdae77da",
+      "titulo": "La historia detrás de los ataques a peajes en el Cauca: atentado el año pasado en Cajibío sería el detonante",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-historia-detras-de-los-ataques-a-peajes-en-el-cauca-atentado-el-ano-pasado-en-cajibio-seria-el-detonante/202632/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.742938+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "5d13f7b7dbdf",
+      "titulo": "Entrevista: fue reclutado por las Farc a los 12 años y revela cómo Sandra Ramírez ordenaba violaciones y abortos a niñas",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/entrevista-fue-reclutado-por-las-farc-a-los-12-anos-y-revela-como-sandra-ramirez-ordenaba-violaciones-y-abortos-a-ninas/202625/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.742922+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "6a72adb2363a",
+      "titulo": "Abelardo De La Espriella anunció la captura de responsables del ataque con explosivos en Algeciras, Huila",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-la-captura-de-responsables-del-ataque-con-explosivos-en-algeciras-huila/202604/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.742900+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "explosivos"
+      ]
+    },
+    {
+      "id": "e327454cbb7c",
+      "titulo": "Capturan a Primo Gay, jefe de las disidencias de las Farc en Antioquia",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/atencion-capturan-a-primo-gay-jefe-de-las-disidencias-de-las-farc-en-antioquia/202611/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.742831+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "74b6a23dd825",
+      "titulo": "Él es Primo Gay, cabecilla de las disidencias de las Farc capturado en Antioquia: lo señalan de matar al periodista Mateo Pérez",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/el-es-primo-gay-cabecilla-de-las-disidencias-de-las-farc-capturado-en-antioquia-lo-senalan-de-matar-al-periodista-mateo-perez/202625/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.742806+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -269,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336446+00:00",
+      "fecha": "2026-11-14T16:40:27.228108+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -285,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336439+00:00",
+      "fecha": "2026-11-14T16:40:27.228105+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336424+00:00",
+      "fecha": "2026-11-14T16:40:27.228098+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336416+00:00",
+      "fecha": "2026-11-14T16:40:27.228095+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336405+00:00",
+      "fecha": "2026-11-14T16:40:27.228092+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -349,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336400+00:00",
+      "fecha": "2026-11-14T16:40:27.228088+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -365,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336396+00:00",
+      "fecha": "2026-11-14T16:40:27.228084+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -381,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336392+00:00",
+      "fecha": "2026-11-14T16:40:27.228082+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -397,7 +365,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336334+00:00",
+      "fecha": "2026-11-14T16:40:27.228064+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -413,7 +381,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336302+00:00",
+      "fecha": "2026-11-14T16:40:27.228042+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -429,7 +397,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336282+00:00",
+      "fecha": "2026-11-14T16:40:27.228030+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -445,12 +413,176 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-13T17:57:26.336275+00:00",
+      "fecha": "2026-11-14T16:40:27.228026+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "01f672e5717c",
+      "titulo": "Humberto de la Calle: “el plebiscito sirvió para contener las ansias de las Farc”",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/humberto-de-la-calle-el-plebiscito-sirvio-para-contener-las-ansias-de-las-farc/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.228019+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "ce6087fe423d",
+      "titulo": "De Medellín a Dabeiba: el plan de soldados y paramilitares para desaparecer a 35 inocentes",
+      "resumen": "",
+      "url": "https://www.elespectador.com/judicial/de-medellin-a-dabeiba-el-plan-de-soldados-y-paramilitares-para-desaparecer-a-35-inocentes/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:40:27.227989+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "paramilitares"
+      ]
+    },
+    {
+      "id": "5a405b8a05be",
+      "titulo": "Países árabes, islámicos y la Liga árabe exigen a Israel cumplir el alto el fuego en Gaza",
+      "resumen": "",
+      "url": "https://www.infobae.com/america/agencias/2026/11/14/paises-arabes-islamicos-y-la-liga-arabe-exigen-a-israel-cumplir-el-alto-el-fuego-en-gaza/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-14T16:31:52+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "alto el fuego"
+      ]
+    },
+    {
+      "id": "27ce4cef1726",
+      "titulo": "Los detalles de la caída de ‘Primo Gay’, el hombre que desafió a las disidencias de ‘Calarcá’ y terminó aliándose con el ‘clan del Golfo’",
+      "resumen": "Las autoridades lo relacionan con homicidios, campos minados, ataques contra militares y policías, así como con el asesinato de un líder social.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-detalles-de-la-caida-de-primo-gay-el-hombre-que-desafio-a-las-disidencias-de-calarca-y-termino-aliandose-con-el-clan-del-golfo-3601100",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-14T16:30:29+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "clan del golfo",
+        "lider social"
+      ]
+    },
+    {
+      "id": "16719fdb0188",
+      "titulo": "Atención: cayó alias ‘Primo Gay’, uno de los cabecillas más buscados de Antioquia",
+      "resumen": "EL TIEMPO conoció que el señalado jefe del frente 36 de las disidencias de alias Calarcá fue capturado por el Gaula Militar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atencion-cayo-alias-primo-gay-uno-de-los-cabecillas-mas-buscados-de-antioquia-3601092",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-14T15:45:45+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "12ebbe5027bd",
+      "titulo": "Capturan a dos señalados de participar en atentado que dejó dos policías muertos en Huila",
+      "resumen": "Uno de los detenidos habría acondicionado la motocicleta utilizada en el ataque del pasado 31 de octubre en Algeciras.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-senalados-de-participar-en-atentado-que-dejo-dos-policias-muertos-en-huila-3601077",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-14T14:49:25+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "60383b173e1c",
+      "titulo": "Alerta en Casanare por expansión de guerra entre el Eln y disidencias de ‘Iván Mordisco’",
+      "resumen": "Defensoría del Pueblo advirtió que la disputa territorial entre ambos grupos armados amenaza con desatar una crisis humanitaria en el departamento.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/alerta-en-casanare-por-expansion-de-guerra-entre-el-eln-y-disidencias-de-ivan-mordisco-3601072",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-14T14:28:52+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "defensoria del pueblo",
+        "disidencias"
+      ]
+    },
+    {
+      "id": "c1f23cd46312",
+      "titulo": "Mujeres cafeteras del Cesar buscan llevar a Estados Unidos el café que producen en territorios afectados por el conflicto armado",
+      "resumen": "Víctimas encontraron en el trabajo cafetero una oportunidad para regresar al campo y recuperar sus proyectos de vida.",
+      "url": "https://www.eltiempo.com/justicia/servicios/mujeres-cafeteras-del-cesar-buscan-llevar-a-estados-unidos-el-cafe-que-producen-en-territorios-afectados-por-el-conflicto-armado-3600988",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-13T23:54:38+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "conflicto armado"
+      ]
+    },
+    {
+      "id": "ad2287208e01",
+      "titulo": "Ejército alista a 1.500 suboficiales para operaciones contra grupos armados en Colombia",
+      "resumen": "Tendrán la responsabilidad de comandar soldados en zonas de Cauca, Nariño, Norte de Santander y Chocó.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-alista-a-1-500-suboficiales-para-operaciones-contra-grupos-armados-en-colombia-3600936",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-13T21:22:41+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
+      ]
+    },
+    {
+      "id": "0c8d5c9d594c",
+      "titulo": "La trampa de Putin: negociar la seguridad de Europa antes de detener la guerra de Ucrania",
+      "resumen": "El precio de la paz que desea imponer el Kremlin es un continente con menos OTAN y más influencia de Moscú. Los enviados de EEUU están decididos a abordar este debate Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/12/6af6138dfdddff4e608b456d.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-11-13T18:09:07+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra de ucrania"
       ]
     },
     {
@@ -467,40 +599,6 @@
       ],
       "palabras_clave": [
         "eln"
-      ]
-    },
-    {
-      "id": "aa677582fb55",
-      "titulo": "Estados Unidos acusa a cuatro rusos y un colombiano de integrar red de narcotráfico que tenía nexos con las antiguas Farc",
-      "resumen": "Dentro de la operación Sail Away, las autoridades del Distrito Este de Luisiana presentaron cargos contra los investigados. Hay también un italiano.",
-      "url": "https://www.eltiempo.com/justicia/delitos/estados-unidos-acusa-a-rusos-y-colombianos-de-integrar-red-de-narcotrafico-que-tenia-nexos-con-las-antiguas-farc-3600828",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-13T16:44:55+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "e0f772b12e17",
-      "titulo": "JEP condena a cinco militares (r) por 'falsos positivos' en Dabeiba y les impone sanciones de hasta seis años y medio",
-      "resumen": "Entre las sanciones está la búsqueda de desaparecidos, desminado humanitario, entre otros.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-condena-a-cinco-militares-r-por-falsos-positivos-en-dabeiba-y-les-impone-sanciones-de-hasta-seis-anos-y-medio-3600823",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-13T16:04:16+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "falsos positivos",
-        "jep"
       ]
     },
     {
@@ -552,54 +650,6 @@
       ]
     },
     {
-      "id": "ddb89d258317",
-      "titulo": "Presidente Abelardo De La Espriella habló tras ataque con explosivos en Tibú, Norte de Santander, que dejó cuatro militares muertos: 'Van a pagar'",
-      "resumen": "El mandatario aseguró que ordenó desplegar las capacidades de investigación de la Fuerza Pública para encontrar a los responsables.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/abelardo-de-la-espriella-se-pronuncia-tras-ataque-con-explosivos-en-tibu-norte-de-santander-que-dejo-cuatro-militares-muertos-van-a-pagar-3600616",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-12T23:10:57+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "e7baee8a3d12",
-      "titulo": "Ejército eleva a cuatro los militares muertos y cinco heridos tras ataque con 20 explosivos lanzados desde drones en Tibú",
-      "resumen": "El ataque ocurrió cerca de la frontera con Venezuela, en una zona donde operan el Eln y las disidencias del Frente 33.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-eleva-a-cuatro-los-militares-muertos-y-cinco-heridos-tras-ataque-con-20-explosivos-lanzados-desde-drones-en-tibu-3600635",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-12T22:06:46+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "0c8d5c9d594c",
-      "titulo": "La trampa de Putin: negociar la seguridad de Europa antes de detener la guerra de Ucrania",
-      "resumen": "El precio de la paz que desea imponer el Kremlin es un continente con menos OTAN y más influencia de Moscú. Los enviados de EEUU están decididos a abordar este debate Leer",
-      "url": "https://www.elmundo.es/internacional/2026/11/12/6af6138dfdddff4e608b456d.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-11-12T21:49:24+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra de ucrania"
-      ]
-    },
-    {
       "id": "3939be6800d7",
       "titulo": "'Sincerar las cifras' y conocer el avance real de indicadores: Morales presentó la ruta del Gobierno frente a la implementación del Acuerdo de Paz",
       "resumen": "La consejera comisionada de Paz y directora (e) de la Unidad de Implementación debutó como responsable de paz en el Congreso.",
@@ -613,22 +663,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "448b79606c7f",
-      "titulo": "Muere un coronel ruso en un atentado con dinamita contra su automóvil en San Petersburgo",
-      "resumen": "Tras el comienzo de la guerra en Ucrania varios militares rusos, incluyendo oficiales de alto rango, han muerto a consecuencia de atentados con dinamita, atribuidos a los servicios de inteligencia ucranianos Leer",
-      "url": "https://www.elmundo.es/internacional/2026/11/12/6af56590e9cf4ae9478b4579.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-11-12T09:14:33+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra en ucrania"
       ]
     },
     {
