@@ -1,8 +1,40 @@
 {
-  "generado_en": "2026-11-15T17:20:03.030005+00:00",
-  "total_revisadas": 315,
-  "total_relevantes": 39,
+  "generado_en": "2026-11-16T20:37:46.762519+00:00",
+  "total_revisadas": 316,
+  "total_relevantes": 29,
   "noticias": [
+    {
+      "id": "7964ef5a436d",
+      "titulo": "Putin eleva sus exigencias para terminar la guerra en Ucrania: qué pide ahora y por qué pone en alerta a Europa",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/ucrania-vladimir-putin-amplia-sus-exigencias-para-terminar-la-guerra-que-pide-ahora-a-la-otan-y-a-europa-estados-unidos-donald-trump-apuesplan-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-11-16T20:37:44.546834+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
+      ]
+    },
+    {
+      "id": "5b6095af9977",
+      "titulo": "La guerra en Ucrania.El príncipe Harry visitó por sorpresa Lviv y les dijo a los soldados ucranianos que van a ganar la guerra",
+      "resumen": "",
+      "url": "https://lanacion.com.ar/el-mundo/el-principe-harry-visito-por-sorpresa-lviv-y-les-dijo-a-los-soldados-ucranianos-que-van-a-ganar-la-nid15112026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-16T20:37:44.136522+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
+      ]
+    },
     {
       "id": "a1cb9d45e241",
       "titulo": "Con viajes y engaños: Enano habría sido víctima colateral de un crimen ordenado por la disidencia de las Farc en Cucutilla",
@@ -11,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:59.110282+00:00",
+      "fecha": "2026-11-16T20:37:41.353351+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -27,7 +59,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:59.110253+00:00",
+      "fecha": "2026-11-16T20:37:41.353341+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -36,83 +68,19 @@
       ]
     },
     {
-      "id": "4848cbb3c0c4",
-      "titulo": "Atención: ELN liberó a los dos agentes del CTI que tenía secuestrados desde mayo de 2025",
+      "id": "7a48528a1f17",
+      "titulo": "¿Citado de muerte? Menor de edad habría respondido a disparos a un ataque armado en Cúcuta",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-libera-dos-secuestrados-cti-arauca-MD43513593",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/citado-de-muerte-menor-de-edad-habria-respondido-disparos-un-ataque-armado-en-cucuta",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.796892+00:00",
+      "fecha": "2026-11-16T20:37:41.353292+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "f6ed72371b0b",
-      "titulo": "Ataque de drones explosivos dejó cuatro soldados muertos y otros heridos en Tibú: se habrían enviado desde Venezuela",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataque-drones-granadas-explosivos-soldados-muertos-tibu-FA43523512",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.796869+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "97a78d082f2d",
-      "titulo": "VIDEO | Alerta en Cali por atentado contra patrulla de la Policía en el sector de Siloé: van dos amenazas en 48 horas",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alerta-cali-atentado-patrulla-policia-en-siloe-van-dos-amenazas-en-48-horas-BG43541606",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.796822+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "2c809b292e94",
-      "titulo": "ELN publica prueba de supervivencia de la subteniente Camila Pantoja secuestrada en Arauca",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/eln-publica-prueba-supervivencia-subteniente-maria-camila-pantoja-secuestrada-arauca-DH43553189",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.796752+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "3ad4ef69bdaa",
-      "titulo": "“Esta incertidumbre todos los días fue agotadora y muy dolorosa”: el conmovedor relato del hijo de funcionario de la Fiscalía liberado por el ELN",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/funcionario-fiscalia-liberado-testimonio-hijo-secuestro-eln-NE43564911",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.796702+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
+        "ataque armado"
       ]
     },
     {
@@ -123,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.796604+00:00",
+      "fecha": "2026-11-16T20:37:40.685595+00:00",
       "temas": [
         "Conflicto armado",
         "DDHH"
@@ -134,46 +102,14 @@
       ]
     },
     {
-      "id": "e327454cbb7c",
-      "titulo": "Capturan a Primo Gay, jefe de las disidencias de las Farc en Antioquia",
+      "id": "87f22f255615",
+      "titulo": "Capturan a alias Pata de Palo, segundo cabecilla del Clan del Golfo, ¿quién es?",
       "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/atencion-capturan-a-primo-gay-jefe-de-las-disidencias-de-las-farc-en-antioquia/202611/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/alias-pata-de-palo-capturado-quien-es-clan-golfo-BB43603002",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.661115+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "74b6a23dd825",
-      "titulo": "Él es Primo Gay, cabecilla de las disidencias de las Farc capturado en Antioquia: lo señalan de matar al periodista Mateo Pérez",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-es-primo-gay-cabecilla-de-las-disidencias-de-las-farc-capturado-en-antioquia-lo-senalan-de-matar-al-periodista-mateo-perez/202625/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.661105+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "58439dc1409a",
-      "titulo": "Capturan en Montería a alias Pata de Palo, segundo cabecilla de estructura del Clan del Golfo",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/capturan-en-monteria-a-alias-pata-de-palo-segundo-cabecilla-de-estructura-del-clan-del-golfo/202643/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.661074+00:00",
+      "fecha": "2026-11-16T20:37:40.685509+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -182,62 +118,14 @@
       ]
     },
     {
-      "id": "3add5f5e826b",
-      "titulo": "Defensoría del Pueblo se pronunció sobre captura de Primo Gay: “No significa que los riesgos hayan desaparecido”",
+      "id": "dfa75436d83c",
+      "titulo": "Terrorismo en pleno puente festivo: atacan con explosivos tres peajes en Huila y Meta",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/defensoria-del-pueblo-se-pronuncio-sobre-captura-de-primo-gay-no-significa-que-los-riesgos-hayan-desaparecido/202600/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/ataques-explosivos-tres-peajes-colombia-puente-festivo-KD43620974",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.661018+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "d4baea023f6d",
-      "titulo": "Atentado con explosivos sacude peaje de Pipiral en la vía Bogotá–Villavicencio; Gobernación ofrece millonaria recompensa",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/atentado-con-explosivos-sacude-peaje-de-pipiral-en-la-via-bogotavillavicencio-gobernacion-ofrece-millonaria-recompensa/202627/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.660953+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "8e6d9dc5b991",
-      "titulo": "Cayó en Bogotá presunto cabecilla del ELN señalado de sembrar terror a comerciantes, alias ‘El Gordo’",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/cayo-en-bogota-presunto-cabecilla-del-eln-senalado-de-sembrar-terror-a-comerciantes-alias-el-gordo/202624/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.660924+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "32c789e49907",
-      "titulo": "Varias torres de energía fueron atacadas con explosivos en Huila",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/varias-torres-de-energia-fueron-atacadas-con-explosivos-en-huila/202627/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.660890+00:00",
+      "fecha": "2026-11-16T20:37:40.685419+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -246,35 +134,69 @@
       ]
     },
     {
-      "id": "dc96a87a3724",
-      "titulo": "Una década del Acuerdo de Paz",
+      "id": "b3747cb345ef",
+      "titulo": "Padres de María Camila Pantoja, subteniente secuestrada, hablaron con SEMANA y enviaron contundente mensaje al ELN",
       "resumen": "",
-      "url": "https://www.elespectador.com/colombia-20/una-decada-del-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/padres-de-maria-camila-pantoja-subteniente-secuestrada-hablaron-con-semana-y-enviaron-contundente-mensaje-al-eln/202639/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245576+00:00",
+      "fecha": "2026-11-16T20:37:40.236861+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "eln"
       ]
     },
     {
-      "id": "7aa696e0d938",
-      "titulo": "Abortos forzados y fusilamientos: los crímenes por los que la JEP imputó a nueve exfarc",
+      "id": "30678c39609c",
+      "titulo": "Ejército desmontó artefacto explosivo ubicado por las disidencias de Iván Mordisco en la vía Panamericana",
       "resumen": "",
-      "url": "https://www.elespectador.com/judicial/abortos-forzados-y-fusilamientos-los-crimenes-por-los-que-la-jep-imputo-a-nueve-exfarc/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/ejercito-desmonto-artefacto-explosivo-ubicado-por-las-disidencias-de-ivan-mordisco-en-la-via-panamericana/202654/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245570+00:00",
+      "fecha": "2026-11-16T20:37:40.236824+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "0543891aca24",
+      "titulo": "Ataque con drones cargados de explosivos golpea a la población civil en Sardinata, Norte de Santander",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/ataque-con-drones-cargados-de-explosivos-golpea-a-la-poblacion-civil-en-sardinata-norte-de-santander/202631/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-16T20:37:40.236789+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "explosivos",
+        "poblacion civil"
+      ]
+    },
+    {
+      "id": "e3bebb13efbe",
+      "titulo": "Ejército incauta más de una tonelada de marihuana de las disidencias en el Cauca: el cargamento tenía como destino Brasil",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/ejercito-incauta-mas-de-una-tonelada-de-marihuana-de-las-disidencias-en-el-cauca-el-cargamento-tenia-como-destino-brasil/202615/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-16T20:37:40.236782+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -285,7 +207,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245558+00:00",
+      "fecha": "2026-11-16T20:37:39.417826+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -301,7 +223,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245538+00:00",
+      "fecha": "2026-11-16T20:37:39.417810+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -317,7 +239,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245528+00:00",
+      "fecha": "2026-11-16T20:37:39.417800+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -333,7 +255,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245521+00:00",
+      "fecha": "2026-11-16T20:37:39.417793+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -349,7 +271,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245517+00:00",
+      "fecha": "2026-11-16T20:37:39.417788+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -365,7 +287,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245496+00:00",
+      "fecha": "2026-11-16T20:37:39.417782+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -381,7 +303,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245478+00:00",
+      "fecha": "2026-11-16T20:37:39.417760+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -397,7 +319,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245460+00:00",
+      "fecha": "2026-11-16T20:37:39.417741+00:00",
       "temas": [
         "DDHH"
       ],
@@ -413,12 +335,76 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-15T17:19:58.245454+00:00",
+      "fecha": "2026-11-16T20:37:39.417737+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "reclutamiento"
+      ]
+    },
+    {
+      "id": "6fdd06f7fe63",
+      "titulo": "Alias ‘Primo Gay’ fue enviado a prisión: lo investigan por secuestros, homicidios y ataques armados en Antioquia",
+      "resumen": "El hombre, de 24 años, habría pasado de las disidencias de las Farc al Clan del Golfo, según las investigaciones.",
+      "url": "https://www.eltiempo.com/justicia/alias-primo-gay-fue-enviado-a-prision-lo-investigan-por-secuestros-homicidios-y-ataques-armados-en-antioquia-3601381",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-16T13:55:09+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "3a7a0cc54538",
+      "titulo": "‘Se dice que entregamos el país a las Farc y tal me parece que son leyendas’: Humberto de la Calle habla de lo 10 años del acuerdo de paz",
+      "resumen": "El exjefe negociador de los diálogos con las Farc hace un balance de los 10 años del acuerdo. Asegura que hubo fallas, pero que era necesario.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/se-dice-que-entregamos-el-pais-a-las-farc-y-tal-me-parece-que-son-leyendas-humberto-de-la-calle-habla-de-lo-10-anos-del-acuerdo-de-paz-3601321",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-16T11:17:55+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "00c81236e327",
+      "titulo": "Radiografía de los nueve bombardeos ordenados en los primeros 100 días de gobierno",
+      "resumen": "Las operaciones se concentraron en seis departamentos y estuvieron dirigidas contra el Eln, las disidencias y el ‘clan del Golfo’.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/radiografia-de-los-nueve-bombardeos-ordenados-en-los-primeros-100-dias-de-gobierno-3601317",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-15T22:52:09+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "588f3b36cb33",
+      "titulo": "Nueve bombardeos, 47.873 capturas y ofensiva contra grupos armados: el balance de Defensa en los primeros 100 días de De La Espriella",
+      "resumen": "El mindefensa, Jorge Mora López, reportó 69 muertos en ataques aéreos, más de 100 menores recuperados y la activación de bloques de seguridad urbana.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nueve-bombardeos-47-873-capturas-y-ofensiva-contra-grupos-armados-el-balance-de-defensa-en-los-primeros-100-dias-de-de-la-espriella-3601289",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-15T18:46:37+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupos armados"
       ]
     },
     {
@@ -454,136 +440,6 @@
       ]
     },
     {
-      "id": "44739b29e6d3",
-      "titulo": "Los secretos de ‘Primo Gay’ antes de su caída en Antioquia: reunión con ‘Richard’, su alianza con el ‘clan del Golfo’ y el plan para entrar a Anorí",
-      "resumen": "EL TIEMPO conoció detalles de los seguimientos que durante años realizaron la Policía y el Ejército contra el cabecilla capturado en Briceño.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-secretos-de-primo-gay-antes-de-su-caida-en-antioquia-reunion-con-richard-su-alianza-con-el-clan-del-golfo-y-el-plan-para-entrar-a-anori-3601240",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-15T14:13:10+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "86aaf8db9eab",
-      "titulo": "JEP propuso al Gobierno que comparecientes ayuden en la reconstrucción por terremoto",
-      "resumen": "El presidente de la JEP, magistrado Danilo Rojas, habla sobre la cirugía por el recorte en el presupuesto y los logros y retrasos en el Acuerdo.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-propuso-al-gobierno-que-comparecientes-ayuden-en-la-reconstruccion-por-terremoto-3601135",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-15T13:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "24243153565f",
-      "titulo": "Golpes del Eln, la razón del relevo en la cúpula militar en Arauca",
-      "resumen": "El secuestro de una subteniente y los ataques contra la Fuerza Pública pusieron bajo evaluación a dos generales.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/golpes-del-eln-la-razon-del-relevo-en-la-cupula-militar-en-arauca-3601126",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-15T11:21:34+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "94bb5821857e",
-      "titulo": "El secuestro disminuye en el país, pero en lo que va del año este delito deja 330 víctimas: este es el panorama",
-      "resumen": "Durante el mismo periodo de 2025 (enero-septiembre) habían sido reportadas 554 víctimas.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/el-secuestro-disminuye-en-el-pais-pero-en-lo-que-va-del-ano-este-delito-deja-330-victimas-este-es-el-panorama-3601147",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-15T03:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "27ce4cef1726",
-      "titulo": "Los detalles de la caída de ‘Primo Gay’, el hombre que desafió a las disidencias de ‘Calarcá’ y terminó aliándose con el ‘clan del Golfo’",
-      "resumen": "Las autoridades lo relacionan con homicidios, campos minados, ataques contra militares y policías, así como con el asesinato de un líder social.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-detalles-de-la-caida-de-primo-gay-el-hombre-que-desafio-a-las-disidencias-de-calarca-y-termino-aliandose-con-el-clan-del-golfo-3601100",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-14T21:44:40+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "clan del golfo",
-        "lider social"
-      ]
-    },
-    {
-      "id": "9b7b143543b3",
-      "titulo": "Cayó alias Pata de Palo, cabecilla del 'clan del Golfo' que coordinaba a más de 1.400 hombres en armas en cuatro departamentos",
-      "resumen": "El señalado segundo cabecilla de la estructura ‘Roberto Vargas Gutiérrez’ fue capturado en zona rural de Montería.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-alias-pata-de-palo-cabecilla-del-clan-del-golfo-que-coordinaba-a-mas-de-1-400-hombres-en-armas-en-cuatro-departamentos-3601153",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-14T21:35:08+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "4eb6e509659f",
-      "titulo": "Cayó en Bogotá alias El Gordo, señalado de ordenar atentados y extorsiones del Eln en Cúcuta",
-      "resumen": "Las autoridades lo vinculan con ataques con explosivos contra comerciantes de Cenabastos y la incineración de vehículos en Norte de Santander.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/cayo-en-bogota-alias-el-gordo-senalado-de-ordenar-atentados-y-extorsiones-del-eln-en-cucuta-3601139",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-14T21:17:44+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "0c8d5c9d594c",
-      "titulo": "La trampa de Putin: negociar la seguridad de Europa antes de detener la guerra de Ucrania",
-      "resumen": "El precio de la paz que desea imponer el Kremlin es un continente con menos OTAN y más influencia de Moscú. Los enviados de EEUU están decididos a abordar este debate Leer",
-      "url": "https://www.elmundo.es/internacional/2026/11/12/6af6138dfdddff4e608b456d.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-11-13T18:09:07+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra de ucrania"
-      ]
-    },
-    {
       "id": "3939be6800d7",
       "titulo": "'Sincerar las cifras' y conocer el avance real de indicadores: Morales presentó la ruta del Gobierno frente a la implementación del Acuerdo de Paz",
       "resumen": "La consejera comisionada de Paz y directora (e) de la Unidad de Implementación debutó como responsable de paz en el Congreso.",
@@ -613,22 +469,6 @@
       ],
       "palabras_clave": [
         "grupos armados"
-      ]
-    },
-    {
-      "id": "6f817beb5071",
-      "titulo": "Hollman Morris habló sobre el Pacto de Valledupar y presuntas presiones a 'exparas'; aseguró que no hubo participación de RTVC: 'Investigarse a fondo'",
-      "resumen": "El exdirector del medio aseguró que buscaba entrevistar a Jorge 40 durante el encuentro con exjefes paramilitares en Valledupar. Esto dijo.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/hollman-morris-hablo-sobre-el-pacto-de-valledupar-y-presuntas-presiones-a-exparas-aseguro-que-no-hubo-participacion-de-rtvc-investigarse-a-fondo-3594872",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-10-20T14:09:09+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "paramilitares"
       ]
     }
   ]
