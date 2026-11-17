@@ -1,8 +1,24 @@
 {
-  "generado_en": "2026-11-16T20:37:46.762519+00:00",
+  "generado_en": "2026-11-17T19:16:48.575345+00:00",
   "total_revisadas": 316,
-  "total_relevantes": 29,
+  "total_relevantes": 33,
   "noticias": [
+    {
+      "id": "5f03699bf14b",
+      "titulo": "Rusia acusa a Francia de ”participación directa\" en la guerra en Ucrania",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/europa/rusia-acusa-a-francia-de-participacion-directa-en-la-guerra-en-ucrania-serguei-lavrov-vladimir-putin-volodymyr-zelensky-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-11-17T19:16:46.760930+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
+      ]
+    },
     {
       "id": "7964ef5a436d",
       "titulo": "Putin eleva sus exigencias para terminar la guerra en Ucrania: qué pide ahora y por qué pone en alerta a Europa",
@@ -11,44 +27,12 @@
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-11-16T20:37:44.546834+00:00",
+      "fecha": "2026-11-17T19:16:46.760877+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
         "guerra en ucrania"
-      ]
-    },
-    {
-      "id": "5b6095af9977",
-      "titulo": "La guerra en Ucrania.El príncipe Harry visitó por sorpresa Lviv y les dijo a los soldados ucranianos que van a ganar la guerra",
-      "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/el-principe-harry-visito-por-sorpresa-lviv-y-les-dijo-a-los-soldados-ucranianos-que-van-a-ganar-la-nid15112026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-16T20:37:44.136522+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra en ucrania"
-      ]
-    },
-    {
-      "id": "a1cb9d45e241",
-      "titulo": "Con viajes y engaños: Enano habría sido víctima colateral de un crimen ordenado por la disidencia de las Farc en Cucutilla",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/con-viajes-y-enganos-enano-habria-sido-victima-colateral-de-un-crimen-ordenado-por-la",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-16T20:37:41.353351+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
       ]
     },
     {
@@ -59,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:41.353341+00:00",
+      "fecha": "2026-11-17T19:16:43.952779+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +59,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:41.353292+00:00",
+      "fecha": "2026-11-17T19:16:43.952745+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -84,21 +68,19 @@
       ]
     },
     {
-      "id": "935bed6cd697",
-      "titulo": "Frustran atentado contra líder social de Briceño, Antioquia: le habían dejado bomba de 10 kilos junto a su casa",
+      "id": "4dc6ea479705",
+      "titulo": "El Tarra vuelve a ser blanco de drones explosivos dejando varios heridos y daños en viviendas",
       "resumen": "",
-      "url": "https://elcolombiano.com/antioquia/atentado-contra-lider-social-briceno-antioquia-explosivos-KL43591218",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/el-tarra-vuelve-ser-blanco-de-drones-explosivos-dejando-varios-heridos-y-danos-en",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.685595+00:00",
+      "fecha": "2026-11-17T19:16:43.952732+00:00",
       "temas": [
-        "Conflicto armado",
-        "DDHH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado",
-        "lider social"
+        "explosivos"
       ]
     },
     {
@@ -109,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.685509+00:00",
+      "fecha": "2026-11-17T19:16:43.699206+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -125,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.685419+00:00",
+      "fecha": "2026-11-17T19:16:43.699129+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -134,14 +116,30 @@
       ]
     },
     {
-      "id": "b3747cb345ef",
-      "titulo": "Padres de María Camila Pantoja, subteniente secuestrada, hablaron con SEMANA y enviaron contundente mensaje al ELN",
+      "id": "39b039c08030",
+      "titulo": "Alias Primo Gay: los detalles del secuestro de dos campesinos que duró 15 días y otros crímenes por los que fue enviado a prisión",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/padres-de-maria-camila-pantoja-subteniente-secuestrada-hablaron-con-semana-y-enviaron-contundente-mensaje-al-eln/202639/",
+      "url": "https://elcolombiano.com/colombia/carcel-primo-gay-cabecilla-disidencias-farc-paso-clan-del-golfo-KC43639366",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-17T19:16:43.699033+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "1ff8a608554a",
+      "titulo": "Secuestran a dos jóvenes en Norte de Santander: iban de Tibú a Cúcuta cuando fueron interceptadas por el ELN",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cucuta/articulo/secuestran-a-dos-jovenes-en-norte-de-santander-iban-de-tibu-a-cucuta-cuando-fueron-interceptadas-por-el-eln/202602/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.236861+00:00",
+      "fecha": "2026-11-17T19:16:43.639406+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -150,69 +148,85 @@
       ]
     },
     {
-      "id": "30678c39609c",
-      "titulo": "Ejército desmontó artefacto explosivo ubicado por las disidencias de Iván Mordisco en la vía Panamericana",
+      "id": "c5843721fd81",
+      "titulo": "ELN instala bandera en Popayán, cerca de la Policía de Carabineros: revisan que no haya explosivos",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-desmonto-artefacto-explosivo-ubicado-por-las-disidencias-de-ivan-mordisco-en-la-via-panamericana/202654/",
+      "url": "https://semana.com/nacion/cali/articulo/eln-instala-bandera-en-popayan-cerca-de-la-policia-de-carabineros-revisan-que-no-haya-explosivos/202610/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.236824+00:00",
+      "fecha": "2026-11-17T19:16:43.639384+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "eln"
       ]
     },
     {
-      "id": "0543891aca24",
-      "titulo": "Ataque con drones cargados de explosivos golpea a la población civil en Sardinata, Norte de Santander",
+      "id": "9aea9cd0755b",
+      "titulo": "JEP le imputará crímenes de guerra y de lesa humanidad a 18 exintegrantes de la Fuerza Pública",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ataque-con-drones-cargados-de-explosivos-golpea-a-la-poblacion-civil-en-sardinata-norte-de-santander/202631/",
+      "url": "https://semana.com/nacion/articulo/jep-le-imputara-crimenes-de-guerra-y-de-lesa-humanidad-a-18-exintegrantes-de-la-fuerza-publica/202617/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.236789+00:00",
+      "fecha": "2026-11-17T19:16:43.639347+00:00",
       "temas": [
         "Conflicto armado",
         "DIH"
       ],
       "palabras_clave": [
-        "explosivos",
-        "poblacion civil"
+        "crimenes de guerra",
+        "jep"
       ]
     },
     {
-      "id": "e3bebb13efbe",
-      "titulo": "Ejército incauta más de una tonelada de marihuana de las disidencias en el Cauca: el cargamento tenía como destino Brasil",
+      "id": "672a2bb97edd",
+      "titulo": "Cuatro asaltos aéreos han realizado las Fuerzas Militares en el caso del secuestro de Nancy Gómez en La Guajira",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ejercito-incauta-mas-de-una-tonelada-de-marihuana-de-las-disidencias-en-el-cauca-el-cargamento-tenia-como-destino-brasil/202615/",
+      "url": "https://semana.com/nacion/articulo/cuatro-asaltos-aereos-han-realizado-las-fuerzas-militares-en-el-caso-del-secuestro-de-nancy-gomez-en-la-guajira/202643/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:40.236782+00:00",
+      "fecha": "2026-11-17T19:16:43.639300+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "secuestro"
       ]
     },
     {
-      "id": "bb565bcf5c10",
-      "titulo": "Santos asegura que gobierno de De la Espriella quiere \"deslegitimar el Acuerdo de Paz\"",
+      "id": "20c32b8c4157",
+      "titulo": "Lo drogaron y lo mantuvieron atado durante 48 horas: así fue el secuestro de un comerciante en  Bogotá",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/santos-asegura-que-gobierno-de-de-la-espriella-quiere-deslegitimar-el-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/lo-drogaron-y-lo-mantuvieron-atado-durante-48-horas-asi-fue-el-secuestro-de-un-comerciante-en-bogota/202605/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417826+00:00",
+      "fecha": "2026-11-17T19:16:43.639260+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "secuestro"
+      ]
+    },
+    {
+      "id": "056ba0b52446",
+      "titulo": "Atentado frustrado en vía Girardot-Espinal: desactivaron carrobomba listo para estallar en peaje",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/atentado-frustrado-en-via-girardot-espinal-desactivaron-carro-bomba-listo-para-estallar-en-peaje/202652/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-17T19:16:43.639245+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
       ]
     },
     {
@@ -223,7 +237,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417810+00:00",
+      "fecha": "2026-11-17T19:16:43.519626+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -239,7 +253,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417800+00:00",
+      "fecha": "2026-11-17T19:16:43.519615+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -255,7 +269,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417793+00:00",
+      "fecha": "2026-11-17T19:16:43.519608+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -271,7 +285,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417788+00:00",
+      "fecha": "2026-11-17T19:16:43.519605+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -287,7 +301,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417782+00:00",
+      "fecha": "2026-11-17T19:16:43.519598+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -303,7 +317,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417760+00:00",
+      "fecha": "2026-11-17T19:16:43.519576+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -319,7 +333,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417741+00:00",
+      "fecha": "2026-11-17T19:16:43.519557+00:00",
       "temas": [
         "DDHH"
       ],
@@ -335,7 +349,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-16T20:37:39.417737+00:00",
+      "fecha": "2026-11-17T19:16:43.519554+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -344,19 +358,101 @@
       ]
     },
     {
-      "id": "6fdd06f7fe63",
-      "titulo": "Alias ‘Primo Gay’ fue enviado a prisión: lo investigan por secuestros, homicidios y ataques armados en Antioquia",
-      "resumen": "El hombre, de 24 años, habría pasado de las disidencias de las Farc al Clan del Golfo, según las investigaciones.",
-      "url": "https://www.eltiempo.com/justicia/alias-primo-gay-fue-enviado-a-prision-lo-investigan-por-secuestros-homicidios-y-ataques-armados-en-antioquia-3601381",
+      "id": "74f10c122a89",
+      "titulo": "Recolectan muestras de ADN para identificar a hondureños muertos en la guerra en Ucrania",
+      "resumen": "",
+      "url": "https://www.infobae.com/america/agencias/2026/11/17/recolectan-muestras-de-adn-para-identificar-a-hondurenos-muertos-en-la-guerra-en-ucrania/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-17T19:01:31+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
+      ]
+    },
+    {
+      "id": "d5cf7a695fd2",
+      "titulo": "'El Acuerdo de Paz no causó la situación que Colombia vive ahora': Miroslav Jenča, jefe de la Misión de ONU, habla tras 10 años de la firma",
+      "resumen": "El representante especial del secretario general hace un balance y explica por qué es clave mantener el despliegue territorial de la Misión.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/el-acuerdo-de-paz-no-causo-la-situacion-que-colombia-vive-ahora-miroslav-jenca-jefe-de-la-mision-de-onu-habla-tras-10-anos-de-la-firma-3601546",
       "fuente": "El Tiempo",
-      "seccion": "Justicia",
+      "seccion": "Política / Proceso de paz",
       "region": "nacional",
-      "fecha": "2026-11-16T13:55:09+00:00",
+      "fecha": "2026-11-17T17:56:15+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "956840603144",
+      "titulo": "Los avances, las deudas y el nuevo mapa de la guerra tras 10 años de la firma del Acuerdo de Paz con las Farc",
+      "resumen": "Reintegración, la nota alta; justicia y verdad, aún pendientes. Víctimas piden celeridad y persisten las amenazas a excombatientes.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/los-avances-las-deudas-y-el-nuevo-mapa-de-la-guerra-tras-10-anos-de-la-firma-del-acuerdo-de-paz-con-las-farc-3601706",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-17T17:45:48+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "edcd18ccbbe7",
+      "titulo": "JEP imputó crímenes de guerra y de lesa humanidad a 18 militares y policías por violencia sexual contra más de 755 víctimas",
+      "resumen": "La decisión identifica la participación directa de uniformados y sus alianzas con grupos paramilitares en distintas regiones del país en 565 hechos.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputo-crimenes-de-guerra-y-de-lesa-humanidad-a-18-militares-y-policias-por-violencia-sexual-contra-mas-de-755-victimas-3601593",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-17T14:25:00+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "crimenes de guerra",
+        "paramilitares"
+      ]
+    },
+    {
+      "id": "f2c99177022a",
+      "titulo": "El cabecilla de las disidencias de ‘Calarcá’ cuya muerte en un bombardeo reveló Abelardo De La Espriella: ¿quién es?",
+      "resumen": "Fue incluido en el balance de los primeros cien días de Gobierno. El hombre cayó durante la operación Amón, ejecutada en agosto en Guaviare.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/el-cabecilla-de-las-disidencias-de-calarca-cuya-muerte-en-un-bombardeo-revelo-abelardo-de-la-espriella-quien-es-3601588",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-17T13:30:06+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "7703d3730c87",
+      "titulo": "Policía da golpe a la minería ilegal en el Amazonas con la destrucción de 180 equipos de extracción",
+      "resumen": "Con la operación 'Amazonas Libre III Ticuna' se afectaron las finanzas criminales de las disidencias de las Farc.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/policia-da-golpe-a-la-mineria-ilegal-en-el-amazonas-con-la-destruccion-de-180-equipos-de-extraccion-3601553",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-17T11:54:51+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
       ]
     },
     {
@@ -392,22 +488,6 @@
       ]
     },
     {
-      "id": "588f3b36cb33",
-      "titulo": "Nueve bombardeos, 47.873 capturas y ofensiva contra grupos armados: el balance de Defensa en los primeros 100 días de De La Espriella",
-      "resumen": "El mindefensa, Jorge Mora López, reportó 69 muertos en ataques aéreos, más de 100 menores recuperados y la activación de bloques de seguridad urbana.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/nueve-bombardeos-47-873-capturas-y-ofensiva-contra-grupos-armados-el-balance-de-defensa-en-los-primeros-100-dias-de-de-la-espriella-3601289",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-15T18:46:37+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupos armados"
-      ]
-    },
-    {
       "id": "b605d3c4cdba",
       "titulo": "La Fiscalía lituana investiga a sospechosos de crímenes de guerra en Ucrania",
       "resumen": "Tres de los sospechosos están presuntamente relacionados con la detención ilegal y el asesinato del documentalista lituano Mantas Kvedaravicius en la ciudad ucraniana de Mariúpol Leer",
@@ -421,22 +501,6 @@
       ],
       "palabras_clave": [
         "crimenes de guerra"
-      ]
-    },
-    {
-      "id": "8a8f823b0ed1",
-      "titulo": "Frustran atentado con explosivos contra la Alcaldía de Hato Corozal, Casanare: capturan a alias Kamo",
-      "resumen": "En el operativo fue incautado un artefacto explosivo con cerca de 500 gramos de pentolita, además de armas, municiones y teléfonos celulares.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/frustran-atentado-con-explosivos-contra-la-alcaldia-de-hato-corozal-casanare-capturan-a-alias-kamo-3601247",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-15T14:40:13+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
       ]
     },
     {
