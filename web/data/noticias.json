@@ -1,182 +1,138 @@
 {
-  "generado_en": "2026-11-18T18:57:29.906533+00:00",
-  "total_revisadas": 317,
-  "total_relevantes": 30,
+  "generado_en": "2026-11-19T19:05:36.777157+00:00",
+  "total_revisadas": 315,
+  "total_relevantes": 32,
   "noticias": [
     {
-      "id": "7964ef5a436d",
-      "titulo": "Putin eleva sus exigencias para terminar la guerra en Ucrania: qué pide ahora y por qué pone en alerta a Europa",
+      "id": "be2f08e399f6",
+      "titulo": "Corte Internacional de Justicia declara a Myanmar responsable de genocidio contra los rohinyás y ordena indemnizar a víctimas",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/europa/ucrania-vladimir-putin-amplia-sus-exigencias-para-terminar-la-guerra-que-pide-ahora-a-la-otan-y-a-europa-estados-unidos-donald-trump-apuesplan-noticia/",
+      "url": "https://elcomercio.pe/mundo/asia/la-corte-internacional-de-justicia-declara-a-myanmar-responsable-de-genocidio-contra-los-rohinyas-en-fallo-historico-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-11-18T18:57:27.912609+00:00",
+      "fecha": "2026-11-19T19:05:34.828925+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "guerra en ucrania"
+        "genocidio"
       ]
     },
     {
-      "id": "7a48528a1f17",
-      "titulo": "¿Citado de muerte? Menor de edad habría respondido a disparos a un ataque armado en Cúcuta",
+      "id": "9e8bb774c8be",
+      "titulo": "Putin dice que EE.UU., Rusia y China comparten el interés de que acabe la guerra de Ucrania",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/citado-de-muerte-menor-de-edad-habria-respondido-disparos-un-ataque-armado-en-cucuta",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-18T18:57:26.145152+00:00",
+      "url": "https://elcomercio.pe/mundo/europa/vladimir-putin-dice-que-estados-unidos-rusia-y-china-comparten-el-interes-de-que-acabe-la-guerra-de-ucrania-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-11-19T19:05:34.828915+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "ataque armado"
+        "guerra de ucrania"
       ]
     },
     {
-      "id": "4dc6ea479705",
-      "titulo": "El Tarra vuelve a ser blanco de drones explosivos dejando varios heridos y daños en viviendas",
+      "id": "f9ce55a1a084",
+      "titulo": "Sin precedente.El máximo tribunal internacional de justicia dictaminó por primera vez que un Estado cometió genocidio",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/el-tarra-vuelve-ser-blanco-de-drones-explosivos-dejando-varios-heridos-y-danos-en",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-18T18:57:26.145135+00:00",
+      "url": "https://lanacion.com.ar/el-mundo/el-maximo-tribunal-internacional-de-justicia-dictamino-por-primera-vez-que-un-estado-cometio-nid19112026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-19T19:05:34.234894+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "explosivos"
+        "genocidio"
       ]
     },
     {
-      "id": "87f22f255615",
-      "titulo": "Capturan a alias Pata de Palo, segundo cabecilla del Clan del Golfo, ¿quién es?",
+      "id": "9a958a78efba",
+      "titulo": "JEP imputó a 18 policías y militares retirados por crímenes sexuales: dos abusaron de mujeres en operativo contra guerrilleros",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/alias-pata-de-palo-capturado-quien-es-clan-golfo-BB43603002",
+      "url": "https://elcolombiano.com/colombia/jep-imputa-18-militares-y-policias-retirados-crimenes-sexuales-gallera-detalles-GC43723243",
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.681530+00:00",
+      "fecha": "2026-11-19T19:05:31.919344+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "jep"
       ]
     },
     {
-      "id": "dfa75436d83c",
-      "titulo": "Terrorismo en pleno puente festivo: atacan con explosivos tres peajes en Huila y Meta",
+      "id": "34ce0cd81246",
+      "titulo": "Descartan presencia de explosivos en la vía Mulaló - Yumbo: ELN dejó abandonado un botellón con su bandera",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/ataques-explosivos-tres-peajes-colombia-puente-festivo-KD43620974",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/cali/articulo/autoridades-verifican-presencia-de-explosivos-del-eln-en-la-via-mulalo-yumbo-este-es-el-panorama/202600/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.681395+00:00",
+      "fecha": "2026-11-19T19:05:31.803512+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "explosivos"
+        "eln"
       ]
     },
     {
-      "id": "39b039c08030",
-      "titulo": "Alias Primo Gay: los detalles del secuestro de dos campesinos que duró 15 días y otros crímenes por los que fue enviado a prisión",
+      "id": "a257feaf0591",
+      "titulo": "El décimo bombardeo de las Fuerzas Militares fue contra alias Bertha, cabecilla del frente Luis Carlos Cárdenas del ELN",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/carcel-primo-gay-cabecilla-disidencias-farc-paso-clan-del-golfo-KC43639366",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://semana.com/nacion/articulo/el-decimo-bombardeo-de-las-fuerzas-militares-fue-contra-alias-bertha-cabecilla-del-frente-luis-carlos-cardenas-del-eln/202623/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.681216+00:00",
+      "fecha": "2026-11-19T19:05:31.803421+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "e58eff2999a6",
+      "titulo": "Por secuestro extorsivo fue capturado el líder social Armando Andrés Pérez",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/por-secuestro-extorsivo-fue-capturado-el-lider-social-armando-andres-perez/202658/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-19T19:05:31.803381+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lider social",
         "secuestro"
       ]
     },
     {
-      "id": "3537e20c1475",
-      "titulo": "Los explosivos que decomisó el Ejército a alias Iván Mordisco en el Cauca",
+      "id": "2ce5f40a76ff",
+      "titulo": "JEP envió a Mario Montoya y a dos generales (r) a la UIA por falsos positivos: imputó a otros siete generales del Ejército",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/los-explosivos-que-decomiso-el-ejercito-a-alias-ivan-mordisco-en-el-cauca/202601/",
+      "url": "https://semana.com/nacion/articulo/jep-envio-a-mario-montoya-y-a-dos-generales-r-a-la-uia-por-falsos-positivos-imputo-a-otros-siete-generales-del-ejercito/202636/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.553923+00:00",
+      "fecha": "2026-11-19T19:05:31.803293+00:00",
       "temas": [
-        "Conflicto armado"
+        "Conflicto armado",
+        "DDHH"
       ],
       "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "81d6e752251b",
-      "titulo": "Regresa la energía a tres departamentos tras apagón provocado por atentado a torres eléctricas en Huila",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/regresa-la-energia-a-tres-departamentos-tras-apagon-provocado-por-atentado-a-torres-electricas-en-huila/202638/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.553886+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "8b36e258a1dc",
-      "titulo": "La historia de la uniformada ganadora del premio a Mejor Policía de Colombia: gracias a ella cayó temido explosivista de las Farc",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/la-historia-de-la-uniformada-ganadora-del-premio-a-mejor-policia-de-colombia-gracias-a-ella-cayo-temido-explosivista-de-las-farc/202612/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.553738+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "f39f4853228c",
-      "titulo": "Cayó alias Bocalinda, explosivista de las disidencias de alias Calarcá en Caquetá",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/cayo-alias-bocalinda-explosivista-de-las-disidencias-de-alias-calarca-en-caqueta/202601/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.553668+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "189a13d8917c",
-      "titulo": "Ejército frustró atentado contra el peaje El Contadero, en Nariño: un presunto atacante murió tras explosión",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/ejercito-frustro-atentado-contra-el-peaje-el-contadero-en-narino-un-presunto-atacante-murio-tras-explosion/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.553572+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
+        "falsos positivos",
+        "jep"
       ]
     },
     {
@@ -187,7 +143,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296643+00:00",
+      "fecha": "2026-11-19T19:05:31.362307+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +159,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296628+00:00",
+      "fecha": "2026-11-19T19:05:31.362292+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +175,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296617+00:00",
+      "fecha": "2026-11-19T19:05:31.362281+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +191,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296612+00:00",
+      "fecha": "2026-11-19T19:05:31.362276+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +207,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296601+00:00",
+      "fecha": "2026-11-19T19:05:31.362266+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +223,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296584+00:00",
+      "fecha": "2026-11-19T19:05:31.362248+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +239,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296538+00:00",
+      "fecha": "2026-11-19T19:05:31.362198+00:00",
       "temas": [
         "DDHH"
       ],
@@ -299,7 +255,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296530+00:00",
+      "fecha": "2026-11-19T19:05:31.362191+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,12 +271,144 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-18T18:57:25.296458+00:00",
+      "fecha": "2026-11-19T19:05:31.362139+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "404bdd00debe",
+      "titulo": "Se hundió en Senado el proyecto para limitar la JEP en 2028: oposición rompió quórum",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/se-hundio-en-senado-el-proyecto-para-limitar-la-jep-en-2028-oposicion-rompio-quorum/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-19T19:05:31.362106+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "jep"
+      ]
+    },
+    {
+      "id": "ee0b70bbe0d9",
+      "titulo": "¿Cómo le ha ido a Abelardo de la Espriella con la restitución de tierras en sus primeros 100 días?",
+      "resumen": "La Unidad de Restitución ya ha realizado entregas materiales a familias víctimas del conflicto. Estos son los primeros avances.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/como-le-ha-ido-a-abelardo-de-la-espriella-con-la-restitucion-de-tierras-en-sus-primeros-100-dias-3602444",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-19T18:43:30+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "victimas del conflicto"
+      ]
+    },
+    {
+      "id": "6d3cfd969b57",
+      "titulo": "Once capturados deja operativo contra presunta red al servicio del ‘clan del Golfo’",
+      "resumen": "Los allanamientos se realizaron en Barranquilla y El Carmen de Bolívar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/once-capturados-deja-operativo-contra-presunta-red-al-servicio-del-clan-del-golfo-3602403",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-19T16:52:18+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "clan del golfo"
+      ]
+    },
+    {
+      "id": "7b26db1a6e5b",
+      "titulo": "Primera reunión entre Viviane Morales y la Misión de la ONU: se planteó articular la implementación del Acuerdo de Paz con la política de seguridad",
+      "resumen": "La consejera y directora (e) de la Unidad de Implementación recibió al jefe de la Misión, Miroslav Jenča.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/primera-reunion-entre-viviane-morales-y-la-mision-de-la-onu-se-planteo-articular-la-implementacion-del-acuerdo-de-paz-con-la-politica-de-seguridad-3602343",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-19T15:44:14+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "4d99e265e070",
+      "titulo": "Capturan a hombre que participaba en foros con senadores y promovía marchas: lo señalan de tener nexos con disidencias de ‘Calarcá’",
+      "resumen": "Figura entre los seis capturados durante una operación del Ejército y la Policía en el sur del Cesar.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-hombre-que-participaba-en-foros-con-senadores-y-promovia-marchas-lo-senalan-de-tener-nexos-con-disidencias-de-calarca-3602352",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-19T15:17:56+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "daf2e21d3cac",
+      "titulo": "JEP imputa a 7 generales (r) del Ejército por 2.077 víctimas de ‘falsos positivos’ a nivel nacional y envía a Mario Montoya y dos generales a la UIA",
+      "resumen": "La Sala de Reconocimiento cierra el Caso 03: atribuye a los altos mandos una política de bajas en combate que expandió los crímenes entre 2005 y 2008.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-imputa-a-7-generales-r-del-ejercito-por-2-077-victimas-de-falsos-positivos-a-nivel-nacional-y-envia-a-mario-montoya-y-dos-generales-a-la-uia-3602244",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-19T13:41:31+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "falsos positivos",
+        "jep"
+      ]
+    },
+    {
+      "id": "3367e93a7a16",
+      "titulo": "JEP eleva a 7.961 las víctimas de los 'falsos positivos' entre 1990 y 2016",
+      "resumen": "La Sala de Reconocimiento señala que militares configuraron un patrón de alcance nacional, sistemático y generalizado.",
+      "url": "https://www.eltiempo.com/justicia/jep-colombia/jep-eleva-a-7-961-las-victimas-de-los-falsos-positivos-entre-1990-y-3599695",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-19T13:40:02+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "falsos positivos",
+        "jep"
+      ]
+    },
+    {
+      "id": "a0eda68d10b4",
+      "titulo": "La CIJ declara a Birmania responsable del genocidio rohinyá y ordena indemnizar a las víctimas",
+      "resumen": "Se trata del primer fallo de la CIJ que establece la responsabilidad internacional de un Estado por este crimen Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/19/6afee72be85ece76148b457f.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-11-19T12:14:29+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "genocidio"
       ]
     },
     {
@@ -340,38 +428,6 @@
       ]
     },
     {
-      "id": "7485c87b9c39",
-      "titulo": "ONU Derechos Humanos rechaza ataques contra periodista Ana Cristina Restrepo: 'Autoridades deben evaluar los riesgos'",
-      "resumen": "La periodista Ana Cristina Restrepo viene recibiendo una serie a ataques en sus redes sociales. ONU Derechos Humanos exige protegerla.",
-      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/onu-derechos-humanos-rechaza-ataques-contra-periodista-ana-cristina-restrepo-autoridades-deben-evaluar-los-riesgos-3602006",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-18T15:33:25+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "derechos humanos"
-      ]
-    },
-    {
-      "id": "d8e05762b1dc",
-      "titulo": "Las razones que habrían llevado a la salida del general que comandaba la Brigada 23 del Ejército, en Nariño",
-      "resumen": "En esa zona se ha presentado un deterioro del orden público en los últimos meses. Estas son las cifras operacionales de la región.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/las-razones-que-habrian-llevado-a-la-salida-del-general-que-comandaba-la-brigada-23-del-ejercito-en-narino-3601963",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-18T15:03:27+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "orden publico"
-      ]
-    },
-    {
       "id": "5d8dfa3c35ee",
       "titulo": "Irán ataca bases estadounidenses en Kuwait y Bahrein mientras EEUU bombardea Ormuz",
       "resumen": "Los choques han interrumpido una tregua en los combates que había durado más de dos meses Leer",
@@ -385,22 +441,6 @@
       ],
       "palabras_clave": [
         "combates"
-      ]
-    },
-    {
-      "id": "3c3b0391605a",
-      "titulo": "Whisky, motocicletas y fiestas: las pistas que llevaron a la caída de alias Matías, cabecilla del 'clan del Golfo' en Antioquia",
-      "resumen": "El Ejército lo identificó como jefe de una comisión del grupo armado. En el operativo fueron incautadas nueve armas de fuego y 1.414 cartuchos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/whisky-motocicletas-y-fiestas-las-pistas-que-llevaron-a-la-caida-de-alias-matias-cabecilla-del-clan-del-golfo-en-antioquia-3601806",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-18T03:21:18+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
       ]
     },
     {
