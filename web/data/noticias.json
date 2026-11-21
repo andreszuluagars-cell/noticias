@@ -1,24 +1,8 @@
 {
-  "generado_en": "2026-11-20T18:42:49.718221+00:00",
-  "total_revisadas": 308,
-  "total_relevantes": 35,
+  "generado_en": "2026-11-21T17:43:11.392265+00:00",
+  "total_revisadas": 305,
+  "total_relevantes": 33,
   "noticias": [
-    {
-      "id": "f9ce55a1a084",
-      "titulo": "Sin precedente.El máximo tribunal internacional de justicia dictaminó por primera vez que un Estado cometió genocidio",
-      "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/el-maximo-tribunal-internacional-de-justicia-dictamino-por-primera-vez-que-un-estado-cometio-nid19112026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-20T18:42:47.700709+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "genocidio"
-      ]
-    },
     {
       "id": "4deb7a39f29f",
       "titulo": "Fallo histórico.Por qué la Corte Internacional condenó a Myanmar por genocidio y cuáles podrían ser las consecuencias de la sentencia",
@@ -27,12 +11,28 @@
       "fuente": "La Nación",
       "seccion": "El Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-11-20T18:42:47.700455+00:00",
+      "fecha": "2026-11-21T17:43:09.109413+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
         "genocidio"
+      ]
+    },
+    {
+      "id": "76a87a4b30e1",
+      "titulo": "Con engaños habría llevado a un niño desde Cúcuta hasta Bochalema: así fue el secuestro",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/con-enganos-habria-llevado-un-nino-desde-cucuta-hasta-bochalema-asi-fue-el-secuestro",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
+      "region": "nacional",
+      "fecha": "2026-11-21T17:43:06.720892+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
       ]
     },
     {
@@ -43,7 +43,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.210314+00:00",
+      "fecha": "2026-11-21T17:43:05.987906+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -52,99 +52,67 @@
       ]
     },
     {
-      "id": "2212f38d9f14",
-      "titulo": "Masacre en Cúcuta: tres personas fueron asesinadas y dos más están heridas tras ataque armado",
+      "id": "fbb32dafdc5c",
+      "titulo": "Exclusivo: la declaración de Sandra Ramírez ante la JEP. Niega reclutamiento, violaciones y abortos",
       "resumen": "",
-      "url": "https://semana.com/nacion/cucuta/articulo/masacre-en-cucuta-tres-personas-fueron-asesinadas-y-dos-mas-estan-heridas-tras-ataque-armado/202640/",
+      "url": "https://semana.com/nacion/articulo/exclusivo-la-declaracion-de-sandra-ramirez-ante-la-jep-niega-reclutamiento-violaciones-y-abortos/202600/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.104133+00:00",
+      "fecha": "2026-11-21T17:43:05.446818+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "ataque armado"
+        "reclutamiento"
       ]
     },
     {
-      "id": "89c038ca8584",
-      "titulo": "Alcalde de Cali habló tras atentado con explosivos contra un CAI: “No nos van a intimidar”",
+      "id": "bdb1c02ab88d",
+      "titulo": "Abelardo De La Espriella anuncia nuevo bombardeo contra disidencias de Mordisco: confirmó cuántos delincuentes murieron",
       "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/alcalde-de-cali-lanzo-contundente-advertencia-tras-atentado-con-explosivos-contra-un-cai-no-nos-van-a-intimidar/202657/",
+      "url": "https://semana.com/politica/articulo/abelardo-de-la-espriella-anuncia-nuevo-bombardeo-contra-disidencias-de-mordisco-confirmo-cuantos-delincuentes-murieron/202629/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.104095+00:00",
+      "fecha": "2026-11-21T17:43:05.446799+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "atentado"
+        "disidencias"
       ]
     },
     {
-      "id": "4ff94070d235",
-      "titulo": "Extraditan desde España a integrante del Clan del Golfo: hacía parte de oficinas de cobro y está detrás de extorsiones",
+      "id": "f6eb1e0f2976",
+      "titulo": "Llueven críticas tras declaraciones de Sandra Ramírez ante la JEP, donde negó afectaciones a menores en las antiguas Farc",
       "resumen": "",
-      "url": "https://semana.com/nacion/bogota/articulo/extraditan-desde-espana-a-integrante-del-clan-del-golfo-hacia-parte-de-oficinas-de-cobro-y-esta-detras-de-extorsiones/202647/",
+      "url": "https://semana.com/nacion/articulo/llueven-criticas-tras-declaraciones-de-sandra-ramirez-ante-la-jep-donde-nego-afectaciones-a-menores-en-las-antiguas-farc/202622/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.104085+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e8b83d6bfe33",
-      "titulo": "Tres departamentos bajo operativos contra el crimen: capturan a presunto sicario del Clan del Golfo y reportan otros hallazgos",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/tres-departamentos-bajo-operativos-contra-el-crimen-capturan-a-presunto-sicario-del-clan-del-golfo-y-reportan-otros-hallazgos/202638/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.104038+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "95497e3313c8",
-      "titulo": "Capturan a lideresa feminista señalada de coordinar ataques con explosivos contra la fuerza pública en universidades",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/capturan-a-lideresa-feminista-senalada-de-coordinar-ataques-con-explosivos-contra-la-fuerza-publica-en-universidades/202626/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.103912+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "f834322fddfa",
-      "titulo": "Ganadero víctima de secuestro le pide a la JEP que lo escuche. Responsables se “colaron” como guerrilleros de las Farc",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/ganadero-victima-de-secuestro-le-pide-a-la-jep-que-lo-escuche-responsables-se-colaron-como-guerrilleros-de-las-farc/202634/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-20T18:42:46.103901+00:00",
+      "fecha": "2026-11-21T17:43:05.446718+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "farc"
+      ]
+    },
+    {
+      "id": "bd64de46f0fb",
+      "titulo": "Abelardo De La Espriella anuncia que perseguirá bienes de los victimarios en el conflicto armado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncia-que-perseguira-bienes-de-los-victimarios-en-el-conflicto-armado/202657/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-21T17:43:05.446684+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "conflicto armado"
       ]
     },
     {
@@ -155,7 +123,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797412+00:00",
+      "fecha": "2026-11-21T17:43:05.201224+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -171,7 +139,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797405+00:00",
+      "fecha": "2026-11-21T17:43:05.201217+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -187,7 +155,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797401+00:00",
+      "fecha": "2026-11-21T17:43:05.201214+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +171,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797394+00:00",
+      "fecha": "2026-11-21T17:43:05.201208+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +187,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797379+00:00",
+      "fecha": "2026-11-21T17:43:05.201197+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +203,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797348+00:00",
+      "fecha": "2026-11-21T17:43:05.201156+00:00",
       "temas": [
         "DDHH"
       ],
@@ -251,7 +219,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797343+00:00",
+      "fecha": "2026-11-21T17:43:05.201152+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +235,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797302+00:00",
+      "fecha": "2026-11-21T17:43:05.201118+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +251,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797296+00:00",
+      "fecha": "2026-11-21T17:43:05.201113+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-20T18:42:45.797264+00:00",
+      "fecha": "2026-11-21T17:43:05.201083+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -308,19 +276,35 @@
       ]
     },
     {
-      "id": "03b8fd8f1990",
-      "titulo": "Mamdani planea cerrar cárcel de Rikers Island en 2032, señalada de violar derechos humanos",
-      "resumen": "",
-      "url": "https://www.infobae.com/america/agencias/2026/11/20/mamdani-planea-cerrar-carcel-de-rikers-island-en-2032-senalada-de-violar-derechos-humanos/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-20T18:30:32+00:00",
+      "id": "a8eac0482b0b",
+      "titulo": "Gobierno De La Espriella ejecutó su undécimo bombardeo: cinco integrantes de las disidencias de ‘Iván Mordisco’ fueron abatidos en Meta",
+      "resumen": "Las Fuerzas Militares bombardearon una zona rural de Mapiripán, Meta.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-de-la-espriella-ejecuto-su-undecimo-bombardeo-cinco-integrantes-de-las-disidencias-de-ivan-mordisco-fueron-abatidos-en-meta-3602975",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-21T13:55:00+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "derechos humanos"
+        "disidencias"
+      ]
+    },
+    {
+      "id": "11b573dc29e3",
+      "titulo": "Los niños de la paz en Tierra Grata: así crece la generación que nació lejos de la guerra gracias al Acuerdo de Paz",
+      "resumen": "EL TIEMPO viajó hasta Tierra Grata, el primer y único corregimiento conformado por firmantes del Acuerdo de Paz y sus familias.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/los-ninos-de-la-paz-en-tierra-grata-asi-crece-la-generacion-que-nacio-lejos-de-la-guerra-gracias-al-acuerdo-de-paz-3602508",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-21T11:01:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
       ]
     },
     {
@@ -465,22 +449,6 @@
       ],
       "palabras_clave": [
         "genocidio"
-      ]
-    },
-    {
-      "id": "5d8dfa3c35ee",
-      "titulo": "Irán ataca bases estadounidenses en Kuwait y Bahrein mientras EEUU bombardea Ormuz",
-      "resumen": "Los choques han interrumpido una tregua en los combates que había durado más de dos meses Leer",
-      "url": "https://www.elmundo.es/internacional/2026/11/18/6afd7a6121efa04d6f8b4597.html",
-      "fuente": "El Mundo",
-      "seccion": "Internacional (España)",
-      "region": "internacional",
-      "fecha": "2026-11-18T10:28:54+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "combates"
       ]
     },
     {
