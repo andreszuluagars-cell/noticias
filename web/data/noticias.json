@@ -1,70 +1,70 @@
 {
-  "generado_en": "2026-11-22T17:57:41.359806+00:00",
-  "total_revisadas": 318,
-  "total_relevantes": 44,
+  "generado_en": "2026-11-23T22:09:49.193586+00:00",
+  "total_revisadas": 317,
+  "total_relevantes": 39,
   "noticias": [
     {
-      "id": "da6424275584",
-      "titulo": "Ecuador: periodista Omar Toledo resulta herido en un ataque armado en Santa Elena",
+      "id": "e2e5f5b9eafd",
+      "titulo": "La guerra de Ucrania se extiende más allá del frente: barcos atacados en Libia, sabotajes y complots de asesinato",
       "resumen": "",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/ecuador-periodista-omar-toledo-resulta-herido-en-un-ataque-armado-en-santa-elena-toleditotv-noticia/",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-los-ataques-a-barcos-rusos-en-libia-y-finlandia-sabotajes-y-operaciones-encubiertas-que-extienden-el-conflicto-vladimir-putin-volodymyr-zelensky-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-11-22T17:57:39.032312+00:00",
+      "fecha": "2026-11-23T22:09:45.034651+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "ataque armado"
+        "guerra de ucrania"
       ]
     },
     {
-      "id": "4deb7a39f29f",
-      "titulo": "Fallo histórico.Por qué la Corte Internacional condenó a Myanmar por genocidio y cuáles podrían ser las consecuencias de la sentencia",
+      "id": "03d676c9bbf4",
+      "titulo": "Guerra de Ucrania.Un buque ruso fue blanco de un presunto ataque con drones en Libia mientras otro arde en el mar Báltico luego de un episodio similar",
       "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/por-que-la-corte-internacional-condeno-a-myanmar-por-genocidio-y-cuales-podrian-ser-las-nid20112026/",
+      "url": "https://lanacion.com.ar/el-mundo/un-buque-ruso-fue-blanco-de-un-presunto-ataque-con-drones-en-libia-mientras-otro-arde-en-el-mar-nid22112026/",
       "fuente": "La Nación",
       "seccion": "El Mundo (Argentina)",
       "region": "internacional",
-      "fecha": "2026-11-22T17:57:38.730848+00:00",
+      "fecha": "2026-11-23T22:09:44.591016+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "genocidio"
+        "guerra de ucrania"
       ]
     },
     {
-      "id": "76a87a4b30e1",
-      "titulo": "Con engaños habría llevado a un niño desde Cúcuta hasta Bochalema: así fue el secuestro",
+      "id": "9d4088f1268e",
+      "titulo": "Guerra en Ucrania.Kiev se adjudicó los ataques contra dos barcos rusos en Libia y llevó la guerra naval al Mediterráneo",
       "resumen": "",
-      "url": "https://laopinion.co/judicial/con-enganos-habria-llevado-un-nino-desde-cucuta-hasta-bochalema-asi-fue-el-secuestro",
+      "url": "https://lanacion.com.ar/el-mundo/kiev-se-adjudico-los-ataques-contra-dos-barcos-rusos-en-libia-y-llevo-la-guerra-naval-al-nid23112026/",
+      "fuente": "La Nación",
+      "seccion": "El Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-23T22:09:44.590850+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "guerra en ucrania"
+      ]
+    },
+    {
+      "id": "e1b55895a7c3",
+      "titulo": "Masacre contra habitantes de calle en Cúcuta: tres muertos y dos heridos deja nuevo ataque",
+      "resumen": "",
+      "url": "https://laopinion.co/judicial/masacre-contra-habitantes-de-calle-en-cucuta-tres-muertos-y-dos-heridos-deja-nuevo-ataque",
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:35.887002+00:00",
+      "fecha": "2026-11-23T22:09:41.949133+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "11c280b486d0",
-      "titulo": "De la Espriella anuncia la captura de 26 presuntos integrantes del Clan del Golfo en el Caribe",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/de-la-espriella-anuncia-captura-26-presuntos-integrantes-clan-golfo-caribe-GP43807818",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.987014+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
+        "masacre"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.986888+00:00",
+      "fecha": "2026-11-23T22:09:41.017393+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.986757+00:00",
+      "fecha": "2026-11-23T22:09:41.017228+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.986714+00:00",
+      "fecha": "2026-11-23T22:09:41.017182+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -116,14 +116,14 @@
       ]
     },
     {
-      "id": "bd64de46f0fb",
-      "titulo": "Abelardo De La Espriella anuncia que perseguirá bienes de los victimarios en el conflicto armado",
+      "id": "3899c53e38b2",
+      "titulo": "Luz Miriam Atehortúa: La lideresa que sobrevivió al horror del conflicto armado y hoy lucha por las víctimas",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/abelardo-de-la-espriella-anuncia-que-perseguira-bienes-de-los-victimarios-en-el-conflicto-armado/202657/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/especiales/nordeste-magdalena-medio-antioquia/lideres-victimas-conflicto-armado-puerto-berrio-antioquia-DI43875611",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595992+00:00",
+      "fecha": "2026-11-23T22:09:41.017145+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,94 +132,47 @@
       ]
     },
     {
-      "id": "7e5a9a07381f",
-      "titulo": "Nuevo golpe del Ejército a estructura de Primo Gay: dos disidentes habrían muerto en combates",
+      "id": "9dcbd10263a9",
+      "titulo": "Reclutamiento de menores en Colombia: casos reportados cayeron un 35 %, pero Defensoría advierte sobre preocupante subregistro",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/nuevo-golpe-del-ejercito-a-estructura-de-primo-gay-dos-disidentes-habrian-muerto-en-combates/202647/",
+      "url": "https://semana.com/nacion/articulo/reclutamiento-de-menores-en-colombia-casos-reportados-cayeron-un-35-pero-defensoria-advierte-sobre-preocupante-subregistro/202609/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595976+00:00",
+      "fecha": "2026-11-23T22:09:40.646904+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "reclutamiento de menores"
+      ]
+    },
+    {
+      "id": "d30d5c687098",
+      "titulo": "El reclamo de Sandra Ramírez, excongresista del partido Comunes, por las preguntas de la JEP: “Me niego totalmente”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/el-reclamo-de-sandra-ramirez-excongresista-del-partido-comunes-por-las-preguntas-de-la-jep-me-niego-totalmente/202638/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-23T22:09:40.646817+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "jep"
       ]
     },
     {
-      "id": "34c4ebe52afb",
-      "titulo": "Así era el taller de explosivos donde alias Bocalinda, hombre de confianza de Calarcá, fabricaba 2.000 artefactos por mes",
+      "id": "b24562f492b3",
+      "titulo": "Estas eran las órdenes que cumplía alias Churco a Iván Mordisco, jefe de disidencias de las Farc",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/asi-era-el-taller-de-explosivos-donde-alias-bocalinda-hombre-de-confianza-de-calarca-fabricaba-2000-artefactos-por-mes/202600/",
+      "url": "https://semana.com/nacion/articulo/estas-eran-las-ordenes-que-cumplia-alias-churco-a-ivan-mordisco-jefe-de-disidencias-de-las-farc/202622/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595890+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "explosivos"
-      ]
-    },
-    {
-      "id": "3932d1cd48d2",
-      "titulo": "Un soldado muerto y 12 heridos deja ataque terrorista contra el Ejército en el departamento de Cesar",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/un-soldado-muerto-y-12-heridos-deja-ataque-terrorista-contra-el-ejercito-en-el-departamento-de-cesar/202605/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595882+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "soldado muerto"
-      ]
-    },
-    {
-      "id": "03f76e94a4dc",
-      "titulo": "Golpe al narcotráfico: caen dos laboratorios del ELN y 800 kilos de cocaína en tres regiones del país",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-al-narcotrafico-caen-dos-laboratorios-del-eln-y-800-kilos-de-cocaina-en-tres-regiones-del-pais/202613/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595873+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "982623df993d",
-      "titulo": "Golpe clave al ELN: cinco integrantes del grupo murieron en operativo en Valle del Cauca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/golpe-clave-al-eln-cinco-integrantes-del-grupo-murieron-en-operativo-en-valle-del-cauca/202656/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595834+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "ee5547d6ab00",
-      "titulo": "Hallan carro bomba de las disidencias de las Farc en Huila. Policía frustró el atentado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/hallan-carro-bomba-de-las-disidencias-de-las-farc-en-huila-policia-frustro-el-atentado/202641/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595806+00:00",
+      "fecha": "2026-11-23T22:09:40.646794+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -228,35 +181,67 @@
       ]
     },
     {
-      "id": "2ccc19378d10",
-      "titulo": "Aumentan las reacciones de rechazo por ataque terrorista en Cesar: Defensoría del Pueblo y Procuraduría se pronunciaron",
+      "id": "b7c5e4f99ddd",
+      "titulo": "Masacre en Barbosa, Antioquia: una mujer y tres hombres fueron asesinados en ataque armado",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/crecen-las-reacciones-de-rechazo-por-ataque-terrorista-en-cesar-defensoria-del-pueblo-y-procuraduria-se-pronunciaron/202651/",
+      "url": "https://semana.com/nacion/medellin/articulo/masacre-en-barbosa-antioquia-una-mujer-y-tres-hombres-fueron-asesinados-en-ataque-armado/202649/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:34.595766+00:00",
-      "temas": [
-        "DDHH"
-      ],
-      "palabras_clave": [
-        "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "8efda3e3e774",
-      "titulo": "Santos salió en defensa del Acuerdo con las Farc: así lo ven sus protagonistas tras 10 años",
-      "resumen": "",
-      "url": "https://www.elespectador.com/politica/santos-salio-en-defensa-del-acuerdo-con-las-farc-asi-lo-ven-sus-protagonistas-tras-10-anos/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
-      "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807231+00:00",
+      "fecha": "2026-11-23T22:09:40.646772+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "ataque armado"
+      ]
+    },
+    {
+      "id": "181fffb0e903",
+      "titulo": "Secuestran a una auxiliar de enfermería en Cauca: su padre fue asesinado hace año y medio por un grupo armado",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cali/articulo/secuestran-a-una-auxiliar-de-enfermeria-en-cauca-su-padre-fue-asesinado-hace-ano-y-medio-por-un-grupo-armado/202625/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-23T22:09:40.646715+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "grupo armado"
+      ]
+    },
+    {
+      "id": "5f8f9dcffd55",
+      "titulo": "El Ejército frustró atentado contra tubería para el transporte de gas en Cundinamarca",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/el-ejercito-frustro-atentado-contra-tuberia-para-el-transporte-de-gas-en-cundinamarca/202629/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-23T22:09:40.646644+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "a92030f90fcb",
+      "titulo": "Denuncian atentado terrorista a minigranja generadora de energía solar en Taminango, Nariño",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/denuncian-atentado-terrorista-a-minigranja-generadora-de-energia-solar-en-taminango-narino/202651/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-23T22:09:40.646597+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
       ]
     },
     {
@@ -267,7 +252,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807224+00:00",
+      "fecha": "2026-11-23T22:09:40.367084+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +268,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807220+00:00",
+      "fecha": "2026-11-23T22:09:40.367080+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +284,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807213+00:00",
+      "fecha": "2026-11-23T22:09:40.367071+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -315,7 +300,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807203+00:00",
+      "fecha": "2026-11-23T22:09:40.367054+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -331,7 +316,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807185+00:00",
+      "fecha": "2026-11-23T22:09:40.367032+00:00",
       "temas": [
         "DDHH"
       ],
@@ -347,7 +332,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807181+00:00",
+      "fecha": "2026-11-23T22:09:40.367027+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -363,7 +348,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807127+00:00",
+      "fecha": "2026-11-23T22:09:40.366968+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -379,7 +364,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807122+00:00",
+      "fecha": "2026-11-23T22:09:40.366963+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -395,7 +380,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-22T17:57:33.807118+00:00",
+      "fecha": "2026-11-23T22:09:40.366957+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -404,67 +389,101 @@
       ]
     },
     {
-      "id": "bf9929910b13",
-      "titulo": "¿Quién es alias Bertha, la cabecilla del Eln contra la que iba dirigido el décimo bombardeo del Gobierno de De La Espriella?",
-      "resumen": "La operación Neptuno dejó cinco muertos en zona rural de Dagua, Valle del Cauca. Esto es lo que se sabe de la mujer que estaba en la mira.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/quien-es-alias-bertha-la-cabecilla-del-eln-contra-la-que-iba-dirigido-el-decimo-bombardeo-del-gobierno-de-de-la-espriella-3603161",
+      "id": "ad40e0f157a8",
+      "titulo": "Abatido alias Churco, cabecilla de las disidencias de ‘Iván Mordisco’, tras bombardeo de las Fuerzas Militares, en Meta",
+      "resumen": "El operativo aéreo contra la estructura 44 Antonio Ricaurte dejó otros cuatro muertos en Mapiripán y afectó a un mando señalado por extorsiones, reclutamiento de menores y ataques contra el Ejército",
+      "url": "https://www.infobae.com/colombia/2026/11/23/abatido-alias-churco-cabecilla-de-las-disidencias-de-ivan-mordisco-tras-bombardeo-de-las-fuerzas-militares-en-meta/",
+      "fuente": "Infobae",
+      "seccion": "Mundo (Argentina)",
+      "region": "internacional",
+      "fecha": "2026-11-23T21:47:03+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "reclutamiento"
+      ]
+    },
+    {
+      "id": "4f0c96e29be7",
+      "titulo": "La razón por la que no ha caído un objetivo de alto valor en los bombardeos del gobierno de Abelardo De La Espriella",
+      "resumen": "El ataque contra las disidencias de ‘Iván Mordisco’ en el Meta elevó a once el número de operaciones en menos de cuatro meses.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-razon-por-la-que-no-ha-caido-un-objetivo-de-alto-valor-en-los-bombardeos-del-gobierno-de-abelardo-de-la-espriella-3603355",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-22T16:54:06+00:00",
+      "fecha": "2026-11-23T21:06:22+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
-      "id": "f84df8c8feeb",
-      "titulo": "La tenaza de EE. UU. con Colombia y Venezuela pone en jaque al Eln",
-      "resumen": "Visita de Pete Hegseth abrió el debate sobre la posibilidad de acciones directas de tropas norteamericanas en el país.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-tenaza-de-ee-uu-con-colombia-y-venezuela-pone-en-jaque-al-eln-3603045",
+      "id": "cd106c1825e2",
+      "titulo": "Bombardeo contra disidencias de Iván Mordisco en Meta dejó cinco muertos, entre ellos alias Churco: este es su perfil",
+      "resumen": "El señalado cabecilla de la estructura 44 Antonio Ricaurte tenía una trayectoria de siete años en las disidencias de las Farc.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/bombardeo-contra-disidencias-de-ivan-mordisco-en-meta-dejo-cinco-muertos-entre-ellos-alias-churco-este-es-su-perfil-3603474",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-22T16:07:09+00:00",
+      "fecha": "2026-11-23T19:01:41+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "disidencias"
       ]
     },
     {
-      "id": "07cc385a3bfa",
-      "titulo": "Los negocios del Eln con narcos en Afganistán: nueva ruta de la coca",
-      "resumen": "Informe de inteligencia apunta a que los grupos armados colombianos y mexicanos estarían buscando ampliar sus acuerdos con Asia.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/los-negocios-de-eln-con-narcos-en-afganistan-nueva-ruta-de-la-coca-3603052",
+      "id": "7ee03cbb5158",
+      "titulo": "‘Tenemos una alteración del orden público en el departamento y estamos trabajando para enfrentarla’: secretario de Gobierno del Cesar",
+      "resumen": "Eduardo Esquivel aseguró que en menos de cuatro meses se han registrado seis ataques con drones contra instalaciones de la Fuerza Pública.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tenemos-una-alteracion-del-orden-publico-en-el-departamento-y-estamos-trabajando-para-enfrentarla-secretario-de-gobierno-del-cesar-3603398",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-22T16:03:40+00:00",
+      "fecha": "2026-11-23T16:20:40+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "eln"
+        "orden publico"
       ]
     },
     {
-      "id": "af318fb044c5",
-      "titulo": "Capturan en El Bagre a alias 11, señalado de ordenar secuestros, extorsiones y homicidios del 'clan del Golfo'",
-      "resumen": "El hombre, quien sería cabecilla de zona en Puerto López, tendría diez años de trayectoria en esa organización.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-en-el-bagre-a-alias-11-senalado-de-ordenar-secuestros-extorsiones-y-homicidios-del-clan-del-golfo-3603155",
+      "id": "52eb9ad58b5b",
+      "titulo": "EE. UU. sanciona a ‘Comanchero’, la banda australiana que el Tesoro vincula con el ‘clan del Golfo’: ¿qué se sabe?",
+      "resumen": "La Ofac atribuye a la organización de motociclistas nexos con otros tres grupos para facilitar envíos de cocaína a EE. UU., Australia y Europa.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ee-uu-sanciona-a-comanchero-la-banda-australiana-que-el-tesoro-vincula-con-el-clan-del-golfo-que-se-sabe-3603331",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-22T15:57:46+00:00",
+      "fecha": "2026-11-23T14:13:58+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "clan del golfo"
+      ]
+    },
+    {
+      "id": "a758252f4f12",
+      "titulo": "Capturan a dos presuntos cabecillas de las disidencias de las Farc y el Eln: los señalan de reclutamiento de menores, secuestros y extorsiones",
+      "resumen": "Uno de los detenidos estaría vinculado al atentado contra el Batallón Pichincha. El otro sería el encargado de cobrar extorsiones a comerciantes.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-presuntos-cabecillas-de-las-disidencias-de-las-farc-y-el-eln-los-senalan-de-reclutamiento-de-menores-secuestros-y-extorsiones-3603284",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-23T12:19:59+00:00",
+      "temas": [
+        "Conflicto armado",
+        "DIH"
+      ],
+      "palabras_clave": [
+        "disidencias",
+        "reclutamiento de menores"
       ]
     },
     {
@@ -500,71 +519,6 @@
       ]
     },
     {
-      "id": "9f419d1e2666",
-      "titulo": "El largo historial criminal de alias Primo Gay, capo de disidencias que aterrorizaba a Antioquia",
-      "resumen": "Fiscalía documentó que el disidente ahora sería del ‘clan del Golfo’. Le atribuyen el homicidio de 13 policías y el del periodista Mateo Rueda.",
-      "url": "https://www.eltiempo.com/justicia/delitos/el-largo-historial-criminal-de-alias-primo-gay-capo-de-disidencias-que-aterrorizaba-a-antioquia-3603051",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-22T03:12:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "e3419ca8198d",
-      "titulo": "El dossier de la JEP contra Sandra Ramírez por reclutamiento de menores y violencia sexual",
-      "resumen": "Testimonios señalan a la exesposa de ‘Tirofijo’ de participar en abortos forzados y violencia sexual. Se entrevistarán a víctimas.",
-      "url": "https://www.eltiempo.com/justicia/jep-colombia/el-dossier-de-la-jep-contra-sandra-ramirez-por-reclutamiento-de-menores-y-violencia-sexual-3603046",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-22T03:11:00+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "bd567af79ffa",
-      "titulo": "Así movía más de $3.000 millones mensuales el señalado cerebro financiero del ‘clan del Golfo’: testaferros, empresas fachada y pagos a 346 hombres",
-      "resumen": "David Alexander Uribe Puerta, conocido como alias Chamorro, es señalado de manejar los recursos del narcotráfico, la minería ilegal y la extorsión.",
-      "url": "https://www.eltiempo.com/justicia/delitos/asi-movia-mas-de-3-000-millones-mensuales-el-senalado-cerebro-financiero-del-clan-del-golfo-testaferros-empresas-fachada-y-pagos-a-346-hombres-3603018",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-21T18:54:36+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "clan del golfo"
-      ]
-    },
-    {
-      "id": "a8eac0482b0b",
-      "titulo": "Gobierno De La Espriella ejecutó su undécimo bombardeo: cinco integrantes de las disidencias de ‘Iván Mordisco’ fueron abatidos en Meta",
-      "resumen": "Las Fuerzas Militares bombardearon una zona rural de Mapiripán, Meta.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/gobierno-de-la-espriella-ejecuto-su-undecimo-bombardeo-cinco-integrantes-de-las-disidencias-de-ivan-mordisco-fueron-abatidos-en-meta-3602975",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-21T13:55:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
       "id": "11b573dc29e3",
       "titulo": "Los niños de la paz en Tierra Grata: así crece la generación que nació lejos de la guerra gracias al Acuerdo de Paz",
       "resumen": "EL TIEMPO viajó hasta Tierra Grata, el primer y único corregimiento conformado por firmantes del Acuerdo de Paz y sus familias.",
@@ -578,38 +532,6 @@
       ],
       "palabras_clave": [
         "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "53692bf779d8",
-      "titulo": "Hallan arsenal para ataques con drones de las disidencias de ‘Calarcá’ en Antioquia",
-      "resumen": "Ejército encontró 23 explosivos listos para ser utilizados con aeronaves no tripuladas y material con el que se podrían fabricar otros 54 artefactos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/hallan-arsenal-para-ataques-con-drones-de-las-disidencias-de-calarca-en-antioquia-3602728",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-20T15:51:59+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "d3aa22c2cd32",
-      "titulo": "Ejército incautó cerca de cuatro toneladas de cocaína del Eln en Vichada. ¿Para dónde iba la droga?",
-      "resumen": "El cargamento, avaluado en más de 55.000 millones de pesos, iba en un camión interceptado en el municipio de La Primavera.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-incauto-cerca-de-cuatro-toneladas-de-cocaina-del-eln-en-vichada-para-donde-iba-la-droga-3602698",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-20T15:08:38+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
       ]
     },
     {
