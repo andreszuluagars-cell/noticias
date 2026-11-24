@@ -1,54 +1,38 @@
 {
-  "generado_en": "2026-11-23T22:09:49.193586+00:00",
-  "total_revisadas": 317,
-  "total_relevantes": 39,
+  "generado_en": "2026-11-24T20:44:57.088073+00:00",
+  "total_revisadas": 321,
+  "total_relevantes": 48,
   "noticias": [
     {
+      "id": "2a50b5d31069",
+      "titulo": "El Ejército israelí investiga el alcance del uso de palestinos como escudos humanos en Gaza y Cisjordania",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/el-ejercito-israeli-investiga-el-alcance-del-uso-de-palestinos-como-escudos-humanos-en-gaza-y-cisjordania-israel-benjamin-netanyahu-ultimas-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-11-24T20:44:54.929798+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "escudos humanos"
+      ]
+    },
+    {
       "id": "e2e5f5b9eafd",
-      "titulo": "La guerra de Ucrania se extiende más allá del frente: barcos atacados en Libia, sabotajes y complots de asesinato",
+      "titulo": "La guerra de Ucrania se expande más allá del frente: barcos atacados en Libia, sabotajes y complots de asesinato",
       "resumen": "",
       "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-los-ataques-a-barcos-rusos-en-libia-y-finlandia-sabotajes-y-operaciones-encubiertas-que-extienden-el-conflicto-vladimir-putin-volodymyr-zelensky-noticia/",
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-11-23T22:09:45.034651+00:00",
+      "fecha": "2026-11-24T20:44:54.929735+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
         "guerra de ucrania"
-      ]
-    },
-    {
-      "id": "03d676c9bbf4",
-      "titulo": "Guerra de Ucrania.Un buque ruso fue blanco de un presunto ataque con drones en Libia mientras otro arde en el mar Báltico luego de un episodio similar",
-      "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/un-buque-ruso-fue-blanco-de-un-presunto-ataque-con-drones-en-libia-mientras-otro-arde-en-el-mar-nid22112026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-23T22:09:44.591016+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra de ucrania"
-      ]
-    },
-    {
-      "id": "9d4088f1268e",
-      "titulo": "Guerra en Ucrania.Kiev se adjudicó los ataques contra dos barcos rusos en Libia y llevó la guerra naval al Mediterráneo",
-      "resumen": "",
-      "url": "https://lanacion.com.ar/el-mundo/kiev-se-adjudico-los-ataques-contra-dos-barcos-rusos-en-libia-y-llevo-la-guerra-naval-al-nid23112026/",
-      "fuente": "La Nación",
-      "seccion": "El Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-23T22:09:44.590850+00:00",
-      "temas": [
-        "Internacional"
-      ],
-      "palabras_clave": [
-        "guerra en ucrania"
       ]
     },
     {
@@ -59,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:41.949133+00:00",
+      "fecha": "2026-11-24T20:44:52.859164+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -75,7 +59,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:41.017393+00:00",
+      "fecha": "2026-11-24T20:44:52.570837+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -91,7 +75,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:41.017228+00:00",
+      "fecha": "2026-11-24T20:44:52.570689+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -107,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:41.017182+00:00",
+      "fecha": "2026-11-24T20:44:52.570660+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -123,7 +107,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:41.017145+00:00",
+      "fecha": "2026-11-24T20:44:52.570614+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,31 +116,14 @@
       ]
     },
     {
-      "id": "9dcbd10263a9",
-      "titulo": "Reclutamiento de menores en Colombia: casos reportados cayeron un 35 %, pero Defensoría advierte sobre preocupante subregistro",
+      "id": "3179d76bd851",
+      "titulo": "Deisy Guanaro, quien ha denunciado a Sandra Ramírez, le pide a la JEP negar la salida del país a la exsenadora del Partido Comunes",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/reclutamiento-de-menores-en-colombia-casos-reportados-cayeron-un-35-pero-defensoria-advierte-sobre-preocupante-subregistro/202609/",
+      "url": "https://semana.com/nacion/articulo/deisy-guanaro-quien-ha-denunciado-a-sandra-ramirez-le-pide-a-la-jep-negar-la-salida-del-pais-a-la-exsenadora-del-partido-comunes/202647/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646904+00:00",
-      "temas": [
-        "Conflicto armado",
-        "DIH"
-      ],
-      "palabras_clave": [
-        "reclutamiento de menores"
-      ]
-    },
-    {
-      "id": "d30d5c687098",
-      "titulo": "El reclamo de Sandra Ramírez, excongresista del partido Comunes, por las preguntas de la JEP: “Me niego totalmente”",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-reclamo-de-sandra-ramirez-excongresista-del-partido-comunes-por-las-preguntas-de-la-jep-me-niego-totalmente/202638/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646817+00:00",
+      "fecha": "2026-11-24T20:44:52.479449+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -165,62 +132,14 @@
       ]
     },
     {
-      "id": "b24562f492b3",
-      "titulo": "Estas eran las órdenes que cumplía alias Churco a Iván Mordisco, jefe de disidencias de las Farc",
+      "id": "e2dcbcdba769",
+      "titulo": "Estos son los presuntos mensajes que tendrían los cilindros vinculados con el atentado en Villavicencio",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/estas-eran-las-ordenes-que-cumplia-alias-churco-a-ivan-mordisco-jefe-de-disidencias-de-las-farc/202622/",
+      "url": "https://semana.com/nacion/articulo/estos-son-los-presuntos-mensajes-que-tendrian-los-cilindros-vinculados-con-el-atentado-en-villavicencio/202649/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646794+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "b7c5e4f99ddd",
-      "titulo": "Masacre en Barbosa, Antioquia: una mujer y tres hombres fueron asesinados en ataque armado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/medellin/articulo/masacre-en-barbosa-antioquia-una-mujer-y-tres-hombres-fueron-asesinados-en-ataque-armado/202649/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646772+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "ataque armado"
-      ]
-    },
-    {
-      "id": "181fffb0e903",
-      "titulo": "Secuestran a una auxiliar de enfermería en Cauca: su padre fue asesinado hace año y medio por un grupo armado",
-      "resumen": "",
-      "url": "https://semana.com/nacion/cali/articulo/secuestran-a-una-auxiliar-de-enfermeria-en-cauca-su-padre-fue-asesinado-hace-ano-y-medio-por-un-grupo-armado/202625/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646715+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "grupo armado"
-      ]
-    },
-    {
-      "id": "5f8f9dcffd55",
-      "titulo": "El Ejército frustró atentado contra tubería para el transporte de gas en Cundinamarca",
-      "resumen": "",
-      "url": "https://semana.com/nacion/articulo/el-ejercito-frustro-atentado-contra-tuberia-para-el-transporte-de-gas-en-cundinamarca/202629/",
-      "fuente": "Semana",
-      "seccion": "Nación",
-      "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646644+00:00",
+      "fecha": "2026-11-24T20:44:52.479438+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -229,14 +148,30 @@
       ]
     },
     {
-      "id": "a92030f90fcb",
-      "titulo": "Denuncian atentado terrorista a minigranja generadora de energía solar en Taminango, Nariño",
+      "id": "99afeb3b88ce",
+      "titulo": "Riesgos de desfinanciación y rezagos en puntos clave: la advertencia de la Contraloría para cumplir lo pactado en Acuerdo de Paz",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/denuncian-atentado-terrorista-a-minigranja-generadora-de-energia-solar-en-taminango-narino/202651/",
+      "url": "https://semana.com/nacion/articulo/riesgos-de-desfinanciacion-y-rezagos-en-puntos-clave-la-advertencia-de-contraloria-para-cumplir-lo-pactado-en-acuerdo-de-paz/202615/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.646597+00:00",
+      "fecha": "2026-11-24T20:44:52.479405+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "9eab7a2f0c6c",
+      "titulo": "Atentado en Villavicencio: Fiscalía ordenó investigación y tiene una versión preliminar. ¿Cuál es?",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/atentado-en-villavicencio-fiscalia-ordeno-investigacion-y-tiene-una-version-preliminar-cual-es/202600/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:44:52.479382+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -245,51 +180,83 @@
       ]
     },
     {
-      "id": "d382abfac28b",
-      "titulo": "Santos responde a críticas de Ordóñez por Acuerdo de Paz: Uribe también se pronunció",
+      "id": "3ecc01285012",
+      "titulo": "La misteriosa carta que apareció durante el secuestro con rehenes en el Éxito de Cartagena: “Necesitamos $7.000 millones”",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/santos-responde-a-criticas-de-ordonez-por-acuerdo-de-paz-uribe-tambien-se-pronuncio/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/cartagena/articulo/la-misteriosa-carta-que-aparecio-durante-el-secuestro-con-rehenes-en-el-exito-de-cartagena-necesitamos-7000-millones/202642/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.367084+00:00",
+      "fecha": "2026-11-24T20:44:52.479324+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "secuestro"
       ]
     },
     {
-      "id": "12af082f7036",
-      "titulo": "Viviane Morales advirtió recorte presupuestal en programas asociados al Acuerdo de Paz",
+      "id": "89700bb7a358",
+      "titulo": "Atentado en Villavicencio: salen a la luz fotos del conductor del carrobomba y de su paso por un peaje",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/viviane-morales-advirtio-recorte-presupuestal-en-programas-asociados-al-acuerdo-de-paz/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/atentado-en-villavicencio-salen-a-la-luz-fotos-del-conductor-del-carro-bomba-y-de-su-paso-por-un-peaje/202614/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.367080+00:00",
+      "fecha": "2026-11-24T20:44:52.479262+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "acuerdo de paz"
+        "atentado"
       ]
     },
     {
-      "id": "01f672e5717c",
-      "titulo": "Humberto de la Calle: “el plebiscito sirvió para contener las ansias de las Farc”",
+      "id": "6ce9f134099b",
+      "titulo": "Así fue la cronología del atentado terrorista en Villavicencio: el carro usado se lo robaron hace 10 meses",
       "resumen": "",
-      "url": "https://www.elespectador.com/politica/humberto-de-la-calle-el-plebiscito-sirvio-para-contener-las-ansias-de-las-farc/",
-      "fuente": "El Espectador",
-      "seccion": "Colombia+20",
+      "url": "https://semana.com/nacion/articulo/asi-fue-la-cronologia-del-atentado-terrorista-en-villavicencio-el-carro-usado-se-lo-robaron-hace-10-meses/202648/",
+      "fuente": "Semana",
+      "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.367071+00:00",
+      "fecha": "2026-11-24T20:44:52.479253+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "farc"
+        "atentado"
+      ]
+    },
+    {
+      "id": "a8916da170a1",
+      "titulo": "La promesa de Abelardo De La Espriella a la esposa de uno de los celadores heridos en el atentado de Villavicencio",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/la-promesa-de-abelardo-de-la-espriella-a-la-esposa-de-uno-de-los-celadores-heridos-en-el-atentado-de-villavicencio/202613/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:44:52.479230+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "38b0e1e800df",
+      "titulo": "Presidente De La Espriella reveló detalles del secuestro en Éxito de Cartagena: “Iban por un carro de valores”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cartagena/articulo/presidente-de-la-espriella-revelo-detalles-del-secuestro-en-exito-de-cartagena-iban-por-un-carro-de-valores/202612/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:44:52.479184+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
       ]
     },
     {
@@ -300,7 +267,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.367054+00:00",
+      "fecha": "2026-11-24T20:44:52.098254+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -316,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.367032+00:00",
+      "fecha": "2026-11-24T20:44:52.098236+00:00",
       "temas": [
         "DDHH"
       ],
@@ -332,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.367027+00:00",
+      "fecha": "2026-11-24T20:44:52.098232+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -348,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.366968+00:00",
+      "fecha": "2026-11-24T20:44:52.098175+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -364,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.366963+00:00",
+      "fecha": "2026-11-24T20:44:52.098171+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -380,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-23T22:09:40.366957+00:00",
+      "fecha": "2026-11-24T20:44:52.098166+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -389,101 +356,227 @@
       ]
     },
     {
-      "id": "ad40e0f157a8",
-      "titulo": "Abatido alias Churco, cabecilla de las disidencias de ‘Iván Mordisco’, tras bombardeo de las Fuerzas Militares, en Meta",
-      "resumen": "El operativo aéreo contra la estructura 44 Antonio Ricaurte dejó otros cuatro muertos en Mapiripán y afectó a un mando señalado por extorsiones, reclutamiento de menores y ataques contra el Ejército",
-      "url": "https://www.infobae.com/colombia/2026/11/23/abatido-alias-churco-cabecilla-de-las-disidencias-de-ivan-mordisco-tras-bombardeo-de-las-fuerzas-militares-en-meta/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
+      "id": "fc57dc05340d",
+      "titulo": "Gobierno y uribismo responden a Santos por críticas a De la Espriella sobre Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/gobierno-y-uribismo-responden-a-santos-por-criticas-a-de-la-espriella-sobre-acuerdo-de-paz/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:44:52.098136+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "dff02fd37463",
+      "titulo": "De la Espriella y Santos chocan tras 10 años del Acuerdo de Paz: esto se dijeron",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/de-la-espriella-y-santos-chocan-tras-10-anos-del-acuerdo-de-paz-esto-se-dijeron/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:44:52.098130+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "392e3d17d725",
+      "titulo": "Diez años después: así fue la conmemoración de la firma del Acuerdo de Paz",
+      "resumen": "",
+      "url": "https://www.elespectador.com/politica/diez-anos-despues-asi-fue-la-conmemoracion-de-la-firma-del-acuerdo-de-paz-hablaron-santos-naranjo-y-marin/",
+      "fuente": "El Espectador",
+      "seccion": "Colombia+20",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:44:52.098094+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "fa91ef9bf10b",
+      "titulo": "Secuestro en el Éxito Cartagena: así han sido las siete horas de incertidumbre que se viven por la toma de rehenes",
+      "resumen": "Los delincuentes habrían intentado cometer un hurto a una empresa transportadora de valores. La Fuerza Pública mantiene el despliegue de sus tropas.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/secuestro-en-el-exito-cartagena-asi-han-sido-las-siete-horas-de-incertidumbre-que-se-viven-por-la-toma-de-rehenes-3603890",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-24T20:35:07+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "6dfa5c214205",
+      "titulo": "Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo",
+      "resumen": "El ataque a la Merkury abre un nuevo frente naval en Libia y expone a buques, puertos y costas europeas a los riesgos del conflicto Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/23/6b04850bfdddffd4538b457f.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
       "region": "internacional",
-      "fecha": "2026-11-23T21:47:03+00:00",
+      "fecha": "2026-11-24T19:23:47+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
-        "reclutamiento"
+        "guerra de ucrania"
       ]
     },
     {
-      "id": "4f0c96e29be7",
-      "titulo": "La razón por la que no ha caído un objetivo de alto valor en los bombardeos del gobierno de Abelardo De La Espriella",
-      "resumen": "El ataque contra las disidencias de ‘Iván Mordisco’ en el Meta elevó a once el número de operaciones en menos de cuatro meses.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-razon-por-la-que-no-ha-caido-un-objetivo-de-alto-valor-en-los-bombardeos-del-gobierno-de-abelardo-de-la-espriella-3603355",
+      "id": "b9a95ae50b29",
+      "titulo": "¿A cuántos años de cárcel se exponen los responsables del secuestro en el Éxito de Cartagena?",
+      "resumen": "EL TIEMPO habló con expertos, quienes coinciden que las eventuales condenas no bajarán las dos décadas en prisión.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/a-cuantos-anos-de-carcel-se-exponen-los-responsables-del-secuestro-en-el-exito-de-cartagena-3603837",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-11-23T21:06:22+00:00",
+      "fecha": "2026-11-24T17:42:19+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "secuestro"
       ]
     },
     {
-      "id": "cd106c1825e2",
-      "titulo": "Bombardeo contra disidencias de Iván Mordisco en Meta dejó cinco muertos, entre ellos alias Churco: este es su perfil",
-      "resumen": "El señalado cabecilla de la estructura 44 Antonio Ricaurte tenía una trayectoria de siete años en las disidencias de las Farc.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/bombardeo-contra-disidencias-de-ivan-mordisco-en-meta-dejo-cinco-muertos-entre-ellos-alias-churco-este-es-su-perfil-3603474",
+      "id": "4408c882cd1d",
+      "titulo": "Alias Patón sería el ejecutor del atentado terrorista en Villavicencio; según la Fiscalía es socio de 'Antonio Medina'",
+      "resumen": "El ente acusador dispuso de dos fiscales expertos en crimen organizado para esclarecer el ataque a la Gobernación del Meta.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-paton-seria-el-ejecutor-del-atentado-terrorista-en-villavicencio-segun-la-fiscalia-es-socio-de-antonio-medina-3603793",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-23T19:01:41+00:00",
+      "fecha": "2026-11-24T16:29:41+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias"
+        "atentado"
       ]
     },
     {
-      "id": "7ee03cbb5158",
-      "titulo": "‘Tenemos una alteración del orden público en el departamento y estamos trabajando para enfrentarla’: secretario de Gobierno del Cesar",
-      "resumen": "Eduardo Esquivel aseguró que en menos de cuatro meses se han registrado seis ataques con drones contra instalaciones de la Fuerza Pública.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tenemos-una-alteracion-del-orden-publico-en-el-departamento-y-estamos-trabajando-para-enfrentarla-secretario-de-gobierno-del-cesar-3603398",
+      "id": "19f9442f1cce",
+      "titulo": "Procurador Gregorio Eljach rechazó el atentado a la Gobernación del Meta: 'El terrorismo no puede doblegar a las instituciones'",
+      "resumen": "El jefe del Ministerio Público indicó que no existe ninguna justificación para estas acciones execrables.",
+      "url": "https://www.eltiempo.com/justicia/investigacion/procurador-gregorio-eljach-rechazo-el-atentado-a-la-gobernacion-del-meta-el-terrorismo-no-puede-doblegar-a-las-instituciones-3603763",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-11-23T16:20:40+00:00",
+      "fecha": "2026-11-24T16:16:08+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "orden publico"
+        "atentado"
       ]
     },
     {
-      "id": "52eb9ad58b5b",
-      "titulo": "EE. UU. sanciona a ‘Comanchero’, la banda australiana que el Tesoro vincula con el ‘clan del Golfo’: ¿qué se sabe?",
-      "resumen": "La Ofac atribuye a la organización de motociclistas nexos con otros tres grupos para facilitar envíos de cocaína a EE. UU., Australia y Europa.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ee-uu-sanciona-a-comanchero-la-banda-australiana-que-el-tesoro-vincula-con-el-clan-del-golfo-que-se-sabe-3603331",
+      "id": "293e624ba84d",
+      "titulo": "Atentado en Villavicencio: Presidente De La Espriella y gobernadora Cortés convocan un consejo extraordinario de seguridad",
+      "resumen": "Tras el ataque armado, el presidente anunció que no negociará con terroristas y ordenó una serie de acciones para afrontar la crisis.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atentado-en-villavicencio-presidente-de-la-espriella-y-gobernadora-cortes-convocan-un-consejo-extraordinario-de-seguridad-3603789",
       "fuente": "El Tiempo",
       "seccion": "Justicia / Conflicto y narcotráfico",
       "region": "nacional",
-      "fecha": "2026-11-23T14:13:58+00:00",
+      "fecha": "2026-11-24T16:12:39+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "clan del golfo"
+        "ataque armado"
       ]
     },
     {
-      "id": "a758252f4f12",
-      "titulo": "Capturan a dos presuntos cabecillas de las disidencias de las Farc y el Eln: los señalan de reclutamiento de menores, secuestros y extorsiones",
-      "resumen": "Uno de los detenidos estaría vinculado al atentado contra el Batallón Pichincha. El otro sería el encargado de cobrar extorsiones a comerciantes.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/capturan-a-dos-presuntos-cabecillas-de-las-disidencias-de-las-farc-y-el-eln-los-senalan-de-reclutamiento-de-menores-secuestros-y-extorsiones-3603284",
+      "id": "9f82bbca225a",
+      "titulo": "ANT suspende la atención presencial en Villavicencio por daños del atentado, pero mantiene sus líneas telefónicas y virtuales",
+      "resumen": "La entidad de tierras aseguró que seguirá atendiendo a los ciudadanos del departamento por canales telefónicos y virtuales.",
+      "url": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/ant-suspende-la-atencion-presencial-en-villavicencio-por-danos-del-atentado-pero-mantiene-sus-lineas-telefonicas-y-virtuales-3603778",
       "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
+      "seccion": "Justicia",
       "region": "nacional",
-      "fecha": "2026-11-23T12:19:59+00:00",
+      "fecha": "2026-11-24T15:45:50+00:00",
       "temas": [
-        "Conflicto armado",
-        "DIH"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "disidencias",
-        "reclutamiento de menores"
+        "atentado"
+      ]
+    },
+    {
+      "id": "9063009862de",
+      "titulo": "Partido Comunes, una apuesta política que no logró consolidarse: historia y ocaso en diez años tras la firma del Acuerdo de Paz",
+      "resumen": "La colectividad con la que los excombatientes de las Farc entraron a la política nacional perdió su personería jurídica en 2026.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/partido-comunes-una-apuesta-politica-que-no-logro-consolidarse-historia-y-ocaso-en-diez-anos-tras-la-firma-del-acuerdo-de-paz-3602876",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-24T14:46:27+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "f46d65b0f82d",
+      "titulo": "Emprender después de la guerra: los retos de los proyectos productivos de los firmantes de paz tras diez años del Acuerdo entre Gobierno y Farc",
+      "resumen": "La violencia y las brechas educativas limitan el avance de los programas de reinserción económica promovidos en el marco de la justicia transicional.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/emprender-despues-de-la-guerra-los-retos-de-los-proyectos-productivos-de-los-firmantes-de-paz-tras-diez-anos-del-acuerdo-entre-gobierno-y-farc-3603611",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-24T14:44:47+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "68a0699f7c8a",
+      "titulo": "Entre rehacer sus vidas y resistir a las dificultades: diez años después, el 80 por ciento de los firmantes siguen comprometidos con la paz",
+      "resumen": "Casi 11.000 excombatientes de las antiguas Farc siguen en su proceso de reincorporación. Estos son los reclamos por deudas del Estado.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/entre-rehacer-sus-vidas-y-resistir-a-las-dificultades-diez-anos-despues-el-80-por-ciento-de-los-firmantes-siguen-comprometidos-con-la-paz-3601555",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-24T14:40:33+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "884f83bdfa98",
+      "titulo": "Diez años del Acuerdo de Paz con las Farc: reintegración, la nota alta; justicia y verdad, aún pendientes | Historias, balance y datos",
+      "resumen": "",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/diez-anos-del-acuerdo-de-paz-con-las-farc-reintegracion-la-nota-alta-justicia-y-verdad-aun-pendientes-historias-balance-y-datos-3603627",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-24T14:38:09+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
       ]
     },
     {
@@ -494,7 +587,167 @@
       "fuente": "El Tiempo",
       "seccion": "Política / Proceso de paz",
       "region": "nacional",
-      "fecha": "2026-11-22T06:49:53+00:00",
+      "fecha": "2026-11-24T14:34:42+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "ee0fd3c94724",
+      "titulo": "Contraloría rechaza el atentado contra la Gobernación del Meta: \"El Estado de derecho debe prevalecer\"",
+      "resumen": "La entidad expresa que este atentado es \"un golpe directo a la institucionalidad\" y a la paz de los colombianos",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/contraloria-rechaza-el-atentado-contra-la-gobernacion-del-meta-el-estado-de-derecho-debe-prevalecer-3603736",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T14:18:37+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "5b5e63bb3b53",
+      "titulo": "Irán flagela con 74 latigazos a una cantante por mostrar su pelo en Youtube",
+      "resumen": "La ejecución de la pena, junto a tres músicos y un productor, desata la condena de artistas y organizaciones de derechos humanos Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/24/6b058debfdddff3f1d8b4572.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-11-24T13:54:40+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "8f33adc3ae5b",
+      "titulo": "Habla el párroco de la catedral de Villavicencio tras atentado terrorista que dejó 23 heridos: ‘Esto es terrible’",
+      "resumen": "El sacerdote Carlos Alberto Pérez relató a EL TIEMPO los daños que sufrieron el templo y la casa parroquial. Hizo un llamado a la reconciliación.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/habla-el-parroco-de-la-catedral-de-villavicencio-tras-atentado-terrorista-que-dejo-23-heridos-esto-es-terrible-3603719",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T13:40:39+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "bab635f5f37b",
+      "titulo": "Entre escombros y locales destruidos, así amaneció Villavicencio tras el atentado terrorista",
+      "resumen": "El ataque dejó 23 personas heridas. Comerciantes intentan recuperar sus negocios mientras las autoridades recolectan evidencias.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/entre-escombros-y-locales-destruidos-asi-amanecio-villavicencio-tras-el-atentado-terrorista-3603688",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T12:47:02+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "689b540e2808",
+      "titulo": "Atentado en Villavicencio, Meta, pone bajo la lupa la inteligencia de la Fuerza Pública",
+      "resumen": "El experto en seguridad Hugo Acero advirtió que la recuperación de este componente debe avanzar a la par de la ofensiva del Gobierno.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/atentado-en-villavicencio-meta-pone-bajo-la-lupa-la-inteligencia-de-la-fuerza-publica-3603673",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T12:14:11+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "d34c0fec1975",
+      "titulo": "Pastor Alape, a diez años del Acuerdo: 'Hay una ofensiva de todos los grupos armados para llevarse a los firmantes de paz'",
+      "resumen": "El miembro del antiguo secretariado de las Farc dice que los excombatientes han cumplido en el proceso de implementación.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/pastor-alape-a-diez-anos-del-acuerdo-hay-una-ofensiva-de-todos-los-grupos-armados-para-llevarse-a-los-firmantes-de-paz-3603634",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-24T11:46:11+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "farc"
+      ]
+    },
+    {
+      "id": "b18ed97c88fb",
+      "titulo": "‘Es triste que después de 20 años tengamos que volver a sufrir esto’: comerciante afectado por el atentado terrorista en Villavicencio, Meta",
+      "resumen": "Johan Pérez, propietario de una tienda de artesanías, habló con EL TIEMPO sobre las pérdidas que dejó el ataque.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/es-triste-que-despues-de-20-anos-tengamos-que-volver-a-sufrir-esto-comerciante-afectado-por-el-atentado-terrorista-en-villavicencio-meta-3603662",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T11:37:47+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "d6532e5e2279",
+      "titulo": "Presidente y Mindefensa revelan lo que buscaban los terroristas con el atentado contra la Gobernación del Meta",
+      "resumen": "Las autoridades atribuyen preliminarmente el ataque a las disidencias de ‘Iván Mordisco’. Se ofreció recompensa de 150 millones de pesos.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-y-mindefensa-revelan-lo-que-buscaban-los-terroristas-con-el-atentado-contra-la-gobernacion-del-meta-3603657",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T10:39:22+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "88baeab0be24",
+      "titulo": "Alias Antonio Medina, el hombre de ‘Iván Mordisco’ que estaría detrás del atentado contra la Gobernación del Meta",
+      "resumen": "Los organismos de inteligencia rastrean la posible participación del cabecilla de los frentes 28 y 39 de las disidencias de las Farc.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/alias-antonio-medina-el-hombre-de-ivan-mordisco-que-estaria-detras-del-atentado-contra-la-gobernacion-del-meta-3603653",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-24T10:09:10+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "disidencias"
+      ]
+    },
+    {
+      "id": "b6d65ebaee4b",
+      "titulo": "'La memoria de todas las víctimas debe ser incluida': reclamo de las familias de policías y militares secuestrados tras diez años del Acuerdo de Paz",
+      "resumen": "El testimonio de Marleny Orjuela, de Asfamipaz, revive las visitas a la selva y el reclamo de asistencia médica ante las secuelas del cautiverio.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/la-memoria-de-todas-las-victimas-debe-ser-incluida-reclamo-de-las-familias-de-policias-y-militares-secuestrados-tras-diez-anos-del-acuerdo-de-paz-3603471",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-24T03:02:51+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -516,118 +769,6 @@
       ],
       "palabras_clave": [
         "farc"
-      ]
-    },
-    {
-      "id": "11b573dc29e3",
-      "titulo": "Los niños de la paz en Tierra Grata: así crece la generación que nació lejos de la guerra gracias al Acuerdo de Paz",
-      "resumen": "EL TIEMPO viajó hasta Tierra Grata, el primer y único corregimiento conformado por firmantes del Acuerdo de Paz y sus familias.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/los-ninos-de-la-paz-en-tierra-grata-asi-crece-la-generacion-que-nacio-lejos-de-la-guerra-gracias-al-acuerdo-de-paz-3602508",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-21T11:01:00+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "fe69e631b66f",
-      "titulo": "'La gran deuda de la implementación es la no repetición de la violencia': Juanita Goebertus sobre los 10 años del Acuerdo de Paz",
-      "resumen": "La directora para las Américas de Human Rights Watch asegura que un recorte del tiempo de la JEP es \"indeseable\".",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/la-gran-deuda-de-la-implementacion-es-la-no-repeticion-de-la-violencia-juanita-goebertus-sobre-los-10-anos-del-acuerdo-de-paz-3602474",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-20T02:07:01+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "7b26db1a6e5b",
-      "titulo": "Primera reunión entre Viviane Morales y la Misión de la ONU: se planteó articular la implementación del Acuerdo de Paz con la política de seguridad",
-      "resumen": "La consejera y directora (e) de la Unidad de Implementación recibió al jefe de la Misión, Miroslav Jenča.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/primera-reunion-entre-viviane-morales-y-la-mision-de-la-onu-se-planteo-articular-la-implementacion-del-acuerdo-de-paz-con-la-politica-de-seguridad-3602343",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-19T15:44:14+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "d5cf7a695fd2",
-      "titulo": "'El Acuerdo de Paz no causó la situación que Colombia vive ahora': Miroslav Jenča, jefe de la Misión de ONU, habla tras 10 años de la firma",
-      "resumen": "El representante especial del secretario general hace un balance y explica por qué es clave mantener el despliegue territorial de la Misión.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/el-acuerdo-de-paz-no-causo-la-situacion-que-colombia-vive-ahora-miroslav-jenca-jefe-de-la-mision-de-onu-habla-tras-10-anos-de-la-firma-3601546",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-17T17:56:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "956840603144",
-      "titulo": "Los avances, las deudas y el nuevo mapa de la guerra tras 10 años de la firma del Acuerdo de Paz con las Farc",
-      "resumen": "Reintegración, la nota alta; justicia y verdad, aún pendientes. Víctimas piden celeridad y persisten las amenazas a excombatientes.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/los-avances-las-deudas-y-el-nuevo-mapa-de-la-guerra-tras-10-anos-de-la-firma-del-acuerdo-de-paz-con-las-farc-3601706",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-17T17:45:48+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "3a7a0cc54538",
-      "titulo": "‘Se dice que entregamos el país a las Farc y tal me parece que son leyendas’: Humberto de la Calle habla de lo 10 años del acuerdo de paz",
-      "resumen": "El exjefe negociador de los diálogos con las Farc hace un balance de los 10 años del acuerdo. Asegura que hubo fallas, pero que era necesario.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/se-dice-que-entregamos-el-pais-a-las-farc-y-tal-me-parece-que-son-leyendas-humberto-de-la-calle-habla-de-lo-10-anos-del-acuerdo-de-paz-3601321",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-16T11:17:55+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "farc"
-      ]
-    },
-    {
-      "id": "3939be6800d7",
-      "titulo": "'Sincerar las cifras' y conocer el avance real de indicadores: Morales presentó la ruta del Gobierno frente a la implementación del Acuerdo de Paz",
-      "resumen": "La consejera comisionada de Paz y directora (e) de la Unidad de Implementación debutó como responsable de paz en el Congreso.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/sincerar-las-cifras-y-conocer-el-avance-real-de-indicadores-morales-presento-la-ruta-del-gobierno-frente-a-la-implementacion-del-acuerdo-de-paz-3600523",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-12T17:31:32+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
       ]
     }
   ]
