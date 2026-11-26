@@ -1,8 +1,24 @@
 {
-  "generado_en": "2026-11-25T20:02:06.064336+00:00",
-  "total_revisadas": 319,
-  "total_relevantes": 37,
+  "generado_en": "2026-11-26T19:44:43.565258+00:00",
+  "total_revisadas": 322,
+  "total_relevantes": 41,
   "noticias": [
+    {
+      "id": "38647fb58c83",
+      "titulo": "República Democrática del Congo: una emergencia sanitaria atrapada en el conflicto armado",
+      "resumen": "",
+      "url": "https://elcomercio.pe/mundo/africa/republica-democratica-del-congo-una-emergencia-sanitaria-atrapada-en-el-conflicto-armado-noticia/",
+      "fuente": "El Comercio",
+      "seccion": "Mundo (Perú)",
+      "region": "internacional",
+      "fecha": "2026-11-26T19:44:40.740523+00:00",
+      "temas": [
+        "Internacional"
+      ],
+      "palabras_clave": [
+        "conflicto armado"
+      ]
+    },
     {
       "id": "9cecf5cf618c",
       "titulo": "Irán eleva sus ataques en Ormuz a niveles récord: “Busca forzar un alto el fuego y presentarse como vencedor”",
@@ -11,28 +27,12 @@
       "fuente": "El Comercio",
       "seccion": "Mundo (Perú)",
       "region": "internacional",
-      "fecha": "2026-11-25T20:02:03.661128+00:00",
+      "fecha": "2026-11-26T19:44:40.740493+00:00",
       "temas": [
         "Internacional"
       ],
       "palabras_clave": [
         "alto el fuego"
-      ]
-    },
-    {
-      "id": "e1b55895a7c3",
-      "titulo": "Masacre contra habitantes de calle en Cúcuta: tres muertos y dos heridos deja nuevo ataque",
-      "resumen": "",
-      "url": "https://laopinion.co/judicial/masacre-contra-habitantes-de-calle-en-cucuta-tres-muertos-y-dos-heridos-deja-nuevo-ataque",
-      "fuente": "La Opinión",
-      "seccion": "Judicial",
-      "region": "nacional",
-      "fecha": "2026-11-25T20:02:00.536314+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "masacre"
       ]
     },
     {
@@ -43,7 +43,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-25T20:02:00.536265+00:00",
+      "fecha": "2026-11-26T19:44:37.913556+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -59,7 +59,7 @@
       "fuente": "La Opinión",
       "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-25T20:02:00.536255+00:00",
+      "fecha": "2026-11-26T19:44:37.913547+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -68,51 +68,19 @@
       ]
     },
     {
-      "id": "0a236e89a159",
-      "titulo": "JEP reveló que alias Antonio Medina fue expulsado de la jurisdicción en 2023: así es su extenso prontuario criminal",
+      "id": "ce27938ac26b",
+      "titulo": "Ataque con drones explosivos contra el Departamento de Policía de Norte de Santander: el primero de este tipo en una ciudad capital",
       "resumen": "",
-      "url": "https://elcolombiano.com/colombia/jep-revela-alias-antonio-medina-expulsado-jurisdiccion-2023-prontuario-criminal-FH43998937",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
+      "url": "https://laopinion.co/judicial/ataque-con-drones-explosivos-contra-el-departamento-de-policia-de-norte-de-santander-el",
+      "fuente": "La Opinión",
+      "seccion": "Judicial",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:59.769224+00:00",
+      "fecha": "2026-11-26T19:44:37.913512+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "jep"
-      ]
-    },
-    {
-      "id": "2599f48a0c51",
-      "titulo": "Rehén contó su experiencia tras ser liberado del secuestro en el Éxito de Cartagena: “Con tanta película que uno ve, toca tomarlo con calma”",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/rehen-cuenta-experiencia-liberado-secuestro-exito-cartagena-tanta-pelicula-que-uno-ve-toca-tomarlo-calma-NC44020159",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-25T20:01:59.769199+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
-      ]
-    },
-    {
-      "id": "355e35ce5207",
-      "titulo": "Gobierno confirmó que apagón en el suroccidente del país fue por atentado terrorista",
-      "resumen": "",
-      "url": "https://elcolombiano.com/colombia/apagon-en-municipios-de-narino-y-putumayo-GC44021142",
-      "fuente": "El Colombiano",
-      "seccion": "Conflicto armado",
-      "region": "nacional",
-      "fecha": "2026-11-25T20:01:59.769173+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
+        "explosivos"
       ]
     },
     {
@@ -123,7 +91,7 @@
       "fuente": "El Colombiano",
       "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:59.769064+00:00",
+      "fecha": "2026-11-26T19:44:37.461094+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -132,35 +100,179 @@
       ]
     },
     {
-      "id": "54a39b3a3327",
-      "titulo": "Fuertes combates en Paletará, Cauca, ponen en riesgo a comunidades indígenas: denuncian enfrentamientos cerca de civiles",
+      "id": "f0082080f86c",
+      "titulo": "Dron con explosivos que tendría como objetivo una estación de Policía cayó sobre el techo de una iglesia en Valle del Cauca",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/fuertes-combates-en-paletara-cauca-ponen-en-riesgo-a-comunidades-indigenas-denuncian-enfrentamientos-cerca-de-civiles/202632/",
-      "fuente": "Semana",
-      "seccion": "Nación",
+      "url": "https://elcolombiano.com/colombia/dron-con-explosivos-cae-techo-iglesia-valle-del-cauca-MI44088105",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.785088+00:00",
+      "fecha": "2026-11-26T19:44:37.460820+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
-        "combates"
+        "explosivos"
       ]
     },
     {
-      "id": "ee4deeb87215",
-      "titulo": "Rehenes en Cartagena: delincuentes usaron armas de juguete en el secuestro. Fiscalía investiga",
+      "id": "34e239386032",
+      "titulo": "Toma del Palacio de Justicia: CIDH revisará si indultos al M-19 impidieron juzgar a sus dirigentes",
       "resumen": "",
-      "url": "https://semana.com/nacion/articulo/rehenes-en-cartagena-delincuentes-usaron-armas-de-juguete-en-el-secuestro-fiscalia-investiga/202612/",
+      "url": "https://elcolombiano.com/colombia/cidh-palacio-justicia-m19-muerte-tres-policias-IJ44091944",
+      "fuente": "El Colombiano",
+      "seccion": "Conflicto armado",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.460731+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "cidh"
+      ]
+    },
+    {
+      "id": "3e555538f742",
+      "titulo": "Capturados por secuestro en Cartagena negaron los cargos imputados por la Fiscalía y afirmaron ser rehenes",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/capturados-por-secuestro-en-cartagena-negaron-los-cargos-imputados-por-la-fiscalia-y-afirmaron-ser-rehenes/202605/",
       "fuente": "Semana",
       "seccion": "Nación",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.785058+00:00",
+      "fecha": "2026-11-26T19:44:37.024485+00:00",
       "temas": [
         "Conflicto armado"
       ],
       "palabras_clave": [
         "secuestro"
+      ]
+    },
+    {
+      "id": "06ff9c6c301d",
+      "titulo": "Secuestro en Éxito de Cartagena: MinDefensa aclara las “afirmaciones no verificadas en redes sociales”. Esto dice",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/secuestro-en-exito-de-cartagena-mindefensa-aclara-las-afirmaciones-no-verificadas-en-redes-sociales-esto-dice/202626/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024460+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "51f0c98f9b3c",
+      "titulo": "Golpe millonario al ELN: destruyen complejos de droga y afectan rutas ilegales hacia Venezuela y Centroamérica",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/golpe-millonario-al-eln-destruyen-complejos-de-droga-y-afectan-rutas-ilegales-hacia-venezuela-y-centroamerica/202611/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024439+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "eln"
+      ]
+    },
+    {
+      "id": "d41c7d5f3c0b",
+      "titulo": "Así quedaron las torres de energía blanco de un atentado terrorista que dejó tres departamentos sin luz",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/asi-quedaron-las-torres-de-energia-blanco-de-un-atentado-terrorista-que-dejo-tres-departamentos-sin-luz/202659/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024361+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "102e2921a262",
+      "titulo": "Estructura criminal con representante en “famosa mesa de paz de Itagüí” es golpeada por operativo Bosur en Medellín",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/estructura-criminal-con-representante-en-famosa-mesa-de-paz-de-itagui-es-golpeada-por-operativo-bosur-en-medellin/202616/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024325+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "mesa de paz"
+      ]
+    },
+    {
+      "id": "c0f5527998ce",
+      "titulo": "Asesinan a empresario mexicano en Jericó, Antioquia: era esposo de una reconocida lideresa social",
+      "resumen": "",
+      "url": "https://semana.com/nacion/medellin/articulo/asesinan-a-empresario-mexicano-en-jerico-antioquia-era-esposo-de-una-reconocida-lideresa-social/202628/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024292+00:00",
+      "temas": [
+        "DDHH"
+      ],
+      "palabras_clave": [
+        "lideresa social"
+      ]
+    },
+    {
+      "id": "de9472dfcb48",
+      "titulo": "“No te vayás a hacer el héroe”: las declaraciones que apuntaron a los dos capturados por el secuestro masivo en Cartagena",
+      "resumen": "",
+      "url": "https://semana.com/nacion/articulo/no-te-vayas-a-hacer-el-heroe-las-declaraciones-que-apuntaron-a-los-dos-capturados-por-el-secuestro-masivo-en-cartagena/202657/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024221+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "9461ab6e8d19",
+      "titulo": "“Nos dijeron que todos nos íbamos a ir con plata para la casa”: inédita confesión de rehén del secuestro en Éxito de Cartagena",
+      "resumen": "",
+      "url": "https://semana.com/nacion/cartagena/articulo/nos-dijeron-que-todos-nos-ibamos-a-ir-con-plata-para-la-casa-inedita-confesion-de-rehen-del-secuestro-en-exito-de-cartagena/202634/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024207+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
+      ]
+    },
+    {
+      "id": "e3a071649cc6",
+      "titulo": "Grave situación de orden público en Cauca por asesinato de funcionario de la Fiscalía: “Fue atacado cobardemente”",
+      "resumen": "",
+      "url": "https://semana.com/nacion/regionales/articulo/grave-situacion-de-orden-publico-en-cauca-por-asesinato-de-funcionario-de-la-fiscalia-fue-atacado-cobardemente/202601/",
+      "fuente": "Semana",
+      "seccion": "Nación",
+      "region": "nacional",
+      "fecha": "2026-11-26T19:44:37.024188+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "orden publico"
       ]
     },
     {
@@ -171,7 +283,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298355+00:00",
+      "fecha": "2026-11-26T19:44:36.834175+00:00",
       "temas": [
         "DDHH"
       ],
@@ -187,7 +299,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298351+00:00",
+      "fecha": "2026-11-26T19:44:36.834171+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -203,7 +315,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298324+00:00",
+      "fecha": "2026-11-26T19:44:36.834139+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -219,7 +331,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298320+00:00",
+      "fecha": "2026-11-26T19:44:36.834135+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -235,7 +347,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298309+00:00",
+      "fecha": "2026-11-26T19:44:36.834131+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -251,7 +363,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298267+00:00",
+      "fecha": "2026-11-26T19:44:36.834087+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -267,7 +379,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298263+00:00",
+      "fecha": "2026-11-26T19:44:36.834082+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -283,7 +395,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298253+00:00",
+      "fecha": "2026-11-26T19:44:36.834071+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -299,7 +411,7 @@
       "fuente": "El Espectador",
       "seccion": "Colombia+20",
       "region": "nacional",
-      "fecha": "2026-11-25T20:01:56.298241+00:00",
+      "fecha": "2026-11-26T19:44:36.834059+00:00",
       "temas": [
         "Conflicto armado"
       ],
@@ -308,19 +420,67 @@
       ]
     },
     {
-      "id": "94483f0c2e34",
-      "titulo": "Honduras: rechazan recurso de exjefe militiar y ratifican procesamiento por caso relacionado con periodistas",
-      "resumen": "El tribunal de alzada desestimó por unanimidad la impugnación de la defensa, que buscaba anular actuaciones iniciales y obtener el sobreseimiento definitivo, según confirmó la defensora de derechos humanos Dina Meza.",
-      "url": "https://www.infobae.com/honduras/2026/11/25/honduras-rechazan-recurso-de-exjefe-militiar-y-ratifican-procesamiento-por-caso-relacionado-con-periodistas/",
-      "fuente": "Infobae",
-      "seccion": "Mundo (Argentina)",
-      "region": "internacional",
-      "fecha": "2026-11-25T19:56:47+00:00",
+      "id": "a896131d1715",
+      "titulo": "¿Cuántos años de cárcel podrían enfrentar los capturados por el secuestro en el Éxito de Cartagena y qué rebajas tendrían si aceptan cargos?",
+      "resumen": "Expertos explican de qué depende la condena de Juan Camilo Torres Manco y Jhon Albeiro Mejía Blandón.",
+      "url": "https://www.eltiempo.com/justicia/delitos/cuantos-anos-de-carcel-podrian-enfrentar-los-capturados-por-el-secuestro-en-el-exito-de-cartagena-y-que-rebajas-tendrian-si-aceptan-cargos-3604500",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia",
+      "region": "nacional",
+      "fecha": "2026-11-26T14:54:12+00:00",
       "temas": [
-        "Internacional"
+        "Conflicto armado"
       ],
       "palabras_clave": [
-        "derechos humanos"
+        "secuestro"
+      ]
+    },
+    {
+      "id": "085db7beb4c6",
+      "titulo": "Así quedó la Gobernación del Meta tras el atentado con carro bomba: daños estimados en más de $10.000 millones",
+      "resumen": "EL TIEMPO recorrió el primer piso del edificio a pocos metros de la detonación.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/asi-quedo-la-gobernacion-del-meta-tras-el-atentado-con-carro-bomba-danos-estimados-en-mas-de-10-000-millones-3604415",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-26T11:18:03+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "atentado"
+      ]
+    },
+    {
+      "id": "39df740625ee",
+      "titulo": "'Interferencia en asuntos internos': Cancillería cuestionó declaración de más de 70 parlamentarios del Reino Unido sobre el Acuerdo de Paz",
+      "resumen": "El Ministerio de Relaciones Exteriores, en cabeza de Omar Bula, expresó su inconformidad en un comunicado.",
+      "url": "https://www.eltiempo.com/politica/proceso-de-paz/interferencia-en-asuntos-internos-cancilleria-cuestiono-declaracion-de-mas-de-70-parlamentarios-del-reino-unido-sobre-el-acuerdo-de-paz-3604179",
+      "fuente": "El Tiempo",
+      "seccion": "Política / Proceso de paz",
+      "region": "nacional",
+      "fecha": "2026-11-26T03:30:00+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "acuerdo de paz"
+      ]
+    },
+    {
+      "id": "62fd85a56ed8",
+      "titulo": "La pista de la banda ‘La Terraza’ detrás del secuestro masivo en el Éxito de Cartagena",
+      "resumen": "Los dos capturados son oriundos de Medellín. Investigan las armas halladas en el establecimiento comercial.",
+      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/la-pista-de-la-banda-la-terraza-detras-del-secuestro-masivo-en-el-exito-de-cartagena-3604337",
+      "fuente": "El Tiempo",
+      "seccion": "Justicia / Conflicto y narcotráfico",
+      "region": "nacional",
+      "fecha": "2026-11-25T23:35:22+00:00",
+      "temas": [
+        "Conflicto armado"
+      ],
+      "palabras_clave": [
+        "secuestro"
       ]
     },
     {
@@ -340,38 +500,6 @@
       ]
     },
     {
-      "id": "46edf8918b13",
-      "titulo": "Ejército destruyó dos complejos cocaleros del Eln que abastecían mercados ilegales en Centroamérica",
-      "resumen": "Las operaciones se desarrollaron en zona rural de Villa del Rosario y Puerto Santander, en Norte de Santander.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ejercito-destruyo-dos-complejos-cocaleros-del-eln-que-abastecian-mercados-ilegales-en-centroamerica-3604233",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-25T18:00:58+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "eln"
-      ]
-    },
-    {
-      "id": "94ccf935e4ce",
-      "titulo": "La historia de los primos que, con la venta de lechona, inician la reactivación del centro de Villavicencio tras el atentado",
-      "resumen": "Comerciantes de la calle de las talabarterías, en el centro de Villavicencio, volvieron a abrir sus puertas apenas 32 horas después del atentado.",
-      "url": "https://www.eltiempo.com/justicia/servicios/la-historia-de-los-primos-que-con-la-venta-de-lechona-inician-la-reactivacion-del-centro-de-villavicencio-tras-el-atentado-3604226",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-25T17:50:11+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
       "id": "ae3698d3059f",
       "titulo": "Defensoría del Pueblo pide a la Superintendencia de Sociedades explicar motivación de visita administrativa a La Silla Vacía",
       "resumen": "La defensora del Pueblo, Iris Marín, se pronunció luego de que el medio de comunicación hizo pública esta situación.",
@@ -385,38 +513,6 @@
       ],
       "palabras_clave": [
         "defensoria del pueblo"
-      ]
-    },
-    {
-      "id": "39df740625ee",
-      "titulo": "'Interferencia en asuntos internos': Cancillería cuestionó declaración de más de 70 parlamentarios del Reino Unido sobre el Acuerdo de Paz",
-      "resumen": "El Ministerio de Relaciones Exteriores en cabeza de Omar Bula expresó su inconformidad en un comunicado.",
-      "url": "https://www.eltiempo.com/politica/proceso-de-paz/interferencia-en-asuntos-internos-cancilleria-cuestiono-declaracion-de-mas-de-70-parlamentarios-del-reino-unido-sobre-el-acuerdo-de-paz-3604179",
-      "fuente": "El Tiempo",
-      "seccion": "Política / Proceso de paz",
-      "region": "nacional",
-      "fecha": "2026-11-25T16:20:15+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "acuerdo de paz"
-      ]
-    },
-    {
-      "id": "0968f086aad8",
-      "titulo": "Los estremecedores relatos de las víctimas del secuestro en el Éxito de Cartagena: relatan cómo fueron las 17 horas de angustia",
-      "resumen": "Un operativo de comandos especiales permitió su rescate en la madrugada del miércoles. Hay cuatro capturados y un abatido.",
-      "url": "https://www.eltiempo.com/justicia/investigacion/los-estremecedores-relatos-de-las-victimas-del-secuestro-en-el-exito-de-cartagena-relatan-como-fueron-las-17-horas-de-angustia-3604073",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia",
-      "region": "nacional",
-      "fecha": "2026-11-25T13:14:47+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
       ]
     },
     {
@@ -452,51 +548,19 @@
       ]
     },
     {
-      "id": "635d52372bc7",
-      "titulo": "Más de 85 casas y comercios quedaron destruidos tras el atentado contra la Gobernación del Meta",
-      "resumen": "El atentado dejó 23 personas heridas y se le atribuye a las disidencias de 'Iván Mordisco'.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/mas-de-85-casas-y-comercios-quedaron-destruidos-tras-el-atentado-contra-la-gobernacion-del-meta-3603906",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-25T02:41:37+00:00",
+      "id": "6dfa5c214205",
+      "titulo": "Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo",
+      "resumen": "El ataque a la Merkury abre un nuevo frente naval en Libia y expone a buques, puertos y costas europeas a los riesgos del conflicto Leer",
+      "url": "https://www.elmundo.es/internacional/2026/11/23/6b04850bfdddffd4538b457f.html",
+      "fuente": "El Mundo",
+      "seccion": "Internacional (España)",
+      "region": "internacional",
+      "fecha": "2026-11-24T19:23:47+00:00",
       "temas": [
-        "Conflicto armado"
+        "Internacional"
       ],
       "palabras_clave": [
-        "disidencias"
-      ]
-    },
-    {
-      "id": "009aeaf8b2ac",
-      "titulo": "¿Quién es alias Patón o 'Paul', el emisario de 'Antonio Medina' y principal sospechoso del atentado terrorista en Villavicencio?",
-      "resumen": "Tanto el presidente De La Espriella como la Fiscalía reseñaron que este hombre estaría detrás del ataque que dejó 23 heridos.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/quien-es-alias-paton-o-paul-el-principal-sospechoso-del-atentado-terrorista-en-villavicencio-3603903",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-24T21:42:50+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "atentado"
-      ]
-    },
-    {
-      "id": "fa91ef9bf10b",
-      "titulo": "Secuestro en el Éxito Cartagena: así han sido las siete horas de incertidumbre que se viven por la toma de rehenes",
-      "resumen": "Los delincuentes habrían intentado cometer un hurto a una empresa transportadora de valores. La Fuerza Pública mantiene el despliegue de sus tropas.",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/secuestro-en-el-exito-cartagena-asi-han-sido-las-siete-horas-de-incertidumbre-que-se-viven-por-la-toma-de-rehenes-3603890",
-      "fuente": "El Tiempo",
-      "seccion": "Justicia / Conflicto y narcotráfico",
-      "region": "nacional",
-      "fecha": "2026-11-24T20:35:07+00:00",
-      "temas": [
-        "Conflicto armado"
-      ],
-      "palabras_clave": [
-        "secuestro"
+        "guerra de ucrania"
       ]
     },
     {
